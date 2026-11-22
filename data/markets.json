@@ -38,14 +38,14 @@
  {
   "key": "EURUSD=X",
   "label": "EUR/USD",
-  "price": 1.0975,
-  "change": 0.011
+  "price": 1.0969,
+  "change": -0.0439
  },
  {
   "key": "MXN=X",
   "label": "USD/MXN",
-  "price": 19.1085,
-  "change": 0.2813
+  "price": 19.104,
+  "change": 0.2577
  },
  {
   "key": "^TNX",
@@ -56,19 +56,19 @@
  {
   "key": "bitcoin",
   "label": "BTC",
-  "price": 60625,
-  "change": 0.9440469225336857
+  "price": 60773,
+  "change": 0.7525118920843139
  },
  {
   "key": "ethereum",
   "label": "ETH",
-  "price": 1712.25,
-  "change": 1.8703775912981695
+  "price": 1714.33,
+  "change": 1.8010592841247681
  },
  {
   "key": "solana",
   "label": "SOL",
   "price": 70.25,
-  "change": -0.6006766942254603
+  "change": 0.08344314956707623
  }
 ]
