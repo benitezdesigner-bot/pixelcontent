@@ -130,7 +130,7 @@ Todo está en `config.js`: categorías y colores, fuentes RSS por idioma, indica
 |---|---|
 | `config.js` | Toda la configuración |
 | `scripts/build.js` | Lee los RSS, busca imágenes, quita duplicados, calcula tendencias y mercados |
-| `scripts/ai.js` | Resúmenes con Claude (solo si hay clave) |
+| `scripts/ai.js` | Notas propias con Claude (solo si hay clave) |
 | `scripts/render.js` | Genera las páginas HTML |
 | `src/` | Estilos, JavaScript del navegador y el ícono |
 | `data/` | Historial de noticias y cachés (se guarda entre actualizaciones) |
