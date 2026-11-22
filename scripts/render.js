@@ -116,8 +116,11 @@ export function renderSite({ editions, summaries, markets, root }) {
   for (const lang of ["en", "es"]) {
     const t = T[lang];
     const other = lang === "en" ? "es" : "en";
-    const stories = editions[lang];
     const sums = summaries[lang] || {};
+    // Cuando ya hay suficientes notas propias de PixelContent, el sitio muestra solo esas
+    // (completas, escritas por nosotros). Mientras tanto, muestra los avances del RSS.
+    const own = editions[lang].filter((s) => sums[s.id]);
+    const stories = own.length >= config.ai.minOwnToShowOnly ? own : editions[lang];
     const base = lang === "en" ? "" : "es/";
 
     // depth → prefijo relativo hacia la raíz del sitio
@@ -402,7 +405,6 @@ ${adBox("leaderboard", "wide")}
       ${s.excerpt ? `<p class="lede">${esc(s.excerpt)}</p>` : ""}
       ${adBox("article", "inline")}
       <p class="credit">${t.briefFrom} <a href="${esc(s.link)}" target="_blank" rel="noopener nofollow">${esc(s.source)}</a>.</p>
-      <a class="cta" href="${esc(s.link)}" target="_blank" rel="noopener nofollow">${t.readAt} ${esc(s.source)} →</a>
     </div>`;
       const html =
         head({ title: `${title} — ${config.siteName}`, desc, rel, image: s.image, jsonld, noindex: !sum }) +

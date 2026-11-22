@@ -103,20 +103,20 @@ Con una clave de la API de Claude, la redacción de PixelContent **escribe su pr
 - "Por qué importa", 3 puntos clave y etiquetas.
 - Las noticias de tragedias (muertes, guerras, desastres, violencia) se escriben en tono serio y sin chistes.
 
-Las notas propias van primero en portada, entran al sitemap y son el contenido original que pide AdSense. Las noticias sin nota propia muestran el avance del medio con un botón a la nota original, y se marcan para que Google no las indexe. Cada noticia se redacta una sola vez.
+En cuanto hay al menos 24 notas propias en un idioma, **el sitio muestra solo notas propias, completas**: el lector no necesita salir a otro medio. Las notas se reparten entre todas las categorías y no se repite la misma historia. Antes de eso (o sin clave), cada noticia muestra el avance del RSS con el crédito a la fuente. Cada noticia se redacta una sola vez.
 
 **Activarlo:**
 1. Crea una clave en console.anthropic.com (pide agregar saldo).
 2. En GitHub: **Settings → Secrets and variables → Actions → Secrets → New repository secret**, nombre `ANTHROPIC_API_KEY`, valor tu clave.
 3. Elige el modelo con la variable `AI_MODEL` (si no la pones, usa Claude Opus 5.5).
 
-Costo aproximado escribiendo 15 notas por idioma en cada actualización (3 al día, unas 90 notas al día):
+Costo aproximado escribiendo 30 notas por idioma en cada actualización (3 al día, unas 180 notas al día):
 
 | Modelo | Variable `AI_MODEL` | Costo aprox. por día |
 |---|---|---|
-| Claude Opus 5.5 (mejor redacción y humor) | `claude-opus-5-5` | ~3 a 3.50 USD |
-| Claude Sonnet 5.5 (muy buena, la mitad de precio) | `claude-sonnet-5-5` | ~1.50 a 1.80 USD |
-| Claude Haiku 5.5 (la más barata) | `claude-haiku-5-5` | ~0.10 USD |
+| Claude Opus 5.5 (mejor redacción y humor) | `claude-opus-5-5` | ~6 a 7 USD |
+| Claude Sonnet 5.5 (muy buena, la mitad de precio) | `claude-sonnet-5-5` | ~3 a 3.50 USD |
+| Claude Haiku 5.5 (la más barata) | `claude-haiku-5-5` | ~0.20 USD |
 
 Para más o menos notas, cambia la cantidad por actualización con la variable `AI_MAX_PER_RUN` (por ejemplo `30` o `5`).
 

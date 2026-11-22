@@ -104,10 +104,18 @@ export async function summarizeNew(stories, lang, dataDir) {
   }
 
   const client = new Anthropic();
-  const todo = [...stories]
-    .filter((s) => !cache[s.id])
-    .sort((a, b) => b.score - a.score)
-    .slice(0, config.ai.maxPerRun);
+  // Elegir las más importantes, repartidas entre categorías (una de cada una por turno),
+  // sin repetir la misma historia contada por varios medios.
+  const covered = new Set(stories.filter((s) => cache[s.id]).map((s) => s.cluster));
+  const byCat = {};
+  for (const s of [...stories].sort((a, b) => b.score - a.score)) {
+    if (cache[s.id] || covered.has(s.cluster)) continue;
+    covered.add(s.cluster);
+    (byCat[s.cat] ||= []).push(s);
+  }
+  const todo = [];
+  while (todo.length < config.ai.maxPerRun && Object.values(byCat).some((l) => l.length))
+    for (const l of Object.values(byCat)) if (l.length && todo.length < config.ai.maxPerRun) todo.push(l.shift());
   console.log(`\n▶ IA (${lang}): resumiendo ${todo.length} noticias con ${config.ai.model}…`);
 
   let ok = 0;

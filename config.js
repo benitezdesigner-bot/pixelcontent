@@ -37,7 +37,9 @@ export default {
   // una página propia para cada una. Eso es lo que AdSense valora.
   ai: {
     model: process.env.AI_MODEL || "claude-opus-5-5", // "claude-haiku-5-5" cuesta ~40 veces menos
-    maxPerRun: Number(process.env.AI_MAX_PER_RUN) || 15, // por idioma y por actualización
+    maxPerRun: Number(process.env.AI_MAX_PER_RUN) || 30, // notas nuevas por idioma en cada actualización
+    // Con al menos esta cantidad de notas propias en un idioma, el sitio muestra SOLO notas propias.
+    minOwnToShowOnly: Number(process.env.AI_MIN_OWN) || 24,
     effort: "low",
   },
 
