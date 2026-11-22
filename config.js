@@ -11,6 +11,11 @@ export default {
   // También se puede pasar con la variable de entorno SITE_URL.
   siteUrl: process.env.SITE_URL || "",
 
+  // Redes sociales (aparecen en el pie de página)
+  social: {
+    youtube: "https://www.youtube.com/@pixelcontentnews",
+  },
+
   // Correo de contacto que aparece en "About" y "Privacy" (AdSense lo pide).
   contactEmail: process.env.CONTACT_EMAIL || "contact@example.com",
 

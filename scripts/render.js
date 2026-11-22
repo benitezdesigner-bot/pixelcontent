@@ -256,7 +256,7 @@ ${
       return `<footer class="footer"><div class="wrap">
   <div class="f-brand"><a class="logo" href="${pre}${base}index.html"><span class="logo-mark">P</span><span class="logo-word">pixel<em>content</em></span></a><p>${t.footer}</p></div>
   <div class="f-links">${cats.map((c) => `<a href="${pre}${base}${c.id}.html">${esc(c[lang])}</a>`).join("")}</div>
-  <div class="f-links"><a href="${pre}${base}about.html">${t.about}</a><a href="${pre}${base}privacy.html">${t.privacy}</a><a href="${pre}${other === "es" ? "es/" : ""}index.html" data-setlang="${other}">${t.other}</a></div>
+  <div class="f-links"><a href="${pre}${base}about.html">${t.about}</a><a href="${pre}${base}privacy.html">${t.privacy}</a><a href="${pre}${other === "es" ? "es/" : ""}index.html" data-setlang="${other}">${t.other}</a>${config.social?.youtube ? `<a href="${esc(config.social.youtube)}" target="_blank" rel="noopener">▶ YouTube</a>` : ""}</div>
   <p class="copy">© ${new Date().getFullYear()} ${config.siteName}</p>
 </div></footer>
 <div class="toast" data-toast>${t.copied}</div>
