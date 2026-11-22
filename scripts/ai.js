@@ -116,10 +116,12 @@ export async function summarizeNew(stories, lang, dataDir) {
   const todo = [];
   while (todo.length < config.ai.maxPerRun && Object.values(byCat).some((l) => l.length))
     for (const l of Object.values(byCat)) if (l.length && todo.length < config.ai.maxPerRun) todo.push(l.shift());
-  console.log(`\n▶ IA (${lang}): resumiendo ${todo.length} noticias con ${config.ai.model}…`);
+  console.log(`\n▶ IA (${lang}): escribiendo ${todo.length} notas propias con ${config.ai.model}…`);
 
   let ok = 0;
-  for (const s of todo) {
+  let stop = false;
+  let next = 0;
+  async function writeOne(s) {
     const original = await fetchArticleText(s.link);
     const request = {
       model: config.ai.model,
@@ -137,20 +139,26 @@ export async function summarizeNew(stories, lang, dataDir) {
       const response = FALLBACK_MODELS.has(config.ai.model)
         ? await client.beta.messages.create({ ...request, betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" })
         : await client.messages.create(request);
-      if (response.stop_reason === "refusal" || response.stop_reason === "max_tokens") continue;
+      if (response.stop_reason === "refusal" || response.stop_reason === "max_tokens") {
+        console.warn(`  · omitida (${response.stop_reason}): ${s.title.slice(0, 70)}`);
+        return;
+      }
       const text = response.content.filter((b) => b.type === "text").map((b) => b.text).join("");
       const data = JSON.parse(text);
+      if (!Array.isArray(data.body) || !data.body.length) return;
       cache[s.id] = { ...data, model: response.model, at: new Date().toISOString() };
       ok++;
+      console.log(`  ✓ ${data.tone === "serious" ? "[serio] " : ""}${data.headline.slice(0, 90)}`);
     } catch (error) {
       if (error instanceof Anthropic.AuthenticationError) {
-        console.warn("  ✗ La clave de Anthropic no es válida; se omiten los resúmenes.");
-        break;
+        console.warn("  ✗ La clave de Anthropic no es válida; se omiten las notas.");
+        stop = true;
       } else if (error instanceof Anthropic.RateLimitError) {
         console.warn("  ✗ Límite de uso alcanzado; se sigue en la próxima actualización.");
-        break;
+        stop = true;
       } else if (error instanceof Anthropic.APIError) {
-        console.warn(`  ✗ Error ${error.status}: ${error.message.slice(0, 160)}`);
+        console.warn(`  ✗ Error ${error.status}: ${error.message.slice(0, 300)}`);
+        if (error.status === 400 || error.status === 402 || error.status === 403) stop = true; // petición o saldo: no seguir gastando intentos
       } else if (error instanceof SyntaxError) {
         console.warn("  ✗ Respuesta no válida, se omite esta noticia.");
       } else {
@@ -158,7 +166,13 @@ export async function summarizeNew(stories, lang, dataDir) {
       }
     }
   }
-  console.log(`  ${ok} resúmenes nuevos (total ${Object.keys(cache).length})`);
+  // 4 notas a la vez
+  await Promise.all(
+    Array.from({ length: 4 }, async () => {
+      while (!stop && next < todo.length) await writeOne(todo[next++]);
+    })
+  );
+  console.log(`  ${ok} notas nuevas (total ${Object.keys(cache).length})`);
   fs.writeFileSync(file, JSON.stringify(cache));
   return cache;
 }
