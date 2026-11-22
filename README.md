@@ -1,6 +1,6 @@
 # PixelContent
 
-Portal de noticias bilingüe (inglés por defecto, con botón para pasar a español) sobre **economía, bolsa, tecnología, gadgets y futuro, cripto, política y geopolítica**. Se arma solo a partir de ~60 fuentes RSS, con imágenes, y se actualiza cada 2 horas.
+Portal de noticias bilingüe (inglés por defecto, con botón para pasar a español) sobre **economía, bolsa, tecnología, gadgets y futuro, cripto, política y geopolítica**. Se arma solo a partir de ~60 fuentes RSS, con imágenes, y se actualiza 3 veces al día (5:07, 11:07 y 17:07, hora del centro de México).
 
 Qué incluye:
 
@@ -30,7 +30,7 @@ Abre http://localhost:4321. `npm start` descarga las noticias, construye el siti
 
 ## Publicarlo en Hostinger (se actualiza solo)
 
-El hosting de Hostinger solo guarda y sirve las páginas. El trabajo de leer los RSS y armar el sitio lo hace GitHub gratis cada 2 horas, y al terminar sube el resultado a Hostinger por FTP.
+El hosting de Hostinger solo guarda y sirve las páginas. El trabajo de leer los RSS y armar el sitio lo hace GitHub gratis 3 veces al día, y al terminar sube el resultado a Hostinger por FTP.
 
 **En Hostinger:**
 
@@ -50,7 +50,7 @@ El hosting de Hostinger solo guarda y sirve las páginas. El trabajo de leer los
    - `FTP_DIR` solo si tu cuenta FTP no abre directo en la carpeta del dominio. El valor normal es `./public_html/`; si al conectarte ves una carpeta `domains`, usa `./domains/tudominio.com/public_html/`.
 8. Ve a **Actions → Actualizar noticias → Run workflow** para la primera publicación (la primera subida tarda unos minutos; las siguientes solo suben lo que cambió).
 
-Desde ahí el sitio se actualiza **cada 2 horas** sin que hagas nada. Para cambiar la frecuencia, edita la línea `cron` en `.github/workflows/update.yml`. El sitio incluye un `.htaccess` que obliga a usar `https`, comprime las páginas y evita que los visitantes vean noticias viejas guardadas en caché.
+Desde ahí el sitio se actualiza **3 veces al día** (5:07, 11:07 y 17:07, hora del centro de México) sin que hagas nada. Para cambiar la frecuencia, edita la línea `cron` en `.github/workflows/update.yml`. El sitio incluye un `.htaccess` que obliga a usar `https`, comprime las páginas y evita que los visitantes vean noticias viejas guardadas en caché.
 
 **Alternativa sin hosting:** pon la variable `DEPLOY_TARGET` en `github` y activa **Settings → Pages → Source: GitHub Actions**; el sitio queda gratis en GitHub Pages y puedes apuntar ahí el dominio de Hostinger desde su zona DNS.
 
@@ -110,15 +110,15 @@ Las notas propias van primero en portada, entran al sitemap y son el contenido o
 2. En GitHub: **Settings → Secrets and variables → Actions → Secrets → New repository secret**, nombre `ANTHROPIC_API_KEY`, valor tu clave.
 3. Elige el modelo con la variable `AI_MODEL` (si no la pones, usa Claude Opus 5.5).
 
-Costo aproximado escribiendo 15 notas por idioma cada 2 horas (unas 360 notas al día):
+Costo aproximado escribiendo 15 notas por idioma en cada actualización (3 al día, unas 90 notas al día):
 
 | Modelo | Variable `AI_MODEL` | Costo aprox. por día |
 |---|---|---|
-| Claude Opus 5.5 (mejor redacción y humor) | `claude-opus-5-5` | ~11 a 14 USD |
-| Claude Sonnet 5.5 (muy buena, la mitad de precio) | `claude-sonnet-5-5` | ~6 a 7 USD |
-| Claude Haiku 5.5 (la más barata) | `claude-haiku-5-5` | ~0.30 a 0.40 USD |
+| Claude Opus 5.5 (mejor redacción y humor) | `claude-opus-5-5` | ~3 a 3.50 USD |
+| Claude Sonnet 5.5 (muy buena, la mitad de precio) | `claude-sonnet-5-5` | ~1.50 a 1.80 USD |
+| Claude Haiku 5.5 (la más barata) | `claude-haiku-5-5` | ~0.10 USD |
 
-Para gastar menos, baja la cantidad de notas con la variable `AI_MAX_PER_RUN` (por ejemplo `5`).
+Para más o menos notas, cambia la cantidad por actualización con la variable `AI_MAX_PER_RUN` (por ejemplo `30` o `5`).
 
 ## Cambiar fuentes o categorías
 
