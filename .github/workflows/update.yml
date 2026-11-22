@@ -1,0 +1,84 @@
+# Reconstruye PixelContent cada 2 horas y lo publica en Hostinger (FTP).
+# Si la variable DEPLOY_TARGET vale "github", publica en GitHub Pages en su lugar.
+name: Actualizar noticias
+
+on:
+  schedule:
+    - cron: "7 */2 * * *" # cada 2 horas (hora UTC)
+  workflow_dispatch: {} # botón "Run workflow" para actualizar a mano
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pixelcontent
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Construir el sitio
+        run: node scripts/build.js
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
+          ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+          ADSENSE_SLOT_TOP: ${{ vars.ADSENSE_SLOT_TOP }}
+          ADSENSE_SLOT_SIDEBAR: ${{ vars.ADSENSE_SLOT_SIDEBAR }}
+          ADSENSE_SLOT_INFEED: ${{ vars.ADSENSE_SLOT_INFEED }}
+          ADSENSE_SLOT_ARTICLE: ${{ vars.ADSENSE_SLOT_ARTICLE }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          AI_MAX_PER_RUN: ${{ vars.AI_MAX_PER_RUN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Guardar el historial de noticias
+        run: |
+          git config user.name "pixelcontent-bot"
+          git config user.email "pixelcontent-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Actualizar noticias $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push || echo "Sin cambios que subir"
+
+      # ── Hostinger (predeterminado) ──────────────────────────
+      - name: Subir a Hostinger por FTP
+        if: ${{ vars.DEPLOY_TARGET != 'github' }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./public/
+          server-dir: ${{ vars.FTP_DIR || './public_html/' }}
+          timeout: 120000
+
+      # ── GitHub Pages (alternativa) ──────────────────────────
+      - if: ${{ vars.DEPLOY_TARGET == 'github' }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy-github-pages:
+    needs: build
+    if: ${{ vars.DEPLOY_TARGET == 'github' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
