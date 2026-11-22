@@ -451,6 +451,7 @@ ${adBox("leaderboard", "wide")}
     );
   if (ads.client) fs.writeFileSync(path.join(out, "ads.txt"), `google.com, ${ads.client.replace(/^ca-/, "")}, DIRECT, f08c47fec0942fa0\n`);
   fs.writeFileSync(path.join(out, ".nojekyll"), "");
+  if (site) fs.writeFileSync(path.join(out, "CNAME"), site.replace(/^https?:\/\//, "") + "\n");
   // Hostinger (Apache/LiteSpeed): https obligatorio, caché corta en páginas, compresión.
   fs.writeFileSync(
     path.join(out, ".htaccess"),
