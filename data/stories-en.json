@@ -1,115 +1,19 @@
 [
  {
-  "id": "cc6891ccf573",
+  "id": "438acf5edc56",
   "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "South Korea prepares stock market stabilization fund after Kospi plunges 5.2%",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/south-korea-prepares-stock-market-stabilization-fund-after-kospi-plunges-52-5043890",
-  "image": "https://content-media.investing.com/news/LYNXMPED220BB_M.jpg",
-  "date": "2026-11-22T16:54:22.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 3,
-  "score": 16.64,
-  "noDate": false,
-  "cluster": "cc6891ccf573"
- },
- {
-  "id": "665b02d8d90f",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "What do the U.S. midterms mean for investors?",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
-  "image": "https://content-media.investing.com/news/LYNXNPEAAF009_M.jpg",
-  "date": "2026-11-22T16:28:36.164Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:54.218Z",
+  "cat": "politics",
+  "source": "The New York Times",
+  "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+  "excerpt": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
+  "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+  "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
+  "date": "2026-11-22T16:25:53.000Z",
+  "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9,
-  "cluster": "665b02d8d90f"
- },
- {
-  "id": "fd4163bac27d",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Asian countries take steps to aid stock markets after AI rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
-  "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
-  "date": "2026-11-22T16:28:36.164Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 13.5,
+  "score": 8.98,
   "noDate": false,
-  "cluster": "fd4163bac27d"
- },
- {
-  "id": "482dfa1bff00",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ0UK_L.jpg",
-  "date": "2026-11-22T16:28:36.164Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 7,
-  "score": 27,
-  "noDate": false,
-  "cluster": "482dfa1bff00"
- },
- {
-  "id": "be824d35f3bd",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL06L_L.jpg",
-  "date": "2026-11-22T16:28:36.164Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 10.5,
-  "noDate": false,
-  "cluster": "be824d35f3bd"
- },
- {
-  "id": "4476b606161a",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.95%",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-195-5043961",
-  "image": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
-  "date": "2026-11-22T16:28:36.164Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 15,
-  "noDate": false,
-  "cluster": "4476b606161a"
- },
- {
-  "id": "0568b018cc11",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL07G_L.jpg",
-  "date": "2026-11-22T16:28:36.164Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 9,
-  "noDate": false,
-  "cluster": "0568b018cc11"
+  "cluster": "438acf5edc56"
  },
  {
   "id": "432c372e603f",
@@ -176,6 +80,22 @@
   "cluster": "b08bc130bb0b"
  },
  {
+  "id": "a13ce2be8e70",
+  "lang": "en",
+  "cat": "world",
+  "source": "The Guardian",
+  "title": "Cop31 climate talks break down as key deal rejected",
+  "excerpt": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what…",
+  "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+  "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=522cbdd26a4d444b141a899b5a43071d",
+  "date": "2026-11-22T16:14:46.000Z",
+  "firstSeen": "2026-11-22T15:37:45.298Z",
+  "coverage": 3,
+  "score": 4.42,
+  "noDate": false,
+  "cluster": "2d7d190b4c02"
+ },
+ {
   "id": "173dd1e51cf1",
   "lang": "en",
   "cat": "gadgets",
@@ -188,7 +108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 4,
-  "score": 17.9,
+  "score": 17.89,
   "cluster": "bc5ac057c3f9"
  },
  {
@@ -204,7 +124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:18:44.569Z",
   "coverage": 1,
-  "score": 8.9,
+  "score": 8.89,
   "cluster": "798247febde2"
  },
  {
@@ -268,7 +188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 2,
-  "score": 11.86,
+  "score": 11.85,
   "cluster": "c8ba8cb27360"
  },
  {
@@ -286,22 +206,6 @@
   "coverage": 2,
   "score": 11.85,
   "cluster": "beda3751c55d"
- },
- {
-  "id": "6580d386341b",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Street Calls of the Week",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5042451",
-  "image": "https://content-media.investing.com/news/Smartphone_M_1440049602.jpg",
-  "date": "2026-11-22T16:00:02.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 8.84,
-  "noDate": false,
-  "cluster": "6580d386341b"
  },
  {
   "id": "d19e1c64a568",
@@ -352,6 +256,22 @@
   "cluster": "1e4780d8e621"
  },
  {
+  "id": "665b02d8d90f",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "What do the U.S. midterms mean for investors?",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
+  "image": "https://content-media.investing.com/news/LYNXNPEAAF009_M.jpg",
+  "date": "2026-11-22T15:56:18.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T16:11:54.218Z",
+  "coverage": 1,
+  "score": 8.82,
+  "cluster": "665b02d8d90f"
+ },
+ {
   "id": "ef68dc9e6979",
   "lang": "en",
   "cat": "gadgets",
@@ -396,7 +316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 2,
-  "score": 13.28,
+  "score": 13.27,
   "cluster": "63f7e3fe636b"
  },
  {
@@ -428,7 +348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 1,
-  "score": 10.26,
+  "score": 10.25,
   "cluster": "13e2c07ae4a3"
  },
  {
@@ -475,7 +395,7 @@
   "date": "2026-11-22T15:30:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.68,
+  "score": 8.67,
   "noDate": false,
   "cluster": "7171acd10e97"
  },
@@ -539,7 +459,7 @@
   "date": "2026-11-22T15:26:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 10.16,
+  "score": 10.15,
   "noDate": false,
   "cluster": "493972531c14"
  },
@@ -608,36 +528,20 @@
   "cluster": "c20dac2fb129"
  },
  {
-  "id": "261c4915e766",
+  "id": "fd4163bac27d",
   "lang": "en",
   "cat": "markets",
   "source": "Investing.com",
-  "title": "Should you buy copper’s dip? Here’s why UBS favors long position",
+  "title": "Asian countries take steps to aid stock markets after AI rout",
   "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
-  "image": "https://content-media.investing.com/news/copper3_M_1440050118.jpg",
-  "date": "2026-11-22T15:09:20.000Z",
+  "link": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+  "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
+  "date": "2026-11-22T15:12:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 8.56,
+  "coverage": 2,
+  "score": 13.08,
   "noDate": false,
-  "cluster": "261c4915e766"
- },
- {
-  "id": "438acf5edc56",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The New York Times",
-  "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-  "excerpt": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
-  "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-  "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
-  "date": "2026-11-22T15:04:54.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 8.53,
-  "noDate": false,
-  "cluster": "438acf5edc56"
+  "cluster": "fd4163bac27d"
  },
  {
   "id": "c868416eb404",
@@ -651,7 +555,7 @@
   "date": "2026-11-22T15:03:38.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.53,
+  "score": 8.52,
   "noDate": false,
   "cluster": "c868416eb404"
  },
@@ -699,7 +603,7 @@
   "date": "2026-11-22T15:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.51,
+  "score": 8.5,
   "noDate": false,
   "cluster": "07194b192617"
  },
@@ -715,7 +619,7 @@
   "date": "2026-11-22T15:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.51,
+  "score": 8.5,
   "noDate": false,
   "cluster": "a3fef1646dc6"
  },
@@ -731,25 +635,9 @@
   "date": "2026-11-22T15:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.51,
+  "score": 8.5,
   "noDate": false,
   "cluster": "4ccbfddf1a8f"
- },
- {
-  "id": "8b9217c105c8",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
-  "image": "https://content-media.investing.com/news/moved_LYNXNPEMAC0W4_L.jpg",
-  "date": "2026-11-22T15:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 13.01,
-  "noDate": false,
-  "cluster": "8b9217c105c8"
  },
  {
   "id": "79b14787c764",
@@ -763,7 +651,7 @@
   "date": "2026-11-22T14:59:49.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.51,
+  "score": 8.5,
   "noDate": false,
   "cluster": "79b14787c764"
  },
@@ -827,7 +715,7 @@
   "date": "2026-11-22T14:51:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 11.46,
+  "score": 11.45,
   "noDate": false,
   "cluster": "0eec71ac6650"
  },
@@ -843,7 +731,7 @@
   "date": "2026-11-22T14:48:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 11.45,
+  "score": 11.44,
   "noDate": false,
   "cluster": "63e4201e02da"
  },
@@ -1035,7 +923,7 @@
   "date": "2026-11-22T14:20:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.29,
+  "score": 8.28,
   "noDate": false,
   "cluster": "751e6f683476"
  },
@@ -1067,7 +955,7 @@
   "date": "2026-11-22T14:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.26,
+  "score": 8.25,
   "noDate": false,
   "cluster": "e91d2a4888d0"
  },
@@ -1131,7 +1019,7 @@
   "date": "2026-11-22T14:00:33.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.68,
+  "score": 9.67,
   "noDate": false,
   "cluster": "f7ac6af79b52"
  },
@@ -1147,7 +1035,7 @@
   "date": "2026-11-22T14:00:32.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.68,
+  "score": 9.67,
   "noDate": false,
   "cluster": "204648171c6d"
  },
@@ -1163,7 +1051,7 @@
   "date": "2026-11-22T14:00:31.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": -3.82,
+  "score": -3.83,
   "noDate": false,
   "cluster": "f1f2cb976874"
  },
@@ -1179,9 +1067,25 @@
   "date": "2026-11-22T14:00:29.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.18,
+  "score": 11.17,
   "noDate": false,
   "cluster": "2d7d190b4c02"
+ },
+ {
+  "id": "482dfa1bff00",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ0UK_L.jpg",
+  "date": "2026-11-22T14:00:24.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 7,
+  "score": 26.17,
+  "noDate": false,
+  "cluster": "482dfa1bff00"
  },
  {
   "id": "bc4bf2d54934",
@@ -1371,7 +1275,7 @@
   "date": "2026-11-22T13:35:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.04,
+  "score": 11.03,
   "noDate": false,
   "cluster": "75339f6618bc"
  },
@@ -1387,7 +1291,7 @@
   "date": "2026-11-22T13:31:40.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.02,
+  "score": 8.01,
   "noDate": false,
   "cluster": "7ff6e93eeec8"
  },
@@ -1419,7 +1323,7 @@
   "date": "2026-11-22T13:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.51,
+  "score": 9.5,
   "noDate": false,
   "cluster": "7d2e760ecdbc"
  },
@@ -1435,25 +1339,9 @@
   "date": "2026-11-22T13:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.01,
+  "score": 8,
   "noDate": false,
   "cluster": "55236dd062e1"
- },
- {
-  "id": "91e845d85895",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg",
-  "date": "2026-11-22T13:29:58.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 11.01,
-  "noDate": false,
-  "cluster": "91e845d85895"
  },
  {
   "id": "aeea368c1d81",
@@ -1467,7 +1355,7 @@
   "date": "2026-11-22T13:26:19.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.99,
+  "score": 7.98,
   "noDate": false,
   "cluster": "aeea368c1d81"
  },
@@ -1485,7 +1373,7 @@
   "coverage": 3,
   "score": 13.93,
   "noDate": false,
-  "cluster": "4476b606161a"
+  "cluster": "28b5f4f8f583"
  },
  {
   "id": "abce69213c3d",
@@ -1515,7 +1403,7 @@
   "date": "2026-11-22T13:15:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 10.93,
+  "score": 10.92,
   "noDate": false,
   "cluster": "fa55c8e12b3b"
  },
@@ -1563,7 +1451,7 @@
   "date": "2026-11-22T13:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.86,
+  "score": 7.85,
   "noDate": false,
   "cluster": "63813139fc02"
  },
@@ -1582,6 +1470,22 @@
   "score": 7.85,
   "noDate": false,
   "cluster": "f1c00677928e"
+ },
+ {
+  "id": "be824d35f3bd",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL06L_L.jpg",
+  "date": "2026-11-22T13:00:57.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 9.34,
+  "noDate": false,
+  "cluster": "be824d35f3bd"
  },
  {
   "id": "b7ad53f84096",
@@ -1680,22 +1584,6 @@
   "cluster": "5328c3f24e10"
  },
  {
-  "id": "a13ce2be8e70",
-  "lang": "en",
-  "cat": "world",
-  "source": "The Guardian",
-  "title": "Cop31 climate talks break down as key deal rejected",
-  "excerpt": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what…",
-  "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-  "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=522cbdd26a4d444b141a899b5a43071d",
-  "date": "2026-11-22T12:54:41.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 3,
-  "score": 3.31,
-  "noDate": false,
-  "cluster": "2d7d190b4c02"
- },
- {
   "id": "bc5ac057c3f9",
   "lang": "en",
   "cat": "gadgets",
@@ -1710,6 +1598,22 @@
   "score": 18.29,
   "noDate": false,
   "cluster": "bc5ac057c3f9"
+ },
+ {
+  "id": "4476b606161a",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.95%",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-195-5043961",
+  "image": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
+  "date": "2026-11-22T12:45:03.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 2,
+  "score": 13.75,
+  "noDate": false,
+  "cluster": "28b5f4f8f583"
  },
  {
   "id": "a3d63629e827",
@@ -1739,7 +1643,7 @@
   "date": "2026-11-22T12:32:25.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.69,
+  "score": 7.68,
   "noDate": false,
   "cluster": "cc275525a80e"
  },
@@ -1771,7 +1675,7 @@
   "date": "2026-11-22T12:30:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.18,
+  "score": 9.17,
   "noDate": false,
   "cluster": "3e4850050840"
  },
@@ -1851,7 +1755,7 @@
   "date": "2026-11-22T12:19:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 10.62,
+  "score": 10.61,
   "noDate": false,
   "cluster": "2ad0ceb8c2d3"
  },
@@ -1867,7 +1771,7 @@
   "date": "2026-11-22T12:16:11.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 10.6,
+  "score": 10.59,
   "noDate": false,
   "cluster": "d293cb54e664"
  },
@@ -1904,6 +1808,22 @@
   "cluster": "4bf8745996d9"
  },
  {
+  "id": "0568b018cc11",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL07G_L.jpg",
+  "date": "2026-11-22T12:06:21.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 7.54,
+  "noDate": false,
+  "cluster": "0568b018cc11"
+ },
+ {
   "id": "76f4feb05807",
   "lang": "en",
   "cat": "tech",
@@ -1915,7 +1835,7 @@
   "date": "2026-11-22T12:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -4.49,
+  "score": -4.5,
   "noDate": false,
   "cluster": "76f4feb05807"
  },
@@ -2027,7 +1947,7 @@
   "date": "2026-11-22T11:25:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.82,
+  "score": 8.81,
   "noDate": false,
   "cluster": "b431ea497743"
  },
@@ -2075,7 +1995,7 @@
   "date": "2026-11-22T11:07:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.22,
+  "score": 7.21,
   "noDate": false,
   "cluster": "c9eb381fcfbf"
  },
@@ -2107,7 +2027,7 @@
   "date": "2026-11-22T11:02:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": -1.81,
+  "score": -1.82,
   "noDate": false,
   "cluster": "5c32e616b480"
  },
@@ -2123,7 +2043,7 @@
   "date": "2026-11-22T11:00:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.68,
+  "score": 8.67,
   "noDate": false,
   "cluster": "6cfafb674561"
  },
@@ -2139,7 +2059,7 @@
   "date": "2026-11-22T11:00:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 13.18,
+  "score": 13.17,
   "noDate": false,
   "cluster": "0ea430def483"
  },
@@ -2155,7 +2075,7 @@
   "date": "2026-11-22T11:00:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": -4.82,
+  "score": -4.83,
   "noDate": false,
   "cluster": "2606cafd4f33"
  },
@@ -2224,6 +2144,22 @@
   "cluster": "ec3d02840bba"
  },
  {
+  "id": "cc6891ccf573",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "South Korea prepares stock market stabilization fund after Kospi plunges 5.2%",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/south-korea-prepares-stock-market-stabilization-fund-after-kospi-plunges-52-5043890",
+  "image": "https://content-media.investing.com/news/LYNXMPED220BB_M.jpg",
+  "date": "2026-11-22T10:54:22.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 3,
+  "score": 14.64,
+  "noDate": false,
+  "cluster": "cc6891ccf573"
+ },
+ {
   "id": "236aa2a73eaf",
   "lang": "en",
   "cat": "gadgets",
@@ -2282,7 +2218,7 @@
   "date": "2026-11-22T10:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.01,
+  "score": 7,
   "noDate": false,
   "cluster": "4cae423ce55f"
  },
@@ -2298,7 +2234,7 @@
   "date": "2026-11-22T10:20:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.96,
+  "score": 6.95,
   "noDate": false,
   "cluster": "f3b7e6e0107e"
  },
@@ -2394,7 +2330,7 @@
   "date": "2026-11-22T10:01:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.85,
+  "score": 6.84,
   "noDate": false,
   "cluster": "4a3fc25ec61a"
  },
@@ -2413,6 +2349,22 @@
   "score": 9.84,
   "noDate": false,
   "cluster": "887128f5bcf6"
+ },
+ {
+  "id": "6580d386341b",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Street Calls of the Week",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5042451",
+  "image": "https://content-media.investing.com/news/Smartphone_M_1440049602.jpg",
+  "date": "2026-11-22T10:00:02.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 6.84,
+  "noDate": false,
+  "cluster": "6580d386341b"
  },
  {
   "id": "3bffc6f0a664",
@@ -2511,6 +2463,22 @@
   "cluster": "028176a58f59"
  },
  {
+  "id": "261c4915e766",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Should you buy copper’s dip? Here’s why UBS favors long position",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
+  "image": "https://content-media.investing.com/news/copper3_M_1440050118.jpg",
+  "date": "2026-11-22T09:09:20.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 6.56,
+  "noDate": false,
+  "cluster": "261c4915e766"
+ },
+ {
   "id": "d84c3be8036b",
   "lang": "en",
   "cat": "gadgets",
@@ -2522,7 +2490,7 @@
   "date": "2026-11-22T09:08:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.56,
+  "score": 6.55,
   "noDate": false,
   "cluster": "d84c3be8036b"
  },
@@ -2559,6 +2527,22 @@
   "cluster": "7751ababced9"
  },
  {
+  "id": "8b9217c105c8",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
+  "image": "https://content-media.investing.com/news/moved_LYNXNPEMAC0W4_L.jpg",
+  "date": "2026-11-22T09:00:00.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 11,
+  "noDate": false,
+  "cluster": "8b9217c105c8"
+ },
+ {
   "id": "1d8202408f99",
   "lang": "en",
   "cat": "world",
@@ -2586,9 +2570,25 @@
   "date": "2026-11-22T08:00:22.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.68,
+  "score": 7.67,
   "noDate": false,
   "cluster": "a0dc0301adf1"
+ },
+ {
+  "id": "91e845d85895",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg",
+  "date": "2026-11-22T07:29:58.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 9,
+  "noDate": false,
+  "cluster": "91e845d85895"
  },
  {
   "id": "802a4c21fbe8",
@@ -2794,7 +2794,7 @@
   "date": "2026-11-22T05:45:32.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 3,
-  "score": 11.43,
+  "score": 11.42,
   "noDate": false,
   "cluster": "97cd20591521"
  },
@@ -2906,7 +2906,7 @@
   "date": "2026-11-22T02:45:15.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.43,
+  "score": 4.42,
   "noDate": false,
   "cluster": "324aea832765"
  },
@@ -2986,7 +2986,7 @@
   "date": "2026-11-22T01:29:53.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.01,
+  "score": 7,
   "noDate": false,
   "cluster": "e3281306dcda"
  },
@@ -3082,7 +3082,7 @@
   "date": "2026-11-22T00:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.76,
+  "score": 3.75,
   "noDate": false,
   "cluster": "b2e192e3c051"
  },
@@ -3098,7 +3098,7 @@
   "date": "2026-11-22T00:30:34.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -8.32,
+  "score": -8.33,
   "noDate": false,
   "cluster": "b2ba226a82e2"
  },
@@ -3146,7 +3146,7 @@
   "date": "2026-11-22T00:10:44.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 6.57,
+  "score": 6.56,
   "noDate": false,
   "cluster": "e86869f89216"
  },
@@ -3162,7 +3162,7 @@
   "date": "2026-11-22T00:10:37.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.07,
+  "score": 5.06,
   "noDate": false,
   "cluster": "f03a82a7ba20"
  },
@@ -3242,7 +3242,7 @@
   "date": "2026-11-22T00:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -8.49,
+  "score": -8.5,
   "noDate": false,
   "cluster": "715c4675c2ca"
  },
@@ -3274,7 +3274,7 @@
   "date": "2026-11-21T23:30:56.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.35,
+  "score": 3.34,
   "noDate": false,
   "cluster": "0734ffe76166"
  },
@@ -3370,7 +3370,7 @@
   "date": "2026-11-21T22:53:10.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 7.64,
+  "score": 7.63,
   "noDate": false,
   "cluster": "fe9dc1d014af"
  },
@@ -3386,7 +3386,7 @@
   "date": "2026-11-21T22:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 6.01,
+  "score": 6,
   "cluster": "8a02ad235939"
  },
  {
@@ -3513,7 +3513,7 @@
   "date": "2026-11-21T21:12:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 11.58,
+  "score": 11.57,
   "noDate": false,
   "cluster": "4992a5d3aff6"
  },
@@ -3548,22 +3548,6 @@
   "score": 2.51,
   "noDate": false,
   "cluster": "6108e43d5cab"
- },
- {
-  "id": "0c6c101252b3",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
-  "image": "https://content-media.investing.com/news/LYNXMPED990HX_M.jpg",
-  "date": "2026-11-21T20:51:15.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 6.96,
-  "noDate": false,
-  "cluster": "0c6c101252b3"
  },
  {
   "id": "c2ec4cf7841c",
@@ -3641,7 +3625,7 @@
   "date": "2026-11-21T20:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.26,
+  "score": 5.25,
   "noDate": false,
   "cluster": "875109157c33"
  },
@@ -3657,7 +3641,7 @@
   "date": "2026-11-21T20:07:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 3.72,
+  "score": 3.71,
   "noDate": false,
   "cluster": "daedb577d06d"
  },
@@ -3753,7 +3737,7 @@
   "date": "2026-11-21T19:11:51.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 1.91,
+  "score": 1.9,
   "noDate": false,
   "cluster": "c77fb7e07859"
  },
@@ -3769,7 +3753,7 @@
   "date": "2026-11-21T18:44:53.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 6.26,
+  "score": 6.25,
   "noDate": false,
   "cluster": "e86869f89216"
  },
@@ -3801,7 +3785,7 @@
   "date": "2026-11-21T18:18:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 7,
-  "score": 7.61,
+  "score": 7.6,
   "noDate": false,
   "cluster": "482dfa1bff00"
  },
@@ -3865,7 +3849,7 @@
   "date": "2026-11-21T17:59:58.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.51,
+  "score": 1.5,
   "noDate": false,
   "cluster": "a819c41e473d"
  },
@@ -4252,6 +4236,22 @@
   "score": 1,
   "noDate": false,
   "cluster": "ab0e3076d458"
+ },
+ {
+  "id": "0c6c101252b3",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
+  "image": "https://content-media.investing.com/news/LYNXMPED990HX_M.jpg",
+  "date": "2026-11-21T14:51:15.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 2,
+  "score": 5.5,
+  "noDate": false,
+  "cluster": "0c6c101252b3"
  },
  {
   "id": "422f7393b320",
@@ -4654,22 +4654,6 @@
   "cluster": "6082857bd291"
  },
  {
-  "id": "46a608834d54",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin Falls 10% In Rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
-  "image": "https://content-media.investing.com/news/LYNXMPED9A0RJ-ORUBS_M.jpg",
-  "date": "2026-11-21T12:02:03.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "46a608834d54"
- },
- {
   "id": "8e097765d128",
   "lang": "en",
   "cat": "tech",
@@ -4766,22 +4750,6 @@
   "cluster": "4fa8e2c7d959"
  },
  {
-  "id": "0e5030a01570",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Cardano Falls 10% In Bearish Trade",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-5043202",
-  "image": "https://content-media.investing.com/news/Cardano_800x533_L_1556444760.jpg",
-  "date": "2026-11-21T11:57:57.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "0e5030a01570"
- },
- {
   "id": "2f690d56120b",
   "lang": "en",
   "cat": "gadgets",
@@ -4796,22 +4764,6 @@
   "score": 2.5,
   "noDate": false,
   "cluster": "2f690d56120b"
- },
- {
-  "id": "5fc1e8893727",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "XRP Falls 10% In Selloff",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
-  "image": "https://content-media.investing.com/news/LYNXMPEE0214A_M.jpg",
-  "date": "2026-11-21T11:44:04.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 4,
-  "noDate": false,
-  "cluster": "68a271432dc9"
  },
  {
   "id": "c8ad294e7024",
@@ -5246,6 +5198,22 @@
   "cluster": "5c48c1a28f49"
  },
  {
+  "id": "46a608834d54",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin Falls 10% In Rout",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
+  "image": "https://content-media.investing.com/news/LYNXMPED9A0RJ-ORUBS_M.jpg",
+  "date": "2026-11-21T06:02:03.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 2.5,
+  "noDate": false,
+  "cluster": "46a608834d54"
+ },
+ {
   "id": "3bd155737057",
   "lang": "en",
   "cat": "tech",
@@ -5470,6 +5438,22 @@
   "cluster": "68a271432dc9"
  },
  {
+  "id": "0e5030a01570",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Cardano Falls 10% In Bearish Trade",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-5043202",
+  "image": "https://content-media.investing.com/news/Cardano_800x533_L_1556444760.jpg",
+  "date": "2026-11-21T05:57:57.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 1,
+  "noDate": false,
+  "cluster": "0e5030a01570"
+ },
+ {
   "id": "3b13442d92fc",
   "lang": "en",
   "cat": "politics",
@@ -5502,6 +5486,22 @@
   "cluster": "e0006c8114ba"
  },
  {
+  "id": "5fc1e8893727",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "XRP Falls 10% In Selloff",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
+  "image": "https://content-media.investing.com/news/LYNXMPEE0214A_M.jpg",
+  "date": "2026-11-21T05:44:04.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 2,
+  "score": 4,
+  "noDate": false,
+  "cluster": "68a271432dc9"
+ },
+ {
   "id": "cd04db10d311",
   "lang": "en",
   "cat": "crypto",
@@ -5532,22 +5532,6 @@
   "score": 7,
   "noDate": false,
   "cluster": "363be724f1d5"
- },
- {
-  "id": "b1af6f03472b",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEI850WX_L.jpg",
-  "date": "2026-11-21T05:17:58.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "b1af6f03472b"
  },
  {
   "id": "bd0e4f3d7958",
@@ -5822,22 +5806,6 @@
   "cluster": "6a74f0e1d604"
  },
  {
-  "id": "f7107d0975e2",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Ethereum Falls 10% In Rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5042458",
-  "image": "https://content-media.investing.com/news/Ethereum_800x533_L_1556445146.jpg",
-  "date": "2026-11-21T01:18:04.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "f7107d0975e2"
- },
- {
   "id": "0978730fe55b",
   "lang": "en",
   "cat": "gadgets",
@@ -5980,6 +5948,22 @@
   "score": 4,
   "noDate": false,
   "cluster": "62af8b3763ef"
+ },
+ {
+  "id": "b1af6f03472b",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI850WX_L.jpg",
+  "date": "2026-11-20T23:17:58.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 4,
+  "noDate": false,
+  "cluster": "b1af6f03472b"
  },
  {
   "id": "e7ee319ddee1",
@@ -6316,22 +6300,6 @@
   "score": -11,
   "noDate": false,
   "cluster": "8bb9ea366d89"
- },
- {
-  "id": "a896b5e5a58b",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-on-track-for-seventh-straight-weekly-loss-as-etf-outflows-hit-record-93CH-5042182",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEI5D0A7_L.jpg",
-  "date": "2026-11-20T21:38:47.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "a896b5e5a58b"
  },
  {
   "id": "fd2811614640",
@@ -6796,6 +6764,22 @@
   "score": 5.5,
   "noDate": false,
   "cluster": "6b8408444122"
+ },
+ {
+  "id": "f7107d0975e2",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Ethereum Falls 10% In Rout",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5042458",
+  "image": "https://content-media.investing.com/news/Ethereum_800x533_L_1556445146.jpg",
+  "date": "2026-11-20T19:18:04.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 2.5,
+  "noDate": false,
+  "cluster": "f7107d0975e2"
  },
  {
   "id": "1c42a93b1597",
@@ -7390,6 +7374,22 @@
   "cluster": "ab494916efda"
  },
  {
+  "id": "a896b5e5a58b",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-on-track-for-seventh-straight-weekly-loss-as-etf-outflows-hit-record-93CH-5042182",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI5D0A7_L.jpg",
+  "date": "2026-11-20T15:38:47.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 4,
+  "noDate": false,
+  "cluster": "a896b5e5a58b"
+ },
+ {
   "id": "4c91e2c0da15",
   "lang": "en",
   "cat": "crypto",
@@ -7580,38 +7580,6 @@
   "score": 10,
   "noDate": false,
   "cluster": "bc5ac057c3f9"
- },
- {
-  "id": "8b644042c178",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bybit’s Global User Base Surpasses 90 Million as Company Expands Into Traditional Finance",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bybits-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance-5040899",
-  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556527920.jpg",
-  "date": "2026-11-20T14:08:35.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "8b644042c178"
- },
- {
-  "id": "14f67af3648f",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-5040900",
-  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556444923.jpg",
-  "date": "2026-11-20T14:08:35.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "14f67af3648f"
  },
  {
   "id": "8c001dfe6421",
@@ -8300,6 +8268,38 @@
   "score": 2.5,
   "noDate": false,
   "cluster": "d2ca75769de6"
+ },
+ {
+  "id": "8b644042c178",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bybit’s Global User Base Surpasses 90 Million as Company Expands Into Traditional Finance",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bybits-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance-5040899",
+  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556527920.jpg",
+  "date": "2026-11-20T08:08:35.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 1,
+  "noDate": false,
+  "cluster": "8b644042c178"
+ },
+ {
+  "id": "14f67af3648f",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-5040900",
+  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556444923.jpg",
+  "date": "2026-11-20T08:08:35.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 2.5,
+  "noDate": false,
+  "cluster": "14f67af3648f"
  },
  {
   "id": "1d94719558f5",
