@@ -24,7 +24,10 @@ const T = {
     about: "About",
     privacy: "Privacy",
     updated: "Updated",
-    summaryBy: "Summary written by the PixelContent newsroom from public reports. Original reporting belongs to",
+    summaryBy: "Written by the PixelContent newsroom from public reports. Original reporting:",
+    byline: "PixelContent Newsroom · Analysis",
+    pixelTake: "Pixel's take",
+    briefFrom: "Brief provided by",
     footer:
       "PixelContent gathers headlines from trusted outlets and links to the original reporting. Headlines, images and trademarks belong to their respective owners.",
     breaking: "Breaking",
@@ -53,7 +56,10 @@ const T = {
     about: "Quiénes somos",
     privacy: "Privacidad",
     updated: "Actualizado",
-    summaryBy: "Resumen escrito por la redacción de PixelContent a partir de información pública. La nota original pertenece a",
+    summaryBy: "Escrito por la redacción de PixelContent a partir de información pública. Nota original:",
+    byline: "Redacción PixelContent · Análisis",
+    pixelTake: "El toque Pixel",
+    briefFrom: "Avance proporcionado por",
     footer:
       "PixelContent reúne titulares de medios confiables y enlaza a la nota original. Titulares, imágenes y marcas pertenecen a sus respectivos dueños.",
     breaking: "Última hora",
@@ -99,11 +105,11 @@ export function renderSite({ editions, summaries, markets, root }) {
   const sitemap = [];
   let count = 0;
 
-  const write = (rel, html) => {
+  const write = (rel, html, { index = true } = {}) => {
     const file = path.join(out, rel);
     fs.mkdirSync(path.dirname(file), { recursive: true });
     fs.writeFileSync(file, html);
-    if (site) sitemap.push(`${site}/${rel.replace(/index\.html$/, "")}`);
+    if (site && index) sitemap.push(`${site}/${rel.replace(/index\.html$/, "")}`);
     count++;
   };
 
@@ -116,16 +122,17 @@ export function renderSite({ editions, summaries, markets, root }) {
 
     // depth → prefijo relativo hacia la raíz del sitio
     const prefixFor = (rel) => "../".repeat((base + rel).split("/").length - 1);
-    const hasPage = (s) => !!sums[s.id];
     const headline = (s) => (sums[s.id]?.headline || s.title);
-    const hrefFor = (s, pre) => (hasPage(s) ? `${pre}${base}story/${s.id}.html` : s.link);
-    const ext = (s) => (hasPage(s) ? "" : ` target="_blank" rel="noopener nofollow"`);
+    const hrefFor = (s, pre) => `${pre}${base}story/${s.id}.html`;
+    const ext = () => "";
 
     const distinct = (list) => {
       const seen = new Set();
       return list.filter((s) => !seen.has(s.cluster || s.id) && seen.add(s.cluster || s.id));
     };
-    const byScore = distinct([...stories].sort((a, b) => b.score - a.score));
+    // las notas con artículo propio de PixelContent van primero
+    const rank = (s) => s.score + (sums[s.id] ? 6 : 0);
+    const byScore = distinct([...stories].sort((a, b) => rank(b) - rank(a)));
     const byDate = [...stories].sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
     const recentScored = byScore.filter((s) => Date.now() - Date.parse(s.date) < 36 * 3600e3);
 
@@ -148,7 +155,7 @@ export function renderSite({ editions, summaries, markets, root }) {
 
     const card = (s, pre, variant = "card") => {
       const h = hrefFor(s, pre);
-      const ex = sums[s.id]?.summary?.split(/(?<=\.)\s/)[0] || s.excerpt;
+      const ex = sums[s.id]?.summary || s.excerpt;
       if (variant === "row")
         return `<article class="row"><a href="${esc(h)}"${ext(s)}>${thumb(s, "sm")}</a><div>${kicker(s, pre)}<h3><a href="${esc(h)}"${ext(s)}>${esc(headline(s))}</a></h3>${meta(s)}</div></article>`;
       if (variant === "mini")
@@ -175,7 +182,7 @@ export function renderSite({ editions, summaries, markets, root }) {
         )
         .join("")}</ol></section>`;
 
-    const head = ({ title, desc, rel, image, jsonld = "", altRel }) => {
+    const head = ({ title, desc, rel, image, jsonld = "", altRel, noindex = false }) => {
       const pre = prefixFor(rel);
       const canonical = site ? `${site}/${base}${rel.replace(/index\.html$/, "")}` : "";
       const alt = altRel !== undefined && site ? `${site}/${other === "es" ? "es/" : ""}${altRel.replace(/index\.html$/, "")}` : "";
@@ -186,6 +193,7 @@ export function renderSite({ editions, summaries, markets, root }) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
+${noindex ? `<meta name="robots" content="noindex, follow">` : ""}
 ${canonical ? `<link rel="canonical" href="${canonical}">` : ""}
 ${alt ? `<link rel="alternate" hreflang="${lang}" href="${canonical}"><link rel="alternate" hreflang="${other}" href="${alt}">` : ""}
 <meta property="og:type" content="${jsonld ? "article" : "website"}">
@@ -281,7 +289,7 @@ ${
       const sections = cats
         .map((c, i) => {
           const list = take(
-            [...stories].filter((s) => s.cat === c.id).sort((a, b) => b.score - a.score),
+            [...stories].filter((s) => s.cat === c.id).sort((a, b) => rank(b) - rank(a)),
             7
           );
           list.sort((a, b) => !!b.image - !!a.image);
@@ -330,7 +338,7 @@ ${adBox("leaderboard", "wide top")}
       const rel = `${c.id}.html`;
       const pre = prefixFor(rel);
       const list = stories.filter((s) => s.cat === c.id);
-      const top = distinct([...list].sort((a, b) => b.score - a.score));
+      const top = distinct([...list].sort((a, b) => rank(b) - rank(a)));
       const lead = top.find((s) => s.image) || top[0];
       const rest = list.filter((s) => s !== lead).sort((a, b) => Date.parse(b.date) - Date.parse(a.date)).slice(0, 72);
       const chunks = [];
@@ -353,53 +361,67 @@ ${adBox("leaderboard", "wide")}
       write(base + rel, html);
     }
 
-    // ── páginas de noticia (solo con resumen propio) ────────
+    // ── páginas de noticia: todas se leen dentro del sitio ──
     for (const s of stories) {
       const sum = sums[s.id];
-      if (!sum) continue;
       const rel = `story/${s.id}.html`;
       const pre = prefixFor(rel);
       const c = catOf(s.cat);
+      const title = headline(s);
+      const body = sum?.body?.length ? sum.body : sum?.summary ? [sum.summary] : [];
+      const desc = (body[0] || s.excerpt || title).slice(0, 158);
       const related = byScore.filter((r) => r.cat === s.cat && r.id !== s.id).slice(0, 6);
-      const jsonld = `<script type="application/ld+json">${JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "NewsArticle",
-        headline: sum.headline,
-        description: sum.summary.slice(0, 200),
-        image: s.image ? [s.image] : undefined,
-        datePublished: s.firstSeen || s.date,
-        dateModified: sum.at,
-        inLanguage: lang,
-        publisher: { "@type": "Organization", name: config.siteName },
-        isBasedOn: s.link,
-      }).replace(/</g, "\\u003c")}</script>`;
+      const jsonld = sum
+        ? `<script type="application/ld+json">${JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            headline: title,
+            description: desc,
+            image: s.image ? [s.image] : undefined,
+            datePublished: s.firstSeen || s.date,
+            dateModified: sum.at,
+            inLanguage: lang,
+            author: { "@type": "Organization", name: `${config.siteName} Newsroom` },
+            publisher: { "@type": "Organization", name: config.siteName },
+            isBasedOn: s.link,
+          }).replace(/</g, "\\u003c")}</script>`
+        : "";
+      const article = sum
+        ? `<div class="story-body">
+      <p class="byline">${t.byline}</p>
+      ${body.map((p, i) => `<p${i === 0 ? ' class="lede"' : ""}>${esc(p)}</p>`).join("\n      ")}
+      ${sum.tone !== "serious" && sum.pixel_take ? `<aside class="take"><span class="take-badge">😏 ${t.pixelTake}</span><p>${esc(sum.pixel_take)}</p></aside>` : ""}
+      <div class="why" style="--c:${c.color}"><h2>${t.whyMatters}</h2><p>${esc(sum.why_it_matters)}</p></div>
+      ${adBox("article", "inline")}
+      <h2>${t.keyPoints}</h2>
+      <ul class="points">${(sum.key_points || []).map((p) => `<li>${esc(p)}</li>`).join("")}</ul>
+      <p class="credit">${t.summaryBy} <a href="${esc(s.link)}" target="_blank" rel="noopener nofollow">${esc(s.source)}</a>.</p>
+      <div class="tags">${(sum.tags || []).map((g) => `<span>#${esc(g)}</span>`).join("")}</div>
+    </div>`
+        : `<div class="story-body">
+      ${s.excerpt ? `<p class="lede">${esc(s.excerpt)}</p>` : ""}
+      ${adBox("article", "inline")}
+      <p class="credit">${t.briefFrom} <a href="${esc(s.link)}" target="_blank" rel="noopener nofollow">${esc(s.source)}</a>.</p>
+      <a class="cta" href="${esc(s.link)}" target="_blank" rel="noopener nofollow">${t.readAt} ${esc(s.source)} →</a>
+    </div>`;
       const html =
-        head({ title: `${sum.headline} — ${config.siteName}`, desc: sum.summary.slice(0, 158), rel, image: s.image, jsonld }) +
+        head({ title: `${title} — ${config.siteName}`, desc, rel, image: s.image, jsonld, noindex: !sum }) +
         header(rel, c.id) +
         `<main class="wrap">
 <div class="layout">
   <article class="story main-col">
     <nav class="crumbs"><a href="${pre}${base}index.html">${t.home}</a> › <a href="${pre}${base}${c.id}.html">${esc(c[lang])}</a></nav>
     ${kicker(s, pre)}
-    <h1>${esc(sum.headline)}</h1>
+    <h1>${esc(title)}</h1>
     ${meta(s)}
     ${thumb(s, "story-img")}
-    <div class="share" data-share data-title="${esc(sum.headline)}">
+    <div class="share" data-share data-title="${esc(title)}">
       <span>${t.share}</span>
       <button data-net="native" class="sh-native">↗</button>
       <a data-net="x" aria-label="X">𝕏</a><a data-net="facebook" aria-label="Facebook">f</a><a data-net="whatsapp" aria-label="WhatsApp">WA</a><a data-net="telegram" aria-label="Telegram">TG</a><a data-net="linkedin" aria-label="LinkedIn">in</a>
       <button data-net="copy">${t.copy}</button>
     </div>
-    <div class="story-body">
-      <p class="lede">${esc(sum.summary)}</p>
-      <div class="why" style="--c:${c.color}"><h2>${t.whyMatters}</h2><p>${esc(sum.why_it_matters)}</p></div>
-      ${adBox("article", "inline")}
-      <h2>${t.keyPoints}</h2>
-      <ul class="points">${(sum.key_points || []).map((p) => `<li>${esc(p)}</li>`).join("")}</ul>
-      <a class="cta" href="${esc(s.link)}" target="_blank" rel="noopener">${t.readAt} ${esc(s.source)} →</a>
-      <p class="credit">${t.summaryBy} <a href="${esc(s.link)}" target="_blank" rel="noopener nofollow">${esc(s.source)}</a>.</p>
-      <div class="tags">${(sum.tags || []).map((g) => `<span>#${esc(g)}</span>`).join("")}</div>
-    </div>
+    ${article}
     <h2 class="sec-title"><span>${t.related}</span></h2>
     <div class="grid3">${related.map((r) => card(r, pre, "card")).join("")}</div>
   </article>
@@ -407,7 +429,7 @@ ${adBox("leaderboard", "wide")}
 </div>
 </main>` +
         footer(rel);
-      write(base + rel, html);
+      write(base + rel, html, { index: !!sum });
     }
 
     // ── about / privacy (AdSense pide estas páginas) ────────

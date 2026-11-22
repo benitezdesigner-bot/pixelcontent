@@ -10,7 +10,7 @@ Qué incluye:
 - Dos ediciones: `/` en inglés con medios en inglés y `/es/` en español con medios en español. Si el navegador del visitante está en español, la primera vez entra directo a la edición en español.
 - Espacios listos para Google AdSense (banner arriba, lateral, entre secciones y dentro de cada noticia).
 - Páginas "About" y "Privacy" (AdSense las pide), `robots.txt`, `sitemap.xml`, `ads.txt`, etiquetas para compartir en redes y modo oscuro automático.
-- Opcional: **resúmenes propios con IA** y una página por noticia, con botones para compartir en WhatsApp, X, Facebook, Telegram y LinkedIn.
+- Cada noticia se lee dentro del sitio, con botones para compartir en WhatsApp, X, Facebook, Telegram y LinkedIn. Con IA, PixelContent escribe **su propia nota con humor** sobre cada noticia.
 
 ## Verlo en tu computadora
 
@@ -59,7 +59,7 @@ Desde ahí el sitio se actualiza **cada 2 horas** sin que hagas nada. Para cambi
 AdSense revisa el sitio antes de aprobarlo, y **un sitio que solo republica RSS suele ser rechazado** por "contenido de poco valor" o "contenido copiado". Antes de solicitar:
 
 - Ten el sitio publicado en tu dominio, con `https`, y las páginas About y Privacy (ya vienen incluidas).
-- Activa los resúmenes propios con IA (siguiente sección), para que haya páginas con texto original.
+- Activa las notas propias con IA (siguiente sección), para que haya páginas con texto original.
 - Déjalo funcionando 2 a 4 semanas para que Google lo indexe. Ayuda darlo de alta en Google Search Console y enviar `https://tudominio.com/sitemap.xml`.
 
 ### Paso 1: solicitar y verificar el sitio
@@ -93,21 +93,32 @@ Si te visitan desde Europa o Reino Unido, Google exige un aviso de consentimient
 
 AdSense paga por cada mil anuncios vistos y por clics; la cantidad depende del país del visitante y del tema (finanzas y tecnología pagan de lo mejor). El tráfico llega sobre todo de compartir en redes y de Google.
 
-## Resúmenes propios con IA (opcional)
+## Notas propias de PixelContent (con IA)
 
-Con una clave de la API de Claude, el sitio escribe para las noticias más importantes un titular, un resumen original, "por qué importa", 3 puntos clave y etiquetas, y crea una página propia para cada una. Cada noticia se resume una sola vez.
+Cada noticia que llega por los RSS tiene su página dentro del sitio, y todos los enlaces llevan ahí: el lector no sale de PixelContent.
 
-1. Crea una clave en console.anthropic.com.
-2. En GitHub: **Settings → Secrets and variables → Actions → Secrets → New secret**, nombre `ANTHROPIC_API_KEY`.
+Con una clave de la API de Claude, la redacción de PixelContent **escribe su propia nota** sobre las noticias más importantes. La IA lee la nota original (solo para analizarla) y la redacta desde cero, con sus propias palabras:
+- Titular y artículo de 4 a 6 párrafos con el estilo de la casa: **listo y con humor**, pero con los datos exactos y citando la fuente.
+- **"El toque Pixel":** un comentario gracioso de 1 o 2 líneas, ideal para compartir.
+- "Por qué importa", 3 puntos clave y etiquetas.
+- Las noticias de tragedias (muertes, guerras, desastres, violencia) se escriben en tono serio y sin chistes.
 
-Costo aproximado con la configuración inicial (15 noticias por idioma cada 2 horas, unas 360 al día):
+Las notas propias van primero en portada, entran al sitemap y son el contenido original que pide AdSense. Las noticias sin nota propia muestran el avance del medio con un botón a la nota original, y se marcan para que Google no las indexe. Cada noticia se redacta una sola vez.
 
-| Modelo | Variable `AI_MODEL` | Costo aprox. |
+**Activarlo:**
+1. Crea una clave en console.anthropic.com (pide agregar saldo).
+2. En GitHub: **Settings → Secrets and variables → Actions → Secrets → New repository secret**, nombre `ANTHROPIC_API_KEY`, valor tu clave.
+3. Elige el modelo con la variable `AI_MODEL` (si no la pones, usa Claude Opus 5.5).
+
+Costo aproximado escribiendo 15 notas por idioma cada 2 horas (unas 360 notas al día):
+
+| Modelo | Variable `AI_MODEL` | Costo aprox. por día |
 |---|---|---|
-| Claude Opus 5.5 (predeterminado, mejor redacción) | `claude-opus-5-5` | ~4 a 5 USD al día |
-| Claude Haiku 5.5 (unas 40 veces más barato) | `claude-haiku-5-5` | ~0.10 USD al día |
+| Claude Opus 5.5 (mejor redacción y humor) | `claude-opus-5-5` | ~11 a 14 USD |
+| Claude Sonnet 5.5 (muy buena, la mitad de precio) | `claude-sonnet-5-5` | ~6 a 7 USD |
+| Claude Haiku 5.5 (la más barata) | `claude-haiku-5-5` | ~0.30 a 0.40 USD |
 
-Puedes bajar o subir la cantidad con la variable `AI_MAX_PER_RUN`.
+Para gastar menos, baja la cantidad de notas con la variable `AI_MAX_PER_RUN` (por ejemplo `5`).
 
 ## Cambiar fuentes o categorías
 
