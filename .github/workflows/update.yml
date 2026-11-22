@@ -4,9 +4,9 @@ name: Actualizar noticias
 
 on:
   schedule:
-    # 3 veces al día (hora UTC): 11:07, 17:07 y 23:07
-    # = 5:07, 11:07 y 17:07 en Ciudad de México · 6:07, 12:07 y 18:07 en Nueva York
-    - cron: "7 11,17,23 * * *"
+    # 5 veces al día (hora UTC): 00:07, 04:07, 12:07, 16:07 y 20:07
+    # = 6:07, 10:07, 14:07, 18:07 y 22:07 en Texas (hora Central); solo escribe notas de noticias nuevas
+    - cron: "7 0,4,12,16,20 * * *"
   workflow_dispatch: {} # botón "Run workflow" para actualizar a mano
   push:
     branches: [main]
