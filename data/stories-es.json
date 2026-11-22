@@ -1,37 +1,5 @@
 [
  {
-  "id": "2936cf956ba1",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Países asiáticos toman medidas para apoyar sus mercados tras la caída de la IA",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/paises-asiaticos-toman-medidas-para-apoyar-sus-mercados-tras-la-caida-de-la-ia-3939219",
-  "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
-  "date": "2026-11-22T16:20:28.720Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 10.5,
-  "noDate": false,
-  "cluster": "2936cf956ba1"
- },
- {
-  "id": "fc4ed0d38de4",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "¿Qué significan las elecciones de mitad de mandato en EE.UU. para los inversores?",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/que-significan-las-elecciones-de-mitad-de-mandato-en-eeuu-para-los-inversores-3939221",
-  "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg",
-  "date": "2026-11-22T16:20:28.720Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 1,
-  "score": 10.5,
-  "cluster": "fc4ed0d38de4"
- },
- {
   "id": "b9dd2596db89",
   "lang": "es",
   "cat": "world",
@@ -44,7 +12,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:20:30.373Z",
   "coverage": 1,
-  "score": 10.5,
+  "score": 10.49,
   "cluster": "b9dd2596db89"
  },
  {
@@ -60,7 +28,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:18:47.036Z",
   "coverage": 1,
-  "score": 8.98,
+  "score": 8.97,
   "cluster": "d07ade836176"
  },
  {
@@ -75,7 +43,7 @@
   "date": "2026-11-22T16:16:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.98,
+  "score": 8.97,
   "noDate": false,
   "cluster": "8dcb8a5affcf"
  },
@@ -92,7 +60,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 1,
-  "score": 10.45,
+  "score": 10.44,
   "cluster": "372580360b8d"
  },
  {
@@ -108,7 +76,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 1,
-  "score": 10.4,
+  "score": 10.39,
   "cluster": "aaddd688635f"
  },
  {
@@ -140,7 +108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 1,
-  "score": 8.89,
+  "score": 8.88,
   "cluster": "e7e7437ad65a"
  },
  {
@@ -156,7 +124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 1,
-  "score": 8.89,
+  "score": 8.88,
   "cluster": "9bdcd55c9b8c"
  },
  {
@@ -172,7 +140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 1,
-  "score": 10.38,
+  "score": 10.37,
   "cluster": "2df1c2602fbd"
  },
  {
@@ -188,8 +156,24 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 1,
-  "score": 11.88,
+  "score": 11.87,
   "cluster": "be8e616b5740"
+ },
+ {
+  "id": "fc4ed0d38de4",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Qué significan las elecciones de mitad de mandato en EE.UU. para los inversores?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/que-significan-las-elecciones-de-mitad-de-mandato-en-eeuu-para-los-inversores-3939221",
+  "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg",
+  "date": "2026-11-22T15:56:18.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T16:11:56.564Z",
+  "coverage": 1,
+  "score": 10.36,
+  "cluster": "fc4ed0d38de4"
  },
  {
   "id": "713df6411a07",
@@ -204,7 +188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 3,
-  "score": 16.36,
+  "score": 16.35,
   "cluster": "4921c7d24811"
  },
  {
@@ -220,7 +204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T15:52:16.880Z",
   "coverage": 2,
-  "score": 13.33,
+  "score": 13.32,
   "cluster": "8db97795c0e4"
  },
  {
@@ -267,7 +251,7 @@
   "date": "2026-11-22T15:31:08.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 10.23,
+  "score": 10.22,
   "noDate": false,
   "cluster": "01ce09b0048c"
  },
@@ -299,7 +283,7 @@
   "date": "2026-11-22T15:15:45.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 11.64,
+  "score": 11.63,
   "noDate": false,
   "cluster": "98471f025600"
  },
@@ -315,9 +299,25 @@
   "date": "2026-11-22T15:13:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 10.13,
+  "score": 10.12,
   "noDate": false,
   "cluster": "5206d6d73cf4"
+ },
+ {
+  "id": "2936cf956ba1",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Países asiáticos toman medidas para apoyar sus mercados tras la caída de la IA",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/paises-asiaticos-toman-medidas-para-apoyar-sus-mercados-tras-la-caida-de-la-ia-3939219",
+  "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
+  "date": "2026-11-22T15:12:43.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 1,
+  "score": 10.12,
+  "noDate": false,
+  "cluster": "2936cf956ba1"
  },
  {
   "id": "e93e138d4e75",
@@ -331,7 +331,7 @@
   "date": "2026-11-22T15:12:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.62,
+  "score": 8.61,
   "noDate": false,
   "cluster": "e93e138d4e75"
  },
@@ -347,7 +347,7 @@
   "date": "2026-11-22T15:10:17.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 10.11,
+  "score": 10.1,
   "noDate": false,
   "cluster": "1d7dcd142bf5"
  },
@@ -363,25 +363,9 @@
   "date": "2026-11-22T15:10:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 10.11,
+  "score": 10.1,
   "noDate": false,
   "cluster": "8902b96724a8"
- },
- {
-  "id": "325d5e1bab76",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "¿Debería comprar la caída del cobre? Por qué UBS apuesta por posiciones largas",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/deberia-comprar-la-caida-del-cobre-por-que-ubs-apuesta-por-posiciones-largas-3939184",
-  "image": "https://content-media.investing.com/news/copper3_M_1440050118.jpg",
-  "date": "2026-11-22T15:09:20.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 8.6,
-  "noDate": false,
-  "cluster": "325d5e1bab76"
  },
  {
   "id": "145aac61afd2",
@@ -395,7 +379,7 @@
   "date": "2026-11-22T15:08:10.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 10.1,
+  "score": 10.09,
   "noDate": false,
   "cluster": "145aac61afd2"
  },
@@ -448,22 +432,6 @@
   "cluster": "8250783d8176"
  },
  {
-  "id": "85bf9a34b4ce",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "5 grandes movimientos de analistas en IA: bajada de Nvidia y Anthropic como \"empresa generacional\"",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-bajada-de-nvidia-y-anthropic-como-empresa-generacional-3939170",
-  "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-  "date": "2026-11-22T15:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 10.05,
-  "noDate": false,
-  "cluster": "85bf9a34b4ce"
- },
- {
   "id": "3558038451db",
   "lang": "es",
   "cat": "tech",
@@ -508,24 +476,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 3,
-  "score": 14.53,
+  "score": 14.52,
   "cluster": "f39afb87caed"
- },
- {
-  "id": "9ddd66ff2ed7",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "La inflación suiza se acelera y el BNS alerta sobre presiones generalizadas",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/la-inflacion-suiza-se-acelera-y-el-bns-alerta-sobre-presiones-generalizadas-3939177",
-  "image": "https://content-media.investing.com/news/swiss_national_bank_M_1440051429.jpg",
-  "date": "2026-11-22T14:51:37.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 10.01,
-  "noDate": false,
-  "cluster": "9ddd66ff2ed7"
  },
  {
   "id": "2352bda132c6",
@@ -571,7 +523,7 @@
   "date": "2026-11-22T14:40:43.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 8.95,
+  "score": 8.94,
   "noDate": false,
   "cluster": "346992e82e23"
  },
@@ -635,7 +587,7 @@
   "date": "2026-11-22T14:36:11.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.42,
+  "score": 8.41,
   "noDate": false,
   "cluster": "c9235eea3e76"
  },
@@ -651,7 +603,7 @@
   "date": "2026-11-22T14:35:49.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.42,
+  "score": 8.41,
   "noDate": false,
   "cluster": "3917363b9e02"
  },
@@ -667,7 +619,7 @@
   "date": "2026-11-22T14:33:30.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 12.91,
+  "score": 12.9,
   "noDate": false,
   "cluster": "11e07325840c"
  },
@@ -683,7 +635,7 @@
   "date": "2026-11-22T14:27:06.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 8.37,
+  "score": 8.36,
   "noDate": false,
   "cluster": "1a5a38c9ca19"
  },
@@ -699,7 +651,7 @@
   "date": "2026-11-22T14:25:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 8.36,
+  "score": 8.35,
   "noDate": false,
   "cluster": "54d2ac148f6b"
  },
@@ -715,7 +667,7 @@
   "date": "2026-11-22T14:24:31.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 9.86,
+  "score": 9.85,
   "noDate": false,
   "cluster": "84e58c3adaba"
  },
@@ -763,7 +715,7 @@
   "date": "2026-11-22T14:20:58.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.34,
+  "score": 8.33,
   "noDate": false,
   "cluster": "1d4851654111"
  },
@@ -795,7 +747,7 @@
   "date": "2026-11-22T14:16:25.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 9.81,
+  "score": 9.8,
   "noDate": false,
   "cluster": "da2f50408900"
  },
@@ -811,7 +763,7 @@
   "date": "2026-11-22T14:16:25.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.31,
+  "score": 8.3,
   "noDate": false,
   "cluster": "3a662c129eba"
  },
@@ -827,7 +779,7 @@
   "date": "2026-11-22T14:16:17.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.31,
+  "score": 8.3,
   "noDate": false,
   "cluster": "6a52ff977d8c"
  },
@@ -843,7 +795,7 @@
   "date": "2026-11-22T14:14:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 9.8,
+  "score": 9.79,
   "noDate": false,
   "cluster": "cdb2abf90477"
  },
@@ -907,7 +859,7 @@
   "date": "2026-11-22T14:03:27.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 9.74,
+  "score": 9.73,
   "noDate": false,
   "cluster": "6b7650379082"
  },
@@ -923,7 +875,7 @@
   "date": "2026-11-22T14:01:47.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.23,
+  "score": 8.22,
   "noDate": false,
   "cluster": "009a9ae59605"
  },
@@ -955,7 +907,7 @@
   "date": "2026-11-22T14:00:13.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.21,
   "noDate": false,
   "cluster": "1d7fbb07e60b"
  },
@@ -971,7 +923,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 11.22,
+  "score": 11.21,
   "noDate": false,
   "cluster": "86d198548648"
  },
@@ -987,7 +939,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.21,
   "noDate": false,
   "cluster": "8e22055828cc"
  },
@@ -1003,7 +955,7 @@
   "date": "2026-11-22T13:52:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.18,
+  "score": 8.17,
   "noDate": false,
   "cluster": "d2348a1dd07a"
  },
@@ -1019,7 +971,7 @@
   "date": "2026-11-22T13:50:46.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.17,
+  "score": 8.16,
   "noDate": false,
   "cluster": "af45cfce99e0"
  },
@@ -1067,7 +1019,7 @@
   "date": "2026-11-22T13:42:15.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.12,
+  "score": 8.11,
   "noDate": false,
   "cluster": "ef9304652119"
  },
@@ -1083,7 +1035,7 @@
   "date": "2026-11-22T13:42:12.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 8.12,
+  "score": 8.11,
   "noDate": false,
   "cluster": "70247e7c30da"
  },
@@ -1099,7 +1051,7 @@
   "date": "2026-11-22T13:38:22.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 9.6,
+  "score": 9.59,
   "noDate": false,
   "cluster": "dbf371950a97"
  },
@@ -1131,7 +1083,7 @@
   "date": "2026-11-22T13:34:16.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 8.08,
+  "score": 8.07,
   "noDate": false,
   "cluster": "29b997453558"
  },
@@ -1147,7 +1099,7 @@
   "date": "2026-11-22T13:30:30.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 8.06,
+  "score": 8.05,
   "noDate": false,
   "cluster": "60134454a691"
  },
@@ -1179,7 +1131,7 @@
   "date": "2026-11-22T13:29:29.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.05,
+  "score": 7.04,
   "noDate": false,
   "cluster": "353d61a2e8df"
  },
@@ -1195,7 +1147,7 @@
   "date": "2026-11-22T13:29:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 9.55,
+  "score": 9.54,
   "noDate": false,
   "cluster": "061d8b527be6"
  },
@@ -1211,7 +1163,7 @@
   "date": "2026-11-22T13:26:54.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 8.04,
+  "score": 8.03,
   "noDate": false,
   "cluster": "c120ec1021ad"
  },
@@ -1229,7 +1181,7 @@
   "coverage": 2,
   "score": 12.53,
   "noDate": false,
-  "cluster": "87eedae1f4d8"
+  "cluster": "6b755158b732"
  },
  {
   "id": "c007e639052b",
@@ -1243,7 +1195,7 @@
   "date": "2026-11-22T13:26:06.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 8.03,
+  "score": 8.02,
   "noDate": false,
   "cluster": "c007e639052b"
  },
@@ -1259,7 +1211,7 @@
   "date": "2026-11-22T13:23:33.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 6,
-  "score": 23.02,
+  "score": 23.01,
   "noDate": false,
   "cluster": "d4e5cd285517"
  },
@@ -1291,7 +1243,7 @@
   "date": "2026-11-22T13:20:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 9.5,
+  "score": 9.49,
   "noDate": false,
   "cluster": "49b78cc0e443"
  },
@@ -1307,7 +1259,7 @@
   "date": "2026-11-22T13:14:51.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 4,
-  "score": 19.97,
+  "score": 19.96,
   "noDate": false,
   "cluster": "11e07325840c"
  },
@@ -1323,7 +1275,7 @@
   "date": "2026-11-22T13:14:24.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 9.47,
+  "score": 9.46,
   "noDate": false,
   "cluster": "bb54a394f45e"
  },
@@ -1371,7 +1323,7 @@
   "date": "2026-11-22T13:09:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 10.94,
+  "score": 10.93,
   "noDate": false,
   "cluster": "d211f01e720e"
  },
@@ -1387,7 +1339,7 @@
   "date": "2026-11-22T13:07:30.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 4,
-  "score": 18.43,
+  "score": 18.42,
   "noDate": false,
   "cluster": "ce79b673eddc"
  },
@@ -1403,7 +1355,7 @@
   "date": "2026-11-22T13:03:33.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 7.91,
+  "score": 7.9,
   "noDate": false,
   "cluster": "8b1eafb61b07"
  },
@@ -1419,7 +1371,7 @@
   "date": "2026-11-22T13:00:29.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 10.89,
+  "score": 10.88,
   "noDate": false,
   "cluster": "b836d6d9e102"
  },
@@ -1435,7 +1387,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 10.89,
+  "score": 10.88,
   "noDate": false,
   "cluster": "e75bbfc9eeff"
  },
@@ -1451,7 +1403,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.89,
+  "score": 7.88,
   "noDate": false,
   "cluster": "587934f5ac4d"
  },
@@ -1467,25 +1419,9 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 7.89,
+  "score": 7.88,
   "noDate": false,
   "cluster": "156ebca31bbf"
- },
- {
-  "id": "66d229941f45",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "¿Seguirá la economía superando a la geopolítica?",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/seguira-la-economia-superando-a-la-geopolitica-3939164",
-  "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-  "date": "2026-11-22T12:57:01.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 7.87,
-  "noDate": false,
-  "cluster": "66d229941f45"
  },
  {
   "id": "906e02b6485e",
@@ -1499,7 +1435,7 @@
   "date": "2026-11-22T12:51:26.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 7.84,
+  "score": 7.83,
   "noDate": false,
   "cluster": "906e02b6485e"
  },
@@ -1531,7 +1467,7 @@
   "date": "2026-11-22T12:47:17.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.82,
+  "score": 7.81,
   "noDate": false,
   "cluster": "ecf365702d58"
  },
@@ -1563,7 +1499,7 @@
   "date": "2026-11-22T12:46:10.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 10.81,
+  "score": 10.8,
   "noDate": false,
   "cluster": "483fe944eb0b"
  },
@@ -1579,7 +1515,7 @@
   "date": "2026-11-22T12:46:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 7.81,
+  "score": 7.8,
   "noDate": false,
   "cluster": "5e7d442440bc"
  },
@@ -1627,7 +1563,7 @@
   "date": "2026-11-22T12:40:53.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 9.28,
+  "score": 9.27,
   "noDate": false,
   "cluster": "0db7ebcc330f"
  },
@@ -1643,7 +1579,7 @@
   "date": "2026-11-22T12:35:29.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 10.75,
+  "score": 10.74,
   "noDate": false,
   "cluster": "66837cb4ad58"
  },
@@ -1723,7 +1659,7 @@
   "date": "2026-11-22T12:30:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.72,
+  "score": 7.71,
   "noDate": false,
   "cluster": "3d3d856f5a59"
  },
@@ -1739,7 +1675,7 @@
   "date": "2026-11-22T12:29:19.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 9.22,
+  "score": 9.21,
   "noDate": false,
   "cluster": "a1b74a9ca63b"
  },
@@ -1771,7 +1707,7 @@
   "date": "2026-11-22T12:20:26.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 12.17,
+  "score": 12.16,
   "noDate": false,
   "cluster": "d2cf0c12191e"
  },
@@ -1787,7 +1723,7 @@
   "date": "2026-11-22T12:17:30.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.65,
+  "score": 7.64,
   "noDate": false,
   "cluster": "a0c55898253f"
  },
@@ -1803,7 +1739,7 @@
   "date": "2026-11-22T12:16:44.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.65,
+  "score": 7.64,
   "noDate": false,
   "cluster": "0c7b11784af6"
  },
@@ -1819,7 +1755,7 @@
   "date": "2026-11-22T12:15:26.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.64,
+  "score": 7.63,
   "noDate": false,
   "cluster": "40735dae0e87"
  },
@@ -1835,7 +1771,7 @@
   "date": "2026-11-22T12:12:20.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 7.62,
+  "score": 7.61,
   "noDate": false,
   "cluster": "089fa89e4277"
  },
@@ -1851,7 +1787,7 @@
   "date": "2026-11-22T12:10:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 9.11,
+  "score": 9.1,
   "noDate": false,
   "cluster": "a58aef928441"
  },
@@ -1872,22 +1808,6 @@
   "cluster": "695ef947fa69"
  },
  {
-  "id": "73c79fd2124e",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "¿Está perdiendo fuerza el auge de la IA en los mercados emergentes?",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/esta-perdiendo-fuerza-el-auge-de-la-ia-en-los-mercados-emergentes-3939158",
-  "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg",
-  "date": "2026-11-22T12:04:20.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 9.08,
-  "noDate": false,
-  "cluster": "73c79fd2124e"
- },
- {
   "id": "0da8277401e6",
   "lang": "es",
   "cat": "gadgets",
@@ -1899,7 +1819,7 @@
   "date": "2026-11-22T12:02:25.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 12.07,
+  "score": 12.06,
   "noDate": false,
   "cluster": "0da8277401e6"
  },
@@ -1995,7 +1915,7 @@
   "date": "2026-11-22T11:55:30.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 10.53,
+  "score": 10.52,
   "noDate": false,
   "cluster": "d12c07abd058"
  },
@@ -2011,7 +1931,7 @@
   "date": "2026-11-22T11:48:24.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.49,
+  "score": 7.48,
   "noDate": false,
   "cluster": "55ce3c6a1f65"
  },
@@ -2043,7 +1963,7 @@
   "date": "2026-11-22T11:46:23.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.48,
+  "score": 7.47,
   "noDate": false,
   "cluster": "e013b5b9d6c7"
  },
@@ -2107,7 +2027,7 @@
   "date": "2026-11-22T11:33:48.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 3,
-  "score": 13.41,
+  "score": 13.4,
   "noDate": false,
   "cluster": "bb67bd89ae62"
  },
@@ -2123,7 +2043,7 @@
   "date": "2026-11-22T11:32:31.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 11.9,
+  "score": 11.89,
   "noDate": false,
   "cluster": "14c41dbc3fd1"
  },
@@ -2155,7 +2075,7 @@
   "date": "2026-11-22T11:30:53.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.39,
+  "score": 7.38,
   "noDate": false,
   "cluster": "cf63d5652c71"
  },
@@ -2171,7 +2091,7 @@
   "date": "2026-11-22T11:30:34.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.39,
+  "score": 7.38,
   "noDate": false,
   "cluster": "5519d13604e9"
  },
@@ -2187,7 +2107,7 @@
   "date": "2026-11-22T11:30:26.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.39,
+  "score": 7.38,
   "noDate": false,
   "cluster": "8dd3bcbfe0d1"
  },
@@ -2203,7 +2123,7 @@
   "date": "2026-11-22T11:28:13.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 8.88,
+  "score": 8.87,
   "noDate": false,
   "cluster": "39b2fdb5c1ee"
  },
@@ -2235,7 +2155,7 @@
   "date": "2026-11-22T11:17:44.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.82,
+  "score": 8.81,
   "noDate": false,
   "cluster": "2745b7c71ade"
  },
@@ -2251,7 +2171,7 @@
   "date": "2026-11-22T11:15:34.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.31,
+  "score": 7.3,
   "noDate": false,
   "cluster": "bc8886660299"
  },
@@ -2299,7 +2219,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.22,
+  "score": 7.21,
   "noDate": false,
   "cluster": "7290f69af7c6"
  },
@@ -2315,7 +2235,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 7.22,
+  "score": 7.21,
   "noDate": false,
   "cluster": "5a150803f74d"
  },
@@ -2331,7 +2251,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 7.22,
+  "score": 7.21,
   "noDate": false,
   "cluster": "b24ef1e48f07"
  },
@@ -2411,7 +2331,7 @@
   "date": "2026-11-22T10:04:23.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 4,
-  "score": 3.91,
+  "score": 3.9,
   "noDate": false,
   "cluster": "b0e7353f5018"
  },
@@ -2427,7 +2347,7 @@
   "date": "2026-11-22T10:02:27.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.9,
+  "score": 6.89,
   "noDate": false,
   "cluster": "13a0d8bb41b7"
  },
@@ -2443,7 +2363,7 @@
   "date": "2026-11-22T10:02:24.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.9,
+  "score": 5.89,
   "noDate": false,
   "cluster": "4f78958619d8"
  },
@@ -2459,7 +2379,7 @@
   "date": "2026-11-22T10:00:28.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 9.89,
+  "score": 9.88,
   "noDate": false,
   "cluster": "8318c53fe69f"
  },
@@ -2475,7 +2395,7 @@
   "date": "2026-11-22T10:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 9.89,
+  "score": 9.88,
   "noDate": false,
   "cluster": "695ef947fa69"
  },
@@ -2491,7 +2411,7 @@
   "date": "2026-11-22T09:57:06.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.87,
+  "score": 6.86,
   "noDate": false,
   "cluster": "9bc04871dab0"
  },
@@ -2507,7 +2427,7 @@
   "date": "2026-11-22T09:56:40.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 9.87,
+  "score": 9.86,
   "noDate": false,
   "cluster": "158d125c0084"
  },
@@ -2523,7 +2443,7 @@
   "date": "2026-11-22T09:46:25.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 6.81,
+  "score": 6.8,
   "noDate": false,
   "cluster": "59ac95f8b633"
  },
@@ -2539,7 +2459,7 @@
   "date": "2026-11-22T09:45:42.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 6.81,
+  "score": 6.8,
   "noDate": false,
   "cluster": "e15338e81e37"
  },
@@ -2587,7 +2507,7 @@
   "date": "2026-11-22T09:30:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 11.22,
+  "score": 11.21,
   "noDate": false,
   "cluster": "706795d23656"
  },
@@ -2603,7 +2523,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 6,
-  "score": 21.72,
+  "score": 21.71,
   "noDate": false,
   "cluster": "d4e5cd285517"
  },
@@ -2619,7 +2539,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.21,
   "noDate": false,
   "cluster": "e01daebfda97"
  },
@@ -2635,7 +2555,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.72,
+  "score": 5.71,
   "noDate": false,
   "cluster": "7a7eea45bc82"
  },
@@ -2651,7 +2571,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "6d19d93e1838"
  },
@@ -2667,7 +2587,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": -5.28,
+  "score": -5.29,
   "noDate": false,
   "cluster": "f248cc456a87"
  },
@@ -2683,7 +2603,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "e25903d56349"
  },
@@ -2699,7 +2619,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "17c9234fd04f"
  },
@@ -2715,7 +2635,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "07ee615732e6"
  },
@@ -2731,7 +2651,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "fa015840ad18"
  },
@@ -2747,7 +2667,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "126a010286e6"
  },
@@ -2763,7 +2683,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": -5.28,
+  "score": -5.29,
   "noDate": false,
   "cluster": "dd0e130cf3b1"
  },
@@ -2779,7 +2699,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "75cd300e8362"
  },
@@ -2795,7 +2715,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 9.72,
+  "score": 9.71,
   "noDate": false,
   "cluster": "25e65cf7b517"
  },
@@ -2811,7 +2731,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "13effdf622b1"
  },
@@ -2827,7 +2747,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.21,
   "noDate": false,
   "cluster": "17e435742441"
  },
@@ -2843,7 +2763,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "0a466e9fdd4a"
  },
@@ -2859,7 +2779,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "7dde727664e7"
  },
@@ -2875,7 +2795,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "43e2c04b99e8"
  },
@@ -2891,7 +2811,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "8aba44edf8ee"
  },
@@ -2907,7 +2827,7 @@
   "date": "2026-11-22T09:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.71,
   "noDate": false,
   "cluster": "aef0930b0c2f"
  },
@@ -2926,6 +2846,22 @@
   "score": 12.62,
   "noDate": false,
   "cluster": "4921c7d24811"
+ },
+ {
+  "id": "325d5e1bab76",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Debería comprar la caída del cobre? Por qué UBS apuesta por posiciones largas",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/deberia-comprar-la-caida-del-cobre-por-que-ubs-apuesta-por-posiciones-largas-3939184",
+  "image": "https://content-media.investing.com/news/copper3_M_1440050118.jpg",
+  "date": "2026-11-22T09:09:20.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 1,
+  "score": 6.6,
+  "noDate": false,
+  "cluster": "325d5e1bab76"
  },
  {
   "id": "794fe3d5f7e0",
@@ -2955,7 +2891,7 @@
   "date": "2026-11-22T09:01:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 8.06,
+  "score": 8.05,
   "noDate": false,
   "cluster": "c9403f29400c"
  },
@@ -2974,6 +2910,22 @@
   "score": 8.05,
   "noDate": false,
   "cluster": "da351b004d3d"
+ },
+ {
+  "id": "85bf9a34b4ce",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "5 grandes movimientos de analistas en IA: bajada de Nvidia y Anthropic como \"empresa generacional\"",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-bajada-de-nvidia-y-anthropic-como-empresa-generacional-3939170",
+  "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+  "date": "2026-11-22T09:00:00.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 1,
+  "score": 8.05,
+  "noDate": false,
+  "cluster": "85bf9a34b4ce"
  },
  {
   "id": "ab77914be679",
@@ -3008,6 +2960,22 @@
   "cluster": "d540191250a6"
  },
  {
+  "id": "9ddd66ff2ed7",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "La inflación suiza se acelera y el BNS alerta sobre presiones generalizadas",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/la-inflacion-suiza-se-acelera-y-el-bns-alerta-sobre-presiones-generalizadas-3939177",
+  "image": "https://content-media.investing.com/news/swiss_national_bank_M_1440051429.jpg",
+  "date": "2026-11-22T08:51:37.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 1,
+  "score": 8,
+  "noDate": false,
+  "cluster": "9ddd66ff2ed7"
+ },
+ {
   "id": "8e0568e95a5f",
   "lang": "es",
   "cat": "gadgets",
@@ -3019,7 +2987,7 @@
   "date": "2026-11-22T08:46:23.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 6.48,
+  "score": 6.47,
   "noDate": false,
   "cluster": "8e0568e95a5f"
  },
@@ -3035,7 +3003,7 @@
   "date": "2026-11-22T08:30:08.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.39,
+  "score": 6.38,
   "noDate": false,
   "cluster": "e9724e066578"
  },
@@ -3051,7 +3019,7 @@
   "date": "2026-11-22T08:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 10.89,
+  "score": 10.88,
   "noDate": false,
   "cluster": "e8fc0317af52"
  },
@@ -3067,7 +3035,7 @@
   "date": "2026-11-22T08:08:23.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 9.27,
+  "score": 9.26,
   "noDate": false,
   "cluster": "d2e2fb73426c"
  },
@@ -3115,25 +3083,9 @@
   "date": "2026-11-22T08:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 9.22,
+  "score": 9.21,
   "noDate": false,
   "cluster": "6741970b17d3"
- },
- {
-  "id": "622528303e70",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Las huelgas industriales en Alemania se amplían: IG Metall convoca a 23.000 trabajadores",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/las-huelgas-industriales-en-alemania-se-amplian-con-23000-trabajadores-convocados-por-ig-metall-3939143",
-  "image": "https://content-media.investing.com/news/LYNXNPEC4C0Q8_L.jpg",
-  "date": "2026-11-22T07:48:54.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 6.16,
-  "noDate": false,
-  "cluster": "622528303e70"
  },
  {
   "id": "aabea3632d84",
@@ -3152,22 +3104,6 @@
   "cluster": "aabea3632d84"
  },
  {
-  "id": "87eedae1f4d8",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Las acciones de IA de China pierden 1,7 billones de dólares en la caída tecnológica",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-ia-de-china-pierden-17-billones-de-dolares-en-la-caida-tecnologica-3939137",
-  "image": "https://content-media.investing.com/news/LYNXNPEE9A072_L.jpg",
-  "date": "2026-11-22T07:09:28.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 2,
-  "score": 13.44,
-  "noDate": false,
-  "cluster": "87eedae1f4d8"
- },
- {
   "id": "ff3e91b8ea8a",
   "lang": "es",
   "cat": "tech",
@@ -3179,7 +3115,7 @@
   "date": "2026-11-22T07:02:22.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 8.9,
+  "score": 8.89,
   "noDate": false,
   "cluster": "695ef947fa69"
  },
@@ -3195,7 +3131,7 @@
   "date": "2026-11-22T07:00:06.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.89,
+  "score": 5.88,
   "noDate": false,
   "cluster": "8c946c56d8e0"
  },
@@ -3211,9 +3147,25 @@
   "date": "2026-11-22T07:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 5.89,
+  "score": 5.88,
   "noDate": false,
   "cluster": "4b1f0c0692a3"
+ },
+ {
+  "id": "66d229941f45",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Seguirá la economía superando a la geopolítica?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/seguira-la-economia-superando-a-la-geopolitica-3939164",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+  "date": "2026-11-22T06:57:01.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 1,
+  "score": 5.86,
+  "noDate": false,
+  "cluster": "66d229941f45"
  },
  {
   "id": "06aa5067d566",
@@ -3243,7 +3195,7 @@
   "date": "2026-11-22T06:44:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 8.8,
+  "score": 8.79,
   "noDate": false,
   "cluster": "bfcbb5fd3049"
  },
@@ -3259,7 +3211,7 @@
   "date": "2026-11-22T06:40:22.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 5.78,
+  "score": 5.77,
   "noDate": false,
   "cluster": "fed23dad92e3"
  },
@@ -3275,9 +3227,25 @@
   "date": "2026-11-22T06:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 5.64,
+  "score": 5.63,
   "noDate": false,
   "cluster": "7cf13bede8cb"
+ },
+ {
+  "id": "73c79fd2124e",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Está perdiendo fuerza el auge de la IA en los mercados emergentes?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/esta-perdiendo-fuerza-el-auge-de-la-ia-en-los-mercados-emergentes-3939158",
+  "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg",
+  "date": "2026-11-22T06:04:20.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 1,
+  "score": 7.07,
+  "noDate": false,
+  "cluster": "73c79fd2124e"
  },
  {
   "id": "301a47dbec8c",
@@ -3328,22 +3296,6 @@
   "cluster": "fa5159852d3c"
  },
  {
-  "id": "acc128778c57",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Qué esperar de las elecciones anticipadas en España",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/que-esperar-de-las-elecciones-anticipadas-en-espana-3939125",
-  "image": "https://content-media.investing.com/news/LYNXMPEE102JT_M.jpg",
-  "date": "2026-11-22T05:57:24.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 2,
-  "score": 10.04,
-  "noDate": false,
-  "cluster": "acc128778c57"
- },
- {
   "id": "abc386c9ac53",
   "lang": "es",
   "cat": "world",
@@ -3355,7 +3307,7 @@
   "date": "2026-11-22T05:30:04.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.39,
+  "score": 5.38,
   "noDate": false,
   "cluster": "abc386c9ac53"
  },
@@ -3371,7 +3323,7 @@
   "date": "2026-11-22T05:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 3,
-  "score": 12.89,
+  "score": 12.88,
   "noDate": false,
   "cluster": "99d058e8fa7f"
  },
@@ -3403,7 +3355,7 @@
   "date": "2026-11-22T05:16:20.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.31,
+  "score": 5.3,
   "noDate": false,
   "cluster": "0190af63dae7"
  },
@@ -3435,7 +3387,7 @@
   "date": "2026-11-22T05:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 5.22,
+  "score": 5.21,
   "noDate": false,
   "cluster": "34d60bdf6fe3"
  },
@@ -3451,7 +3403,7 @@
   "date": "2026-11-22T04:58:07.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.21,
+  "score": 5.2,
   "noDate": false,
   "cluster": "532ce4fafa79"
  },
@@ -3483,7 +3435,7 @@
   "date": "2026-11-22T04:45:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 3,
-  "score": 12.64,
+  "score": 12.63,
   "noDate": false,
   "cluster": "a9ea22e4049b"
  },
@@ -3499,7 +3451,7 @@
   "date": "2026-11-22T04:45:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 6.64,
+  "score": 6.63,
   "noDate": false,
   "cluster": "8bf182995ce3"
  },
@@ -3515,7 +3467,7 @@
   "date": "2026-11-22T04:45:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 5.14,
+  "score": 5.13,
   "noDate": false,
   "cluster": "11227ffade2c"
  },
@@ -3531,7 +3483,7 @@
   "date": "2026-11-22T04:43:16.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.13,
+  "score": 5.12,
   "noDate": false,
   "cluster": "826bfc604150"
  },
@@ -3547,7 +3499,7 @@
   "date": "2026-11-22T04:41:32.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.12,
+  "score": 5.11,
   "noDate": false,
   "cluster": "d9f2e49f3a3c"
  },
@@ -3563,7 +3515,7 @@
   "date": "2026-11-22T04:40:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 5.11,
+  "score": 5.1,
   "noDate": false,
   "cluster": "fb03e72baf71"
  },
@@ -3579,7 +3531,7 @@
   "date": "2026-11-22T04:40:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 6.61,
+  "score": 6.6,
   "noDate": false,
   "cluster": "dfb2a26aad6c"
  },
@@ -3595,7 +3547,7 @@
   "date": "2026-11-22T04:40:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 5.11,
+  "score": 5.1,
   "noDate": false,
   "cluster": "86ef1db23e41"
  },
@@ -3611,7 +3563,7 @@
   "date": "2026-11-22T04:40:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 3,
-  "score": 11.11,
+  "score": 11.1,
   "noDate": false,
   "cluster": "30a6166eb768"
  },
@@ -3627,7 +3579,7 @@
   "date": "2026-11-22T04:40:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 2,
-  "score": 8.11,
+  "score": 8.1,
   "noDate": false,
   "cluster": "1a3d3651c914"
  },
@@ -3675,7 +3627,7 @@
   "date": "2026-11-22T04:31:21.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 5,
-  "score": 20.06,
+  "score": 20.05,
   "noDate": false,
   "cluster": "8318c53fe69f"
  },
@@ -3691,7 +3643,7 @@
   "date": "2026-11-22T04:31:05.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 5.06,
+  "score": 5.05,
   "noDate": false,
   "cluster": "b609df0826b0"
  },
@@ -4139,7 +4091,7 @@
   "date": "2026-11-22T04:29:44.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 5.05,
+  "score": 5.04,
   "noDate": false,
   "cluster": "f9ff19a1f852"
  },
@@ -4155,7 +4107,7 @@
   "date": "2026-11-22T04:29:03.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 5.05,
+  "score": 5.04,
   "noDate": false,
   "cluster": "8a3d83e0d2f1"
  },
@@ -4187,7 +4139,7 @@
   "date": "2026-11-22T04:02:12.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 7.9,
+  "score": 7.89,
   "noDate": false,
   "cluster": "7d3d4932ce1e"
  },
@@ -4267,7 +4219,7 @@
   "date": "2026-11-22T02:55:18.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 9.03,
+  "score": 9.02,
   "noDate": false,
   "cluster": "600cbc81ea24"
  },
@@ -4283,7 +4235,7 @@
   "date": "2026-11-22T02:49:52.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 4.5,
+  "score": 4.49,
   "noDate": false,
   "cluster": "a1cd0df5f33f"
  },
@@ -4315,7 +4267,7 @@
   "date": "2026-11-22T02:35:38.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 8.92,
+  "score": 8.91,
   "noDate": false,
   "cluster": "52fea5a3d240"
  },
@@ -4331,7 +4283,7 @@
   "date": "2026-11-22T02:33:37.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 4.41,
+  "score": 4.4,
   "noDate": false,
   "cluster": "f38a9de170bb"
  },
@@ -4347,7 +4299,7 @@
   "date": "2026-11-22T02:03:25.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 5.74,
+  "score": 5.73,
   "noDate": false,
   "cluster": "ce2f66dbcaec"
  },
@@ -4379,9 +4331,25 @@
   "date": "2026-11-22T01:48:59.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 6,
-  "score": 19.16,
+  "score": 19.15,
   "noDate": false,
   "cluster": "d4e5cd285517"
+ },
+ {
+  "id": "622528303e70",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Las huelgas industriales en Alemania se amplían: IG Metall convoca a 23.000 trabajadores",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/las-huelgas-industriales-en-alemania-se-amplian-con-23000-trabajadores-convocados-por-ig-metall-3939143",
+  "image": "https://content-media.investing.com/news/LYNXNPEC4C0Q8_L.jpg",
+  "date": "2026-11-22T01:48:54.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 1,
+  "score": 4.15,
+  "noDate": false,
+  "cluster": "622528303e70"
  },
  {
   "id": "0e8ab47d490a",
@@ -4411,7 +4379,7 @@
   "date": "2026-11-22T01:35:58.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 4.09,
+  "score": 4.08,
   "noDate": false,
   "cluster": "2301e284a460"
  },
@@ -4427,7 +4395,7 @@
   "date": "2026-11-22T01:30:32.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 4.06,
+  "score": 4.05,
   "noDate": false,
   "cluster": "2bcfabc9072c"
  },
@@ -4443,9 +4411,25 @@
   "date": "2026-11-22T01:22:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 4.01,
+  "score": 4,
   "noDate": false,
   "cluster": "87eea02960c5"
+ },
+ {
+  "id": "87eedae1f4d8",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Las acciones de IA de China pierden 1,7 billones de dólares en la caída tecnológica",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-ia-de-china-pierden-17-billones-de-dolares-en-la-caida-tecnologica-3939137",
+  "image": "https://content-media.investing.com/news/LYNXNPEE9A072_L.jpg",
+  "date": "2026-11-22T01:09:28.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 2,
+  "score": 11.43,
+  "noDate": false,
+  "cluster": "6b755158b732"
  },
  {
   "id": "11fd5dd19b88",
@@ -4475,7 +4459,7 @@
   "date": "2026-11-22T00:53:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.35,
+  "score": 5.34,
   "noDate": false,
   "cluster": "66a4acf09a25"
  },
@@ -4491,7 +4475,7 @@
   "date": "2026-11-22T00:51:31.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 4,
-  "score": 14.34,
+  "score": 14.33,
   "noDate": false,
   "cluster": "ea0609795d06"
  },
@@ -4523,7 +4507,7 @@
   "date": "2026-11-22T00:45:58.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 4,
-  "score": 14.31,
+  "score": 14.3,
   "noDate": false,
   "cluster": "ea0609795d06"
  },
@@ -4539,7 +4523,7 @@
   "date": "2026-11-22T00:45:30.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 6,
-  "score": 18.81,
+  "score": 18.8,
   "noDate": false,
   "cluster": "d4e5cd285517"
  },
@@ -4555,7 +4539,7 @@
   "date": "2026-11-22T00:44:01.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 6,
-  "score": 18.8,
+  "score": 18.79,
   "noDate": false,
   "cluster": "d4e5cd285517"
  },
@@ -4571,7 +4555,7 @@
   "date": "2026-11-22T00:29:14.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 3.72,
+  "score": 3.71,
   "noDate": false,
   "cluster": "b65159fde3b5"
  },
@@ -4587,7 +4571,7 @@
   "date": "2026-11-22T00:13:55.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.13,
+  "score": 5.12,
   "noDate": false,
   "cluster": "5e7be3916ee1"
  },
@@ -4603,7 +4587,7 @@
   "date": "2026-11-22T00:13:54.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 3.63,
+  "score": 3.62,
   "noDate": false,
   "cluster": "2fe72aebfb42"
  },
@@ -4619,7 +4603,7 @@
   "date": "2026-11-22T00:09:43.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 6,
-  "score": 18.61,
+  "score": 18.6,
   "noDate": false,
   "cluster": "d4e5cd285517"
  },
@@ -4635,7 +4619,7 @@
   "date": "2026-11-22T00:06:46.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.09,
+  "score": 5.08,
   "noDate": false,
   "cluster": "2d1a10cb4206"
  },
@@ -4651,7 +4635,7 @@
   "date": "2026-11-22T00:02:15.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 3,
-  "score": 11.07,
+  "score": 11.06,
   "noDate": false,
   "cluster": "d211f01e720e"
  },
@@ -4667,7 +4651,7 @@
   "date": "2026-11-22T00:02:14.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 3.57,
+  "score": 3.56,
   "noDate": false,
   "cluster": "90248175b6b7"
  },
@@ -4683,7 +4667,7 @@
   "date": "2026-11-22T00:02:13.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 6.57,
+  "score": 6.56,
   "noDate": false,
   "cluster": "0c9ae928da3e"
  },
@@ -4702,6 +4686,22 @@
   "score": 11.06,
   "noDate": false,
   "cluster": "5126a5a40198"
+ },
+ {
+  "id": "acc128778c57",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Qué esperar de las elecciones anticipadas en España",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/que-esperar-de-las-elecciones-anticipadas-en-espana-3939125",
+  "image": "https://content-media.investing.com/news/LYNXMPEE102JT_M.jpg",
+  "date": "2026-11-21T23:57:24.000Z",
+  "firstSeen": "2026-11-22T15:37:55.307Z",
+  "coverage": 2,
+  "score": 8.03,
+  "noDate": false,
+  "cluster": "acc128778c57"
  },
  {
   "id": "7a2d01ea7a3d",
@@ -4731,7 +4731,7 @@
   "date": "2026-11-21T23:48:39.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 4.99,
+  "score": 4.98,
   "noDate": false,
   "cluster": "f8eb59427627"
  },
@@ -4763,7 +4763,7 @@
   "date": "2026-11-21T23:32:11.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 4.9,
+  "score": 4.89,
   "noDate": false,
   "cluster": "5ff2e476e079"
  },
@@ -4779,7 +4779,7 @@
   "date": "2026-11-21T23:30:39.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 6.39,
+  "score": 6.38,
   "noDate": false,
   "cluster": "01c04a41e20b"
  },
@@ -4795,7 +4795,7 @@
   "date": "2026-11-21T23:04:55.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 3.25,
+  "score": 3.24,
   "noDate": false,
   "cluster": "5a0492683955"
  },
@@ -4891,7 +4891,7 @@
   "date": "2026-11-21T22:36:36.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 3.09,
+  "score": 3.08,
   "noDate": false,
   "cluster": "2debd47d5153"
  },
@@ -4923,7 +4923,7 @@
   "date": "2026-11-21T22:20:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 9,
+  "score": 8.99,
   "noDate": false,
   "cluster": "0dad10a6b94f"
  },
@@ -4939,7 +4939,7 @@
   "date": "2026-11-21T22:04:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 3,
-  "score": 8.91,
+  "score": 8.9,
   "noDate": false,
   "cluster": "df28cc7cd577"
  },
@@ -4955,7 +4955,7 @@
   "date": "2026-11-21T21:55:11.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 2.86,
+  "score": 2.85,
   "noDate": false,
   "cluster": "e44d6c4cef7c"
  },
@@ -4971,7 +4971,7 @@
   "date": "2026-11-21T21:53:05.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 4.35,
+  "score": 4.34,
   "noDate": false,
   "cluster": "7c4d1945ccf9"
  },
@@ -5003,7 +5003,7 @@
   "date": "2026-11-21T21:51:45.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 2.84,
+  "score": 2.83,
   "noDate": false,
   "cluster": "70178a21ec80"
  },
@@ -5019,7 +5019,7 @@
   "date": "2026-11-21T21:51:08.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 3,
-  "score": 10.34,
+  "score": 10.33,
   "noDate": false,
   "cluster": "f17ec7969068"
  },
@@ -5035,7 +5035,7 @@
   "date": "2026-11-21T21:50:56.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 2.84,
+  "score": 2.83,
   "noDate": false,
   "cluster": "aa3440b54495"
  },
@@ -5099,7 +5099,7 @@
   "date": "2026-11-21T21:17:38.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.65,
+  "score": 5.64,
   "noDate": false,
   "cluster": "598bbb10ba99"
  },
@@ -5147,7 +5147,7 @@
   "date": "2026-11-21T21:05:02.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 5.58,
+  "score": 5.57,
   "noDate": false,
   "cluster": "d119965621aa"
  },
@@ -5163,7 +5163,7 @@
   "date": "2026-11-21T21:00:29.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 2.56,
+  "score": 2.55,
   "noDate": false,
   "cluster": "d4992fe7d77f"
  },
@@ -5195,7 +5195,7 @@
   "date": "2026-11-21T19:50:54.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 2.17,
+  "score": 2.16,
   "noDate": false,
   "cluster": "80a074c655ef"
  },
@@ -5243,7 +5243,7 @@
   "date": "2026-11-21T19:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 4.89,
+  "score": 4.88,
   "noDate": false,
   "cluster": "3d8962b64612"
  },
@@ -5259,7 +5259,7 @@
   "date": "2026-11-21T19:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 2,
-  "score": 4.89,
+  "score": 4.88,
   "noDate": false,
   "cluster": "2838925203df"
  },
@@ -5275,7 +5275,7 @@
   "date": "2026-11-21T18:57:06.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 0.87,
+  "score": 0.86,
   "noDate": false,
   "cluster": "d6fe49a58d4c"
  },
@@ -5291,7 +5291,7 @@
   "date": "2026-11-21T18:55:15.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 6.36,
+  "score": 6.35,
   "noDate": false,
   "cluster": "acc128778c57"
  },
@@ -5307,7 +5307,7 @@
   "date": "2026-11-21T18:52:41.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 2,
-  "score": 4.85,
+  "score": 4.84,
   "noDate": false,
   "cluster": "3d8962b64612"
  },
@@ -5323,7 +5323,7 @@
   "date": "2026-11-21T18:48:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 1.82,
+  "score": 1.81,
   "noDate": false,
   "cluster": "b2f5aa4676e5"
  },
@@ -5339,7 +5339,7 @@
   "date": "2026-11-21T18:46:24.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 5,
-  "score": 3.31,
+  "score": 3.3,
   "noDate": false,
   "cluster": "c2121a68aecd"
  },
@@ -5371,7 +5371,7 @@
   "date": "2026-11-21T18:26:07.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 1.7,
+  "score": 1.69,
   "noDate": false,
   "cluster": "92119691bacb"
  },
@@ -5403,7 +5403,7 @@
   "date": "2026-11-21T18:22:05.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 1.68,
+  "score": 1.67,
   "noDate": false,
   "cluster": "d91852ac961d"
  },
@@ -5435,7 +5435,7 @@
   "date": "2026-11-21T18:11:29.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 1.62,
+  "score": 1.61,
   "noDate": false,
   "cluster": "13be5fde1cc8"
  },
@@ -5467,7 +5467,7 @@
   "date": "2026-11-21T18:04:09.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 1.58,
+  "score": 1.57,
   "noDate": false,
   "cluster": "23cdd2d982b4"
  },
@@ -5483,7 +5483,7 @@
   "date": "2026-11-21T18:02:23.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 1.57,
+  "score": 1.56,
   "noDate": false,
   "cluster": "74d5d03764d8"
  },
@@ -5531,7 +5531,7 @@
   "date": "2026-11-21T17:30:29.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 1.39,
+  "score": 1.38,
   "noDate": false,
   "cluster": "29fe27a2e8bd"
  },
@@ -5579,7 +5579,7 @@
   "date": "2026-11-21T17:10:25.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 1.28,
+  "score": 1.27,
   "noDate": false,
   "cluster": "051a87c6873f"
  },
@@ -5595,7 +5595,7 @@
   "date": "2026-11-21T17:05:24.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 1.25,
+  "score": 1.24,
   "noDate": false,
   "cluster": "d1bd93411a70"
  },
@@ -5611,7 +5611,7 @@
   "date": "2026-11-21T17:00:18.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 3,
-  "score": 10.22,
+  "score": 10.21,
   "noDate": false,
   "cluster": "33b9caf68887"
  },
@@ -5627,7 +5627,7 @@
   "date": "2026-11-21T17:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 3,
-  "score": 8.72,
+  "score": 8.71,
   "noDate": false,
   "cluster": "0da8277401e6"
  },
@@ -5643,7 +5643,7 @@
   "date": "2026-11-21T17:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 3,
-  "score": 7.22,
+  "score": 7.21,
   "noDate": false,
   "cluster": "8419c08cb047"
  },
@@ -5659,7 +5659,7 @@
   "date": "2026-11-21T16:57:30.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 2.71,
+  "score": 2.7,
   "noDate": false,
   "cluster": "07bd8202adf8"
  },
@@ -5723,7 +5723,7 @@
   "date": "2026-11-21T16:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 1.14,
+  "score": 1.13,
   "noDate": false,
   "cluster": "c33f95bbb4a5"
  },
@@ -5739,7 +5739,7 @@
   "date": "2026-11-21T16:39:41.000Z",
   "firstSeen": "2026-11-22T15:37:55.306Z",
   "coverage": 1,
-  "score": 2.61,
+  "score": 2.6,
   "noDate": false,
   "cluster": "4e2c8125cc14"
  },
@@ -5756,7 +5756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T15:47:45.155Z",
   "coverage": 2,
-  "score": 5.59,
+  "score": 5.58,
   "cluster": "e959d7d119c6"
  },
  {
@@ -5771,7 +5771,7 @@
   "date": "2026-11-21T16:32:20.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 1.07,
+  "score": 1.06,
   "noDate": false,
   "cluster": "544b1db5fd64"
  },
@@ -5803,7 +5803,7 @@
   "date": "2026-11-21T16:22:12.000Z",
   "firstSeen": "2026-11-22T15:37:55.307Z",
   "coverage": 1,
-  "score": 0.01,
+  "score": 0,
   "noDate": false,
   "cluster": "db18453d1d14"
  },

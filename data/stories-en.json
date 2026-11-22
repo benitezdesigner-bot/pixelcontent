@@ -1,117 +1,5 @@
 [
  {
-  "id": "cc6891ccf573",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "South Korea prepares stock market stabilization fund after Kospi plunges 5.2%",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/south-korea-prepares-stock-market-stabilization-fund-after-kospi-plunges-52-5043890",
-  "image": "https://content-media.investing.com/news/LYNXMPED220BB_M.jpg",
-  "date": "2026-11-22T16:54:22.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 3,
-  "score": 16.69,
-  "noDate": false,
-  "cluster": "cc6891ccf573"
- },
- {
-  "id": "fd4163bac27d",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Asian countries take steps to aid stock markets after AI rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
-  "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
-  "date": "2026-11-22T16:20:24.496Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 13.5,
-  "noDate": false,
-  "cluster": "fd4163bac27d"
- },
- {
-  "id": "482dfa1bff00",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ0UK_L.jpg",
-  "date": "2026-11-22T16:20:24.496Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 7,
-  "score": 27,
-  "noDate": false,
-  "cluster": "482dfa1bff00"
- },
- {
-  "id": "be824d35f3bd",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL06L_L.jpg",
-  "date": "2026-11-22T16:20:24.496Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 10.5,
-  "noDate": false,
-  "cluster": "be824d35f3bd"
- },
- {
-  "id": "4476b606161a",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.95%",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-195-5043961",
-  "image": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
-  "date": "2026-11-22T16:20:24.496Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 15,
-  "noDate": false,
-  "cluster": "4476b606161a"
- },
- {
-  "id": "0568b018cc11",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL07G_L.jpg",
-  "date": "2026-11-22T16:20:24.496Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 9,
-  "noDate": false,
-  "cluster": "0568b018cc11"
- },
- {
-  "id": "665b02d8d90f",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "What do the U.S. midterms mean for investors?",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
-  "image": "https://content-media.investing.com/news/LYNXNPEAAF009_M.jpg",
-  "date": "2026-11-22T16:20:24.496Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:54.218Z",
-  "coverage": 1,
-  "score": 9,
-  "cluster": "665b02d8d90f"
- },
- {
   "id": "432c372e603f",
   "lang": "en",
   "cat": "gadgets",
@@ -124,7 +12,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:20:28.181Z",
   "coverage": 1,
-  "score": 9,
+  "score": 8.99,
   "cluster": "432c372e603f"
  },
  {
@@ -140,7 +28,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:20:28.181Z",
   "coverage": 1,
-  "score": 8.99,
+  "score": 8.98,
   "cluster": "26541281d355"
  },
  {
@@ -156,7 +44,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:18:44.569Z",
   "coverage": 1,
-  "score": 8.97,
+  "score": 8.96,
   "cluster": "69d237384442"
  },
  {
@@ -220,7 +108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 3,
-  "score": 16.42,
+  "score": 16.41,
   "cluster": "6b8408444122"
  },
  {
@@ -235,7 +123,7 @@
   "date": "2026-11-22T16:04:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.91,
+  "score": 8.9,
   "noDate": false,
   "cluster": "c815411561d0"
  },
@@ -256,22 +144,6 @@
   "cluster": "c8ba8cb27360"
  },
  {
-  "id": "6580d386341b",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Street Calls of the Week",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5042451",
-  "image": "https://content-media.investing.com/news/Smartphone_M_1440049602.jpg",
-  "date": "2026-11-22T16:00:02.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 8.89,
-  "noDate": false,
-  "cluster": "6580d386341b"
- },
- {
   "id": "d19e1c64a568",
   "lang": "en",
   "cat": "gadgets",
@@ -284,8 +156,24 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 1,
-  "score": 8.89,
+  "score": 8.88,
   "cluster": "d19e1c64a568"
+ },
+ {
+  "id": "665b02d8d90f",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "What do the U.S. midterms mean for investors?",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
+  "image": "https://content-media.investing.com/news/LYNXNPEAAF009_M.jpg",
+  "date": "2026-11-22T15:56:18.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T16:11:54.218Z",
+  "coverage": 1,
+  "score": 8.86,
+  "cluster": "665b02d8d90f"
  },
  {
   "id": "ef68dc9e6979",
@@ -316,7 +204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T15:52:14.757Z",
   "coverage": 2,
-  "score": 11.83,
+  "score": 11.82,
   "cluster": "d293cb54e664"
  },
  {
@@ -332,7 +220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 2,
-  "score": 13.32,
+  "score": 13.31,
   "cluster": "63f7e3fe636b"
  },
  {
@@ -348,7 +236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T15:47:42.949Z",
   "coverage": 1,
-  "score": 11.82,
+  "score": 11.81,
   "cluster": "3df9e26d0976"
  },
  {
@@ -395,7 +283,7 @@
   "date": "2026-11-22T15:31:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.73,
+  "score": 11.72,
   "noDate": false,
   "cluster": "2d7d190b4c02"
  },
@@ -427,7 +315,7 @@
   "date": "2026-11-22T15:30:09.000Z",
   "firstSeen": "2026-11-22T15:44:50.042Z",
   "coverage": 1,
-  "score": 10.22,
+  "score": 10.21,
   "noDate": false,
   "cluster": "8b4a9c841d1a"
  },
@@ -443,7 +331,7 @@
   "date": "2026-11-22T15:30:00.000Z",
   "firstSeen": "2026-11-22T15:44:50.042Z",
   "coverage": 1,
-  "score": 8.72,
+  "score": 8.71,
   "noDate": false,
   "cluster": "bcf34bdaedad"
  },
@@ -459,7 +347,7 @@
   "date": "2026-11-22T15:28:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.71,
+  "score": 8.7,
   "noDate": false,
   "cluster": "d7a5485f744f"
  },
@@ -491,7 +379,7 @@
   "date": "2026-11-22T15:24:20.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.69,
+  "score": 8.68,
   "noDate": false,
   "cluster": "fc34d3031ad2"
  },
@@ -507,7 +395,7 @@
   "date": "2026-11-22T15:19:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 10.16,
+  "score": 10.15,
   "noDate": false,
   "cluster": "72f09eb75d78"
  },
@@ -523,7 +411,7 @@
   "date": "2026-11-22T15:15:07.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.64,
+  "score": 8.63,
   "noDate": false,
   "cluster": "2269595c3cbc"
  },
@@ -539,25 +427,25 @@
   "date": "2026-11-22T15:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 10.14,
+  "score": 10.13,
   "noDate": false,
   "cluster": "c20dac2fb129"
  },
  {
-  "id": "261c4915e766",
+  "id": "fd4163bac27d",
   "lang": "en",
   "cat": "markets",
   "source": "Investing.com",
-  "title": "Should you buy copper’s dip? Here’s why UBS favors long position",
+  "title": "Asian countries take steps to aid stock markets after AI rout",
   "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
-  "image": "https://content-media.investing.com/news/copper3_M_1440050118.jpg",
-  "date": "2026-11-22T15:09:20.000Z",
+  "link": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+  "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
+  "date": "2026-11-22T15:12:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 8.6,
+  "coverage": 2,
+  "score": 13.12,
   "noDate": false,
-  "cluster": "261c4915e766"
+  "cluster": "fd4163bac27d"
  },
  {
   "id": "438acf5edc56",
@@ -571,7 +459,7 @@
   "date": "2026-11-22T15:04:54.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.58,
+  "score": 8.57,
   "noDate": false,
   "cluster": "438acf5edc56"
  },
@@ -603,7 +491,7 @@
   "date": "2026-11-22T15:01:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.56,
+  "score": 8.55,
   "noDate": false,
   "cluster": "9dfd5a1985ad"
  },
@@ -619,25 +507,9 @@
   "date": "2026-11-22T15:00:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.56,
+  "score": 8.55,
   "noDate": false,
   "cluster": "07da65449f59"
- },
- {
-  "id": "8b9217c105c8",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
-  "image": "https://content-media.investing.com/news/moved_LYNXNPEMAC0W4_L.jpg",
-  "date": "2026-11-22T15:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 13.05,
-  "noDate": false,
-  "cluster": "8b9217c105c8"
  },
  {
   "id": "07194b192617",
@@ -715,7 +587,7 @@
   "date": "2026-11-22T14:57:03.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.54,
+  "score": 8.53,
   "noDate": false,
   "cluster": "5f90b56cd8f8"
  },
@@ -731,7 +603,7 @@
   "date": "2026-11-22T14:51:39.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.51,
+  "score": 8.5,
   "noDate": false,
   "cluster": "cf1a9d685762"
  },
@@ -747,7 +619,7 @@
   "date": "2026-11-22T14:51:37.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 13.01,
+  "score": 13,
   "noDate": false,
   "cluster": "363be724f1d5"
  },
@@ -779,7 +651,7 @@
   "date": "2026-11-22T14:48:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 11.49,
+  "score": 11.48,
   "noDate": false,
   "cluster": "63e4201e02da"
  },
@@ -795,7 +667,7 @@
   "date": "2026-11-22T14:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.97,
+  "score": 9.96,
   "noDate": false,
   "cluster": "5f0fb8794bae"
  },
@@ -811,7 +683,7 @@
   "date": "2026-11-22T14:41:25.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.45,
+  "score": 8.44,
   "noDate": false,
   "cluster": "ffe0cd876cfd"
  },
@@ -827,7 +699,7 @@
   "date": "2026-11-22T14:35:55.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.42,
+  "score": 8.41,
   "noDate": false,
   "cluster": "bca759dd4d9c"
  },
@@ -843,7 +715,7 @@
   "date": "2026-11-22T14:35:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.42,
+  "score": 8.41,
   "noDate": false,
   "cluster": "fb157832a472"
  },
@@ -859,7 +731,7 @@
   "date": "2026-11-22T14:34:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.41,
+  "score": 8.4,
   "noDate": false,
   "cluster": "0e0033667e08"
  },
@@ -875,7 +747,7 @@
   "date": "2026-11-22T14:33:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 14.41,
+  "score": 14.4,
   "noDate": false,
   "cluster": "f7671820ae49"
  },
@@ -891,7 +763,7 @@
   "date": "2026-11-22T14:30:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.89,
+  "score": 9.88,
   "noDate": false,
   "cluster": "b786d45dfd10"
  },
@@ -907,7 +779,7 @@
   "date": "2026-11-22T14:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.39,
+  "score": 8.38,
   "noDate": false,
   "cluster": "96218b7d40f9"
  },
@@ -923,7 +795,7 @@
   "date": "2026-11-22T14:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.39,
+  "score": 8.38,
   "noDate": false,
   "cluster": "e617de6ab327"
  },
@@ -987,7 +859,7 @@
   "date": "2026-11-22T14:15:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.81,
+  "score": 9.8,
   "noDate": false,
   "cluster": "197b0e92e5bc"
  },
@@ -1019,7 +891,7 @@
   "date": "2026-11-22T14:08:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.27,
+  "score": 8.26,
   "noDate": false,
   "cluster": "acde35f028d8"
  },
@@ -1035,7 +907,7 @@
   "date": "2026-11-22T14:05:20.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.25,
+  "score": 11.24,
   "noDate": false,
   "cluster": "cd3f9ca39c77"
  },
@@ -1051,7 +923,7 @@
   "date": "2026-11-22T14:01:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.23,
+  "score": 8.22,
   "noDate": false,
   "cluster": "d85a97bebee8"
  },
@@ -1120,6 +992,22 @@
   "cluster": "2d7d190b4c02"
  },
  {
+  "id": "482dfa1bff00",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ0UK_L.jpg",
+  "date": "2026-11-22T14:00:24.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 7,
+  "score": 26.22,
+  "noDate": false,
+  "cluster": "482dfa1bff00"
+ },
+ {
   "id": "bc4bf2d54934",
   "lang": "en",
   "cat": "markets",
@@ -1131,7 +1019,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 9.72,
+  "score": 9.71,
   "noDate": false,
   "cluster": "bc4bf2d54934"
  },
@@ -1147,7 +1035,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 8,
-  "score": 26.22,
+  "score": 26.21,
   "noDate": false,
   "cluster": "482dfa1bff00"
  },
@@ -1163,7 +1051,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.21,
   "noDate": false,
   "cluster": "08360187a8fd"
  },
@@ -1179,7 +1067,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.21,
   "noDate": false,
   "cluster": "3e9b0accb36d"
  },
@@ -1195,7 +1083,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.72,
+  "score": 9.71,
   "noDate": false,
   "cluster": "ffae009bc0b1"
  },
@@ -1211,7 +1099,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.72,
+  "score": 9.71,
   "noDate": false,
   "cluster": "f3e65377cbdf"
  },
@@ -1227,7 +1115,7 @@
   "date": "2026-11-22T13:50:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 9.67,
+  "score": 9.66,
   "noDate": false,
   "cluster": "4e724c4997d2"
  },
@@ -1259,7 +1147,7 @@
   "date": "2026-11-22T13:49:20.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.16,
+  "score": 11.15,
   "noDate": false,
   "cluster": "69216dbd1106"
  },
@@ -1275,7 +1163,7 @@
   "date": "2026-11-22T13:46:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.65,
+  "score": 9.64,
   "noDate": false,
   "cluster": "7e9e4cc10757"
  },
@@ -1291,7 +1179,7 @@
   "date": "2026-11-22T13:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.64,
+  "score": 9.63,
   "noDate": false,
   "cluster": "273a1ea81d9c"
  },
@@ -1376,22 +1264,6 @@
   "cluster": "55236dd062e1"
  },
  {
-  "id": "91e845d85895",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg",
-  "date": "2026-11-22T13:29:58.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 11.05,
-  "noDate": false,
-  "cluster": "91e845d85895"
- },
- {
   "id": "aeea368c1d81",
   "lang": "en",
   "cat": "world",
@@ -1419,9 +1291,9 @@
   "date": "2026-11-22T13:16:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 13.98,
+  "score": 13.97,
   "noDate": false,
-  "cluster": "4476b606161a"
+  "cluster": "28b5f4f8f583"
  },
  {
   "id": "abce69213c3d",
@@ -1467,7 +1339,7 @@
   "date": "2026-11-22T13:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 10.97,
+  "score": 10.96,
   "noDate": false,
   "cluster": "bddb5ebd608e"
  },
@@ -1483,7 +1355,7 @@
   "date": "2026-11-22T13:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.47,
+  "score": 9.46,
   "noDate": false,
   "cluster": "2bc6067434de"
  },
@@ -1520,6 +1392,22 @@
   "cluster": "f1c00677928e"
  },
  {
+  "id": "be824d35f3bd",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL06L_L.jpg",
+  "date": "2026-11-22T13:00:57.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 9.39,
+  "noDate": false,
+  "cluster": "be824d35f3bd"
+ },
+ {
   "id": "b7ad53f84096",
   "lang": "en",
   "cat": "politics",
@@ -1531,7 +1419,7 @@
   "date": "2026-11-22T13:00:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 13.89,
+  "score": 13.88,
   "noDate": false,
   "cluster": "b7ad53f84096"
  },
@@ -1547,7 +1435,7 @@
   "date": "2026-11-22T13:00:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 3,
-  "score": 16.89,
+  "score": 16.88,
   "noDate": false,
   "cluster": "4a1108db1694"
  },
@@ -1563,7 +1451,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 9.39,
+  "score": 9.38,
   "noDate": false,
   "cluster": "82a8a10f0807"
  },
@@ -1579,7 +1467,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.89,
+  "score": 7.88,
   "noDate": false,
   "cluster": "0f50037c76f2"
  },
@@ -1595,7 +1483,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.89,
+  "score": 7.88,
   "noDate": false,
   "cluster": "d1afb959f577"
  },
@@ -1611,7 +1499,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.89,
+  "score": 7.88,
   "noDate": false,
   "cluster": "5328c3f24e10"
  },
@@ -1627,7 +1515,7 @@
   "date": "2026-11-22T12:54:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 3.36,
+  "score": 3.35,
   "noDate": false,
   "cluster": "2d7d190b4c02"
  },
@@ -1643,9 +1531,25 @@
   "date": "2026-11-22T12:51:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 4,
-  "score": 18.34,
+  "score": 18.33,
   "noDate": false,
   "cluster": "bc5ac057c3f9"
+ },
+ {
+  "id": "4476b606161a",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.95%",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-195-5043961",
+  "image": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
+  "date": "2026-11-22T12:45:03.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 2,
+  "score": 13.8,
+  "noDate": false,
+  "cluster": "28b5f4f8f583"
  },
  {
   "id": "a3d63629e827",
@@ -1659,7 +1563,7 @@
   "date": "2026-11-22T12:40:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -4.22,
+  "score": -4.23,
   "noDate": false,
   "cluster": "a3d63629e827"
  },
@@ -1691,7 +1595,7 @@
   "date": "2026-11-22T12:31:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 12.23,
+  "score": 12.22,
   "noDate": false,
   "cluster": "3e2b016a40c9"
  },
@@ -1723,7 +1627,7 @@
   "date": "2026-11-22T12:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 9.22,
+  "score": 9.21,
   "noDate": false,
   "cluster": "113d0aee3c51"
  },
@@ -1739,7 +1643,7 @@
   "date": "2026-11-22T12:29:33.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.72,
+  "score": 7.71,
   "noDate": false,
   "cluster": "1cf4c847a4f0"
  },
@@ -1755,7 +1659,7 @@
   "date": "2026-11-22T12:27:46.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.71,
+  "score": 7.7,
   "noDate": false,
   "cluster": "94031a80a6e2"
  },
@@ -1771,7 +1675,7 @@
   "date": "2026-11-22T12:22:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.68,
+  "score": 7.67,
   "noDate": false,
   "cluster": "8bc05df59ec1"
  },
@@ -1819,7 +1723,7 @@
   "date": "2026-11-22T12:12:08.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 4,
-  "score": 18.12,
+  "score": 18.11,
   "noDate": false,
   "cluster": "f908da6e29c9"
  },
@@ -1835,9 +1739,25 @@
   "date": "2026-11-22T12:07:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.6,
+  "score": 7.59,
   "noDate": false,
   "cluster": "4bf8745996d9"
+ },
+ {
+  "id": "0568b018cc11",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL07G_L.jpg",
+  "date": "2026-11-22T12:06:21.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 7.58,
+  "noDate": false,
+  "cluster": "0568b018cc11"
  },
  {
   "id": "76f4feb05807",
@@ -1883,7 +1803,7 @@
   "date": "2026-11-22T11:50:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9,
+  "score": 8.99,
   "noDate": false,
   "cluster": "470693b3745b"
  },
@@ -1899,7 +1819,7 @@
   "date": "2026-11-22T11:46:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.98,
+  "score": 8.97,
   "noDate": false,
   "cluster": "66e999a9f0a5"
  },
@@ -1915,7 +1835,7 @@
   "date": "2026-11-22T11:44:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 13.47,
+  "score": 13.46,
   "noDate": false,
   "cluster": "de821aa0f1a3"
  },
@@ -1931,7 +1851,7 @@
   "date": "2026-11-22T11:33:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.41,
+  "score": 7.4,
   "noDate": false,
   "cluster": "0c8172c95365"
  },
@@ -1947,7 +1867,7 @@
   "date": "2026-11-22T11:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 8,
-  "score": 13.39,
+  "score": 13.38,
   "noDate": false,
   "cluster": "482dfa1bff00"
  },
@@ -1963,7 +1883,7 @@
   "date": "2026-11-22T11:25:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.86,
+  "score": 8.85,
   "noDate": false,
   "cluster": "b431ea497743"
  },
@@ -1979,7 +1899,7 @@
   "date": "2026-11-22T11:25:14.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 14.86,
+  "score": 14.85,
   "noDate": false,
   "cluster": "6b8408444122"
  },
@@ -1995,7 +1915,7 @@
   "date": "2026-11-22T11:15:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 14.81,
+  "score": 14.8,
   "noDate": false,
   "cluster": "84e6820247e8"
  },
@@ -2011,7 +1931,7 @@
   "date": "2026-11-22T11:07:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.26,
+  "score": 7.25,
   "noDate": false,
   "cluster": "c9eb381fcfbf"
  },
@@ -2027,7 +1947,7 @@
   "date": "2026-11-22T11:03:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 10.24,
+  "score": 10.23,
   "noDate": false,
   "cluster": "46a122c8953e"
  },
@@ -2043,7 +1963,7 @@
   "date": "2026-11-22T11:02:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": -1.77,
+  "score": -1.78,
   "noDate": false,
   "cluster": "5c32e616b480"
  },
@@ -2107,7 +2027,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 10.22,
+  "score": 10.21,
   "noDate": false,
   "cluster": "31c336541238"
  },
@@ -2123,7 +2043,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 11.72,
+  "score": 11.71,
   "noDate": false,
   "cluster": "9f6df889b722"
  },
@@ -2139,7 +2059,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 10.22,
+  "score": 10.21,
   "noDate": false,
   "cluster": "d4ce14995a94"
  },
@@ -2155,9 +2075,25 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.72,
+  "score": 8.71,
   "noDate": false,
   "cluster": "ec3d02840bba"
+ },
+ {
+  "id": "cc6891ccf573",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "South Korea prepares stock market stabilization fund after Kospi plunges 5.2%",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/south-korea-prepares-stock-market-stabilization-fund-after-kospi-plunges-52-5043890",
+  "image": "https://content-media.investing.com/news/LYNXMPED220BB_M.jpg",
+  "date": "2026-11-22T10:54:22.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 3,
+  "score": 14.68,
+  "noDate": false,
+  "cluster": "cc6891ccf573"
  },
  {
   "id": "236aa2a73eaf",
@@ -2187,7 +2123,7 @@
   "date": "2026-11-22T10:39:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 17.61,
+  "score": 17.6,
   "cluster": "6b8408444122"
  },
  {
@@ -2202,7 +2138,7 @@
   "date": "2026-11-22T10:39:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.11,
+  "score": 7.1,
   "noDate": false,
   "cluster": "d71d6efc58d1"
  },
@@ -2250,7 +2186,7 @@
   "date": "2026-11-22T10:16:39.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 15.98,
+  "score": 15.97,
   "noDate": false,
   "cluster": "f7671820ae49"
  },
@@ -2266,7 +2202,7 @@
   "date": "2026-11-22T10:02:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.9,
+  "score": 6.89,
   "noDate": false,
   "cluster": "d619d9b762e9"
  },
@@ -2282,7 +2218,7 @@
   "date": "2026-11-22T10:02:17.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 12.9,
+  "score": 12.89,
   "noDate": false,
   "cluster": "b6df141d7093"
  },
@@ -2298,7 +2234,7 @@
   "date": "2026-11-22T10:02:11.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.9,
+  "score": 6.89,
   "noDate": false,
   "cluster": "6fb35511c863"
  },
@@ -2314,7 +2250,7 @@
   "date": "2026-11-22T10:01:47.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.9,
+  "score": 6.89,
   "noDate": false,
   "cluster": "3cc841ff3d4c"
  },
@@ -2346,9 +2282,25 @@
   "date": "2026-11-22T10:00:23.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.89,
+  "score": 9.88,
   "noDate": false,
   "cluster": "887128f5bcf6"
+ },
+ {
+  "id": "6580d386341b",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Street Calls of the Week",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5042451",
+  "image": "https://content-media.investing.com/news/Smartphone_M_1440049602.jpg",
+  "date": "2026-11-22T10:00:02.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 6.88,
+  "noDate": false,
+  "cluster": "6580d386341b"
  },
  {
   "id": "3bffc6f0a664",
@@ -2362,7 +2314,7 @@
   "date": "2026-11-22T10:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.89,
+  "score": 6.88,
   "noDate": false,
   "cluster": "3bffc6f0a664"
  },
@@ -2378,7 +2330,7 @@
   "date": "2026-11-22T09:33:06.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.24,
+  "score": 8.23,
   "noDate": false,
   "cluster": "8169d7dc0073"
  },
@@ -2394,7 +2346,7 @@
   "date": "2026-11-22T09:28:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.71,
+  "score": 6.7,
   "noDate": false,
   "cluster": "4c68479e97ae"
  },
@@ -2426,7 +2378,7 @@
   "date": "2026-11-22T09:20:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 15.67,
+  "score": 15.66,
   "noDate": false,
   "cluster": "f908da6e29c9"
  },
@@ -2447,6 +2399,22 @@
   "cluster": "028176a58f59"
  },
  {
+  "id": "261c4915e766",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Should you buy copper’s dip? Here’s why UBS favors long position",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
+  "image": "https://content-media.investing.com/news/copper3_M_1440050118.jpg",
+  "date": "2026-11-22T09:09:20.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 6.6,
+  "noDate": false,
+  "cluster": "261c4915e766"
+ },
+ {
   "id": "d84c3be8036b",
   "lang": "en",
   "cat": "gadgets",
@@ -2458,7 +2426,7 @@
   "date": "2026-11-22T09:08:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.6,
+  "score": 6.59,
   "noDate": false,
   "cluster": "d84c3be8036b"
  },
@@ -2474,7 +2442,7 @@
   "date": "2026-11-22T09:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.57,
+  "score": 6.56,
   "noDate": false,
   "cluster": "f473ec4365ab"
  },
@@ -2493,6 +2461,22 @@
   "score": 11.05,
   "noDate": false,
   "cluster": "7751ababced9"
+ },
+ {
+  "id": "8b9217c105c8",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
+  "image": "https://content-media.investing.com/news/moved_LYNXNPEMAC0W4_L.jpg",
+  "date": "2026-11-22T09:00:00.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 11.05,
+  "noDate": false,
+  "cluster": "8b9217c105c8"
  },
  {
   "id": "1d8202408f99",
@@ -2527,6 +2511,22 @@
   "cluster": "a0dc0301adf1"
  },
  {
+  "id": "91e845d85895",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg",
+  "date": "2026-11-22T07:29:58.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 9.05,
+  "noDate": false,
+  "cluster": "91e845d85895"
+ },
+ {
   "id": "802a4c21fbe8",
   "lang": "en",
   "cat": "crypto",
@@ -2538,7 +2538,7 @@
   "date": "2026-11-22T07:24:05.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 9.02,
+  "score": 9.01,
   "noDate": false,
   "cluster": "f908da6e29c9"
  },
@@ -2554,7 +2554,7 @@
   "date": "2026-11-22T07:22:05.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.01,
+  "score": 6,
   "noDate": false,
   "cluster": "c96c1ed2d4eb"
  },
@@ -2570,7 +2570,7 @@
   "date": "2026-11-22T07:12:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.96,
+  "score": 5.95,
   "noDate": false,
   "cluster": "2c8bfaa220e8"
  },
@@ -2586,7 +2586,7 @@
   "date": "2026-11-22T07:11:17.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 8.95,
+  "score": 8.94,
   "noDate": false,
   "cluster": "cd3f9ca39c77"
  },
@@ -2602,7 +2602,7 @@
   "date": "2026-11-22T07:00:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 3,
-  "score": -0.11,
+  "score": -0.12,
   "noDate": false,
   "cluster": "5c32e616b480"
  },
@@ -2618,7 +2618,7 @@
   "date": "2026-11-22T06:58:18.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.88,
+  "score": 5.87,
   "noDate": false,
   "cluster": "d5fc78291994"
  },
@@ -2634,7 +2634,7 @@
   "date": "2026-11-22T06:55:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.86,
+  "score": 5.85,
   "noDate": false,
   "cluster": "f38e55a05f8c"
  },
@@ -2650,7 +2650,7 @@
   "date": "2026-11-22T06:34:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.25,
+  "score": 7.24,
   "noDate": false,
   "cluster": "0501f2a906cd"
  },
@@ -2666,7 +2666,7 @@
   "date": "2026-11-22T06:11:57.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.62,
+  "score": 5.61,
   "noDate": false,
   "cluster": "203808a1de0a"
  },
@@ -2746,7 +2746,7 @@
   "date": "2026-11-22T05:28:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.38,
+  "score": 5.37,
   "noDate": false,
   "cluster": "0985b71f3d0a"
  },
@@ -2762,7 +2762,7 @@
   "date": "2026-11-22T05:21:13.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.34,
+  "score": 5.33,
   "noDate": false,
   "cluster": "14a9be827b79"
  },
@@ -2778,7 +2778,7 @@
   "date": "2026-11-22T05:21:01.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.34,
+  "score": 5.33,
   "noDate": false,
   "cluster": "dc4db2d33164"
  },
@@ -2794,7 +2794,7 @@
   "date": "2026-11-22T05:01:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 8.23,
+  "score": 8.22,
   "noDate": false,
   "cluster": "b6df141d7093"
  },
@@ -2826,7 +2826,7 @@
   "date": "2026-11-22T03:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.57,
+  "score": 4.56,
   "noDate": false,
   "cluster": "002fff653dc2"
  },
@@ -2842,7 +2842,7 @@
   "date": "2026-11-22T02:45:15.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.47,
+  "score": 4.46,
   "noDate": false,
   "cluster": "324aea832765"
  },
@@ -2874,7 +2874,7 @@
   "date": "2026-11-22T02:08:49.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 7.27,
+  "score": 7.26,
   "noDate": false,
   "cluster": "edb39a91cc5d"
  },
@@ -2890,7 +2890,7 @@
   "date": "2026-11-22T01:57:37.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 4.21,
+  "score": 4.2,
   "noDate": false,
   "cluster": "e8ae2eef807c"
  },
@@ -2906,7 +2906,7 @@
   "date": "2026-11-22T01:56:16.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 7.2,
+  "score": 7.19,
   "noDate": false,
   "cluster": "22dd625d41f2"
  },
@@ -2938,7 +2938,7 @@
   "date": "2026-11-22T01:25:03.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 10.03,
+  "score": 10.02,
   "noDate": false,
   "cluster": "f7671820ae49"
  },
@@ -2954,7 +2954,7 @@
   "date": "2026-11-22T01:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 3.97,
+  "score": 3.96,
   "noDate": false,
   "cluster": "a849c376f1c8"
  },
@@ -2970,7 +2970,7 @@
   "date": "2026-11-22T01:05:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 5.92,
+  "score": 5.91,
   "noDate": false,
   "cluster": "fa55c8e12b3b"
  },
@@ -2986,7 +2986,7 @@
   "date": "2026-11-22T01:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 6.89,
+  "score": 6.88,
   "noDate": false,
   "cluster": "9ed99d699b0f"
  },
@@ -3002,7 +3002,7 @@
   "date": "2026-11-22T01:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.89,
+  "score": 3.88,
   "noDate": false,
   "cluster": "2abd764f7b88"
  },
@@ -3050,7 +3050,7 @@
   "date": "2026-11-22T00:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.72,
+  "score": 3.71,
   "noDate": false,
   "cluster": "c5ce3bc4dc84"
  },
@@ -3066,7 +3066,7 @@
   "date": "2026-11-22T00:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.64,
+  "score": 3.63,
   "noDate": false,
   "cluster": "3785d9d3d536"
  },
@@ -3114,7 +3114,7 @@
   "date": "2026-11-22T00:09:58.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 3.61,
+  "score": 3.6,
   "noDate": false,
   "cluster": "55c7e27ba1e3"
  },
@@ -3130,7 +3130,7 @@
   "date": "2026-11-22T00:04:07.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 3.58,
+  "score": 3.57,
   "noDate": false,
   "cluster": "fe71d9b3a355"
  },
@@ -3162,7 +3162,7 @@
   "date": "2026-11-22T00:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.07,
+  "score": 5.06,
   "noDate": false,
   "cluster": "25213b77b838"
  },
@@ -3194,7 +3194,7 @@
   "date": "2026-11-21T23:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.47,
+  "score": 3.46,
   "noDate": false,
   "cluster": "27c960e8347d"
  },
@@ -3226,7 +3226,7 @@
   "date": "2026-11-21T23:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.39,
+  "score": 3.38,
   "noDate": false,
   "cluster": "4d6e61d1d314"
  },
@@ -3242,7 +3242,7 @@
   "date": "2026-11-21T23:12:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 3.29,
+  "score": 3.28,
   "noDate": false,
   "cluster": "ad7adb5f6324"
  },
@@ -3258,7 +3258,7 @@
   "date": "2026-11-21T23:05:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 3.25,
+  "score": 3.24,
   "noDate": false,
   "cluster": "37207d937890"
  },
@@ -3274,7 +3274,7 @@
   "date": "2026-11-21T23:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.24,
+  "score": 3.23,
   "noDate": false,
   "cluster": "e77970a68ca8"
  },
@@ -3290,7 +3290,7 @@
   "date": "2026-11-21T23:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.22,
+  "score": 3.21,
   "noDate": false,
   "cluster": "d8461eee92aa"
  },
@@ -3337,7 +3337,7 @@
   "date": "2026-11-21T22:12:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 2.96,
+  "score": 2.95,
   "noDate": false,
   "cluster": "6bc7da661c0f"
  },
@@ -3401,7 +3401,7 @@
   "date": "2026-11-21T21:37:10.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 7.26,
+  "score": 7.25,
   "noDate": false,
   "cluster": "8d54d4add32f"
  },
@@ -3417,7 +3417,7 @@
   "date": "2026-11-21T21:24:14.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 5.69,
+  "score": 5.68,
   "noDate": false,
   "cluster": "d293cb54e664"
  },
@@ -3465,7 +3465,7 @@
   "date": "2026-11-21T21:07:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 4.1,
+  "score": 4.09,
   "noDate": false,
   "cluster": "127326b87b53"
  },
@@ -3481,25 +3481,9 @@
   "date": "2026-11-21T21:00:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 2.56,
+  "score": 2.55,
   "noDate": false,
   "cluster": "6108e43d5cab"
- },
- {
-  "id": "0c6c101252b3",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
-  "image": "https://content-media.investing.com/news/LYNXMPED990HX_M.jpg",
-  "date": "2026-11-21T20:51:15.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 7,
-  "noDate": false,
-  "cluster": "0c6c101252b3"
  },
  {
   "id": "c2ec4cf7841c",
@@ -3513,7 +3497,7 @@
   "date": "2026-11-21T20:35:18.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 2.42,
+  "score": 2.41,
   "noDate": false,
   "cluster": "c2ec4cf7841c"
  },
@@ -3545,7 +3529,7 @@
   "date": "2026-11-21T20:15:57.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 5.31,
+  "score": 5.3,
   "noDate": false,
   "cluster": "1c42a93b1597"
  },
@@ -3561,7 +3545,7 @@
   "date": "2026-11-21T20:15:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 2.31,
+  "score": 2.3,
   "noDate": false,
   "cluster": "bba9ee913933"
  },
@@ -3609,7 +3593,7 @@
   "date": "2026-11-21T20:03:37.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 3,
-  "score": 8.24,
+  "score": 8.23,
   "noDate": false,
   "cluster": "de821aa0f1a3"
  },
@@ -3625,7 +3609,7 @@
   "date": "2026-11-21T19:58:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 3.71,
+  "score": 3.7,
   "noDate": false,
   "cluster": "5a1aea9d0bb3"
  },
@@ -3641,7 +3625,7 @@
   "date": "2026-11-21T19:50:34.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 2.17,
+  "score": 2.16,
   "noDate": false,
   "cluster": "9b9f2c914c87"
  },
@@ -3657,7 +3641,7 @@
   "date": "2026-11-21T19:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 2.14,
+  "score": 2.13,
   "noDate": false,
   "cluster": "29fa36c246ea"
  },
@@ -3673,7 +3657,7 @@
   "date": "2026-11-21T19:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": -5.36,
+  "score": -5.37,
   "noDate": false,
   "cluster": "1d796e9f4618"
  },
@@ -3721,7 +3705,7 @@
   "date": "2026-11-21T18:20:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.67,
+  "score": 1.66,
   "noDate": false,
   "cluster": "b53d400ef621"
  },
@@ -3753,7 +3737,7 @@
   "date": "2026-11-21T18:08:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.6,
+  "score": 1.59,
   "noDate": false,
   "cluster": "c351983322a2"
  },
@@ -3769,7 +3753,7 @@
   "date": "2026-11-21T18:07:49.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.1,
+  "score": 3.09,
   "noDate": false,
   "cluster": "48eabf8931e8"
  },
@@ -3785,7 +3769,7 @@
   "date": "2026-11-21T18:01:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 3.06,
+  "score": 3.05,
   "noDate": false,
   "cluster": "7d8f4ef8bdc0"
  },
@@ -3817,7 +3801,7 @@
   "date": "2026-11-21T17:53:22.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 4.52,
+  "score": 4.51,
   "noDate": false,
   "cluster": "9ed99d699b0f"
  },
@@ -3833,7 +3817,7 @@
   "date": "2026-11-21T17:52:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 6.01,
+  "score": 6,
   "noDate": false,
   "cluster": "c8ba8cb27360"
  },
@@ -3849,7 +3833,7 @@
   "date": "2026-11-21T17:50:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.5,
+  "score": 4.49,
   "noDate": false,
   "cluster": "50a435182dc3"
  },
@@ -3865,7 +3849,7 @@
   "date": "2026-11-21T17:46:55.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 10.48,
+  "score": 10.47,
   "noDate": false,
   "cluster": "f7671820ae49"
  },
@@ -3881,7 +3865,7 @@
   "date": "2026-11-21T17:42:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.46,
+  "score": 1.45,
   "noDate": false,
   "cluster": "e9776a8605c6"
  },
@@ -3897,7 +3881,7 @@
   "date": "2026-11-21T17:25:15.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.36,
+  "score": 1.35,
   "noDate": false,
   "cluster": "e8026d1059e7"
  },
@@ -3913,7 +3897,7 @@
   "date": "2026-11-21T17:14:17.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 1.3,
+  "score": 1.29,
   "noDate": false,
   "cluster": "e22b17616260"
  },
@@ -3929,7 +3913,7 @@
   "date": "2026-11-21T17:01:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 2.73,
+  "score": 2.72,
   "noDate": false,
   "cluster": "79f4104b0e57"
  },
@@ -3945,7 +3929,7 @@
   "date": "2026-11-21T17:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 2.72,
+  "score": 2.71,
   "noDate": false,
   "cluster": "01945f6a907c"
  },
@@ -3961,7 +3945,7 @@
   "date": "2026-11-21T17:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 7,
-  "score": 7.22,
+  "score": 7.21,
   "noDate": false,
   "cluster": "482dfa1bff00"
  },
@@ -3977,7 +3961,7 @@
   "date": "2026-11-21T16:49:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.16,
+  "score": 1.15,
   "noDate": false,
   "cluster": "a1f1ef3a7528"
  },
@@ -4009,7 +3993,7 @@
   "date": "2026-11-21T16:36:16.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 7,
-  "score": 7.09,
+  "score": 7.08,
   "noDate": false,
   "cluster": "482dfa1bff00"
  },
@@ -4025,7 +4009,7 @@
   "date": "2026-11-21T16:36:11.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 3,
-  "score": 7.09,
+  "score": 7.08,
   "noDate": false,
   "cluster": "2d7d190b4c02"
  },
@@ -4188,6 +4172,22 @@
   "score": 1,
   "noDate": false,
   "cluster": "ab0e3076d458"
+ },
+ {
+  "id": "0c6c101252b3",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
+  "image": "https://content-media.investing.com/news/LYNXMPED990HX_M.jpg",
+  "date": "2026-11-21T14:51:15.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 2,
+  "score": 5.5,
+  "noDate": false,
+  "cluster": "0c6c101252b3"
  },
  {
   "id": "422f7393b320",
@@ -4590,22 +4590,6 @@
   "cluster": "6082857bd291"
  },
  {
-  "id": "46a608834d54",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin Falls 10% In Rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
-  "image": "https://content-media.investing.com/news/LYNXMPED9A0RJ-ORUBS_M.jpg",
-  "date": "2026-11-21T12:02:03.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "46a608834d54"
- },
- {
   "id": "8e097765d128",
   "lang": "en",
   "cat": "tech",
@@ -4702,22 +4686,6 @@
   "cluster": "4fa8e2c7d959"
  },
  {
-  "id": "0e5030a01570",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Cardano Falls 10% In Bearish Trade",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-5043202",
-  "image": "https://content-media.investing.com/news/Cardano_800x533_L_1556444760.jpg",
-  "date": "2026-11-21T11:57:57.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "0e5030a01570"
- },
- {
   "id": "2f690d56120b",
   "lang": "en",
   "cat": "gadgets",
@@ -4732,22 +4700,6 @@
   "score": 2.5,
   "noDate": false,
   "cluster": "2f690d56120b"
- },
- {
-  "id": "5fc1e8893727",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "XRP Falls 10% In Selloff",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
-  "image": "https://content-media.investing.com/news/LYNXMPEE0214A_M.jpg",
-  "date": "2026-11-21T11:44:04.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 4,
-  "noDate": false,
-  "cluster": "68a271432dc9"
  },
  {
   "id": "c8ad294e7024",
@@ -5182,6 +5134,22 @@
   "cluster": "5c48c1a28f49"
  },
  {
+  "id": "46a608834d54",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin Falls 10% In Rout",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
+  "image": "https://content-media.investing.com/news/LYNXMPED9A0RJ-ORUBS_M.jpg",
+  "date": "2026-11-21T06:02:03.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 2.5,
+  "noDate": false,
+  "cluster": "46a608834d54"
+ },
+ {
   "id": "3bd155737057",
   "lang": "en",
   "cat": "tech",
@@ -5406,6 +5374,22 @@
   "cluster": "68a271432dc9"
  },
  {
+  "id": "0e5030a01570",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Cardano Falls 10% In Bearish Trade",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-5043202",
+  "image": "https://content-media.investing.com/news/Cardano_800x533_L_1556444760.jpg",
+  "date": "2026-11-21T05:57:57.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 1,
+  "noDate": false,
+  "cluster": "0e5030a01570"
+ },
+ {
   "id": "3b13442d92fc",
   "lang": "en",
   "cat": "politics",
@@ -5438,6 +5422,22 @@
   "cluster": "e0006c8114ba"
  },
  {
+  "id": "5fc1e8893727",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "XRP Falls 10% In Selloff",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
+  "image": "https://content-media.investing.com/news/LYNXMPEE0214A_M.jpg",
+  "date": "2026-11-21T05:44:04.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 2,
+  "score": 4,
+  "noDate": false,
+  "cluster": "68a271432dc9"
+ },
+ {
   "id": "cd04db10d311",
   "lang": "en",
   "cat": "crypto",
@@ -5468,22 +5468,6 @@
   "score": 7,
   "noDate": false,
   "cluster": "363be724f1d5"
- },
- {
-  "id": "b1af6f03472b",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEI850WX_L.jpg",
-  "date": "2026-11-21T05:17:58.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "b1af6f03472b"
  },
  {
   "id": "bd0e4f3d7958",
@@ -5758,22 +5742,6 @@
   "cluster": "6a74f0e1d604"
  },
  {
-  "id": "f7107d0975e2",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Ethereum Falls 10% In Rout",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5042458",
-  "image": "https://content-media.investing.com/news/Ethereum_800x533_L_1556445146.jpg",
-  "date": "2026-11-21T01:18:04.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "f7107d0975e2"
- },
- {
   "id": "0978730fe55b",
   "lang": "en",
   "cat": "gadgets",
@@ -5916,6 +5884,22 @@
   "score": 4,
   "noDate": false,
   "cluster": "62af8b3763ef"
+ },
+ {
+  "id": "b1af6f03472b",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI850WX_L.jpg",
+  "date": "2026-11-20T23:17:58.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 4,
+  "noDate": false,
+  "cluster": "b1af6f03472b"
  },
  {
   "id": "e7ee319ddee1",
@@ -6252,22 +6236,6 @@
   "score": -11,
   "noDate": false,
   "cluster": "8bb9ea366d89"
- },
- {
-  "id": "a896b5e5a58b",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-on-track-for-seventh-straight-weekly-loss-as-etf-outflows-hit-record-93CH-5042182",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEI5D0A7_L.jpg",
-  "date": "2026-11-20T21:38:47.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "a896b5e5a58b"
  },
  {
   "id": "fd2811614640",
@@ -6732,6 +6700,22 @@
   "score": 5.5,
   "noDate": false,
   "cluster": "6b8408444122"
+ },
+ {
+  "id": "f7107d0975e2",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Ethereum Falls 10% In Rout",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5042458",
+  "image": "https://content-media.investing.com/news/Ethereum_800x533_L_1556445146.jpg",
+  "date": "2026-11-20T19:18:04.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 2.5,
+  "noDate": false,
+  "cluster": "f7107d0975e2"
  },
  {
   "id": "1c42a93b1597",
@@ -7326,6 +7310,22 @@
   "cluster": "ab494916efda"
  },
  {
+  "id": "a896b5e5a58b",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-on-track-for-seventh-straight-weekly-loss-as-etf-outflows-hit-record-93CH-5042182",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI5D0A7_L.jpg",
+  "date": "2026-11-20T15:38:47.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 4,
+  "noDate": false,
+  "cluster": "a896b5e5a58b"
+ },
+ {
   "id": "4c91e2c0da15",
   "lang": "en",
   "cat": "crypto",
@@ -7516,38 +7516,6 @@
   "score": 10,
   "noDate": false,
   "cluster": "bc5ac057c3f9"
- },
- {
-  "id": "8b644042c178",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Bybit’s Global User Base Surpasses 90 Million as Company Expands Into Traditional Finance",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bybits-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance-5040899",
-  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556527920.jpg",
-  "date": "2026-11-20T14:08:35.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "8b644042c178"
- },
- {
-  "id": "14f67af3648f",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-5040900",
-  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556444923.jpg",
-  "date": "2026-11-20T14:08:35.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "14f67af3648f"
  },
  {
   "id": "8c001dfe6421",
@@ -8236,6 +8204,38 @@
   "score": 2.5,
   "noDate": false,
   "cluster": "d2ca75769de6"
+ },
+ {
+  "id": "8b644042c178",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Bybit’s Global User Base Surpasses 90 Million as Company Expands Into Traditional Finance",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bybits-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance-5040899",
+  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556527920.jpg",
+  "date": "2026-11-20T08:08:35.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 1,
+  "noDate": false,
+  "cluster": "8b644042c178"
+ },
+ {
+  "id": "14f67af3648f",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-5040900",
+  "image": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556444923.jpg",
+  "date": "2026-11-20T08:08:35.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 1,
+  "score": 2.5,
+  "noDate": false,
+  "cluster": "14f67af3648f"
  },
  {
   "id": "1d94719558f5",
