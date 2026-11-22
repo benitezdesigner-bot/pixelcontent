@@ -56,19 +56,19 @@
  {
   "key": "bitcoin",
   "label": "BTC",
-  "price": 61035,
-  "change": 1.5850984692649384
+  "price": 60874,
+  "change": 1.4130105638965762
  },
  {
   "key": "ethereum",
   "label": "ETH",
-  "price": 1717.08,
-  "change": 1.9528220395983322
+  "price": 1714.67,
+  "change": 2.159227536527586
  },
  {
   "key": "solana",
   "label": "SOL",
-  "price": 70.49,
-  "change": -0.30865337935765375
+  "price": 70.38,
+  "change": -0.2236683092431817
  }
 ]
