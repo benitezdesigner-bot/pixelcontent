@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1080, height=1920" />
+<!-- Poster Pop (claude-video-2, MIT) adaptado a PixelContent: naranja + azul oscuro + papel -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=League+Gothic&family=Archivo+Black&display=swap" />
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<script src="studio.js"></script>
+<style>
+  :root { --ground: #FF4B2B; --ink: #0B1020; --paper: #FFFFFF; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1920px; overflow: hidden; background: var(--ground); }
+  #root { position: relative; width: 1080px; height: 1920px; overflow: hidden; background: var(--ground); }
+  #cv { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; }
+  .load { position: absolute; left: -9999px; top: 0; font-size: 40px; }
+</style>
+</head>
+<body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="__DURATION__" data-width="1080" data-height="1920">
+  <canvas id="cv" width="1080" height="1920"></canvas>
+  <span class="load" style="font-family:'League Gothic'">PIXEL 123</span>
+  <span class="load" style="font-family:'Archivo Black'">CONTENT NEWS</span>
+</div>
+<script>
+  const S = STUDIO, W = 1080, H = 1920;
+  const BEATS = __BEATS__;
+  const css = getComputedStyle(document.documentElement);
+  const C = { o: css.getPropertyValue('--ground').trim(), k: css.getPropertyValue('--ink').trim(), w: css.getPropertyValue('--paper').trim() };
+  const cv = document.getElementById('cv'), ctx = cv.getContext('2d');
+  const LG = 'League Gothic', AB = 'Archivo Black';
+  const CY = H * 0.46;                // centro visual (arriba del área que tapa la interfaz de Shorts)
+
+  // ---- tipografía medida con la fuente real (de la pieza de referencia)
+  const capCache = {};
+  function capRatio(fam) {
+    if (capCache[fam]) return capCache[fam];
+    ctx.font = `1000px "${fam}"`;
+    const r = ctx.measureText('H').actualBoundingBoxAscent / 1000;
+    if (document.fonts && document.fonts.check(`100px "${fam}"`)) capCache[fam] = r;
+    return r;
+  }
+  const TRACK = 0.01;
+  function layout(text, fam, cap, maxW) {
+    let fs = cap / capRatio(fam);
+    ctx.font = `${fs}px "${fam}"`;
+    let ws = [...text].map(ch => ctx.measureText(ch).width);
+    let tw = ws.reduce((a, b) => a + b, 0) + TRACK * fs * (ws.length - 1);
+    if (maxW && tw > maxW) { const k = maxW / tw; fs *= k; ws = ws.map(w => w * k); tw = maxW; }
+    return { fs, ws, tw, cap: fs * capRatio(fam) };
+  }
+  // letras que entran de golpe una por una y se detienen en seco
+  function word(lt, o) {
+    const fam = o.fam || LG, chars = [...o.text];
+    const L = o.L || layout(o.text, fam, o.cap, o.maxW);
+    let x = o.x - (o.align === 'left' ? 0 : o.align === 'right' ? L.tw : L.tw / 2);
+    ctx.font = `${L.fs}px "${fam}"`; ctx.fillStyle = o.color; ctx.textBaseline = 'alphabetic';
+    const n = chars.length, stg = o.stg == null ? 0.033 : o.stg, st = o.start || 0, from = o.from || [0, 0];
+    const rev = from[0] < 0; let cx = x;
+    for (let i = 0; i < n; i++) {
+      const s0 = st + (rev ? n - 1 - i : i) * stg;
+      if (lt >= s0) {
+        const p = S.seg(lt, s0, 0.2, 'power4.out');
+        const zs = o.zip && i % 2 ? -1 : 1;
+        ctx.fillText(chars[i], cx + (1 - p) * from[0], o.base + (1 - p) * from[1] * zs);
+      }
+      cx += L.ws[i] + TRACK * L.fs;
+    }
+    return L;
+  }
+  function punch(lt, beats) {
+    let s = 0;
+    for (const b of beats) { const d = lt - b; if (d < 0) continue;
+      const e = d < 0.05 ? S.seg(d, 0, 0.05, 'power2.out') : 1 - S.seg(d, 0.05, 0.4, 'sine.inOut'); s = Math.max(s, e); }
+    return 1 + 0.06 * s;
+  }
+  function jolt(lt, hits) { let y = 0; for (const h of hits) if (lt >= h) y = 18 * (1 - S.seg(lt, h, 0.15, 'power2.out')); return y; }
+  const FROM = { up: [0, -H * 1.1], down: [0, H * 1.1], left: [-W * 1.4, 0], right: [W * 1.4, 0] };
+
+  // ---- la "P" de PixelContent
+  function pMark(cx, cy, size, color, pix) {
+    const u = size / 40, ox = cx - 33 * u, oy = cy - 32 * u, w = 8 * u;
+    const P = (x, y) => [ox + x * u, oy + y * u];
+    ctx.strokeStyle = color; ctx.lineWidth = w; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+    ctx.beginPath(); ctx.moveTo(...P(22, 48)); ctx.lineTo(...P(22, 16)); ctx.lineTo(...P(34, 16));
+    const c = P(34, 26); ctx.arc(c[0], c[1], 10 * u, -Math.PI / 2, Math.PI / 2); ctx.lineTo(...P(22, 36)); ctx.stroke();
+    const q = P(31, 44); ctx.fillStyle = pix; ctx.fillRect(q[0], q[1], 7 * u, 7 * u);
+  }
+
+  // ---- marca fija arriba y etiqueta de fuente
+  function brand(fg, lt, chip) {
+    const L = layout('PIXELCONTENT', AB, 30, 0);
+    ctx.font = `${L.fs}px "${AB}"`; ctx.fillStyle = fg; ctx.textBaseline = 'alphabetic';
+    ctx.fillText('PIXELCONTENT', 64, 168);
+    const nx = 64 + L.tw + 18;
+    ctx.fillRect(nx, 130, 104, 46); ctx.fillStyle = fg === C.k ? C.o : C.k;
+    const N = layout('NEWS', AB, 24, 0); ctx.font = `${N.fs}px "${AB}"`; ctx.fillText('NEWS', nx + 52 - N.tw / 2, 165);
+    if (chip) {
+      const p = S.seg(lt, 0.18, 0.2, 'power4.out');
+      const Cc = layout(chip, AB, 30, 0), cw = Cc.tw + 48, x = W - 64 - cw + (1 - p) * (cw + 80);
+      ctx.fillStyle = C.w; ctx.fillRect(x, 222, cw, 66);
+      ctx.fillStyle = C.k; ctx.font = `${Cc.fs}px "${AB}"`; ctx.fillText(chip, x + 24, 272);
+    }
+  }
+
+  // ---- tipos de escena
+  function drawStack(lt, b, fg) {
+    const n = b.lines.length, maxW = W - 128;
+    const capMax = n === 1 ? 440 : n === 2 ? 400 : 280, gap = n === 1 ? 0 : 0.14;
+    const Ls = b.lines.map(t => layout(t, LG, capMax, maxW));
+    const total = Ls.reduce((a, L) => a + L.cap, 0) + gap * capMax * (n - 1);
+    let y = CY - total / 2;
+    Ls.forEach((L, i) => {
+      y += L.cap;
+      const from = i % 2 ? [W * 1.3, 0] : [0, H * 1.1];
+      word(lt, { text: b.lines[i], L, x: W / 2, base: y, color: fg, from, start: i * 0.08, zip: b.zip });
+      y += gap * capMax;
+    });
+    return Ls.length ? [0.12, 0.2] : [];
+  }
+  function drawHero(lt, b, fg) {
+    const t = b.lines[0], L = layout(t, LG, Math.min(H * 0.34, 760), W * 1.08);
+    word(lt, { text: t, L, x: W / 2, base: CY + L.cap / 2, color: fg, from: FROM[b.from || 'down'], zip: b.zip });
+    return [0.15];
+  }
+  function drawNum(lt, b, fg, bg) {
+    const t = b.lines[0], L = layout(t, LG, H * 0.42, W * (b.maxW || 1.32));
+    word(lt, { text: t, L, x: W / 2, base: CY + L.cap / 2, color: fg, from: [0, H * 1.5], stg: 0.05 });
+    // tarjeta de papel que cruza la cifra
+    const st = 0.42; if (lt < st) return [0.1];
+    const p = S.seg(lt, st, 0.2, 'power4.out'), ch = 210, cy = CY + L.cap / 2 - ch * 0.35;
+    const x = -40 + (1 - p) * (W + 200);
+    ctx.fillStyle = C.w; ctx.fillRect(x, cy, W + 80, ch);
+    ctx.save(); ctx.beginPath(); ctx.rect(x, cy, W + 80, ch); ctx.clip();
+    const q = S.seg(lt, st + 0.067, 0.24, 'power4.out');
+    const T = layout(b.card, AB, 70, W - 128);
+    word(99, { text: b.card, fam: AB, L: T, x: x + 40 + W / 2, base: cy + ch / 2 + T.cap / 2 + (1 - q) * ch, color: C.k, stg: 0 });
+    ctx.restore();
+    return [0.1, st + 0.02];
+  }
+  function drawCard(lt, b, fg) {
+    const p = S.seg(lt, 0, 0.2, 'power4.out');
+    const n = b.lines.length, Ls = b.lines.map(t => layout(t, AB, n === 1 ? 200 : 150, W - 220));
+    const pad = 70, gap = 46, ch = Ls.reduce((a, L) => a + L.cap, 0) + gap * (n - 1) + pad * 2;
+    const x = 40 + (1 - p) * (W + 100), y = CY - ch / 2;
+    ctx.fillStyle = C.w; ctx.fillRect(x, y, W - 80, ch);
+    ctx.save(); ctx.beginPath(); ctx.rect(x, y, W - 80, ch); ctx.clip();
+    const q = S.seg(lt, 0.067, 0.24, 'power4.out');
+    let yy = y + pad;
+    Ls.forEach((L, i) => { yy += L.cap;
+      word(99, { text: b.lines[i], fam: AB, L, x: x + (W - 80) / 2, base: yy + (1 - q) * ch, color: C.k, stg: 0 }); yy += gap; });
+    ctx.restore();
+    return [0.12];
+  }
+  function drawGravity(lt, b, fg) {
+    // "MEET" arriba y "GRAVITY" cae letra por letra desde arriba y aterriza de golpe
+    const A = layout('MEET', LG, 250, W - 128), G = layout('GRAVITY', LG, 520, W * 1.06);
+    word(lt, { text: 'MEET', L: A, x: W / 2, base: CY - 120, color: fg, from: [-W * 1.3, 0], stg: 0.02 });
+    word(lt, { text: 'GRAVITY', L: G, x: W / 2, base: CY + 120 + G.cap, color: fg, from: [0, -H * 1.2], start: 0.18, stg: 0.05 });
+    return [0.1, 0.18 + 0.05 * 6 + 0.18];
+  }
+  function drawLogo(lt, b, fg, bg) {
+    const p = S.seg(lt, 0, 0.22, 'power4.out'), size = 300, bx = W / 2 - size / 2, by = CY - 330 - (1 - p) * 900;
+    ctx.fillStyle = C.o; ctx.fillRect(bx, by, size, size);
+    pMark(W / 2, by + size / 2, size * 0.62, C.w, C.k);
+    const A = layout('PIXEL', LG, 260, 0), B2 = layout('CONTENT', LG, 260, 0), tw = A.tw + B2.tw + 10;
+    const sc = Math.min(1, (W - 100) / tw);
+    const A2 = layout('PIXEL', LG, 260 * sc, 0), B3 = layout('CONTENT', LG, 260 * sc, 0), x0 = W / 2 - (A2.tw + B3.tw + 10 * sc) / 2;
+    word(lt, { text: 'PIXEL', L: A2, align: 'left', x: x0, base: CY + 230, color: C.w, from: [-W * 1.3, 0], start: 0.12 });
+    word(lt, { text: 'CONTENT', L: B3, align: 'left', x: x0 + A2.tw + 10 * sc, base: CY + 230, color: C.o, from: [W * 1.3, 0], start: 0.12 });
+    return [0.1, 0.3];
+  }
+  function drawEnd(lt, b) {
+    // tarjeta final: logo, SUBSCRIBE y fuentes
+    const size = 240, by = CY - 420;
+    ctx.fillStyle = C.k; ctx.fillRect(W / 2 - size / 2, by, size, size);
+    pMark(W / 2, by + size / 2, size * 0.62, C.w, C.o);
+    const A0 = layout('PIXEL', LG, 230, 0), B0 = layout('CONTENT', LG, 230, 0);
+    const k = Math.min(1, (W - 120) / (A0.tw + B0.tw + 10));
+    const A = layout('PIXEL', LG, 230 * k, 0), B2 = layout('CONTENT', LG, 230 * k, 0), x0 = W / 2 - (A.tw + B2.tw + 10 * k) / 2;
+    word(99, { text: 'PIXEL', L: A, align: 'left', x: x0, base: CY + 70, color: C.k, stg: 0 });
+    word(99, { text: 'CONTENT', L: B2, align: 'left', x: x0 + A.tw + 10 * k, base: CY + 70, color: C.w, stg: 0 });
+    const p = S.seg(lt, 0.25, 0.2, 'power4.out');
+    const bw = 620, bh = 130, bx = W / 2 - bw / 2, byy = CY + 150 + (1 - p) * 900;
+    ctx.fillStyle = C.k; ctx.fillRect(bx, byy, bw, bh);
+    const T = layout('SUBSCRIBE', AB, 64, bw - 80); ctx.fillStyle = C.w; ctx.font = `${T.fs}px "${AB}"`;
+    ctx.fillText('SUBSCRIBE', W / 2 - T.tw / 2, byy + bh / 2 + T.cap / 2);
+    const Sx = layout('SOURCES: BBC · COINTELEGRAPH · INVESTING.COM', AB, 28, W - 128);
+    ctx.fillStyle = C.k; ctx.font = `${Sx.fs}px "${AB}"`;
+    ctx.fillText('SOURCES: BBC · COINTELEGRAPH · INVESTING.COM', W / 2 - Sx.tw / 2, CY + 400);
+    return [0.25];
+  }
+
+  function frame(bg, sc, jy, draw) {
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.fillStyle = bg; ctx.fillRect(0, 0, W, H);
+    ctx.translate(W / 2, CY + jy); ctx.scale(sc, sc); ctx.translate(-W / 2, -CY);
+    draw();
+  }
+
+  window.__timelines["main"] = S.play(function render(t) {
+    let i = 0; for (let j = 0; j < BEATS.length; j++) if (t >= BEATS[j].t) i = j;
+    const b = BEATS[i], lt = t - b.t;
+    // el fondo alterna naranja / azul (field flip); el final va en naranja
+    const inv = b.kind === 'end' ? false : b.kind === 'logo' ? true : i % 2 === 1;
+    const bg = inv ? C.k : C.o, fg = inv ? C.o : C.k;
+    const fgText = inv ? C.w : C.k;   // en azul el texto va blanco para leerse mejor
+    let hits = [];
+    // empuje lento y continuo: nunca queda la imagen congelada
+    const drift = 1 + 0.035 * Math.min(1, lt / 2.4);
+    const sc = (b.punch ? punch(lt, [0.3]) : 1) * drift;
+    // las sacudidas se calculan con los golpes del tipo de escena (primer pase sin dibujar)
+    frame(bg, sc, 0, () => {
+      if (b.kind === 'stack') hits = drawStack(lt, b, fgText);
+      else if (b.kind === 'hero') hits = drawHero(lt, b, fg === C.o ? C.o : C.k);
+      else if (b.kind === 'num') hits = drawNum(lt, b, fg === C.o ? C.o : C.k, bg);
+      else if (b.kind === 'card') hits = drawCard(lt, b, fgText);
+      else if (b.kind === 'gravity') hits = drawGravity(lt, b, fg === C.o ? C.o : C.k);
+      else if (b.kind === 'logo') hits = drawLogo(lt, b, fg, bg);
+      else if (b.kind === 'end') hits = drawEnd(lt, b);
+    });
+    const jy = jolt(lt, hits);
+    if (jy > 0.5) frame(bg, sc, jy, () => {
+      if (b.kind === 'stack') drawStack(lt, b, fgText);
+      else if (b.kind === 'hero') drawHero(lt, b, fg === C.o ? C.o : C.k);
+      else if (b.kind === 'num') drawNum(lt, b, fg === C.o ? C.o : C.k, bg);
+      else if (b.kind === 'card') drawCard(lt, b, fgText);
+      else if (b.kind === 'gravity') drawGravity(lt, b, fg === C.o ? C.o : C.k);
+      else if (b.kind === 'logo') drawLogo(lt, b, fg, bg);
+      else if (b.kind === 'end') drawEnd(lt, b);
+    });
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    if (b.kind !== 'end' && b.kind !== 'logo') brand(inv ? C.w : C.k, lt, b.chip);
+    // barra de progreso arriba
+    const D = S.D; ctx.fillStyle = inv ? C.o : C.k; ctx.fillRect(0, 0, W * Math.min(1, t / D), 10);
+  }, { loop: false });
+  if (document.fonts) ['League Gothic', 'Archivo Black'].forEach(f => document.fonts.load(`100px "${f}"`));
+</script>
+</body>
+</html>
