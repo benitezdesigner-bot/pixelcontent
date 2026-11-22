@@ -3,3 +3,8 @@ public/
 .DS_Store
 .env
 .claude/
+
+.venv/
+shorts/.venv/
+shorts/out/
+shorts/build/

@@ -1,0 +1,20 @@
+{
+  "title": "GTA VI took 13 years... and players are doing chores 😂 #shorts",
+  "description": "GTA VI finally launched after a 13-year wait, billed as the biggest entertainment launch in history. So what are players doing? Home repair, grocery shopping, trying to open a bank account... and birdwatching. 🐦\n\nSource: The Guardian's roundup of reader and staff reactions.\nFull story: https://pixelcontent.tech\n\n#GTA6 #GTAVI #gaming #news #shorts #PixelContent",
+  "source": "Source: The Guardian · reader & staff roundup",
+  "voice": "Samantha",
+  "rate": 192,
+  "scenes": [
+    { "say": "G.T.A. six took thirteen years to come out.", "show": "GTA VI took 13 years to come out", "big": "13 YEARS", "icon": "Hourglass done" },
+    { "say": "And players are using it... to do chores.", "show": "and players are using it… to do chores", "big": "CHORES?!", "icon": "Toolbox" },
+    { "say": "It's billed as the biggest entertainment launch in history.", "show": "It's billed as the biggest entertainment launch in history", "big": "BIGGEST LAUNCH EVER", "icon": "Trophy" },
+    { "say": "But one fifty nine year old says his first ten hours went to home repair,", "show": "One 59-year-old says his first 10 hours went to home repair,", "big": "HOUR 1-10", "icon": "Hammer and wrench", "list": 1 },
+    { "say": "grocery shopping,", "show": "grocery shopping,", "big": "HOUR 1-10", "icon": "Shopping cart", "list": 2 },
+    { "say": "and trying to open a bank account.", "show": "and trying to open a bank account", "big": "HOUR 1-10", "icon": "Bank", "list": 3 },
+    { "say": "Other players? Birdwatching. The map has more than one hundred seventy native species.", "show": "Other players? Birdwatching. The map has 170+ native species", "big": "170+ SPECIES", "icon": "Bird" },
+    { "say": "And even speeding gets you a police chase.", "show": "And even speeding gets you a police chase", "big": "WEE-OO WEE-OO", "icon": "Police car light", "siren": true },
+    { "say": "Thirteen years of waiting... for the most realistic simulator ever made.", "show": "13 years of waiting… for the most realistic simulator ever made:", "big": "…", "icon": "Exploding head" },
+    { "say": "Adult life.", "show": "ADULT LIFE.", "big": "ADULT LIFE SIMULATOR", "icon": "Face with tears of joy", "punch": true },
+    { "say": "Follow PixelContent. The news that moves your money, told with a smile.", "show": "Follow PixelContent — the news that moves your money, told with a smile", "big": "FOLLOW", "icon": "logo", "cta": true }
+  ]
+}
