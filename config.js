@@ -36,7 +36,7 @@ export default {
   // original + "por qué importa" para las noticias más importantes y crea
   // una página propia para cada una. Eso es lo que AdSense valora.
   ai: {
-    model: process.env.AI_MODEL || "claude-opus-5-5", // "claude-haiku-5-5" cuesta ~40 veces menos
+    model: process.env.AI_MODEL || "claude-sonnet-5-5", // elegido por el dueño; opciones: claude-opus-5-5, claude-haiku-5-5
     maxPerRun: Number(process.env.AI_MAX_PER_RUN) || 30, // notas nuevas por idioma en cada actualización
     // Con al menos esta cantidad de notas propias en un idioma, el sitio muestra SOLO notas propias.
     minOwnToShowOnly: Number(process.env.AI_MIN_OWN) || 24,

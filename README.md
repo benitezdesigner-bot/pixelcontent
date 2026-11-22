@@ -108,14 +108,14 @@ En cuanto hay al menos 24 notas propias en un idioma, **el sitio muestra solo no
 **Activarlo:**
 1. Crea una clave en console.anthropic.com (pide agregar saldo).
 2. En GitHub: **Settings → Secrets and variables → Actions → Secrets → New repository secret**, nombre `ANTHROPIC_API_KEY`, valor tu clave.
-3. Elige el modelo con la variable `AI_MODEL` (si no la pones, usa Claude Opus 5.5).
+3. El modelo se elige con la variable `AI_MODEL` (configurado: Claude Sonnet 5.5).
 
 Costo aproximado escribiendo 30 notas por idioma en cada actualización (3 al día, unas 180 notas al día):
 
 | Modelo | Variable `AI_MODEL` | Costo aprox. por día |
 |---|---|---|
-| Claude Opus 5.5 (mejor redacción y humor) | `claude-opus-5-5` | ~6 a 7 USD |
-| Claude Sonnet 5.5 (muy buena, la mitad de precio) | `claude-sonnet-5-5` | ~3 a 3.50 USD |
+| Claude Opus 5.5 (la mejor redacción y humor) | `claude-opus-5-5` | ~6 a 7 USD |
+| **Claude Sonnet 5.5 (el elegido: muy buena, la mitad de precio)** | `claude-sonnet-5-5` | ~3 a 3.50 USD |
 | Claude Haiku 5.5 (la más barata) | `claude-haiku-5-5` | ~0.20 USD |
 
 Para más o menos notas, cambia la cantidad por actualización con la variable `AI_MAX_PER_RUN` (por ejemplo `30` o `5`).
