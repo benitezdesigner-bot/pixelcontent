@@ -1,5 +1,53 @@
 [
  {
+  "id": "d4a80ba96643",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Hill",
+  "title": "Nvidia hits undo on Huang exit",
+  "excerpt": "Plus:💰 GOP infighting casts shadow over defense funding {beacon} It’s Monday. Thanksgiving week is certainly NOT off to a slow start. In today's issue: Huang returns to Nvidia Defense spending battle brews Trump puts Iran strikes back on table…",
+  "link": "https://thehill.com/newsletters/1230-report/6237702-jensen-huang-donald-trump-nvidia-return-senate-republicans-democrats-defense-fight-iran-war/",
+  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/1230Report_HuangReturn_112326.png?w=900",
+  "date": "2026-11-23T17:37:35.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 10.47,
+  "cluster": "d4a80ba96643"
+ },
+ {
+  "id": "5d8feab4f98a",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Hill",
+  "title": "Trump GAO nominee picks up Senate Republican's backing",
+  "excerpt": "Sen. John Curtis (R-Utah) will back President Trump's pick to head the Government Accountability Office (GAO), Eric Ueland, ahead of his confirmation. Punchbowl reported on Monday that Curtis sought commitments from Ueland to uphold the GAO's…",
+  "link": "https://thehill.com/homenews/senate/6237517-senator-curtis-backs-gao-pick/",
+  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6ab3115a464c14.97783055-e1791909192524.jpeg?w=900",
+  "date": "2026-11-23T17:37:31.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 10.47,
+  "cluster": "5d8feab4f98a"
+ },
+ {
+  "id": "aef8e013d19c",
+  "lang": "en",
+  "cat": "markets",
+  "source": "MarketWatch",
+  "title": "More AI jobs are coming. That’s one of the big hiring trends in 2027.",
+  "excerpt": "Maybe artificial intelligence will end up destroying lots of jobs, but the new technology might be creating more work in the short run.",
+  "link": "https://www.marketwatch.com/story/more-ai-jobs-are-coming-thats-one-of-the-big-hiring-trends-in-2027-3d810209?mod=mw_rss_topstories",
+  "image": "https://images.mktw.net/im-67830154",
+  "date": "2026-11-23T17:37:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.470Z",
+  "coverage": 2,
+  "score": 13.47,
+  "cluster": "aef8e013d19c"
+ },
+ {
   "id": "1faafad57fc7",
   "lang": "en",
   "cat": "economy",
@@ -12,7 +60,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.99,
+  "score": 7.96,
   "cluster": "1faafad57fc7"
  },
  {
@@ -28,7 +76,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 1,
-  "score": 10.97,
+  "score": 10.94,
   "cluster": "f556e1423256"
  },
  {
@@ -44,8 +92,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 1,
-  "score": -1.53,
+  "score": -1.56,
   "cluster": "bfbfc67d6429"
+ },
+ {
+  "id": "e7789610a73a",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Options on Anthropic shares start trading in brisk volume",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM1AK_L.jpg",
+  "date": "2026-11-23T17:30:29.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:38:24.241Z",
+  "coverage": 1,
+  "score": 8.93,
+  "cluster": "e7789610a73a"
  },
  {
   "id": "1d73e8549b0f",
@@ -60,7 +124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 11.96,
+  "score": 11.93,
   "cluster": "1d73e8549b0f"
  },
  {
@@ -76,8 +140,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.96,
+  "score": 8.93,
   "cluster": "cdfc11f1677d"
+ },
+ {
+  "id": "710a6ba24f86",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Hill",
+  "title": "The next space race is ours to win. Don’t blow it, Washington.",
+  "excerpt": "Florida Sen. Ashley Moody urged Congress to establish the new United States Space Academy in her state to leverage its existing aerospace infrastructure and expertise.",
+  "link": "https://thehill.com/opinion/national-security/6235046-us-space-academy-florida/",
+  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26241576151010.jpg?w=900",
+  "date": "2026-11-23T17:30:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 8.93,
+  "cluster": "710a6ba24f86"
  },
  {
   "id": "952f98d917c3",
@@ -92,7 +172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 1,
-  "score": 11.95,
+  "score": 11.92,
   "cluster": "952f98d917c3"
  },
  {
@@ -108,7 +188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 5,
-  "score": 20.95,
+  "score": 20.92,
   "cluster": "d88bd90fa925"
  },
  {
@@ -124,23 +204,103 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 1,
-  "score": 8.95,
+  "score": 8.92,
   "cluster": "4aa00cdbe5eb"
+ },
+ {
+  "id": "0bf98d89d5f1",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Why is Invivyd stock surging today?",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-is-invivyd-stock-surging-today-93CH-5046166",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+  "date": "2026-11-23T17:26:53.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 8.91,
+  "cluster": "0bf98d89d5f1"
+ },
+ {
+  "id": "ea3a259ffc15",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Nothing launches AI earbuds with recording on Dec. 8 - Bloomberg",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/nothing-launches-ai-earbuds-with-recording-on-dec-8--bloomberg-93CH-5046164",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+  "date": "2026-11-23T17:26:01.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 11.91,
+  "cluster": "ea3a259ffc15"
+ },
+ {
+  "id": "ea3dbf01cc50",
+  "lang": "en",
+  "cat": "world",
+  "source": "BBC News",
+  "title": "What failure of COP31 reveals about a divided world",
+  "excerpt": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+  "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9c7d/live/76349960-e74e-11f1-88dc-f746e0cde621.jpg",
+  "date": "2026-11-23T17:24:25.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 8.9,
+  "cluster": "ea3dbf01cc50"
+ },
+ {
+  "id": "59ca23af7356",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Europe’s STOXX logs strongest day in over six months on tech boost",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/european-stocks-recover-after-steep-technologyled-selloff-5044629",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM0GO_L.jpg",
+  "date": "2026-11-23T17:24:19.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 8.9,
+  "cluster": "59ca23af7356"
+ },
+ {
+  "id": "aceff292c448",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Why is AMC Entertainment stock rallying today?",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-is-amc-entertainment-stock-rallying-today-93CH-5046161",
+  "image": "https://content-media.investing.com/news/AMCEntertainment_800x533_L_1622740180.jpg",
+  "date": "2026-11-23T17:22:43.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 8.89,
+  "cluster": "aceff292c448"
  },
  {
   "id": "2f73cb50563e",
   "lang": "en",
   "cat": "politics",
   "source": "The Hill",
-  "title": "Virginia, Oregon sue SpaceX over AI deepfake porn, CSAM",
-  "excerpt": "Virginia and Oregon’s attorneys general announced on Monday separate lawsuits against SpaceX for allegedly creating and promoting AI deepfake pornography and child sexual abuse material (CSAM). Virginia’s lawsuit accused SpaceX of failing to prevent…",
+  "title": "Virginia, Oregon sue SpaceX over AI deepfake porn, child sexual abuse material",
+  "excerpt": "Virginia and Oregon’s attorneys general announced on Monday separate lawsuits against SpaceX for allegedly creating and promoting AI deepfake pornography and sexually explicit photos of children. Virginia’s lawsuit accused SpaceX of failing to…",
   "link": "https://thehill.com/regulation/court-battles/6237551-virginia-oregon-lawsuit-spacex-ai/",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2025/11/jonesjay_110425gn15_w.jpg?w=900",
   "date": "2026-11-23T17:20:38.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
-  "coverage": 1,
-  "score": 10.41,
+  "coverage": 2,
+  "score": 13.38,
   "cluster": "2f73cb50563e"
  },
  {
@@ -156,7 +316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 14.91,
+  "score": 14.88,
   "cluster": "dfa4db2f66ca"
  },
  {
@@ -172,7 +332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.91,
+  "score": 8.88,
   "cluster": "75666425c551"
  },
  {
@@ -188,7 +348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 1,
-  "score": 8.91,
+  "score": 8.87,
   "cluster": "974bf4b3ad66"
  },
  {
@@ -204,8 +364,40 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 22.4,
+  "score": 22.37,
   "cluster": "e2830407b36a"
+ },
+ {
+  "id": "4e83c6d3e7df",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Automaker Ford eyes aerospace growth with minority bet on Revolution Space",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/automaker-ford-eyes-aerospace-growth-with-minority-bet-on-revolution-space-5046145",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEL3F0OJ_L.jpg",
+  "date": "2026-11-23T17:18:39.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 8.87,
+  "cluster": "4e83c6d3e7df"
+ },
+ {
+  "id": "8fe4a1dd671c",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "European shares rally as Nvidia reinstates Huang, igniting tech rally",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/european-shares-catch-modest-bid-after-brutal-selloff-5044371",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI1E0FU_L.jpg",
+  "date": "2026-11-23T17:18:25.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 2,
+  "score": 13.37,
+  "cluster": "512453057e1c"
  },
  {
   "id": "2d44b1976e56",
@@ -220,7 +412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 2,
-  "score": 13.4,
+  "score": 13.36,
   "cluster": "2d44b1976e56"
  },
  {
@@ -236,7 +428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.89,
+  "score": 11.86,
   "cluster": "a8d519390506"
  },
  {
@@ -252,7 +444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 3,
-  "score": 17.88,
+  "score": 17.85,
   "cluster": "7993e8c0c2e8"
  },
  {
@@ -268,7 +460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.88,
+  "score": 8.85,
   "cluster": "aa820a7101e6"
  },
  {
@@ -284,8 +476,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 2,
-  "score": 11.88,
+  "score": 11.85,
   "cluster": "57049a1c0d2b"
+ },
+ {
+  "id": "5b5774277fa4",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "FTSE 100 today: Stocks jump as Nvidia reinstates Huang; UK PMI beats forecasts",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-on-miners-burnham-utility-plan-awaited-5044623",
+  "image": "https://content-media.investing.com/news/LondonStockExchange_800x533_L_1616664780.jpg",
+  "date": "2026-11-23T17:14:32.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 11.85,
+  "cluster": "5b5774277fa4"
  },
  {
   "id": "6a7990e1ad10",
@@ -300,7 +508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 2,
-  "score": 13.38,
+  "score": 13.34,
   "cluster": "6a7990e1ad10"
  },
  {
@@ -316,7 +524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 3,
-  "score": 2.87,
+  "score": 2.84,
   "cluster": "b10ebf43407e"
  },
  {
@@ -332,7 +540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.87,
+  "score": 8.84,
   "cluster": "982123aceb9b"
  },
  {
@@ -348,7 +556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 1,
-  "score": 8.87,
+  "score": 8.84,
   "cluster": "57fa941fb53d"
  },
  {
@@ -364,7 +572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.87,
+  "score": 8.84,
   "cluster": "e19188f842cd"
  },
  {
@@ -380,7 +588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 10.37,
+  "score": 10.34,
   "cluster": "9f2915353101"
  },
  {
@@ -396,7 +604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 14.86,
+  "score": 14.83,
   "cluster": "28fb1e929b99"
  },
  {
@@ -412,7 +620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.86,
+  "score": 8.83,
   "cluster": "85e34182de2c"
  },
  {
@@ -428,7 +636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.86,
+  "score": 8.83,
   "cluster": "a25d3e2dc077"
  },
  {
@@ -444,7 +652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 10.34,
+  "score": 10.31,
   "cluster": "fc96fab48030"
  },
  {
@@ -460,7 +668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 10.34,
+  "score": 10.31,
   "cluster": "39c640fb84a1"
  },
  {
@@ -476,7 +684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 10.34,
+  "score": 10.31,
   "cluster": "77b00f318ebd"
  },
  {
@@ -492,7 +700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 3,
-  "score": 14.84,
+  "score": 14.81,
   "cluster": "9d50e4f53387"
  },
  {
@@ -508,7 +716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 10.34,
+  "score": 10.31,
   "cluster": "96b4ccbec80e"
  },
  {
@@ -524,7 +732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 3,
-  "score": 16.34,
+  "score": 16.31,
   "cluster": "7993e8c0c2e8"
  },
  {
@@ -540,7 +748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 10.33,
+  "score": 10.3,
   "cluster": "14006720cf99"
  },
  {
@@ -556,7 +764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 2,
-  "score": 13.33,
+  "score": 13.3,
   "cluster": "2d44b1976e56"
  },
  {
@@ -572,7 +780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.83,
+  "score": 8.8,
   "cluster": "aa60aee61556"
  },
  {
@@ -588,7 +796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 2,
-  "score": 11.82,
+  "score": 11.79,
   "cluster": "1cb78417896f"
  },
  {
@@ -604,7 +812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 3,
-  "score": 2.82,
+  "score": 2.78,
   "cluster": "b10ebf43407e"
  },
  {
@@ -620,7 +828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 2,
-  "score": 11.81,
+  "score": 11.78,
   "cluster": "1cb78417896f"
  },
  {
@@ -636,7 +844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": -3.2,
+  "score": -3.24,
   "cluster": "2980d6cadd46"
  },
  {
@@ -652,7 +860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 1,
-  "score": 10.3,
+  "score": 10.26,
   "cluster": "6def2ae63f11"
  },
  {
@@ -668,7 +876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.79,
+  "score": 8.76,
   "cluster": "f54d493d94d6"
  },
  {
@@ -684,7 +892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.78,
+  "score": 8.75,
   "cluster": "b7579835e4e7"
  },
  {
@@ -700,7 +908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.76,
+  "score": 8.73,
   "cluster": "efc83263c6cf"
  },
  {
@@ -716,7 +924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 1,
-  "score": -3.24,
+  "score": -3.27,
   "cluster": "f748ddfc9252"
  },
  {
@@ -732,7 +940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 2,
-  "score": 16.25,
+  "score": 16.22,
   "cluster": "8365aa3a4f76"
  },
  {
@@ -748,7 +956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 2,
-  "score": 14.74,
+  "score": 14.71,
   "cluster": "24f64007900f"
  },
  {
@@ -764,7 +972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.024Z",
   "coverage": 1,
-  "score": 10.23,
+  "score": 10.2,
   "cluster": "e8817cdb20a9"
  },
  {
@@ -780,7 +988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.003Z",
   "coverage": 1,
-  "score": 8.73,
+  "score": 8.7,
   "cluster": "540d07d0d868"
  },
  {
@@ -796,7 +1004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 10.23,
+  "score": 10.2,
   "cluster": "1a23a1679977"
  },
  {
@@ -812,7 +1020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 11.72,
+  "score": 11.69,
   "cluster": "3e33a311aeb0"
  },
  {
@@ -828,7 +1036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 8.71,
+  "score": 8.68,
   "cluster": "36ed8ad50a45"
  },
  {
@@ -844,7 +1052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 13.21,
+  "score": 13.18,
   "cluster": "b29106e08869"
  },
  {
@@ -860,7 +1068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 8.71,
+  "score": 8.68,
   "cluster": "81ff11ce30de"
  },
  {
@@ -876,7 +1084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 14.7,
+  "score": 14.67,
   "cluster": "77ece0992320"
  },
  {
@@ -892,7 +1100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 1,
-  "score": 13.2,
+  "score": 13.17,
   "cluster": "f7f45b045435"
  },
  {
@@ -908,7 +1116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 1,
-  "score": -3.31,
+  "score": -3.34,
   "cluster": "00ee9db08ed1"
  },
  {
@@ -924,7 +1132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.024Z",
   "coverage": 3,
-  "score": 17.69,
+  "score": 17.66,
   "cluster": "24f64007900f"
  },
  {
@@ -940,7 +1148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 2,
-  "score": 14.68,
+  "score": 14.65,
   "cluster": "81a464b2bd01"
  },
  {
@@ -956,7 +1164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 10.18,
+  "score": 10.15,
   "cluster": "6cdea3adebfc"
  },
  {
@@ -972,7 +1180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 1,
-  "score": -3.32,
+  "score": -3.36,
   "cluster": "50b17fe112bc"
  },
  {
@@ -988,7 +1196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.67,
+  "score": 8.64,
   "cluster": "416dd247cd8d"
  },
  {
@@ -1004,7 +1212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 2,
-  "score": 13.16,
+  "score": 13.13,
   "cluster": "da7885397926"
  },
  {
@@ -1020,7 +1228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 2,
-  "score": 13.16,
+  "score": 13.13,
   "cluster": "c1d300b10a4b"
  },
  {
@@ -1036,24 +1244,8 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 13.14,
+  "score": 13.11,
   "cluster": "9c5f92f162b4"
- },
- {
-  "id": "e7789610a73a",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Anthropic options debut with brisk volume",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM1AK_L.jpg",
-  "date": "2026-11-23T16:31:30.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 1,
-  "score": 8.64,
-  "cluster": "e7789610a73a"
  },
  {
   "id": "6406ad6c929a",
@@ -1068,7 +1260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.13,
+  "score": 13.1,
   "cluster": "6406ad6c929a"
  },
  {
@@ -1084,7 +1276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.13,
+  "score": 13.1,
   "cluster": "6a7990e1ad10"
  },
  {
@@ -1100,7 +1292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 2.63,
+  "score": 2.6,
   "cluster": "c32e65acfc49"
  },
  {
@@ -1116,7 +1308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.63,
+  "score": 8.6,
   "cluster": "b7db257b9f5c"
  },
  {
@@ -1132,7 +1324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.13,
+  "score": 13.1,
   "cluster": "1cb78417896f"
  },
  {
@@ -1148,7 +1340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.13,
+  "score": 10.1,
   "cluster": "1fcd20e31c85"
  },
  {
@@ -1164,7 +1356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.63,
+  "score": 8.6,
   "cluster": "96fb886ad5ef"
  },
  {
@@ -1180,7 +1372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.62,
+  "score": 11.59,
   "cluster": "0770198fefa0"
  },
  {
@@ -1196,7 +1388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.62,
+  "score": 8.59,
   "cluster": "7c9e59e9c239"
  },
  {
@@ -1212,7 +1404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.61,
+  "score": 8.58,
   "cluster": "2f6ba9d25db3"
  },
  {
@@ -1228,7 +1420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 6,
-  "score": 25.1,
+  "score": 25.07,
   "cluster": "7845c78e1629"
  },
  {
@@ -1244,7 +1436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.6,
+  "score": 11.57,
   "cluster": "8ec863ff8861"
  },
  {
@@ -1260,7 +1452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.6,
+  "score": 8.57,
   "cluster": "c866c4f0c1eb"
  },
  {
@@ -1276,7 +1468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.59,
+  "score": 11.56,
   "cluster": "ae8335cf5c27"
  },
  {
@@ -1292,7 +1484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 13.09,
+  "score": 13.06,
   "cluster": "56b22a9072be"
  },
  {
@@ -1308,7 +1500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 14.57,
+  "score": 14.54,
   "cluster": "c32e65acfc49"
  },
  {
@@ -1324,7 +1516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 14.57,
+  "score": 14.54,
   "cluster": "d61ab0d32cbe"
  },
  {
@@ -1340,7 +1532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 10.07,
+  "score": 10.04,
   "cluster": "e0b4fa9f4d6d"
  },
  {
@@ -1356,7 +1548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 17.55,
+  "score": 17.52,
   "cluster": "24f64007900f"
  },
  {
@@ -1372,7 +1564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 8.55,
+  "score": 8.51,
   "cluster": "179b2af5b1b2"
  },
  {
@@ -1388,7 +1580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.55,
+  "score": 11.51,
   "cluster": "f922f5d9cdd0"
  },
  {
@@ -1404,7 +1596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.54,
+  "score": 8.51,
   "cluster": "de36b121eed6"
  },
  {
@@ -1420,7 +1612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.54,
+  "score": 11.51,
   "cluster": "6406ad6c929a"
  },
  {
@@ -1436,7 +1628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.54,
+  "score": 11.51,
   "cluster": "2f322f0fd1eb"
  },
  {
@@ -1452,7 +1644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.03,
+  "score": 10,
   "cluster": "941d9d7c875e"
  },
  {
@@ -1468,7 +1660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.51,
+  "score": 8.48,
   "cluster": "5d73a5474c02"
  },
  {
@@ -1484,7 +1676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.48,
+  "score": 8.45,
   "cluster": "b3d5939afddc"
  },
  {
@@ -1500,7 +1692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 12.97,
+  "score": 12.94,
   "cluster": "6a16b32fcddc"
  },
  {
@@ -1516,7 +1708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 12.97,
+  "score": 12.94,
   "cluster": "5566b456d1b7"
  },
  {
@@ -1532,7 +1724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.96,
+  "score": 9.93,
   "cluster": "4f474af5544e"
  },
  {
@@ -1548,7 +1740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.46,
+  "score": 8.43,
   "cluster": "94bc57470e7f"
  },
  {
@@ -1564,7 +1756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 0.95,
+  "score": 0.92,
   "cluster": "5295f5b691da"
  },
  {
@@ -1580,7 +1772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.45,
+  "score": 11.42,
   "cluster": "6c80453d9c99"
  },
  {
@@ -1596,7 +1788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.44,
+  "score": 8.41,
   "cluster": "2051fbe57206"
  },
  {
@@ -1612,7 +1804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.44,
+  "score": 8.41,
   "cluster": "89e5b94b9291"
  },
  {
@@ -1628,7 +1820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.94,
+  "score": 9.91,
   "cluster": "264c5cfe8be2"
  },
  {
@@ -1644,7 +1836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.44,
+  "score": 11.4,
   "cluster": "f205e38d2cf7"
  },
  {
@@ -1660,7 +1852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.43,
+  "score": 11.4,
   "cluster": "7281bb418a1d"
  },
  {
@@ -1676,7 +1868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.93,
+  "score": 9.9,
   "cluster": "29fd82f261e4"
  },
  {
@@ -1692,7 +1884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.42,
+  "score": 8.38,
   "cluster": "935f1cf7e2ca"
  },
  {
@@ -1708,7 +1900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.91,
+  "score": 9.88,
   "cluster": "a7098c5bfccf"
  },
  {
@@ -1724,7 +1916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.41,
+  "score": 8.37,
   "cluster": "7ee65d1ae7eb"
  },
  {
@@ -1740,7 +1932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.89,
+  "score": 9.85,
   "cluster": "e09aa9a8dd80"
  },
  {
@@ -1756,7 +1948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.88,
+  "score": 9.85,
   "cluster": "102acd4aa550"
  },
  {
@@ -1771,7 +1963,7 @@
   "date": "2026-11-23T15:41:25.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.36,
+  "score": 11.33,
   "noDate": false,
   "cluster": "ca1952e7b979"
  },
@@ -1788,7 +1980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 5,
-  "score": 23.36,
+  "score": 23.33,
   "cluster": "e2830407b36a"
  },
  {
@@ -1804,7 +1996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.85,
+  "score": 9.82,
   "cluster": "830628a6592a"
  },
  {
@@ -1820,7 +2012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.85,
+  "score": 9.82,
   "cluster": "822b73cb10a4"
  },
  {
@@ -1835,8 +2027,8 @@
   "date": "2026-11-23T15:39:41.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 1,
-  "score": 11.35,
+  "coverage": 2,
+  "score": 14.32,
   "cluster": "512453057e1c"
  },
  {
@@ -1852,7 +2044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.35,
+  "score": 11.32,
   "cluster": "d3d91d3fb456"
  },
  {
@@ -1868,7 +2060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 14.31,
+  "score": 14.28,
   "cluster": "9d50e4f53387"
  },
  {
@@ -1884,7 +2076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 8.3,
+  "score": 8.27,
   "cluster": "ee5aa285a746"
  },
  {
@@ -1900,7 +2092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.3,
+  "score": 8.26,
   "cluster": "1130f1e2de69"
  },
  {
@@ -1916,7 +2108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.29,
+  "score": 11.26,
   "cluster": "423071d6f76d"
  },
  {
@@ -1932,7 +2124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.29,
+  "score": 8.26,
   "cluster": "c7f455eb1ff2"
  },
  {
@@ -1948,7 +2140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 14.26,
+  "score": 14.23,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -1964,7 +2156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.76,
+  "score": 9.73,
   "cluster": "f2286b4f32ed"
  },
  {
@@ -1980,7 +2172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.76,
+  "score": 9.73,
   "cluster": "d8210b3c3b49"
  },
  {
@@ -1996,7 +2188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.24,
+  "score": 8.21,
   "cluster": "8dee6718f49b"
  },
  {
@@ -2012,7 +2204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.18,
   "cluster": "b72dd7042507"
  },
  {
@@ -2028,7 +2220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.71,
+  "score": 9.68,
   "cluster": "7243364cdd59"
  },
  {
@@ -2044,7 +2236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.71,
+  "score": 9.68,
   "cluster": "fa69809e3f31"
  },
  {
@@ -2060,7 +2252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 9.71,
+  "score": 9.68,
   "cluster": "2a01fd54249f"
  },
  {
@@ -2076,7 +2268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 14.21,
+  "score": 14.18,
   "cluster": "06bff48752d2"
  },
  {
@@ -2092,7 +2284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.69,
+  "score": 12.66,
   "cluster": "93b5534af2ec"
  },
  {
@@ -2108,7 +2300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 2,
-  "score": 12.68,
+  "score": 12.65,
   "cluster": "479d4cf822c7"
  },
  {
@@ -2124,7 +2316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.17,
+  "score": 8.14,
   "cluster": "84536455e117"
  },
  {
@@ -2140,7 +2332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": -0.83,
+  "score": -0.86,
   "cluster": "5295f5b691da"
  },
  {
@@ -2156,7 +2348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 23.16,
+  "score": 23.13,
   "cluster": "26e0edb3cf88"
  },
  {
@@ -2172,7 +2364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 21.65,
+  "score": 21.62,
   "cluster": "26e0edb3cf88"
  },
  {
@@ -2188,7 +2380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.65,
+  "score": 12.62,
   "cluster": "143cfc55d1d6"
  },
  {
@@ -2204,7 +2396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.15,
+  "score": 11.12,
   "cluster": "aa93777566bc"
  },
  {
@@ -2220,7 +2412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -3.85,
+  "score": -3.88,
   "cluster": "6cf0220f31f5"
  },
  {
@@ -2236,7 +2428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 4,
-  "score": 20.14,
+  "score": 20.11,
   "cluster": "3f2e0616506f"
  },
  {
@@ -2252,7 +2444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.63,
+  "score": 12.6,
   "cluster": "9ae3fa8ff2a7"
  },
  {
@@ -2268,7 +2460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 8.13,
+  "score": 8.1,
   "cluster": "9e3cb34cea54"
  },
  {
@@ -2284,7 +2476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.13,
+  "score": 8.1,
   "cluster": "7f0a590f4bbd"
  },
  {
@@ -2300,7 +2492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.13,
+  "score": 8.1,
   "cluster": "004696e34f8c"
  },
  {
@@ -2316,7 +2508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.63,
+  "score": 9.6,
   "cluster": "00eafea95337"
  },
  {
@@ -2332,7 +2524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.61,
+  "score": 9.58,
   "cluster": "aaf0595a93ae"
  },
  {
@@ -2348,7 +2540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.1,
+  "score": 7.07,
   "cluster": "685a662a313a"
  },
  {
@@ -2364,7 +2556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.1,
+  "score": 8.06,
   "cluster": "a5104180c52d"
  },
  {
@@ -2380,7 +2572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.08,
+  "score": 8.05,
   "cluster": "74d80cfb7027"
  },
  {
@@ -2396,7 +2588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.08,
+  "score": 11.05,
   "cluster": "46132fec3248"
  },
  {
@@ -2412,7 +2604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.08,
+  "score": 8.05,
   "cluster": "bb11eebcf591"
  },
  {
@@ -2428,7 +2620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.56,
+  "score": 9.53,
   "cluster": "1331f5e0fa6f"
  },
  {
@@ -2444,7 +2636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.55,
+  "score": 9.51,
   "cluster": "ad1e59530bc5"
  },
  {
@@ -2460,7 +2652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.04,
+  "score": 11,
   "cluster": "705c37d6a969"
  },
  {
@@ -2476,7 +2668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.53,
+  "score": 9.5,
   "cluster": "d6a5b08e3fa8"
  },
  {
@@ -2492,7 +2684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.51,
+  "score": 9.48,
   "cluster": "fac080966b18"
  },
  {
@@ -2508,7 +2700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.01,
+  "score": 10.97,
   "cluster": "8ec863ff8861"
  },
  {
@@ -2524,7 +2716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.5,
+  "score": 9.47,
   "cluster": "a19cafb4c3cc"
  },
  {
@@ -2540,7 +2732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 10.99,
+  "score": 10.96,
   "cluster": "6efc9a656820"
  },
  {
@@ -2556,7 +2748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 21.48,
+  "score": 21.45,
   "cluster": "26e0edb3cf88"
  },
  {
@@ -2572,7 +2764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.98,
+  "score": 7.95,
   "cluster": "2f25e58a8cd5"
  },
  {
@@ -2588,7 +2780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 10.96,
+  "score": 10.93,
   "cluster": "24e978d3dda1"
  },
  {
@@ -2604,7 +2796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.96,
+  "score": 7.93,
   "cluster": "f0b763333710"
  },
  {
@@ -2620,7 +2812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.95,
+  "score": 7.92,
   "cluster": "b89f75313224"
  },
  {
@@ -2636,7 +2828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.45,
+  "score": 9.42,
   "cluster": "8425a12bb072"
  },
  {
@@ -2652,7 +2844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.45,
+  "score": 9.42,
   "cluster": "66a36c3ad63d"
  },
  {
@@ -2668,7 +2860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 12.45,
+  "score": 12.42,
   "cluster": "163a5367dcf2"
  },
  {
@@ -2684,7 +2876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.94,
+  "score": 7.91,
   "cluster": "d4c43e046f97"
  },
  {
@@ -2700,7 +2892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 21.43,
+  "score": 21.4,
   "cluster": "26e0edb3cf88"
  },
  {
@@ -2716,7 +2908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.43,
+  "score": 9.4,
   "cluster": "dd6f7963c991"
  },
  {
@@ -2732,7 +2924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 21.42,
+  "score": 21.39,
   "cluster": "d88bd90fa925"
  },
  {
@@ -2748,7 +2940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.42,
+  "score": 9.39,
   "cluster": "90f831b4fd3e"
  },
  {
@@ -2764,7 +2956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 9.41,
+  "score": 9.38,
   "cluster": "237963232e8c"
  },
  {
@@ -2780,7 +2972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 9.41,
+  "score": 9.38,
   "cluster": "a5b831f26837"
  },
  {
@@ -2796,7 +2988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.39,
+  "score": 9.36,
   "cluster": "486b8bf6308b"
  },
  {
@@ -2812,7 +3004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.39,
+  "score": 9.36,
   "cluster": "440334632af8"
  },
  {
@@ -2828,7 +3020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.38,
+  "score": 9.35,
   "cluster": "8ff332a50a11"
  },
  {
@@ -2844,7 +3036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -4.13,
+  "score": -4.16,
   "cluster": "a315648460f9"
  },
  {
@@ -2860,7 +3052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.87,
+  "score": 13.84,
   "cluster": "06bff48752d2"
  },
  {
@@ -2876,7 +3068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.36,
+  "score": 9.33,
   "cluster": "7cad82252131"
  },
  {
@@ -2892,7 +3084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.86,
+  "score": 10.83,
   "cluster": "633ed4b43411"
  },
  {
@@ -2908,7 +3100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 10.85,
+  "score": 10.82,
   "cluster": "46132fec3248"
  },
  {
@@ -2924,7 +3116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 2,
-  "score": 10.84,
+  "score": 10.81,
   "cluster": "f205e38d2cf7"
  },
  {
@@ -2940,7 +3132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.84,
+  "score": 10.81,
   "cluster": "f922f5d9cdd0"
  },
  {
@@ -2956,7 +3148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 21.34,
+  "score": 21.31,
   "cluster": "26e0edb3cf88"
  },
  {
@@ -2971,7 +3163,7 @@
   "date": "2026-11-23T14:06:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.33,
+  "score": 9.3,
   "noDate": false,
   "cluster": "b431ea497743"
  },
@@ -2988,7 +3180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.32,
+  "score": 9.29,
   "cluster": "09afcc847896"
  },
  {
@@ -3004,7 +3196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 4,
-  "score": 16.81,
+  "score": 16.78,
   "cluster": "15b8c4deaa8d"
  },
  {
@@ -3020,7 +3212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.81,
+  "score": 7.78,
   "cluster": "1aa46ef1d272"
  },
  {
@@ -3036,7 +3228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 2,
-  "score": 10.8,
+  "score": 10.77,
   "cluster": "17dae86ddff9"
  },
  {
@@ -3052,7 +3244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.8,
+  "score": 7.77,
   "cluster": "c81f91b7bf25"
  },
  {
@@ -3068,7 +3260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.8,
+  "score": 7.77,
   "cluster": "efab4af8a0df"
  },
  {
@@ -3084,7 +3276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.8,
+  "score": 10.76,
   "cluster": "17dae86ddff9"
  },
  {
@@ -3100,7 +3292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.8,
+  "score": 10.76,
   "cluster": "23de3667e273"
  },
  {
@@ -3116,7 +3308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.8,
+  "score": 7.76,
   "cluster": "ab11099790b1"
  },
  {
@@ -3132,7 +3324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.78,
+  "score": 7.75,
   "cluster": "c71a8c468226"
  },
  {
@@ -3148,7 +3340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.28,
+  "score": 9.25,
   "cluster": "ecc5392a4e01"
  },
  {
@@ -3164,7 +3356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.78,
+  "score": 7.74,
   "cluster": "4b0f943fb6fa"
  },
  {
@@ -3180,7 +3372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.77,
+  "score": 10.74,
   "cluster": "423071d6f76d"
  },
  {
@@ -3196,7 +3388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.27,
+  "score": 12.24,
   "cluster": "3bb3b65d8d33"
  },
  {
@@ -3212,7 +3404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.76,
+  "score": 7.73,
   "cluster": "4fc9328efd4a"
  },
  {
@@ -3228,7 +3420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.26,
+  "score": 9.23,
   "cluster": "cc78f3f81fb6"
  },
  {
@@ -3244,7 +3436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.74,
+  "score": 10.71,
   "cluster": "c2ee55235eac"
  },
  {
@@ -3260,7 +3452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 3.22,
+  "score": 3.19,
   "cluster": "c32e65acfc49"
  },
  {
@@ -3276,7 +3468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.22,
+  "score": 12.19,
   "cluster": "849935bc5d31"
  },
  {
@@ -3292,7 +3484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.72,
+  "score": 7.69,
   "cluster": "5b7e85cac5af"
  },
  {
@@ -3308,7 +3500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 10.71,
+  "score": 10.68,
   "cluster": "c3c44e55bd12"
  },
  {
@@ -3324,7 +3516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.21,
+  "score": 9.18,
   "cluster": "14ab63e88c03"
  },
  {
@@ -3340,8 +3532,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.71,
+  "score": 13.68,
   "cluster": "3f2e0616506f"
+ },
+ {
+  "id": "33fc5939f65f",
+  "lang": "en",
+  "cat": "world",
+  "source": "BBC News",
+  "title": "India pledges $1.6bn to Nepal in reset of ties",
+  "excerpt": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+  "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+  "date": "2026-11-23T13:39:30.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 7.65,
+  "cluster": "33fc5939f65f"
  },
  {
   "id": "66633370a991",
@@ -3355,8 +3563,8 @@
   "date": "2026-11-23T13:36:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
-  "coverage": 1,
-  "score": 7.66,
+  "coverage": 2,
+  "score": 10.63,
   "cluster": "66633370a991"
  },
  {
@@ -3372,7 +3580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.15,
+  "score": 15.12,
   "cluster": "8365aa3a4f76"
  },
  {
@@ -3388,7 +3596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 10.65,
+  "score": 10.62,
   "cluster": "c3c44e55bd12"
  },
  {
@@ -3404,7 +3612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.14,
+  "score": 9.11,
   "cluster": "e5dc49b860e0"
  },
  {
@@ -3420,7 +3628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.13,
+  "score": 15.1,
   "cluster": "e013bcbd3977"
  },
  {
@@ -3436,7 +3644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 3,
-  "score": 13.63,
+  "score": 13.6,
   "cluster": "963214fbec9b"
  },
  {
@@ -3452,7 +3660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.63,
+  "score": 13.6,
   "cluster": "eee8e7bbee50"
  },
  {
@@ -3468,7 +3676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.1,
+  "score": 15.07,
   "cluster": "e013bcbd3977"
  },
  {
@@ -3484,7 +3692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.09,
+  "score": 9.06,
   "cluster": "4df8b0a4ff06"
  },
  {
@@ -3500,7 +3708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 7.58,
+  "score": 7.55,
   "cluster": "1e3834cb7a60"
  },
  {
@@ -3516,7 +3724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 7.57,
+  "score": 7.53,
   "cluster": "b6f41ac88f74"
  },
  {
@@ -3532,7 +3740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.55,
+  "score": 7.51,
   "cluster": "87dc9545fdb3"
  },
  {
@@ -3548,8 +3756,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.03,
+  "score": 9,
   "cluster": "38eb59f15c27"
+ },
+ {
+  "id": "f3a1a57bc1b6",
+  "lang": "en",
+  "cat": "world",
+  "source": "BBC News",
+  "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+  "excerpt": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+  "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
+  "date": "2026-11-23T13:09:52.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T17:42:25.471Z",
+  "coverage": 1,
+  "score": 7.49,
+  "cluster": "f3a1a57bc1b6"
  },
  {
   "id": "30f1434d7064",
@@ -3564,7 +3788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.51,
+  "score": 7.48,
   "cluster": "30f1434d7064"
  },
  {
@@ -3580,7 +3804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.01,
+  "score": 8.98,
   "cluster": "fd0018acc368"
  },
  {
@@ -3596,7 +3820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -4.49,
+  "score": -4.52,
   "cluster": "4b26fbf04e23"
  },
  {
@@ -3612,7 +3836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 14.99,
+  "score": 14.96,
   "cluster": "e013bcbd3977"
  },
  {
@@ -3628,7 +3852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.99,
+  "score": 8.95,
   "cluster": "df6ffd1d4725"
  },
  {
@@ -3644,7 +3868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.48,
+  "score": 7.45,
   "cluster": "729ee0028e4e"
  },
  {
@@ -3660,7 +3884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 19.47,
+  "score": 19.44,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -3676,7 +3900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.97,
+  "score": 13.94,
   "cluster": "df5c3d4d3830"
  },
  {
@@ -3692,7 +3916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.96,
+  "score": 8.93,
   "cluster": "a44d3770aa7f"
  },
  {
@@ -3708,7 +3932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:22:37.004Z",
   "coverage": 2,
-  "score": 10.37,
+  "score": 10.34,
   "cluster": "a643e877c3bf"
  },
  {
@@ -3724,7 +3948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 13.37,
+  "score": 13.34,
   "cluster": "aa81b60f7a8a"
  },
  {
@@ -3740,7 +3964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 1.35,
+  "score": 1.32,
   "cluster": "963214fbec9b"
  },
  {
@@ -3756,7 +3980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.35,
+  "score": 7.32,
   "cluster": "087df5ac9be2"
  },
  {
@@ -3772,7 +3996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 10.32,
+  "score": 10.29,
   "cluster": "f0ff1818b8fe"
  },
  {
@@ -3788,7 +4012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.32,
+  "score": 7.29,
   "cluster": "6360118ef85d"
  },
  {
@@ -3804,7 +4028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.3,
+  "score": 13.27,
   "cluster": "6d192fa23bd1"
  },
  {
@@ -3820,7 +4044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.77,
+  "score": 11.74,
   "cluster": "28fb1e929b99"
  },
  {
@@ -3836,7 +4060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 4,
-  "score": 16.26,
+  "score": 16.23,
   "cluster": "15b8c4deaa8d"
  },
  {
@@ -3852,7 +4076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.21,
+  "score": 7.18,
   "cluster": "9047326037c9"
  },
  {
@@ -3868,7 +4092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.7,
+  "score": 11.67,
   "cluster": "0c873259805e"
  },
  {
@@ -3884,7 +4108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.2,
+  "score": 7.17,
   "cluster": "10cef0634437"
  },
  {
@@ -3900,7 +4124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.17,
+  "score": 10.14,
   "cluster": "5ab5fd032df0"
  },
  {
@@ -3916,7 +4140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 7.13,
+  "score": 7.1,
   "cluster": "2e75c967b605"
  },
  {
@@ -3932,7 +4156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.63,
+  "score": 11.6,
   "cluster": "70a4447641e0"
  },
  {
@@ -3948,7 +4172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.13,
+  "score": 7.1,
   "cluster": "92effb5a3302"
  },
  {
@@ -3964,7 +4188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": -1.87,
+  "score": -1.9,
   "cluster": "963214fbec9b"
  },
  {
@@ -3980,7 +4204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.12,
+  "score": 7.09,
   "cluster": "3fdf0a68287c"
  },
  {
@@ -3996,7 +4220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.12,
+  "score": 7.09,
   "cluster": "dc8b0e4d523f"
  },
  {
@@ -4012,7 +4236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.08,
+  "score": 15.05,
   "cluster": "9e136b5671a6"
  },
  {
@@ -4028,7 +4252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.08,
+  "score": 7.05,
   "cluster": "def9853d91a0"
  },
  {
@@ -4044,7 +4268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.57,
+  "score": 11.54,
   "cluster": "c2ee55235eac"
  },
  {
@@ -4060,7 +4284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.06,
+  "score": 7.03,
   "cluster": "e6a8790d097d"
  },
  {
@@ -4076,7 +4300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 22.03,
+  "score": 22,
   "cluster": "e2830407b36a"
  },
  {
@@ -4092,7 +4316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.99,
+  "score": 6.96,
   "cluster": "2444946166c8"
  },
  {
@@ -4108,7 +4332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 4,
-  "score": 18.98,
+  "score": 18.95,
   "cluster": "93e285e5c9b2"
  },
  {
@@ -4124,7 +4348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.48,
+  "score": 8.45,
   "cluster": "5ce89c51ba29"
  },
  {
@@ -4140,7 +4364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.47,
+  "score": 8.44,
   "cluster": "91e0a7d973c2"
  },
  {
@@ -4156,7 +4380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -5.04,
+  "score": -5.07,
   "cluster": "1fd0dcfe5d12"
  },
  {
@@ -4172,7 +4396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.46,
+  "score": 8.43,
   "cluster": "54fa01bc554e"
  },
  {
@@ -4188,7 +4412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 14.46,
+  "score": 14.43,
   "cluster": "e64a5ed8eea8"
  },
  {
@@ -4204,7 +4428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.43,
+  "score": 8.4,
   "cluster": "ff4859a231b0"
  },
  {
@@ -4220,7 +4444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.41,
+  "score": 8.38,
   "cluster": "da736a82b7db"
  },
  {
@@ -4236,7 +4460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 6.91,
+  "score": 6.88,
   "cluster": "3acac630c28f"
  },
  {
@@ -4252,7 +4476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.9,
+  "score": 6.87,
   "cluster": "cc25131bcb5d"
  },
  {
@@ -4268,7 +4492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.88,
+  "score": 6.85,
   "cluster": "cd38cf9ef5db"
  },
  {
@@ -4284,7 +4508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.87,
+  "score": 9.84,
   "cluster": "620631940a36"
  },
  {
@@ -4300,7 +4524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 4,
-  "score": 18.85,
+  "score": 18.82,
   "cluster": "e2830407b36a"
  },
  {
@@ -4316,7 +4540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.84,
+  "score": 6.81,
   "cluster": "733d64ff538a"
  },
  {
@@ -4332,7 +4556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 9.8,
+  "score": 9.77,
   "cluster": "7279bb2a3919"
  },
  {
@@ -4348,7 +4572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.3,
+  "score": 8.27,
   "cluster": "0361d5737063"
  },
  {
@@ -4364,7 +4588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 0.8,
+  "score": 0.76,
   "cluster": "b10ebf43407e"
  },
  {
@@ -4380,7 +4604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 9.8,
+  "score": 9.76,
   "cluster": "6c80453d9c99"
  },
  {
@@ -4396,7 +4620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 3,
-  "score": 14.28,
+  "score": 14.25,
   "cluster": "7993e8c0c2e8"
  },
  {
@@ -4412,7 +4636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.78,
+  "score": 12.75,
   "cluster": "8e7f947c4425"
  },
  {
@@ -4428,7 +4652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.77,
+  "score": 6.74,
   "cluster": "6bd59496d585"
  },
  {
@@ -4444,7 +4668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.26,
+  "score": 8.23,
   "cluster": "43700faf2a81"
  },
  {
@@ -4460,7 +4684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.71,
+  "score": 6.68,
   "cluster": "7f79f4b1bddf"
  },
  {
@@ -4476,7 +4700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.63,
+  "score": 9.6,
   "cluster": "ade7fd04f3e8"
  },
  {
@@ -4492,7 +4716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.63,
+  "score": 6.6,
   "cluster": "ad4829ce2daa"
  },
  {
@@ -4508,7 +4732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.09,
+  "score": 11.06,
   "cluster": "0c873259805e"
  },
  {
@@ -4524,7 +4748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.58,
+  "score": 12.55,
   "cluster": "7993e8c0c2e8"
  },
  {
@@ -4540,7 +4764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.57,
+  "score": 6.54,
   "cluster": "202f9d858fca"
  },
  {
@@ -4556,7 +4780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.52,
   "cluster": "2e8d42482444"
  },
  {
@@ -4572,7 +4796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 12.55,
+  "score": 12.51,
   "cluster": "c0041aadd906"
  },
  {
@@ -4588,7 +4812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 6.51,
+  "score": 6.48,
   "cluster": "05aab9fe7b4a"
  },
  {
@@ -4604,7 +4828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 9.49,
+  "score": 9.46,
   "cluster": "48c4e1713bfe"
  },
  {
@@ -4620,7 +4844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.48,
+  "score": 6.45,
   "cluster": "e1f23138583f"
  },
  {
@@ -4636,7 +4860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.48,
+  "score": 6.45,
   "cluster": "429094fc08f2"
  },
  {
@@ -4652,7 +4876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": -5.52,
+  "score": -5.55,
   "cluster": "635a0b3bbbc4"
  },
  {
@@ -4668,7 +4892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.47,
+  "score": 6.44,
   "cluster": "797345372947"
  },
  {
@@ -4684,7 +4908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 5.47,
+  "score": 5.43,
   "cluster": "bc100d7659c3"
  },
  {
@@ -4700,7 +4924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 1,
-  "score": 6.46,
+  "score": 6.43,
   "cluster": "a55ff58f22bd"
  },
  {
@@ -4716,7 +4940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.46,
+  "score": 6.43,
   "cluster": "770ea247b249"
  },
  {
@@ -4732,7 +4956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": -2.54,
+  "score": -2.57,
   "cluster": "1b1d99b69149"
  },
  {
@@ -4748,7 +4972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.43,
+  "score": 6.4,
   "cluster": "7f3845c3cd12"
  },
  {
@@ -4764,7 +4988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.38,
+  "score": 6.35,
   "cluster": "6d3140316bc0"
  },
  {
@@ -4780,7 +5004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.35,
+  "score": 12.32,
   "cluster": "314fc052bd62"
  },
  {
@@ -4796,7 +5020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.33,
+  "score": 6.3,
   "cluster": "5158548f46fe"
  },
  {
@@ -4812,7 +5036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.32,
+  "score": 12.29,
   "cluster": "ce3073bd5d64"
  },
  {
@@ -4828,7 +5052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.32,
+  "score": 12.29,
   "cluster": "48ebf8f03916"
  },
  {
@@ -4844,7 +5068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.024Z",
   "coverage": 4,
-  "score": 18.32,
+  "score": 18.29,
   "cluster": "e2830407b36a"
  },
  {
@@ -4860,7 +5084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.22,
+  "score": 6.19,
   "cluster": "dd9351c2bdc8"
  },
  {
@@ -4876,7 +5100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.66,
+  "score": 10.63,
   "cluster": "772e8ef098cb"
  },
  {
@@ -4892,7 +5116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.09,
+  "score": 6.06,
   "cluster": "d79fc45a2714"
  },
  {
@@ -4908,7 +5132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.06,
+  "score": 6.03,
   "cluster": "8cfc7255bcbb"
  },
  {
@@ -4924,7 +5148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.51,
+  "score": 7.48,
   "cluster": "515f22cb9a3b"
  },
  {
@@ -4940,7 +5164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 5.97,
+  "score": 5.94,
   "cluster": "288bd2f6f55c"
  },
  {
@@ -4956,7 +5180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 5.93,
+  "score": 5.9,
   "cluster": "1bad8faa352c"
  },
  {
@@ -4972,7 +5196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 8.93,
+  "score": 8.9,
   "cluster": "e7e69ac7ea24"
  },
  {
@@ -4988,7 +5212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.34,
+  "score": 7.31,
   "cluster": "abb5957252d7"
  },
  {
@@ -5004,7 +5228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 8.79,
+  "score": 8.76,
   "cluster": "524518cf00bc"
  },
  {
@@ -5020,7 +5244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.21,
+  "score": 10.18,
   "cluster": "eee8e7bbee50"
  },
  {
@@ -5036,7 +5260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 7.07,
+  "score": 7.04,
   "cluster": "1fa14915cd18"
  },
  {
@@ -5052,7 +5276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 8.57,
+  "score": 8.54,
   "cluster": "96a01e753b2c"
  },
  {
@@ -5068,7 +5292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.5,
+  "score": 5.47,
   "cluster": "89c495cb337b"
  },
  {
@@ -5084,7 +5308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": -6.53,
+  "score": -6.56,
   "cluster": "1db6c2307217"
  },
  {
@@ -5100,7 +5324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 12.97,
+  "score": 12.94,
   "cluster": "e995d4d0cb4a"
  },
  {
@@ -5116,7 +5340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.43,
+  "score": 5.4,
   "cluster": "70513a4aa5a1"
  },
  {
@@ -5132,7 +5356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": -6.6,
+  "score": -6.63,
   "cluster": "92a35f34fbb5"
  },
  {
@@ -5148,7 +5372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.39,
+  "score": 5.36,
   "cluster": "9b372731409d"
  },
  {
@@ -5164,7 +5388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.39,
+  "score": 5.36,
   "cluster": "af75c65b1493"
  },
  {
@@ -5180,7 +5404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 6.88,
+  "score": 6.85,
   "cluster": "8d5cc95a3523"
  },
  {
@@ -5196,7 +5420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.37,
+  "score": 5.34,
   "cluster": "baf1a5211288"
  },
  {
@@ -5212,7 +5436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.36,
+  "score": 5.33,
   "cluster": "403e1bae6c4a"
  },
  {
@@ -5228,7 +5452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.35,
+  "score": 8.32,
   "cluster": "70a4447641e0"
  },
  {
@@ -5244,7 +5468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.34,
+  "score": 8.31,
   "cluster": "3f2e0616506f"
  },
  {
@@ -5260,7 +5484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 8.32,
+  "score": 8.29,
   "cluster": "a3d6bde2fbb3"
  },
  {
@@ -5276,8 +5500,8 @@
   "noDate": false,
   "firstSeen": "2026-11-23T17:36:52.582Z",
   "coverage": 2,
-  "score": 8.32,
-  "cluster": "cf4e15eabbe8"
+  "score": 8.29,
+  "cluster": "66633370a991"
  },
  {
   "id": "60e1740ca2cc",
@@ -5292,7 +5516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.31,
+  "score": 8.28,
   "cluster": "d61ab0d32cbe"
  },
  {
@@ -5308,7 +5532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.31,
+  "score": 5.28,
   "cluster": "e7f8247e4f55"
  },
  {
@@ -5324,7 +5548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.26,
+  "score": 8.23,
   "cluster": "c32e65acfc49"
  },
  {
@@ -5340,7 +5564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.26,
+  "score": 5.23,
   "cluster": "a3559e9bacb2"
  },
  {
@@ -5356,7 +5580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.69,
   "cluster": "ee27144dcee0"
  },
  {
@@ -5372,7 +5596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.69,
   "cluster": "42a8c67d6cb6"
  },
  {
@@ -5388,7 +5612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.22,
+  "score": 5.18,
   "cluster": "585c9faf9f6e"
  },
  {
@@ -5404,7 +5628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 5.2,
+  "score": 5.17,
   "cluster": "83c8a30ff39a"
  },
  {
@@ -5420,7 +5644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.17,
+  "score": 5.14,
   "cluster": "8ade731ef60b"
  },
  {
@@ -5436,7 +5660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 6.67,
+  "score": 6.64,
   "cluster": "88c202caa782"
  },
  {
@@ -5452,7 +5676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.13,
+  "score": 5.1,
   "cluster": "cb372748e574"
  },
  {
@@ -5468,7 +5692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.63,
+  "score": 6.6,
   "cluster": "d1baf1523e99"
  },
  {
@@ -5484,7 +5708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.12,
+  "score": 5.09,
   "cluster": "58018b46b8a1"
  },
  {
@@ -5500,7 +5724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.08,
+  "score": 5.05,
   "cluster": "f6211ecf3071"
  },
  {
@@ -5516,7 +5740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 6.57,
+  "score": 6.54,
   "cluster": "ad3cbc391bb1"
  },
  {
@@ -5531,7 +5755,7 @@
   "date": "2026-11-23T05:45:12.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 14.05,
+  "score": 14.02,
   "noDate": false,
   "cluster": "15b8c4deaa8d"
  },
@@ -5548,7 +5772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 8.03,
+  "score": 8,
   "cluster": "c58553137769"
  },
  {
@@ -5564,7 +5788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 5.02,
+  "score": 4.99,
   "cluster": "66bd3e3ef2e6"
  },
  {
@@ -5580,7 +5804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 3,
-  "score": 15.51,
+  "score": 15.48,
   "cluster": "7993e8c0c2e8"
  },
  {
@@ -5596,7 +5820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -7.01,
+  "score": -7.04,
   "cluster": "8eecf8eba233"
  },
  {
@@ -5612,7 +5836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 10.98,
+  "score": 10.95,
   "cluster": "3254ef278d69"
  },
  {
@@ -5628,7 +5852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": -4.12,
+  "score": -4.15,
   "cluster": "6d192fa23bd1"
  },
  {
@@ -5644,7 +5868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 4.8,
+  "score": 4.77,
   "cluster": "4cd515da3b85"
  },
  {
@@ -5660,7 +5884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 9.3,
+  "score": 9.27,
   "cluster": "d86d06ccfeb5"
  },
  {
@@ -5676,7 +5900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 10.72,
+  "score": 10.69,
   "cluster": "8e7f947c4425"
  },
  {
@@ -5692,7 +5916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 5,
-  "score": 19.67,
+  "score": 19.64,
   "cluster": "d88bd90fa925"
  },
  {
@@ -5708,7 +5932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 4.65,
+  "score": 4.62,
   "cluster": "94e8727b585e"
  },
  {
@@ -5724,7 +5948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": -7.42,
+  "score": -7.45,
   "cluster": "aae51d5e942a"
  },
  {
@@ -5740,7 +5964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 10.56,
+  "score": 10.53,
   "cluster": "849935bc5d31"
  },
  {
@@ -5756,7 +5980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 4.48,
+  "score": 4.45,
   "cluster": "d137cc38db68"
  },
  {
@@ -5772,7 +5996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 4.47,
+  "score": 4.44,
   "cluster": "e104b0170769"
  },
  {
@@ -5788,7 +6012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 3,
-  "score": 11.96,
+  "score": 11.93,
   "cluster": "9d50e4f53387"
  },
  {
@@ -5804,7 +6028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 4.42,
+  "score": 4.39,
   "cluster": "53e40a8bdb0e"
  },
  {
@@ -5820,7 +6044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 7.34,
+  "score": 7.31,
   "cluster": "c5c49f64212c"
  },
  {
@@ -5836,7 +6060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 7.27,
+  "score": 7.24,
   "cluster": "a8d519390506"
  },
  {
@@ -5852,7 +6076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 4.25,
+  "score": 4.22,
   "cluster": "d146eb099810"
  },
  {
@@ -5868,7 +6092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 8.72,
+  "score": 8.69,
   "cluster": "88a37079168d"
  },
  {
@@ -5884,7 +6108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 7.13,
+  "score": 7.1,
   "cluster": "d61ab0d32cbe"
  },
  {
@@ -5900,7 +6124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.6,
+  "score": 5.57,
   "cluster": "642e454a32b4"
  },
  {
@@ -5916,7 +6140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 3,
-  "score": 13.06,
+  "score": 13.03,
   "cluster": "8e7f947c4425"
  },
  {
@@ -5932,7 +6156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 4.05,
+  "score": 4.02,
   "cluster": "ac0cbb65d654"
  },
  {
@@ -5948,7 +6172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 4,
-  "score": 12.99,
+  "score": 12.96,
   "cluster": "15b8c4deaa8d"
  },
  {
@@ -5964,7 +6188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 5,
-  "score": 17.42,
+  "score": 17.39,
   "cluster": "7845c78e1629"
  },
  {
@@ -5980,7 +6204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.41,
+  "score": 5.38,
   "cluster": "83d15fc084d8"
  },
  {
@@ -5996,7 +6220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 3.85,
+  "score": 3.82,
   "cluster": "f32fe06ee03a"
  },
  {
@@ -6012,7 +6236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 4,
-  "score": 12.85,
+  "score": 12.82,
   "cluster": "0f6e9cdc6849"
  },
  {
@@ -6028,7 +6252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.33,
+  "score": 5.3,
   "cluster": "19f8e32a1da2"
  },
  {
@@ -6044,7 +6268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.81,
+  "score": 3.78,
   "cluster": "3bb0094b63d9"
  },
  {
@@ -6059,7 +6283,7 @@
   "date": "2026-11-23T02:01:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 12.8,
+  "score": 12.77,
   "noDate": false,
   "cluster": "fd3c1132cf6b"
  },
@@ -6076,7 +6300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 6.78,
+  "score": 6.75,
   "cluster": "6d6290d67ed7"
  },
  {
@@ -6092,7 +6316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 5.26,
+  "score": 5.23,
   "cluster": "86845f971107"
  },
  {
@@ -6108,7 +6332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.75,
+  "score": 3.72,
   "cluster": "d0bc63222d2b"
  },
  {
@@ -6124,7 +6348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 5.2,
+  "score": 5.17,
   "cluster": "096eb98386c5"
  },
  {
@@ -6140,7 +6364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.7,
+  "score": 3.67,
   "cluster": "46084e3539a8"
  },
  {
@@ -6156,7 +6380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 11.14,
+  "score": 11.11,
   "cluster": "9e136b5671a6"
  },
  {
@@ -6172,7 +6396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.63,
+  "score": 3.6,
   "cluster": "05a5742bcea1"
  },
  {
@@ -6188,7 +6412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.61,
+  "score": 3.57,
   "cluster": "04504f1c4726"
  },
  {
@@ -6204,7 +6428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.59,
+  "score": 3.56,
   "cluster": "722eda40d616"
  },
  {
@@ -6220,7 +6444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.06,
+  "score": 5.03,
   "cluster": "ac9b29d220cb"
  },
  {
@@ -6236,7 +6460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.53,
+  "score": 3.5,
   "cluster": "03b636dc5c77"
  },
  {
@@ -6252,7 +6476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 3,
-  "score": 9.5,
+  "score": 9.47,
   "cluster": "4ed3335f5f91"
  },
  {
@@ -6268,7 +6492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.99,
+  "score": 4.96,
   "cluster": "6ee0a6470460"
  },
  {
@@ -6284,7 +6508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 7.96,
+  "score": 7.93,
   "cluster": "ccf893989325"
  },
  {
@@ -6300,7 +6524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.46,
+  "score": 3.43,
   "cluster": "9ca1323a09e2"
  },
  {
@@ -6316,7 +6540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 9.43,
+  "score": 9.4,
   "cluster": "e497745ec4db"
  },
  {
@@ -6332,7 +6556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.93,
+  "score": 4.9,
   "cluster": "b0bf6395d760"
  },
  {
@@ -6348,7 +6572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.38,
+  "score": 3.35,
   "cluster": "09fd85fdd56d"
  },
  {
@@ -6364,7 +6588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 6.35,
+  "score": 6.32,
   "cluster": "7281bb418a1d"
  },
  {
@@ -6379,7 +6603,7 @@
   "date": "2026-11-23T00:33:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 3,
-  "score": 9.32,
+  "score": 9.28,
   "noDate": false,
   "cluster": "d3d91d3fb456"
  },
@@ -6396,7 +6620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 12.3,
+  "score": 12.27,
   "cluster": "aa81b60f7a8a"
  },
  {
@@ -6412,7 +6636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": -8.7,
+  "score": -8.73,
   "cluster": "073870100baa"
  },
  {
@@ -6428,7 +6652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.3,
+  "score": 3.26,
   "cluster": "9aece1f48d4a"
  },
  {
@@ -6444,7 +6668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 10.78,
+  "score": 10.75,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -6460,7 +6684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 7.77,
+  "score": 7.74,
   "cluster": "7e276867e62f"
  },
  {
@@ -6476,7 +6700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 9.23,
+  "score": 9.2,
   "cluster": "6670527b0215"
  },
  {
@@ -6492,13 +6716,13 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.71,
+  "score": 4.68,
   "cluster": "6e76b6ad97e6"
  },
  {
   "id": "626e59734f22",
   "lang": "en",
-  "cat": "world",
+  "cat": "economy",
   "source": "BBC News",
   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
   "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
@@ -6508,7 +6732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 6.17,
+  "score": 6.14,
   "cluster": "626e59734f22"
  },
  {
@@ -6524,7 +6748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.15,
+  "score": 3.12,
   "cluster": "07f9bbd955fc"
  },
  {
@@ -6540,7 +6764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.15,
+  "score": 3.11,
   "cluster": "484954d5c9a3"
  },
  {
@@ -6556,7 +6780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.13,
+  "score": 3.1,
   "cluster": "e20d7ae3782b"
  },
  {
@@ -6572,7 +6796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 6.12,
+  "score": 6.09,
   "cluster": "3ecf1ecb43f0"
  },
  {
@@ -6588,7 +6812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.12,
+  "score": 3.09,
   "cluster": "b06fc917eba8"
  },
  {
@@ -6604,7 +6828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": -8.95,
+  "score": -8.99,
   "cluster": "f6c2bff29426"
  },
  {
@@ -6620,7 +6844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.02,
+  "score": 2.99,
   "cluster": "c5c5481f03cd"
  },
  {
@@ -6636,7 +6860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.48,
+  "score": 4.45,
   "cluster": "6738e42a373d"
  },
  {
@@ -6652,7 +6876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.96,
+  "score": 2.93,
   "cluster": "6611db37c6f5"
  },
  {
@@ -6668,7 +6892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 5,
-  "score": 17.96,
+  "score": 17.93,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -6684,7 +6908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.46,
+  "score": 4.43,
   "cluster": "c56921972084"
  },
  {
@@ -6700,7 +6924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 5,
-  "score": 14.95,
+  "score": 14.92,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -6716,7 +6940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 7.42,
+  "score": 7.39,
   "cluster": "1807cf7613f2"
  },
  {
@@ -6732,7 +6956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": -6.2,
+  "score": -6.23,
   "cluster": "e995d4d0cb4a"
  },
  {
@@ -6748,7 +6972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.8,
+  "score": 2.76,
   "cluster": "2fdb1a1ec1db"
  },
  {
@@ -6764,7 +6988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 4,
-  "score": 11.73,
+  "score": 11.7,
   "cluster": "7845c78e1629"
  },
  {
@@ -6780,7 +7004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.22,
+  "score": 4.19,
   "cluster": "a4537224b7d2"
  },
  {
@@ -6796,7 +7020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": -6.29,
+  "score": -6.32,
   "cluster": "c87198fde0e1"
  },
  {
@@ -6812,7 +7036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 7.17,
+  "score": 7.14,
   "cluster": "c5027510d9a0"
  },
  {
@@ -6828,7 +7052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 3,
-  "score": 10.17,
+  "score": 10.14,
   "cluster": "aa81b60f7a8a"
  },
  {
@@ -6844,7 +7068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.63,
+  "score": 2.6,
   "cluster": "100149a02675"
  },
  {
@@ -6860,7 +7084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.6,
+  "score": 2.57,
   "cluster": "00dd1a103566"
  },
  {
@@ -6876,7 +7100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 5,
-  "score": 14.57,
+  "score": 14.54,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -6892,7 +7116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.05,
+  "score": 4.01,
   "cluster": "152623e56e8c"
  },
  {
@@ -6908,7 +7132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 6,
-  "score": 18.98,
+  "score": 18.95,
   "cluster": "e2830407b36a"
  },
  {
@@ -6924,7 +7148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.48,
+  "score": 2.45,
   "cluster": "f5cf02013749"
  },
  {
@@ -6940,7 +7164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 3,
-  "score": 8.47,
+  "score": 8.44,
   "cluster": "909c7891b599"
  },
  {
@@ -6956,7 +7180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 11.47,
+  "score": 11.44,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -6972,7 +7196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.46,
+  "score": 2.43,
   "cluster": "eeb1e11900cd"
  },
  {
@@ -6988,7 +7212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 5.46,
+  "score": 5.43,
   "cluster": "314fc052bd62"
  },
  {
@@ -7004,7 +7228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 5.46,
+  "score": 5.43,
   "cluster": "b611a7417b5c"
  },
  {
@@ -7019,7 +7243,7 @@
   "date": "2026-11-22T21:51:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 2.41,
+  "score": 2.38,
   "noDate": false,
   "cluster": "9dfd5a1985ad"
  },
@@ -7035,9 +7259,9 @@
   "date": "2026-11-22T21:46:40.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 2,
-  "score": 5.39,
-  "cluster": "0770198fefa0"
+  "coverage": 3,
+  "score": 8.36,
+  "cluster": "fd3c1132cf6b"
  },
  {
   "id": "b697042aec6a",
@@ -7052,7 +7276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.38,
+  "score": 2.35,
   "cluster": "b697042aec6a"
  },
  {
@@ -7068,7 +7292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.38,
+  "score": 2.35,
   "cluster": "3d95598c9708"
  },
  {
@@ -7084,7 +7308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 2.37,
+  "score": 2.34,
   "cluster": "9d561cc7e83a"
  },
  {
@@ -7100,7 +7324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 15.82,
+  "score": 15.79,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -7116,7 +7340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 6,
-  "score": 20.32,
+  "score": 20.29,
   "cluster": "e2830407b36a"
  },
  {
@@ -7132,7 +7356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -9.69,
+  "score": -9.72,
   "cluster": "cbd4b83e547f"
  },
  {
@@ -7148,7 +7372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.3,
+  "score": 2.26,
   "cluster": "97713ff68f78"
  },
  {
@@ -7164,7 +7388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 5.28,
+  "score": 5.25,
   "cluster": "57049a1c0d2b"
  },
  {
@@ -7180,7 +7404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.27,
+  "score": 2.24,
   "cluster": "03ff1eb2421d"
  },
  {
@@ -7196,7 +7420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 4,
-  "score": 12.77,
+  "score": 12.73,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -7212,7 +7436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.25,
+  "score": 2.22,
   "cluster": "d7fd540855b1"
  },
  {
@@ -7228,7 +7452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 5.24,
+  "score": 5.21,
   "cluster": "e16611e15cde"
  },
  {
@@ -7244,7 +7468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -9.79,
+  "score": -9.82,
   "cluster": "34cf49dafd37"
  },
  {
@@ -7260,7 +7484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 8.21,
+  "score": 8.18,
   "cluster": "e497745ec4db"
  },
  {
@@ -7276,7 +7500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": -9.87,
+  "score": -9.9,
   "cluster": "66ae122a2b7c"
  },
  {
@@ -7292,7 +7516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.13,
+  "score": 2.1,
   "cluster": "2428b477d259"
  },
  {
@@ -7308,7 +7532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 15.6,
+  "score": 15.57,
   "cluster": "7845c78e1629"
  },
  {
@@ -7324,7 +7548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 5.09,
+  "score": 5.06,
   "cluster": "20a6e430f222"
  },
  {
@@ -7340,7 +7564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.05,
+  "score": 2.01,
   "cluster": "941af467e7f5"
  },
  {
@@ -7356,7 +7580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 5.03,
+  "score": 5,
   "cluster": "7ef2671ba68b"
  },
  {
@@ -7372,7 +7596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.96,
+  "score": 1.93,
   "cluster": "d2642b27adb3"
  },
  {
@@ -7388,7 +7612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.96,
+  "score": 1.93,
   "cluster": "7c35c7b163de"
  },
  {
@@ -7404,7 +7628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.95,
+  "score": 1.92,
   "cluster": "c4f91851e71f"
  },
  {
@@ -7420,7 +7644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 6.44,
+  "score": 6.41,
   "cluster": "57049a1c0d2b"
  },
  {
@@ -7436,7 +7660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.93,
+  "score": 1.9,
   "cluster": "fb61cc4234e2"
  },
  {
@@ -7452,7 +7676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 3.41,
+  "score": 3.38,
   "cluster": "fdf18ad95019"
  },
  {
@@ -7468,7 +7692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.88,
+  "score": 1.85,
   "cluster": "d5561701de93"
  },
  {
@@ -7484,7 +7708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.88,
+  "score": 1.85,
   "cluster": "4ac2ac817826"
  },
  {
@@ -7500,7 +7724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.84,
+  "score": 1.81,
   "cluster": "b9ff9afa7b3c"
  },
  {
@@ -7516,8 +7740,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 4.82,
-  "cluster": "cf4e15eabbe8"
+  "score": 4.79,
+  "cluster": "5373bce8afb1"
  },
  {
   "id": "dfbff6411453",
@@ -7532,7 +7756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.8,
+  "score": 1.76,
   "cluster": "dfbff6411453"
  },
  {
@@ -7547,9 +7771,9 @@
   "date": "2026-11-22T20:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 2,
-  "score": 4.8,
-  "cluster": "e3bce82e41c2"
+  "coverage": 3,
+  "score": 7.76,
+  "cluster": "b15d9fea3e61"
  },
  {
   "id": "2b8062874970",
@@ -7563,7 +7787,7 @@
   "date": "2026-11-22T19:57:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 3.78,
+  "score": 3.75,
   "noDate": false,
   "cluster": "fa55c8e12b3b"
  },
@@ -7580,7 +7804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:54:28.736Z",
   "coverage": 2,
-  "score": 4.75,
+  "score": 4.72,
   "cluster": "06bbdcddc55b"
  },
  {
@@ -7596,7 +7820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 3.22,
+  "score": 3.19,
   "cluster": "6b73b8836b3e"
  },
  {
@@ -7612,7 +7836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.71,
+  "score": 1.68,
   "cluster": "b12b3ae0d228"
  },
  {
@@ -7628,7 +7852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.69,
+  "score": 1.65,
   "cluster": "7020b5a3700c"
  },
  {
@@ -7644,7 +7868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.63,
+  "score": 1.6,
   "cluster": "23d8669970c1"
  },
  {
@@ -7660,7 +7884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 3.13,
+  "score": 3.1,
   "cluster": "940e55205b44"
  },
  {
@@ -7676,7 +7900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 7.63,
+  "score": 7.6,
   "cluster": "dfa4db2f66ca"
  },
  {
@@ -7692,7 +7916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 4.62,
+  "score": 4.59,
   "cluster": "1be9a8552240"
  },
  {
@@ -7708,7 +7932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 4.6,
+  "score": 4.56,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -7724,7 +7948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 4.57,
+  "score": 4.54,
   "cluster": "41d31761ec9c"
  },
  {
@@ -7740,7 +7964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.56,
+  "score": 1.53,
   "cluster": "490fe1287b08"
  },
  {
@@ -7756,7 +7980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 13.56,
+  "score": 13.53,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -7772,7 +7996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.55,
+  "score": 1.51,
   "cluster": "58c5fd35ec98"
  },
  {
@@ -7788,7 +8012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.52,
+  "score": 1.49,
   "cluster": "0d33e501774b"
  },
  {
@@ -7804,7 +8028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -10.53,
+  "score": -10.57,
   "cluster": "9d3b1b4e1aa5"
  },
  {
@@ -7820,7 +8044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.46,
+  "score": 1.43,
   "cluster": "adb0aabaaa02"
  },
  {
@@ -7836,7 +8060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.96,
+  "score": 2.93,
   "cluster": "6a3c9ca93cfb"
  },
  {
@@ -7852,7 +8076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 13.44,
+  "score": 13.41,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -7868,7 +8092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 5.93,
+  "score": 5.9,
   "cluster": "3f2e0616506f"
  },
  {
@@ -7883,7 +8107,7 @@
   "date": "2026-11-22T18:53:53.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 6,
-  "score": 17.93,
+  "score": 17.9,
   "noDate": false,
   "cluster": "58ba47aabdb3"
  },
@@ -7900,7 +8124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 3,
-  "score": 7.41,
+  "score": 7.38,
   "cluster": "0f6e9cdc6849"
  },
  {
@@ -7916,7 +8140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.38,
+  "score": 1.35,
   "cluster": "cd200aab6cc1"
  },
  {
@@ -7932,7 +8156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.38,
+  "score": 1.34,
   "cluster": "de58128811dc"
  },
  {
@@ -7948,7 +8172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 4,
-  "score": 10.32,
+  "score": 10.29,
   "cluster": "7845c78e1629"
  },
  {
@@ -7964,7 +8188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:45:59.691Z",
   "coverage": 2,
-  "score": 4.3,
+  "score": 4.26,
   "cluster": "b64d2e67efc9"
  },
  {
@@ -7980,7 +8204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 3,
-  "score": 7.29,
+  "score": 7.26,
   "cluster": "0f6e9cdc6849"
  },
  {
@@ -7996,7 +8220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:45:59.691Z",
   "coverage": 2,
-  "score": 4.27,
+  "score": 4.24,
   "cluster": "b611a7417b5c"
  },
  {
@@ -8012,7 +8236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": -9.24,
+  "score": -9.27,
   "cluster": "3673b90c3910"
  },
  {
@@ -8028,7 +8252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.25,
+  "score": 1.21,
   "cluster": "699ea053e18a"
  },
  {
@@ -8044,7 +8268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.25,
+  "score": 1.21,
   "cluster": "26bb11cdaab6"
  },
  {
@@ -8060,7 +8284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 6,
-  "score": 16.23,
+  "score": 16.2,
   "cluster": "7845c78e1629"
  },
  {
@@ -8076,7 +8300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.21,
+  "score": 1.18,
   "cluster": "20f83d9572c0"
  },
  {
@@ -8092,7 +8316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 5.7,
+  "score": 5.67,
   "cluster": "0657f5c19944"
  },
  {
@@ -8108,7 +8332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.2,
+  "score": 1.16,
   "cluster": "e4e5ec09ef1d"
  },
  {
@@ -8124,7 +8348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 6,
-  "score": 17.69,
+  "score": 17.66,
   "cluster": "e2830407b36a"
  },
  {
@@ -8140,7 +8364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.19,
+  "score": 1.16,
   "cluster": "4d3cc10c5927"
  },
  {
@@ -8155,8 +8379,8 @@
   "date": "2026-11-22T18:08:43.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
-  "coverage": 4,
-  "score": 10.18,
+  "coverage": 3,
+  "score": 7.15,
   "cluster": "c0041aadd906"
  },
  {
@@ -8172,7 +8396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.16,
+  "score": 1.13,
   "cluster": "12bbde7ca7bc"
  },
  {
@@ -8187,7 +8411,7 @@
   "date": "2026-11-22T18:05:48.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.16,
+  "score": 1.13,
   "noDate": false,
   "cluster": "4a3fc25ec61a"
  },
@@ -8204,7 +8428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": -10.85,
+  "score": -10.88,
   "cluster": "c21a3b05e4bf"
  },
  {
@@ -8220,7 +8444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.14,
+  "score": 1.11,
   "cluster": "2cc243c8c89e"
  },
  {
@@ -8236,7 +8460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.13,
+  "score": 1.1,
   "cluster": "781eaa7f5e8e"
  },
  {
@@ -8252,7 +8476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.13,
+  "score": 1.1,
   "cluster": "43ff13bda800"
  },
  {
@@ -8267,9 +8491,9 @@
   "date": "2026-11-22T18:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
-  "coverage": 2,
-  "score": 4.13,
-  "cluster": "524518cf00bc"
+  "coverage": 3,
+  "score": 7.1,
+  "cluster": "2f73cb50563e"
  },
  {
   "id": "c5c9681ac21c",
@@ -8284,7 +8508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": -4.9,
+  "score": -4.93,
   "cluster": "ccf893989325"
  },
  {
@@ -8299,7 +8523,7 @@
   "date": "2026-11-22T17:55:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.1,
+  "score": 1.07,
   "noDate": false,
   "cluster": "3500af305ed0"
  },
@@ -8316,7 +8540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": -4.9,
+  "score": -4.93,
   "cluster": "baaf80a5b164"
  },
  {
@@ -8332,7 +8556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 3.09,
+  "score": 3.06,
   "cluster": "06bbdcddc55b"
  },
  {
@@ -8348,7 +8572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.07,
+  "score": 1.04,
   "cluster": "18f88e8e220e"
  },
  {
@@ -8364,7 +8588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 3,
-  "score": 7.05,
+  "score": 7.02,
   "cluster": "4ed3335f5f91"
  },
  {
@@ -8380,7 +8604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.05,
+  "score": 1.02,
   "cluster": "8dafc0c5db87"
  },
  {
@@ -8396,7 +8620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.05,
+  "score": 1.01,
   "cluster": "a3d87933ceb4"
  },
  {
@@ -8523,9 +8747,9 @@
   "date": "2026-11-22T17:15:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
-  "coverage": 3,
-  "score": 8.5,
-  "cluster": "479d4cf822c7"
+  "coverage": 4,
+  "score": 11.5,
+  "cluster": "aef8e013d19c"
  },
  {
   "id": "e3bce82e41c2",
@@ -8541,7 +8765,7 @@
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 3,
   "score": 7,
-  "cluster": "e3bce82e41c2"
+  "cluster": "b15d9fea3e61"
  },
  {
   "id": "36ebe6cb9197",
@@ -8939,8 +9163,8 @@
   "date": "2026-11-22T16:10:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
-  "coverage": 4,
-  "score": 10,
+  "coverage": 3,
+  "score": 7,
   "cluster": "c0041aadd906"
  },
  {
@@ -10138,8 +10362,8 @@
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440",
   "date": "2026-11-22T13:16:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 6,
-  "score": 16,
+  "coverage": 5,
+  "score": 13,
   "noDate": false,
   "cluster": "d88bd90fa925"
  },
@@ -10256,22 +10480,6 @@
   "cluster": "be824d35f3bd"
  },
  {
-  "id": "b7ad53f84096",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The Guardian",
-  "title": "Trump’s immigration crackdown drives international students away from US universities",
-  "excerpt": "The decline is costing colleges millions in tuition revenue and depriving American students of the cultural benefits of international classmates Until 2025, students from Brazil, Nigeria, Thailand, Turkey, Turkmenistan and Zambia eagerly accepted a…",
-  "link": "https://www.theguardian.com/education/2026/nov/22/trump-immigration-crackdown-international-students",
-  "image": "https://i.guim.co.uk/img/media/4ea87d598966284749ba9a370ff9ae547f89afdd/130_0_3438_2751/master/3438.jpg?width=700&quality=85&auto=format&fit=max&s=7115fa7e3e09f97cb031884631161d5f",
-  "date": "2026-11-22T13:00:28.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "b7ad53f84096"
- },
- {
   "id": "4a1108db1694",
   "lang": "en",
   "cat": "economy",
@@ -10286,198 +10494,6 @@
   "score": 10,
   "noDate": false,
   "cluster": "9e136b5671a6"
- },
- {
-  "id": "82a8a10f0807",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Verge",
-  "title": "Your questions about Apple HomeView’s audio, answered",
-  "excerpt": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a…",
-  "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "date": "2026-11-22T13:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "82a8a10f0807"
- },
- {
-  "id": "0f50037c76f2",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Verge",
-  "title": "The vibe-coding revolution is coming to all the gadgets",
-  "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The…",
-  "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "date": "2026-11-22T13:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "0f50037c76f2"
- },
- {
-  "id": "d1afb959f577",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The Hill",
-  "title": "Impeaching Hegseth is a trap Democrats should avoid",
-  "excerpt": "Many Republicans acknowledge privately that Pete Hegseth is unfit to serve as secretary of Defense. That doesn’t mean House Democrats should impeach him when they take control in January. Impeachment is a political remedy for serious misconduct in…",
-  "link": "https://thehill.com/opinion/congress-blog/6233288-political-risks-hegseth-impeachment/",
-  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26314483468568.jpg?w=900",
-  "date": "2026-11-22T13:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "d1afb959f577"
- },
- {
-  "id": "5328c3f24e10",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The Hill",
-  "title": "The three amigos",
-  "excerpt": "China and Russia are in competition with America and want to harm us. So how do we deal with that?",
-  "link": "https://thehill.com/opinion/international/6235604-the-three-amigos/",
-  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26323310225723-e1795179399684.jpg?w=900",
-  "date": "2026-11-22T13:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "5328c3f24e10"
- },
- {
-  "id": "bc5ac057c3f9",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Futurism",
-  "title": "Putting One Million SpaceX Data Centers in Space Would Be an Environmental Catastrophe, Scientists Warn",
-  "excerpt": "Starships could release a staggering amount of pollution.",
-  "link": "https://futurism.com/science-energy/one-million-spacex-data-centers-environmental-catastrophe",
-  "image": "https://futurism.com/wp-content/uploads/2026/11/one-million-spacex-data-centers-environmental-catastrophe.jpg?quality=85&w=2048",
-  "date": "2026-11-22T12:51:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 3,
-  "score": 8.5,
-  "noDate": false,
-  "cluster": "bc5ac057c3f9"
- },
- {
-  "id": "4476b606161a",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.95%",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-195-5043961",
-  "image": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
-  "date": "2026-11-22T12:45:03.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 7,
-  "noDate": false,
-  "cluster": "4476b606161a"
- },
- {
-  "id": "a3d63629e827",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Yanko Design",
-  "title": "The 8 Best Desk Accessories That Make Your Workspace Feel Like You, Not Your Job",
-  "excerpt": "The 8 Best Desk Accessories That Make Your Workspace Feel Like You, Not Your Job You can tell a lot about someone from the things on their desk that didn’t come with the job. A photo leaning against the monitor,...",
-  "link": "https://www.yankodesign.com/2026/11/22/the-8-best-desk-accessories-that-make-your-workspace-feel-like-you-not-your-job/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-best-desk-accessories-that-make-your-workspace-feel-like-you-not-your-job",
-  "image": "https://www.yankodesign.com/images/design_news/2026/11/desk-accessories-that-make-your-workspace-feel-like-you-not-your-job/8_best_desk_accessories_yanko_design_hero.jpg",
-  "date": "2026-11-22T12:40:04.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": -11,
-  "noDate": false,
-  "cluster": "a3d63629e827"
- },
- {
-  "id": "cc275525a80e",
-  "lang": "en",
-  "cat": "world",
-  "source": "The New York Times",
-  "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-  "excerpt": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
-  "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
-  "image": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
-  "date": "2026-11-22T12:32:25.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "cc275525a80e"
- },
- {
-  "id": "3e2b016a40c9",
-  "lang": "en",
-  "cat": "world",
-  "source": "Al Jazeera",
-  "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-  "excerpt": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
-  "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=1920%2C1440",
-  "date": "2026-11-22T12:31:30.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 5.5,
-  "noDate": false,
-  "cluster": "3e2b016a40c9"
- },
- {
-  "id": "3e4850050840",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The New York Times",
-  "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
-  "excerpt": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028.",
-  "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
-  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-gop-reflection-SWAP-mblz/22pol-gop-reflection-SWAP-mblz-mediumSquareAt3X.jpg",
-  "date": "2026-11-22T12:30:24.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "3e4850050840"
- },
- {
-  "id": "113d0aee3c51",
-  "lang": "en",
-  "cat": "markets",
-  "source": "MarketWatch",
-  "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
-  "excerpt": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
-  "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
-  "image": "https://images.mktw.net/im-35352334",
-  "date": "2026-11-22T12:30:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "113d0aee3c51"
- },
- {
-  "id": "1cf4c847a4f0",
-  "lang": "en",
-  "cat": "world",
-  "source": "The New York Times",
-  "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-  "excerpt": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
-  "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
-  "date": "2026-11-22T12:29:34.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "1cf4c847a4f0"
  },
  {
   "id": "94031a80a6e2",
@@ -10590,22 +10606,6 @@
   "coverage": 1,
   "score": 1,
   "cluster": "c96c1ed2d4eb"
- },
- {
-  "id": "fe71d9b3a355",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
-  "excerpt": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-  "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
-  "date": "2026-11-22T00:04:07.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-23T17:36:52.581Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "fe71d9b3a355"
  },
  {
   "id": "2a20561a78fa",
