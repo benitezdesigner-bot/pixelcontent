@@ -115,7 +115,15 @@ export async function summarizeNew(stories, lang, dataDir) {
     covered.add(s.cluster);
     (byCat[s.cat] ||= []).push(s);
   }
-  const todo = [];
+  // noticias de última hora marcadas por la tarea de "breaking news" (data/priority.json): van primero
+  const prioFile = path.join(dataDir, "priority.json");
+  let prio = [];
+  try {
+    prio = JSON.parse(fs.readFileSync(prioFile, "utf8")).ids || [];
+  } catch {}
+  const todo = stories.filter((s) => prio.includes(s.id) && !cache[s.id]);
+  for (const l of Object.values(byCat)) for (let i = l.length - 1; i >= 0; i--) if (todo.includes(l[i])) l.splice(i, 1);
+  if (todo.length) console.log(`  · ${todo.length} de última hora primero`);
   while (todo.length < config.ai.maxPerRun && Object.values(byCat).some((l) => l.length))
     for (const l of Object.values(byCat)) if (l.length && todo.length < config.ai.maxPerRun) todo.push(l.shift());
   console.log(`\n▶ IA (${lang}): escribiendo ${todo.length} notas propias con ${config.ai.model}…`);
@@ -176,5 +184,16 @@ export async function summarizeNew(stories, lang, dataDir) {
   );
   console.log(`  ${ok} notas nuevas (total ${Object.keys(cache).length})`);
   fs.writeFileSync(file, JSON.stringify(cache));
+  // quitar de la lista de prioridad las que ya tienen nota (o que ya no están en el sitio)
+  if (prio.length) {
+    const ids = new Set(stories.map((s) => s.id));
+    const left = prio.filter((id) => !cache[id] && ids.has(id));
+    try {
+      const pf = JSON.parse(fs.readFileSync(prioFile, "utf8"));
+      pf[`done_${lang}`] = prio.filter((id) => cache[id]);
+      if (lang === "es") pf.ids = left.length ? left : [];
+      fs.writeFileSync(prioFile, JSON.stringify(pf, null, 1));
+    } catch {}
+  }
   return cache;
 }
