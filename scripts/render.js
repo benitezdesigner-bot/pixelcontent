@@ -17,7 +17,7 @@ const T = {
     share: "Share",
     shareEnd: "Share this story",
     comments: "Comments",
-    commentsIntro: "What do you think? Sign in with GitHub to comment (it's free). Keep it civil: insults and spam are removed.",
+    commentsIntro: "What do you think? Keep it civil: insults and spam are removed.",
     copy: "Copy link",
     copied: "Link copied",
     sources: "sources",
@@ -78,7 +78,7 @@ const T = {
     share: "Compartir",
     shareEnd: "Comparte esta noticia",
     comments: "Comentarios",
-    commentsIntro: "¿Qué opinas? Entra con tu cuenta de GitHub para comentar (es gratis). Con respeto: los insultos y el spam se eliminan.",
+    commentsIntro: "¿Qué opinas? Con respeto: los insultos y el spam se eliminan.",
     copy: "Copiar enlace",
     copied: "Enlace copiado",
     sources: "fuentes",
@@ -476,6 +476,15 @@ ${adBox("leaderboard", "wide")}
       const url = site ? `${site}/${base}story/${s.id}.html` : "";
       let widget = "";
       const g = cm.giscus || {};
+      const sbc = cm.supabase || {};
+      if (cm.provider === "supabase" && sbc.url && sbc.key)
+        return `<section class="comments" id="comments" data-comments data-url="${esc(sbc.url)}" data-key="${esc(sbc.key)}" data-page="${esc(lang + "/" + s.id)}">
+  <h2 class="sec-title"><span>💬 ${t.comments}</span><small data-c-count></small></h2>
+  <div class="c-form" data-c-form></div>
+  <div class="c-list" data-c-list></div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="${prefixFor(`story/${s.id}.html`)}assets/comments.js" defer></script>`;
       if (cm.provider === "giscus" && g.repoId && g.categoryId)
         widget = `<script src="https://giscus.app/client.js" data-repo="${esc(g.repo)}" data-repo-id="${esc(g.repoId)}" data-category="${esc(g.category)}" data-category-id="${esc(g.categoryId)}" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="transparent_dark" data-lang="${lang}" data-loading="lazy" crossorigin="anonymous" async></script>`;
       else if (cm.provider === "disqus" && cm.disqusShortname)

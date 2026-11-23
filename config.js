@@ -20,7 +20,9 @@ export default {
   // provider: "disqus" (shortname de tu sitio en disqus.com) o "cusdis" (appId de cusdis.com).
   // Mientras esté vacío no se muestra la sección de comentarios.
   comments: {
-    provider: process.env.COMMENTS_PROVIDER || "giscus", // "giscus", "disqus" o "cusdis"
+    provider: process.env.COMMENTS_PROVIDER || "supabase", // "supabase" (cuentas de PixelContent), "giscus", "disqus" o "cusdis"
+    // supabase: cuentas propias de PixelContent (correo y contraseña). La clave "publishable" es pública por diseño.
+    supabase: { url: "https://yspxxobbvwxbjirnyjch.supabase.co", key: "sb_publishable_C-2nHRkRGAG623zhWkJJaw_qIq8FUZR" },
     // giscus: comentarios guardados en las Discussions del repo (los lectores entran con GitHub).
     // App instalada solo en este repo el 23 nov 2026; categoría "Announcements".
     giscus: { repo: "benitezdesigner-bot/pixelcontent", repoId: "R_kgDOV3vnow", category: "Announcements", categoryId: "DIC_kwDOV3vno84DLzgX" },
