@@ -140,7 +140,7 @@
       if (mode === "signup") {
         var nm = name.value.trim();
         if (nm.length < 2 || nm.length > 30) { go.disabled = false; return msg(f, T.needName); }
-        r = await sb.auth.signUp({ email: email.value.trim(), password: pass.value, options: { data: { display_name: nm }, emailRedirectTo: location.href.split("#")[0] } });
+        r = await sb.auth.signUp({ email: email.value.trim(), password: pass.value, options: { data: { display_name: nm, lang: es ? "es" : "en" }, emailRedirectTo: location.href.split("#")[0] } });
         go.disabled = false;
         if (r.error) return msg(f, /registered|exists/i.test(r.error.message) ? T.exists : r.error.message);
         if (!r.data.session) { mode = "signin"; renderForm(); return msg(formEl, T.checkEmail, true); }
