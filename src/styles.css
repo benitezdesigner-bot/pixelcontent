@@ -400,3 +400,25 @@ article.card, article.lead, article.big, article.small { position: relative; }
 .nt-band { margin-top: 10px; }
 .nt-band .notify { margin: 30px 0 28px; padding: 28px; }
 @media (min-width: 900px) { .nt-band .notify { display: grid; grid-template-columns: 1fr 1.1fr; gap: 24px; align-items: center; } .nt-band .nt-head { margin: 0; } .nt-band .nt-msg { grid-column: 2; margin-top: -14px !important; } }
+
+/* botón "Recibe alertas" en el encabezado, siempre visible */
+.hd-notify { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; background: #ff4b2b; color: #fff !important; font: 800 14px/1 var(--body); padding: 10px 16px; border-radius: 999px; text-decoration: none; white-space: nowrap; box-shadow: 0 4px 14px rgba(255, 75, 43, .35); transition: transform .15s, background .15s; }
+.hd-notify:hover { background: #ff6440; transform: translateY(-1px); }
+.hd-notify + .menu-btn { margin-left: 8px; }
+.hd-notify .hn-short { display: none; }
+@media (max-width: 600px) { .hd-notify { padding: 9px 12px; font-size: 13px; } .hd-notify .hn-long { display: none; } .hd-notify .hn-short { display: inline; } .masthead .logo-word { font-size: 22px; } }
+@media (max-width: 360px) { .masthead .logo-word { font-size: 19px; } .masthead .logo-mark { width: 30px; height: 30px; font-size: 17px; } .hd-notify { padding: 8px 10px; } }
+/* enlaces del menú: alertas y redes */
+.catnav a.nav-notify { color: #fff; font-weight: 800; }
+.catnav a.nav-soc { color: #fff; }
+.catnav a.nav-yt svg { color: #ff0033; }
+.catnav a.nav-fb svg { color: #1877f2; }
+/* fila "Sigue a PixelContent" en cada noticia */
+.follow-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 14px 0 0; }
+.follow-row > span { font-weight: 800; font-size: 14px; }
+.follow-row a { display: inline-flex; align-items: center; gap: 7px; color: #fff; text-decoration: none; font: 700 14px/1 var(--body); padding: 10px 16px; border-radius: 999px; }
+.follow-row .fl-yt { background: #ff0033; }
+.follow-row .fl-fb { background: #1877f2; }
+.follow-row a:hover { filter: brightness(1.1); }
+.nt-band.flash .notify { animation: ntflash 1.4s ease; }
+@keyframes ntflash { 0%, 100% { transform: none; } 20% { transform: scale(1.02); box-shadow: 0 0 0 6px rgba(255, 255, 255, .5), 0 10px 30px rgba(255, 75, 43, .35); } }

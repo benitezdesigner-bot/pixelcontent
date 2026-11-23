@@ -14,6 +14,7 @@ export default {
   // Redes sociales (aparecen en el pie de página)
   social: {
     youtube: "https://www.youtube.com/@pixelcontentnews",
+    facebook: "https://www.facebook.com/profile.php?id=61596702547804",
   },
 
   // ── Suscripción a notificaciones por correo (n8n → GetWeb, con correo de bienvenida) ──

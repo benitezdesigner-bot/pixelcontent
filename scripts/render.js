@@ -17,6 +17,9 @@ const T = {
     share: "Share",
     shareEnd: "Share this story",
     nlTitle: "Get the news that moves your money",
+    nlMenu: "Get alerts",
+    nlShort: "Alerts",
+    followUs: "Follow PixelContent",
     nlSub: "Breaking news, market calls and the weirdest true stories in your inbox. Free.",
     nlName: "Your name (optional)",
     nlEmail: "Your email",
@@ -87,6 +90,9 @@ const T = {
     share: "Compartir",
     shareEnd: "Comparte esta noticia",
     nlTitle: "Recibe las noticias que mueven tu dinero",
+    nlMenu: "Recibe alertas",
+    nlShort: "Alertas",
+    followUs: "Sigue a PixelContent",
     nlSub: "Última hora, predicciones de mercado y las historias más raras en tu correo. Gratis.",
     nlName: "Tu nombre (opcional)",
     nlEmail: "Tu correo",
@@ -171,6 +177,10 @@ const NET = {
   email: '<path d="M3 5h18v14H3z" /><path d="M3 6l9 7 9-7" />',
   copy: '<path d="M9 9h11v11H9z" /><path d="M5 15H4V4h11v1" />',
   native: '<path d="M12 3v13M7 8l5-5 5 5M5 14v6h14v-6" />',
+};
+const SOC = {
+  youtube: '<svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M23 7.2a3 3 0 00-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 001 7.2 31 31 0 00.5 12a31 31 0 00.5 4.8 3 3 0 002.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 002.1-2.1 31 31 0 00.5-4.8 31 31 0 00-.5-4.8zM9.7 15.1V8.9l5.8 3.1z"/></svg>',
+  facebook: '<svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M24 12a12 12 0 10-13.9 11.9v-8.4H7.1V12h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 .9-2 1.9V12h3.4l-.5 3.5h-2.9v8.4A12 12 0 0024 12z"/></svg>',
 };
 const netIcon = (k) => `<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${NET[k]}</svg>`;
 const icon = (id, size = 18) =>
@@ -344,12 +354,16 @@ ${jsonld}
 <header class="masthead"><div class="wrap">
   <a class="logo" href="${pre}${base}index.html" aria-label="${config.siteName}"><span class="logo-mark">P</span><span class="logo-word">pixel<em>content</em></span></a>
   <p class="tagline">${t.tagline}</p>
+  ${config.newsletter?.webhook ? `<a class="hd-notify" href="#notify" data-goto-notify aria-label="${t.nlMenu}">🔔 <span class="hn-long">${t.nlMenu}</span><span class="hn-short">${t.nlShort}</span></a>` : ""}
   <button class="menu-btn" aria-label="Menu" aria-controls="site-nav" data-menu><svg class="i-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg><svg class="i-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button>
 </div></header>
 <nav class="catnav" id="site-nav" data-nav><div class="wrap">
   <a href="${pre}${base}index.html" class="${active === "home" ? "on" : ""}">${t.home}</a>
   <a href="${pre}${base}predictions.html" class="nav-pred ${active === "predictions" ? "on" : ""}" style="--c:#ff4b2b">📈 ${t.predictions}</a>
+  ${config.newsletter?.webhook ? `<a href="#notify" class="nav-notify" data-goto-notify>🔔 ${t.nlMenu}</a>` : ""}
   ${cats.map((c) => `<a href="${pre}${base}${c.id}.html" class="${active === c.id ? "on" : ""}" style="--c:${c.color}">${icon(c.id, 15)}${esc(c[lang])}</a>`).join("")}
+  ${config.social?.youtube ? `<a href="${esc(config.social.youtube)}" class="nav-soc nav-yt" target="_blank" rel="noopener">${SOC.youtube} YouTube</a>` : ""}
+  ${config.social?.facebook ? `<a href="${esc(config.social.facebook)}" class="nav-soc nav-fb" target="_blank" rel="noopener">${SOC.facebook} Facebook</a>` : ""}
 </div></nav>
 ${
   markets.length
@@ -383,11 +397,11 @@ ${
 
     const footer = (rel) => {
       const pre = prefixFor(rel);
-      return `<div class="wrap nt-band">${notifyBox("wide")}</div>
+      return `<div class="wrap nt-band" id="notify">${notifyBox("wide")}</div>
 <footer class="footer"><div class="wrap">
   <div class="f-brand"><a class="logo" href="${pre}${base}index.html"><span class="logo-mark">P</span><span class="logo-word">pixel<em>content</em></span></a><p>${t.footer}</p></div>
   <div class="f-links">${cats.map((c) => `<a href="${pre}${base}${c.id}.html">${esc(c[lang])}</a>`).join("")}</div>
-  <div class="f-links"><a href="${pre}${base}predictions.html">📈 ${t.predictions}</a><a href="${pre}${base}about.html">${t.about}</a><a href="${pre}${base}privacy.html">${t.privacy}</a><a href="${pre}${other === "es" ? "es/" : ""}index.html" data-setlang="${other}">${t.other}</a>${config.social?.youtube ? `<a href="${esc(config.social.youtube)}" target="_blank" rel="noopener">▶ YouTube</a>` : ""}</div>
+  <div class="f-links"><a href="${pre}${base}predictions.html">📈 ${t.predictions}</a><a href="${pre}${base}about.html">${t.about}</a><a href="${pre}${base}privacy.html">${t.privacy}</a><a href="${pre}${other === "es" ? "es/" : ""}index.html" data-setlang="${other}">${t.other}</a>${config.social?.youtube ? `<a href="${esc(config.social.youtube)}" target="_blank" rel="noopener">▶ YouTube</a>` : ""}${config.social?.facebook ? `<a href="${esc(config.social.facebook)}" target="_blank" rel="noopener">f Facebook</a>` : ""}</div>
   <p class="copy">© ${new Date().getFullYear()} ${config.siteName}</p>
 </div></footer>
 <div class="toast" data-toast>${t.copied}</div>
@@ -586,6 +600,7 @@ ${adBox("leaderboard", "wide")}
     ${shareBar(title, t.share)}
     ${article}
     ${shareBar(title, t.shareEnd, "share-end")}
+    <div class="follow-row"><span>${t.followUs}</span>${config.social?.youtube ? `<a class="fl-yt" href="${esc(config.social.youtube)}" target="_blank" rel="noopener">${SOC.youtube} YouTube</a>` : ""}${config.social?.facebook ? `<a class="fl-fb" href="${esc(config.social.facebook)}" target="_blank" rel="noopener">${SOC.facebook} Facebook</a>` : ""}</div>
     ${notifyBox("inline")}
     ${commentsBox(s)}
     <h2 class="sec-title"><span>${t.related}</span></h2>

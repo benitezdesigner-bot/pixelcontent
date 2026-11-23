@@ -61,6 +61,21 @@
     window.addEventListener("resize", function () { if (window.innerWidth > 600) setMenu(false); });
   }
 
+  // botón "Recibe alertas" (encabezado y menú): baja a la caja de suscripción y pone el cursor en el correo
+  document.querySelectorAll("[data-goto-notify]").forEach(function (a) {
+    a.addEventListener("click", function (e) {
+      var band = document.getElementById("notify");
+      if (!band) return;
+      e.preventDefault();
+      setMenu(false);
+      band.scrollIntoView({ behavior: "smooth", block: "center" });
+      var inp = band.querySelector('input[type="email"]');
+      if (inp) setTimeout(function () { inp.focus({ preventScroll: true }); }, 450);
+      band.classList.add("flash");
+      setTimeout(function () { band.classList.remove("flash"); }, 1600);
+    });
+  });
+
   // 4. Suscripción a notificaciones por correo (n8n → GetWeb)
   document.querySelectorAll("[data-notify]").forEach(function (box) {
     var form = box.querySelector("form"), msg = box.querySelector(".nt-msg"), btn = form.querySelector("button");
