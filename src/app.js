@@ -38,13 +38,28 @@
   var today = document.querySelector("[data-today]");
   if (today) today.textContent = new Date().toLocaleDateString(lang, { weekday: "long", day: "numeric", month: "long", year: "numeric" });
 
-  // 3. Menú en celular: desplaza la barra de categorías a la vista
+  // 3. Menú en celular: el botón de 3 rayas abre y cierra el panel con todas las secciones
   var menu = document.querySelector("[data-menu]");
-  if (menu) menu.addEventListener("click", function () {
-    var nav = document.querySelector("[data-nav]");
-    nav.scrollIntoView({ behavior: "smooth" });
-    nav.querySelector("a.on, a").focus();
-  });
+  var nav = document.querySelector("[data-nav]");
+  function setMenu(open) {
+    if (!menu || !nav) return;
+    nav.classList.toggle("open", open);
+    document.body.classList.toggle("menu-open", open);
+    menu.setAttribute("aria-expanded", open ? "true" : "false");
+    menu.classList.toggle("is-open", open);
+    if (open) window.scrollTo(0, 0); // arriba: se ve el logo con la X para cerrar y el panel debajo
+  }
+  if (menu && nav) {
+    menu.setAttribute("aria-expanded", "false");
+    menu.addEventListener("click", function (e) {
+      e.stopPropagation();
+      setMenu(!nav.classList.contains("open"));
+    });
+    nav.querySelectorAll("a").forEach(function (a) { a.addEventListener("click", function () { setMenu(false); }); });
+    document.addEventListener("click", function (e) { if (nav.classList.contains("open") && !nav.contains(e.target)) setMenu(false); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") setMenu(false); });
+    window.addEventListener("resize", function () { if (window.innerWidth > 600) setMenu(false); });
+  }
 
   // 4. Compartir
   var toast = document.querySelector("[data-toast]");

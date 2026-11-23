@@ -326,9 +326,9 @@ ${jsonld}
 <header class="masthead"><div class="wrap">
   <a class="logo" href="${pre}${base}index.html" aria-label="${config.siteName}"><span class="logo-mark">P</span><span class="logo-word">pixel<em>content</em></span></a>
   <p class="tagline">${t.tagline}</p>
-  <button class="menu-btn" aria-label="Menu" data-menu>${'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>'}</button>
+  <button class="menu-btn" aria-label="Menu" aria-controls="site-nav" data-menu><svg class="i-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg><svg class="i-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button>
 </div></header>
-<nav class="catnav" data-nav><div class="wrap">
+<nav class="catnav" id="site-nav" data-nav><div class="wrap">
   <a href="${pre}${base}index.html" class="${active === "home" ? "on" : ""}">${t.home}</a>
   <a href="${pre}${base}predictions.html" class="nav-pred ${active === "predictions" ? "on" : ""}" style="--c:#ff4b2b">📈 ${t.predictions}</a>
   ${cats.map((c) => `<a href="${pre}${base}${c.id}.html" class="${active === c.id ? "on" : ""}" style="--c:${c.color}">${icon(c.id, 15)}${esc(c[lang])}</a>`).join("")}
