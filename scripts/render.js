@@ -17,7 +17,7 @@ const T = {
     share: "Share",
     shareEnd: "Share this story",
     comments: "Comments",
-    commentsIntro: "What do you think? Keep it civil: comments that insult or spam are removed.",
+    commentsIntro: "What do you think? Sign in with GitHub to comment (it's free). Keep it civil: insults and spam are removed.",
     copy: "Copy link",
     copied: "Link copied",
     sources: "sources",
@@ -78,7 +78,7 @@ const T = {
     share: "Compartir",
     shareEnd: "Comparte esta noticia",
     comments: "Comentarios",
-    commentsIntro: "¿Qué opinas? Con respeto: los comentarios con insultos o spam se eliminan.",
+    commentsIntro: "¿Qué opinas? Entra con tu cuenta de GitHub para comentar (es gratis). Con respeto: los insultos y el spam se eliminan.",
     copy: "Copiar enlace",
     copied: "Enlace copiado",
     sources: "fuentes",
@@ -475,7 +475,10 @@ ${adBox("leaderboard", "wide")}
     const commentsBox = (s) => {
       const url = site ? `${site}/${base}story/${s.id}.html` : "";
       let widget = "";
-      if (cm.provider === "disqus" && cm.disqusShortname)
+      const g = cm.giscus || {};
+      if (cm.provider === "giscus" && g.repoId && g.categoryId)
+        widget = `<script src="https://giscus.app/client.js" data-repo="${esc(g.repo)}" data-repo-id="${esc(g.repoId)}" data-category="${esc(g.category)}" data-category-id="${esc(g.categoryId)}" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="transparent_dark" data-lang="${lang}" data-loading="lazy" crossorigin="anonymous" async></script>`;
+      else if (cm.provider === "disqus" && cm.disqusShortname)
         widget = `<div id="disqus_thread"></div><script>var disqus_config=function(){this.page.url=${JSON.stringify(url)};this.page.identifier=${JSON.stringify(s.id + "-" + lang)};this.language=${JSON.stringify(lang)};};(function(){var d=document,s=d.createElement("script");s.src="https://${esc(cm.disqusShortname)}.disqus.com/embed.js";s.setAttribute("data-timestamp",+new Date());(d.head||d.body).appendChild(s);})();</script>`;
       else if (cm.provider === "cusdis" && cm.cusdisAppId)
         widget = `<div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="${esc(cm.cusdisAppId)}" data-page-id="${esc(s.id + "-" + lang)}" data-page-url="${esc(url)}" data-page-title="${esc(headline(s))}" data-theme="auto" data-lang="${lang}"></div><script async defer src="https://cusdis.com/js/cusdis.es.js"></script>`;

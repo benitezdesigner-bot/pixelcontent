@@ -20,7 +20,10 @@ export default {
   // provider: "disqus" (shortname de tu sitio en disqus.com) o "cusdis" (appId de cusdis.com).
   // Mientras esté vacío no se muestra la sección de comentarios.
   comments: {
-    provider: process.env.COMMENTS_PROVIDER || "",
+    provider: process.env.COMMENTS_PROVIDER || "giscus", // "giscus", "disqus" o "cusdis"
+    // giscus: comentarios guardados en las Discussions del repo (los lectores entran con GitHub).
+    // App instalada solo en este repo el 23 nov 2026; categoría "Announcements".
+    giscus: { repo: "benitezdesigner-bot/pixelcontent", repoId: "R_kgDOV3vnow", category: "Announcements", categoryId: "DIC_kwDOV3vno84DLzgX" },
     disqusShortname: process.env.DISQUS_SHORTNAME || "",
     cusdisAppId: process.env.CUSDIS_APP_ID || "",
   },
