@@ -1,5 +1,53 @@
 [
  {
+  "id": "9f5bd1576cad",
+  "lang": "es",
+  "cat": "crypto",
+  "source": "DiarioBitcoin",
+  "title": "Usuario denuncia el robo de USD $600.000 de billeteras Trezor y Exodus desde un iPhone",
+  "excerpt": "Un usuario afirmó que perdió cerca de USD $613.000 en activos de Trezor y Exodus que utilizaba desde un mismo iPhone. El análisis de las transferencias ofrece pistas sobre el movimiento de los fondos, pero no resuelve cómo se obtuvo la autorización…",
+  "link": "https://www.diariobitcoin.com/criptomonedas/usuario-denuncia-el-robo-de-usd-600-000-de-billeteras-trezor-y-exodus-desde-un-iphone/",
+  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795452602-840x515.jpg",
+  "date": "2026-11-23T16:52:46.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 11.99,
+  "cluster": "9f5bd1576cad"
+ },
+ {
+  "id": "cdb324d29207",
+  "lang": "es",
+  "cat": "economy",
+  "source": "El Mundo",
+  "title": "Trump asegura que habló con la junta directiva de Nvidia sobre la reincorporación de Jensen Huang: \"Me pareció que era muy razonable\"",
+  "excerpt": "Se trata de un cambio de postura imprevisto por parte de los administradores, quienes en varias ocasiones habían indicado que no contemplaban el regreso del exdirectivo",
+  "link": "https://www.elmundo.es/economia/2026/11/23/6b04686d21efa04a028b45a3.html",
+  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954510698878.jpg",
+  "date": "2026-11-23T16:51:31.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 3,
+  "score": 17.98,
+  "cluster": "e9e3036c6047"
+ },
+ {
+  "id": "72c366260446",
+  "lang": "es",
+  "cat": "world",
+  "source": "France 24",
+  "title": "El fracaso de la COP31 acelera los llamados a reformar la toma de decisiones sobre la crisis climática",
+  "excerpt": "La falta de un acuerdo político tras 48 horas de negociaciones, prolongadas más que nunca, dio paso a fuertes críticas y reacciones de líderes políticos, naciones vulnerables y de defensores y activistas del clima. El veto de las naciones…",
+  "link": "https://www.france24.com/es/medio-ambiente/20261123-el-fracaso-de-la-cop31-acelera-los-llamados-a-reformar-la-toma-de-decisiones-sobre-la-crisis-clim%C3%A1tica",
+  "image": "https://s.france24.com/media/display/a9647e72-e71c-11f1-bc7a-1bac47ab2f5d/w:1024/p:16x9/AP26325805482465.jpg",
+  "date": "2026-11-23T16:47:26.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.694Z",
+  "coverage": 2,
+  "score": 11.96,
+  "cluster": "72c366260446"
+ },
+ {
   "id": "ce48eff687a6",
   "lang": "es",
   "cat": "tech",
@@ -12,7 +60,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.800Z",
   "coverage": 2,
-  "score": -0.03,
+  "score": -0.04,
   "cluster": "ce48eff687a6"
  },
  {
@@ -28,7 +76,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.801Z",
   "coverage": 1,
-  "score": 9.47,
+  "score": 9.46,
   "cluster": "cc98bcbc0243"
  },
  {
@@ -44,7 +92,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.800Z",
   "coverage": 2,
-  "score": 11.97,
+  "score": 11.95,
   "cluster": "95db9b347c49"
  },
  {
@@ -60,8 +108,40 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.801Z",
   "coverage": 1,
-  "score": 10.47,
+  "score": 10.45,
   "cluster": "918b8c091b10"
+ },
+ {
+  "id": "10fd592b2180",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Goldman Sachs nombra la mejor Acción de Tecnología en comunicaciones",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-nombra-la-mejor-accion-de-tecnologia-en-comunicaciones-3940691",
+  "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg",
+  "date": "2026-11-23T16:45:53.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.95,
+  "cluster": "10fd592b2180"
+ },
+ {
+  "id": "3494904258f1",
+  "lang": "es",
+  "cat": "politics",
+  "source": "El Financiero",
+  "title": "‘El Chapo Isidro’ desplazó a ‘El Guano’ a Chihuahua: Así fue su ascenso como líder criminal",
+  "excerpt": "Las principales alianzas de 'El Chapo Isidro' fueron con la facción de Ismael Zambada Sicairos, el ‘Mayito Flaco’.",
+  "link": "https://www.elfinanciero.com.mx/nacional/2026/11/23/el-chapo-isidro-desplazo-a-el-guano-a-chihuahua-asi-fue-su-ascenso-como-lider-criminal/",
+  "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/RkPfjX6ekHLjvoWqjXlwl94B9CU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5DGOKD6T5NGIHKI3BM6WWXP2ME.png",
+  "date": "2026-11-23T16:44:56.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.694Z",
+  "coverage": 2,
+  "score": 11.95,
+  "cluster": "3494904258f1"
  },
  {
   "id": "b52c11d8680a",
@@ -76,7 +156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 5,
-  "score": 23.96,
+  "score": 23.95,
   "cluster": "b52c11d8680a"
  },
  {
@@ -92,7 +172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.46,
+  "score": 10.44,
   "cluster": "e7f386eda15c"
  },
  {
@@ -108,7 +188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.801Z",
   "coverage": 1,
-  "score": 8.95,
+  "score": 8.94,
   "cluster": "782fbebd05da"
  },
  {
@@ -124,7 +204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.800Z",
   "coverage": 1,
-  "score": 10.45,
+  "score": 10.44,
   "cluster": "c07f69cda94a"
  },
  {
@@ -140,7 +220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.801Z",
   "coverage": 1,
-  "score": 8.95,
+  "score": 8.93,
   "cluster": "19fb00a43d12"
  },
  {
@@ -156,7 +236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.801Z",
   "coverage": 3,
-  "score": 17.95,
+  "score": 17.93,
   "cluster": "17727117d1d0"
  },
  {
@@ -172,7 +252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.801Z",
   "coverage": 1,
-  "score": 8.95,
+  "score": 8.93,
   "cluster": "76dcf381b575"
  },
  {
@@ -188,7 +268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.800Z",
   "coverage": 1,
-  "score": 10.44,
+  "score": 10.42,
   "cluster": "6f303c5ccfd5"
  },
  {
@@ -204,7 +284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.801Z",
   "coverage": 1,
-  "score": 10.42,
+  "score": 10.41,
   "cluster": "a07005bdad16"
  },
  {
@@ -220,7 +300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 11.92,
+  "score": 11.9,
   "cluster": "419d25b74e00"
  },
  {
@@ -236,7 +316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 11.92,
+  "score": 11.9,
   "cluster": "b951010c595c"
  },
  {
@@ -252,8 +332,40 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.92,
+  "score": 8.9,
   "cluster": "416dd247cd8d"
+ },
+ {
+  "id": "6766c512256a",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Por qué sube hoy la acción de Beta Bionics Inc?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-beta-bionics-inc-93CH-3940684",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+  "date": "2026-11-23T16:36:49.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 11.9,
+  "cluster": "d80ffdc00eeb"
+ },
+ {
+  "id": "ef308f9b5623",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Por qué suben hoy las acciones de MiniMed?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-minimed-93CH-3940683",
+  "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+  "date": "2026-11-23T16:36:39.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.9,
+  "cluster": "ef308f9b5623"
  },
  {
   "id": "9dcfa73647aa",
@@ -268,8 +380,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.9,
+  "score": 8.89,
   "cluster": "9dcfa73647aa"
+ },
+ {
+  "id": "0c7fe8cd6c96",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Por qué se dispara hoy la acción de BWX Tech?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-bwx-tech-93CH-3940682",
+  "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+  "date": "2026-11-23T16:33:17.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 10.38,
+  "cluster": "0c7fe8cd6c96"
  },
  {
   "id": "9bd899b42317",
@@ -284,7 +412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 14.9,
+  "score": 14.88,
   "cluster": "9bd899b42317"
  },
  {
@@ -300,8 +428,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.9,
+  "score": 11.88,
   "cluster": "24594a2db9b1"
+ },
+ {
+  "id": "236f541a184f",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Por qué las acciones de Amazon.com Inc suben con fuerza hoy?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-amazoncom-inc-suben-con-fuerza-hoy-93CH-3940679",
+  "image": "https://content-media.investing.com/news/LYNXNPEC121BH_M.jpg",
+  "date": "2026-11-23T16:31:11.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.87,
+  "cluster": "236f541a184f"
  },
  {
   "id": "3da96d4737cf",
@@ -316,8 +460,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:26.800Z",
   "coverage": 1,
-  "score": 8.89,
+  "score": 8.87,
   "cluster": "3da96d4737cf"
+ },
+ {
+  "id": "379c5f515a07",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Un nuevo tráiler de ‘Avengers: Doomsday’ anuncia una crisis que amenaza a todos los universos",
+  "excerpt": "Marvel ha estrenado un nuevo adelanto de Avengers: Doomsday que pone el foco en Steve Rogers, su familia y una amenaza capaz de destruir universos enteros. Doctor Doom está preparado para llevar el multiverso al límite.",
+  "link": "https://es.gizmodo.com/un-nuevo-trailer-de-avengers-doomsday-anuncia-una-crisis-en-todos-los-universos-2000274041",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-65-10-1024x683.jpg",
+  "date": "2026-11-23T16:30:28.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 11.87,
+  "cluster": "ffb2d7745bb1"
  },
  {
   "id": "0770198fefa0",
@@ -332,8 +492,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.88,
+  "score": 8.86,
   "cluster": "0770198fefa0"
+ },
+ {
+  "id": "deea6d1fde9a",
+  "lang": "es",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "¿Por qué suben hoy las acciones de Goldman Sachs?",
+  "excerpt": "",
+  "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-goldman-sachs-93CH-3940677",
+  "image": "https://content-media.investing.com/news/LYNXNPEC5715Z_M.jpg",
+  "date": "2026-11-23T16:29:17.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.86,
+  "cluster": "deea6d1fde9a"
  },
  {
   "id": "b9b61df8c337",
@@ -343,12 +519,12 @@
   "title": "¿Por qué las acciones de Alibaba ADR se disparan hoy?",
   "excerpt": "",
   "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-alibaba-adr-se-disparan-hoy-93CH-3940676",
-  "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg",
+  "image": "https://content-media.investing.com/news/LYNXMPEA7S04H_M.jpg",
   "date": "2026-11-23T16:27:24.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.37,
+  "score": 10.35,
   "cluster": "b9b61df8c337"
  },
  {
@@ -364,7 +540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.37,
+  "score": 9.35,
   "cluster": "a6e4c56a8eeb"
  },
  {
@@ -380,7 +556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 11.86,
+  "score": 11.84,
   "cluster": "d80ffdc00eeb"
  },
  {
@@ -396,7 +572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 11.86,
+  "score": 11.84,
   "cluster": "f4a92ec2822b"
  },
  {
@@ -412,8 +588,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.36,
+  "score": 10.34,
   "cluster": "c92f3521efb9"
+ },
+ {
+  "id": "61680e9daa64",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Jensen Huang vuelve a ser CEO de Nvidia",
+  "excerpt": "El consejo de administración de Nvidia ha aprobado por unanimidad el regreso de Jensen Huang a la dirección de la compañía, después de que la Administración Trump expresara su apoyo durante el fin de semana. Las acciones se dispararon tras el anuncio.",
+  "link": "https://es.gizmodo.com/jensen-huang-vuelve-a-ser-ceo-de-nvidia-2000274030",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-64-9-1024x683.jpg",
+  "date": "2026-11-23T16:24:52.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 10.34,
+  "cluster": "61680e9daa64"
  },
  {
   "id": "dd8b0d1fe9af",
@@ -428,7 +620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.35,
+  "score": 10.33,
   "cluster": "dd8b0d1fe9af"
  },
  {
@@ -444,7 +636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.85,
+  "score": 11.83,
   "cluster": "3f57fb166df3"
  },
  {
@@ -460,7 +652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.34,
+  "score": 10.32,
   "cluster": "c230614c8d56"
  },
  {
@@ -476,7 +668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.84,
+  "score": 7.82,
   "cluster": "acf7495e35fe"
  },
  {
@@ -492,7 +684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.84,
+  "score": 8.82,
   "cluster": "86827b9bf6e5"
  },
  {
@@ -508,7 +700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.83,
+  "score": 8.82,
   "cluster": "4480a75fcd7d"
  },
  {
@@ -524,7 +716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.33,
+  "score": 10.32,
   "cluster": "85644d1166df"
  },
  {
@@ -540,8 +732,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.33,
+  "score": 10.31,
   "cluster": "972abd166573"
+ },
+ {
+  "id": "6548295bb27e",
+  "lang": "es",
+  "cat": "world",
+  "source": "France 24",
+  "title": "¿Por qué el costo de vida es tan caro en Europa al punto de desatar una ola de protestas?",
+  "excerpt": "Las protestas en Europa por el costo de vida, lejos de perder fuerza, crecen cada vez más y se expanden por más países. Los jóvenes de la generación Z han tomado el liderazgo de las movilizaciones por causas como el alto costo de la vivienda, los…",
+  "link": "https://www.france24.com/es/video/20261123-por-qu%C3%A9-el-costo-de-vida-es-tan-caro-en-europa-al-punto-de-desatar-una-ola-de-protestas",
+  "image": "https://s.france24.com/media/display/bfea5408-e755-11f1-a9a9-e56ab3dc0809/w:1024/p:16x9/ES-20261123-071448-072413-CS.jpg",
+  "date": "2026-11-23T16:20:32.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.694Z",
+  "coverage": 1,
+  "score": 10.31,
+  "cluster": "6548295bb27e"
  },
  {
   "id": "e2e7b47fbdbf",
@@ -556,7 +764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.33,
+  "score": 10.31,
   "cluster": "e2e7b47fbdbf"
  },
  {
@@ -572,7 +780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.33,
+  "score": 10.31,
   "cluster": "a3e34eda0046"
  },
  {
@@ -588,7 +796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 5,
-  "score": 23.82,
+  "score": 23.81,
   "cluster": "b52c11d8680a"
  },
  {
@@ -604,7 +812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 14.82,
+  "score": 14.8,
   "cluster": "c969ef07e860"
  },
  {
@@ -620,7 +828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.31,
+  "score": 10.3,
   "cluster": "d12b10ce297f"
  },
  {
@@ -636,7 +844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 2.81,
+  "score": 2.79,
   "cluster": "3ce5874c613d"
  },
  {
@@ -652,7 +860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.8,
+  "score": 8.79,
   "cluster": "334ad3cb5850"
  },
  {
@@ -668,7 +876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 11.8,
+  "score": 11.78,
   "cluster": "b3d1604cf6f3"
  },
  {
@@ -684,7 +892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.8,
+  "score": 8.78,
   "cluster": "fef7b20a5c49"
  },
  {
@@ -700,7 +908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.29,
+  "score": 10.28,
   "cluster": "b3c446a9f5b9"
  },
  {
@@ -716,7 +924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.79,
+  "score": 8.77,
   "cluster": "bba7c35e5a20"
  },
  {
@@ -732,8 +940,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.28,
+  "score": 10.26,
   "cluster": "d4ba6bd5ab15"
+ },
+ {
+  "id": "1fa775bff594",
+  "lang": "es",
+  "cat": "world",
+  "source": "France 24",
+  "title": "📺 'Reporteros': Colombia, 10 años de una paz inconclusa",
+  "excerpt": "",
+  "link": "https://f24.my/CIkz",
+  "image": "",
+  "date": "2026-11-23T16:09:08.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.694Z",
+  "coverage": 1,
+  "score": 7.75,
+  "cluster": "1fa775bff594"
  },
  {
   "id": "3f6626c4cad2",
@@ -748,8 +972,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.76,
+  "score": 11.75,
   "cluster": "3f6626c4cad2"
+ },
+ {
+  "id": "7a7e2561c1e6",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Científicos descubren las raíces de montañas gigantes bajo el hielo antártico: podrían haber impulsado la evolución animal",
+  "excerpt": "Un equipo internacional de científicos encontró evidencias de antiguas cordilleras gigantes que se formaron hace entre 650 y 450 millones de años. El descubrimiento podría revelar cómo estas montañas influyeron en la evolución de los primeros…",
+  "link": "https://es.gizmodo.com/cientificos-descubren-las-raices-de-montanas-gigantes-bajo-el-hielo-antartico-podrian-haber-impulsado-la-evolucion-animal-2000274027",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-33-6-1024x683.jpg",
+  "date": "2026-11-23T16:08:55.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.75,
+  "cluster": "7a7e2561c1e6"
  },
  {
   "id": "7d252cc8daab",
@@ -764,7 +1004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.74,
+  "score": 8.73,
   "cluster": "7d252cc8daab"
  },
  {
@@ -780,8 +1020,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.23,
+  "score": 9.21,
   "cluster": "1432587a6103"
+ },
+ {
+  "id": "d80a22023c7c",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Chile acaba de descubrir hasta dónde llega la fiebre por las tierras raras: las mineras quieren explorar una superficie casi tan grande como Ciudad de México y hay pueblos enteros preocupados",
+  "excerpt": "Una investigación identificó 422 solicitudes de exploración minera sobre 132.600 hectáreas del sur de Chile. Los minerales son fundamentales para la tecnología, pero las comunidades temen por el agua, los bosques y su futuro.",
+  "link": "https://es.gizmodo.com/las-tierras-raras-en-chile-desatan-una-carrera-minera-de-132600-hectareas-en-el-sur-2000274020",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-61-11-1024x683.jpg",
+  "date": "2026-11-23T16:02:12.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 11.71,
+  "cluster": "d80a22023c7c"
  },
  {
   "id": "00e94ef18a2c",
@@ -796,7 +1052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.22,
+  "score": 9.2,
   "cluster": "00e94ef18a2c"
  },
  {
@@ -811,8 +1067,8 @@
   "date": "2026-11-23T16:00:51.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 1,
-  "score": 8.72,
+  "coverage": 2,
+  "score": 11.7,
   "cluster": "6944d3d81e76"
  },
  {
@@ -828,7 +1084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 4,
-  "score": 20.72,
+  "score": 20.7,
   "cluster": "17727117d1d0"
  },
  {
@@ -844,7 +1100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.71,
+  "score": 10.7,
   "cluster": "5d5c301d5673"
  },
  {
@@ -860,8 +1116,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 5,
-  "score": 23.71,
+  "score": 23.69,
   "cluster": "b52c11d8680a"
+ },
+ {
+  "id": "71a4876979dc",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "El transporte marítimo busca dejar atrás el petróleo: un acuerdo mundial podría cambiar el futuro de los barcos",
+  "excerpt": "La Organización Marítima Internacional vuelve a negociar un acuerdo para reducir las emisiones de los grandes buques. La energía eólica, las baterías y los combustibles alternativos aparecen como posibles soluciones para transformar una industria…",
+  "link": "https://es.gizmodo.com/el-transporte-maritimo-busca-dejar-atras-el-petroleo-un-acuerdo-mundial-podria-cambiar-el-futuro-de-los-barcos-2000274018",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-30-9-1024x683.jpg",
+  "date": "2026-11-23T15:59:13.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 13.19,
+  "cluster": "71a4876979dc"
  },
  {
   "id": "179fe8b7f299",
@@ -876,7 +1148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 8.7,
+  "score": 8.68,
   "cluster": "179fe8b7f299"
  },
  {
@@ -892,7 +1164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.17,
+  "score": 10.15,
   "cluster": "746bf42e1224"
  },
  {
@@ -908,8 +1180,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.67,
+  "score": 8.65,
   "cluster": "67b3f91be047"
+ },
+ {
+  "id": "de45bef9dad9",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Apple acaba de darle al Apple Watch una función que parece ciencia ficción: ahora puede recordar lo que alguien dijo hace 15 segundos, aunque tú ya lo hayas olvidado",
+  "excerpt": "La nueva inteligencia artificial de Siri permite recuperar conversaciones recientes y resumir lo ocurrido durante el día. La tecnología resulta impresionante, pero también plantea preguntas incómodas sobre la privacidad.",
+  "link": "https://es.gizmodo.com/el-apple-watch-puede-recordar-lo-que-alguien-dijo-hace-15-segundos-con-siri-2000274009",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-58-8-1024x683.jpg",
+  "date": "2026-11-23T15:51:01.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 13.15,
+  "cluster": "de45bef9dad9"
  },
  {
   "id": "201cce05741a",
@@ -924,7 +1212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.16,
+  "score": 10.14,
   "cluster": "201cce05741a"
  },
  {
@@ -939,8 +1227,8 @@
   "date": "2026-11-23T15:48:49.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 2,
-  "score": 14.65,
+  "coverage": 3,
+  "score": 17.63,
   "cluster": "e9e3036c6047"
  },
  {
@@ -956,7 +1244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.64,
+  "score": 11.62,
   "cluster": "c9b5bfdfa77e"
  },
  {
@@ -972,7 +1260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.64,
+  "score": 8.62,
   "cluster": "88e435f26dbd"
  },
  {
@@ -988,7 +1276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 10.14,
+  "score": 10.12,
   "cluster": "b541363499c8"
  },
  {
@@ -1004,7 +1292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.63,
+  "score": 8.61,
   "cluster": "d44c786d8d6c"
  },
  {
@@ -1020,7 +1308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.63,
+  "score": 8.61,
   "cluster": "6e4790c96cd2"
  },
  {
@@ -1036,8 +1324,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.62,
+  "score": 8.61,
   "cluster": "e7e49e5dbb5e"
+ },
+ {
+  "id": "adac2369f0f0",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Por qué los ratones viven apenas unos años y los elefantes pueden superar los 70: la ciencia tiene una explicación",
+  "excerpt": "Una regla biológica descubierta hace casi un siglo revela una sorprendente relación entre el tamaño corporal, el metabolismo y la longevidad de los mamíferos. Sin embargo, animales como los murciélagos y las ratas topo demuestran que existen…",
+  "link": "https://es.gizmodo.com/por-que-los-ratones-viven-apenas-unos-anos-y-los-elefantes-pueden-superar-los-70-la-ciencia-tiene-una-explicacion-2000274007",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-28-8-1024x683.jpg",
+  "date": "2026-11-23T15:41:13.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.59,
+  "cluster": "adac2369f0f0"
  },
  {
   "id": "802504ddbd25",
@@ -1052,7 +1356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.6,
+  "score": 8.59,
   "cluster": "802504ddbd25"
  },
  {
@@ -1068,7 +1372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.59,
+  "score": 8.58,
   "cluster": "0405c6a549e7"
  },
  {
@@ -1084,7 +1388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.59,
+  "score": 8.57,
   "cluster": "cf7de674f55a"
  },
  {
@@ -1100,7 +1404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 4,
-  "score": 20.58,
+  "score": 20.57,
   "cluster": "e9e3036c6047"
  },
  {
@@ -1116,7 +1420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.58,
+  "score": 8.57,
   "cluster": "4cf3f2ef770d"
  },
  {
@@ -1132,8 +1436,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.58,
+  "score": 8.56,
   "cluster": "c89a21fd4857"
+ },
+ {
+  "id": "791895af6118",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Tu cerebro tiene un sistema de limpieza que se activa mientras duermes. El MIT acaba de descubrir por qué empieza a fallar con los años y qué ocurre con las ondas que lo mantienen funcionando",
+  "excerpt": "Investigadores del MIT compararon el cerebro de adultos jóvenes y mayores durante el sueño. Descubrieron que las ondas que impulsan el líquido cefalorraquídeo se debilitan con la edad, aunque algunas personas conservan su actividad.",
+  "link": "https://es.gizmodo.com/la-limpieza-del-cerebro-durante-el-sueno-se-debilita-con-la-edad-segun-el-mit-2000274000",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-55-12-1024x683.jpg",
+  "date": "2026-11-23T15:34:44.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 3,
+  "score": 14.56,
+  "cluster": "791895af6118"
  },
  {
   "id": "00fc457b7c24",
@@ -1148,7 +1468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 14.57,
+  "score": 14.55,
   "cluster": "00fc457b7c24"
  },
  {
@@ -1164,7 +1484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 11.57,
+  "score": 11.55,
   "cluster": "ff2876762c35"
  },
  {
@@ -1180,7 +1500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 16.07,
+  "score": 16.05,
   "cluster": "c9b5bfdfa77e"
  },
  {
@@ -1195,8 +1515,8 @@
   "date": "2026-11-23T15:30:50.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 2,
-  "score": 11.55,
+  "coverage": 3,
+  "score": 14.53,
   "cluster": "f6a4d7f7eae9"
  },
  {
@@ -1212,7 +1532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.55,
+  "score": 11.53,
   "cluster": "13a81429d324"
  },
  {
@@ -1228,8 +1548,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.55,
+  "score": 11.53,
   "cluster": "a5202e240254"
+ },
+ {
+  "id": "66878d371704",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "¿La terapia psicológica online funciona igual que la presencial? Esto es lo que dice la ciencia",
+  "excerpt": "Diversos estudios científicos revelan que la psicoterapia por videollamada puede ofrecer resultados comparables a los de una consulta tradicional para tratar problemas como la ansiedad y la depresión. Sin embargo, los especialistas advierten que no…",
+  "link": "https://es.gizmodo.com/la-terapia-psicologica-online-funciona-igual-que-la-presencial-esto-es-lo-que-dice-la-ciencia-2000273998",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-25-10-1024x683.jpg",
+  "date": "2026-11-23T15:30:25.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 11.53,
+  "cluster": "66878d371704"
  },
  {
   "id": "54bbcd108434",
@@ -1244,7 +1580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 13.04,
+  "score": 13.03,
   "cluster": "54bbcd108434"
  },
  {
@@ -1260,8 +1596,40 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 11.53,
+  "score": 11.52,
   "cluster": "2ec071aac7d4"
+ },
+ {
+  "id": "1b52879f2f7c",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "La generación Z está haciendo algo que hace unos años parecía ciencia ficción: uno de cada tres jóvenes ya utiliza la inteligencia artificial como amigo, pero hay una señal preocupante",
+  "excerpt": "Un estudio internacional con casi 16.000 jóvenes revela que los chatbots ya forman parte de sus relaciones sociales. En Argentina y España, el porcentaje alcanza el 37%, mientras los investigadores advierten sobre su vínculo con la soledad.",
+  "link": "https://es.gizmodo.com/la-generacion-z-utiliza-la-inteligencia-artificial-como-amigo-segun-un-estudio-de-gallup-2000273986",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-51-11-1024x683.jpg",
+  "date": "2026-11-23T15:20:36.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 5,
+  "score": 21.98,
+  "cluster": "80e2f0a3bff0"
+ },
+ {
+  "id": "0067c225947c",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Después de ocho años y 10.000 millones de kilómetros, una misión europea llegó a Mercurio para revelar sus secretos",
+  "excerpt": "La misión BepiColombo, desarrollada por las agencias espaciales de Europa y Japón, consiguió entrar en órbita alrededor de Mercurio el 21 de noviembre de 2026. España aportó tecnología fundamental para investigar la composición del planeta más cercano al Sol.",
+  "link": "https://es.gizmodo.com/despues-de-ocho-anos-y-10-000-millones-de-kilometros-una-mision-europea-llego-a-mercurio-para-revelar-sus-secretos-2000273990",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-23-10-1024x683.jpg",
+  "date": "2026-11-23T15:20:33.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": 12.98,
+  "cluster": "0067c225947c"
  },
  {
   "id": "d54c642f41e1",
@@ -1276,7 +1644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 14.48,
+  "score": 14.47,
   "cluster": "ccab6d485217"
  },
  {
@@ -1292,7 +1660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 9.98,
+  "score": 9.96,
   "cluster": "87a1ed279a13"
  },
  {
@@ -1308,7 +1676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.47,
+  "score": 8.45,
   "cluster": "1daaf4875585"
  },
  {
@@ -1324,7 +1692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 3,
-  "score": 17.47,
+  "score": 17.45,
   "cluster": "ab3463503349"
  },
  {
@@ -1339,8 +1707,8 @@
   "date": "2026-11-23T15:15:30.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 5,
-  "score": 21.97,
+  "coverage": 6,
+  "score": 24.95,
   "cluster": "80e2f0a3bff0"
  },
  {
@@ -1356,7 +1724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 11.47,
+  "score": 11.45,
   "cluster": "09ffbc50a586"
  },
  {
@@ -1372,8 +1740,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.96,
+  "score": 9.94,
   "cluster": "10fb86417bd0"
+ },
+ {
+  "id": "66cd05d6fedd",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "¿Cómo sabe tu cerebro que tu mano es tuya? Un experimento con una mano de goma revela la sorprendente respuesta",
+  "excerpt": "Científicos suecos descubrieron cómo distintas regiones del cerebro trabajan juntas para reconocer las partes de nuestro cuerpo. El hallazgo podría ayudar a comprender por qué algunas personas dejan de sentir que uno de sus brazos les pertenece…",
+  "link": "https://es.gizmodo.com/como-sabe-tu-cerebro-que-tu-mano-es-tuya-un-experimento-con-una-mano-de-goma-revela-la-sorprendente-respuesta-2000273981",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-20-11-1024x683.jpg",
+  "date": "2026-11-23T15:12:13.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.43,
+  "cluster": "66cd05d6fedd"
  },
  {
   "id": "2bb29077a8e5",
@@ -1388,8 +1772,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.93,
+  "score": 9.92,
   "cluster": "2bb29077a8e5"
+ },
+ {
+  "id": "cec21f22ab17",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Cultivar patatas en la Luna parecía una fantasía de ciencia ficción. La NASA acaba de financiar un experimento que demuestra que podrían crecer y ser tan nutritivas como las terrestres",
+  "excerpt": "Investigadores de Oregón consiguieron cosechar patatas en cinco materiales que imitan el suelo lunar. Una mezcla con abono orgánico permitió mejorar su crecimiento sin comprometer su calidad nutricional.",
+  "link": "https://es.gizmodo.com/cientificos-logran-cultivar-patatas-en-suelo-lunar-simulado-con-abono-organico-2000273974",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-49-12-1024x683.jpg",
+  "date": "2026-11-23T15:09:32.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.42,
+  "cluster": "cec21f22ab17"
  },
  {
   "id": "30b6d322b895",
@@ -1404,7 +1804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 5,
-  "score": 23.43,
+  "score": 23.41,
   "cluster": "b52c11d8680a"
  },
  {
@@ -1420,8 +1820,8 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.43,
-  "cluster": "3f57fb166df3"
+  "score": 10.41,
+  "cluster": "3494904258f1"
  },
  {
   "id": "52d2b59ace6d",
@@ -1436,7 +1836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 12.92,
+  "score": 12.9,
   "cluster": "52d2b59ace6d"
  },
  {
@@ -1452,7 +1852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.42,
+  "score": 8.4,
   "cluster": "a1221428e20b"
  },
  {
@@ -1468,7 +1868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.42,
+  "score": 8.4,
   "cluster": "a80f4f96e3d0"
  },
  {
@@ -1484,8 +1884,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.42,
+  "score": 7.4,
   "cluster": "e01a43a6c87f"
+ },
+ {
+  "id": "efccc0696fd5",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "La COP31 terminó sin acuerdo climático: ¿sirven de algo las cumbres si los países no logran ponerse de acuerdo?",
+  "excerpt": "La conferencia climática de Naciones Unidas celebrada en Turquía concluyó sin un pacto global para reducir las emisiones y abandonar los combustibles fósiles. Las divisiones entre países, la falta de financiación y el avance del calentamiento global…",
+  "link": "https://es.gizmodo.com/la-cop31-termino-sin-acuerdo-climatico-sirven-de-algo-las-cumbres-si-los-paises-no-logran-ponerse-de-acuerdo-2000273964",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-18-11-1024x683.jpg",
+  "date": "2026-11-23T15:05:35.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 3,
+  "score": 14.39,
+  "cluster": "efccc0696fd5"
  },
  {
   "id": "cc61d4f9622c",
@@ -1500,7 +1916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.4,
+  "score": 8.38,
   "cluster": "cc61d4f9622c"
  },
  {
@@ -1516,7 +1932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.89,
+  "score": 9.87,
   "cluster": "2f5e60e6efb3"
  },
  {
@@ -1532,7 +1948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 0.89,
+  "score": 0.87,
   "cluster": "0a068809661b"
  },
  {
@@ -1548,30 +1964,30 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.39,
+  "score": 8.37,
   "cluster": "8702f8f94f04"
  },
  {
-  "id": "cdbae8c73a0a",
+  "id": "777cdf12cba5",
   "lang": "es",
-  "cat": "tech",
-  "source": "Wired en Español",
-  "title": "Jensen Huang vuelve a ser CEO de Nvidia",
-  "excerpt": "El consejo de administración de la empresa readmitió a Huang. Ocurre poco más de una semana después de que el CEO dimitiera tras acusaciones de haber mantenido varias relaciones extramatrimoniales, entre ellas una con una subordinada directa.",
-  "link": "https://es.wired.com/articulos/jensen-huang-vuelve-a-ser-ceo-de-nvidia",
-  "image": "https://media.es.wired.com/photos/6b044e74939e26d1a3156a3c/master/pass/GettyImages-2266718431.jpg",
-  "date": "2026-11-23T14:57:53.000Z",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "El cáncer lleva décadas escondiendo a sus mejores aliados dentro de nuestro propio cuerpo. Stanford acaba de identificarlos tras analizar 15 millones de células y 42 tipos de tumores",
+  "excerpt": "Un equipo de Stanford ha creado un atlas de las células que rodean a los tumores y descubrió patrones compartidos entre distintos cánceres. El hallazgo podría revelar nuevos objetivos terapéuticos, aunque todavía no supone una cura.",
+  "link": "https://es.gizmodo.com/stanford-crea-un-atlas-del-microambiente-tumoral-tras-analizar-42-tipos-de-cancer-2000273969",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-46-12-1024x683.jpg",
+  "date": "2026-11-23T15:00:35.000Z",
   "noDate": false,
-  "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 1,
-  "score": 9.87,
-  "cluster": "cdbae8c73a0a"
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 2,
+  "score": -0.63,
+  "cluster": "777cdf12cba5"
  },
  {
   "id": "15a79720156b",
   "lang": "es",
-  "cat": "markets",
-  "source": "Cinco Días",
+  "cat": "politics",
+  "source": "El País",
   "title": "Plus Ultra deja de vender billetes en la ruta Madrid-Caracas, la única que mantenía abierta para evitar la quiebra",
   "excerpt": "La compañía aérea atraviesa una profunda crisis por el coste de la deuda con el Estado y el encarecimiento del combustible",
   "link": "https://elpais.com/economia/2026-11-23/plus-ultra-deja-de-vender-billetes-en-la-ruta-madrid-caracas-la-unica-que-mantenia-abierta-tras-un-drastico-recorte-de-operaciones.html",
@@ -1580,7 +1996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 11.36,
+  "score": 11.34,
   "cluster": "419d25b74e00"
  },
  {
@@ -1596,7 +2012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.36,
+  "score": 8.34,
   "cluster": "b21e461f60af"
  },
  {
@@ -1612,7 +2028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.35,
+  "score": 8.33,
   "cluster": "79f85405e148"
  },
  {
@@ -1628,7 +2044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.35,
+  "score": 8.33,
   "cluster": "5bb24e6af26b"
  },
  {
@@ -1644,7 +2060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.34,
+  "score": 10.33,
   "cluster": "6ce6552c9588"
  },
  {
@@ -1660,7 +2076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.34,
+  "score": 8.32,
   "cluster": "6ef145a524ae"
  },
  {
@@ -1676,7 +2092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 4,
-  "score": 20.34,
+  "score": 20.32,
   "cluster": "ccab6d485217"
  },
  {
@@ -1692,7 +2108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.34,
+  "score": 8.32,
   "cluster": "91f64f78d61a"
  },
  {
@@ -1708,7 +2124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.33,
+  "score": 8.31,
   "cluster": "8bf33498ad3c"
  },
  {
@@ -1716,7 +2132,7 @@
   "lang": "es",
   "cat": "economy",
   "source": "El Mundo",
-  "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan los mercados disparando el Nasdaq más de un 7%",
+  "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan las bolsas disparando el Nasdaq más de un 7%",
   "excerpt": "En un contexto muy volátil y con dudas hacia la IA, las acciones de Nvidia suben en torno a un 30% después de que la compañía anunciara el regreso de su CEO",
   "link": "https://www.elmundo.es/economia/dinero-inversion/2026/11/23/6b044c51e9cf4a657b8b458e.html",
   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439590899.jpg",
@@ -1724,7 +2140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 12.83,
+  "score": 14.31,
   "cluster": "b52c11d8680a"
  },
  {
@@ -1740,8 +2156,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 12.82,
+  "score": 12.81,
   "cluster": "d80ffdc00eeb"
+ },
+ {
+  "id": "b99030361dca",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "La NASA ofrece 164.000 dólares al año por un trabajo que parece ciencia ficción: vivir en la Luna, soportar temperaturas de -203 °C y ayudar a construir una base",
+  "excerpt": "La agencia espacial estadounidense busca nuevos astronautas para sus futuras misiones lunares. El puesto exige formación científica, experiencia y superar pruebas físicas antes de afrontar uno de los entornos más hostiles del Sistema Solar.",
+  "link": "https://es.gizmodo.com/la-nasa-busca-astronautas-para-sus-futuras-misiones-a-la-base-lunar-2000273960",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-42-12-1024x683.jpg",
+  "date": "2026-11-23T14:48:43.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 9.8,
+  "cluster": "b99030361dca"
  },
  {
   "id": "750158ed2fae",
@@ -1756,7 +2188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 15.82,
+  "score": 15.8,
   "cluster": "ab3463503349"
  },
  {
@@ -1772,7 +2204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.81,
+  "score": 9.8,
   "cluster": "7530abd18e82"
  },
  {
@@ -1788,7 +2220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.31,
+  "score": 8.29,
   "cluster": "cea1b120e2b5"
  },
  {
@@ -1804,7 +2236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": -0.69,
+  "score": -0.71,
   "cluster": "9860a606b9c5"
  },
  {
@@ -1820,7 +2252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.31,
+  "score": 8.29,
   "cluster": "a8291dd393f1"
  },
  {
@@ -1836,7 +2268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.3,
+  "score": 8.28,
   "cluster": "f310be521aa4"
  },
  {
@@ -1852,8 +2284,40 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.3,
+  "score": 8.28,
   "cluster": "31de38eabf55"
+ },
+ {
+  "id": "41417238e990",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Descubren volcanes explosivos a 6.000 metros bajo el océano: un hallazgo que desafía lo que sabíamos de la Tierra",
+  "excerpt": "Un robot submarino encontró en la fosa de las Marianas restos de las erupciones volcánicas explosivas más profundas conocidas. El descubrimiento revela cómo pueden producirse estos fenómenos bajo presiones extremas y abre nuevas preguntas sobre el…",
+  "link": "https://es.gizmodo.com/descubren-volcanes-explosivos-a-6-000-metros-bajo-el-oceano-un-hallazgo-que-desafia-lo-que-sabiamos-de-la-tierra-2000273958",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-17-11-1024x683.jpg",
+  "date": "2026-11-23T14:43:02.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 8.27,
+  "cluster": "41417238e990"
+ },
+ {
+  "id": "dd99d01780f8",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "Una inteligencia artificial acaba de resolver dos enigmas de los agujeros negros que llevaban años sin respuesta. Uno había desconcertado a los físicos durante más de dos décadas",
+  "excerpt": "Claude Fable 5.2, el modelo de Anthropic, completó un cálculo pendiente desde 2003 y encontró un límite matemático exacto. Los resultados abren nuevas posibilidades para estudiar la gravedad cuántica, aunque todavía no describen nuestro universo.",
+  "link": "https://es.gizmodo.com/claude-resuelve-dos-problemas-de-fisica-sobre-los-agujeros-negros-con-inteligencia-artificial-2000273948",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-37-11-1024x683.jpg",
+  "date": "2026-11-23T14:39:45.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 3,
+  "score": 15.75,
+  "cluster": "dd99d01780f8"
  },
  {
   "id": "10cd9b5f30b2",
@@ -1868,7 +2332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 11.26,
+  "score": 11.25,
   "cluster": "10cd9b5f30b2"
  },
  {
@@ -1884,7 +2348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 12.76,
+  "score": 12.74,
   "cluster": "6066c9b76223"
  },
  {
@@ -1900,8 +2364,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 4,
-  "score": 18.75,
+  "score": 18.74,
   "cluster": "e9e3036c6047"
+ },
+ {
+  "id": "776f1010dade",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "La NASA ofrece sueldos de 164.000 dólares para vivir en la Luna: buscan astronautas capaces de soportar temperaturas de -203 °C",
+  "excerpt": "La agencia espacial estadounidense abrió una convocatoria para seleccionar a los futuros exploradores de la Luna. Los elegidos podrían trabajar en una base lunar, enfrentarse a condiciones extremas y participar en las misiones que prepararán el…",
+  "link": "https://es.gizmodo.com/la-nasa-ofrece-sueldos-de-164-000-dolares-para-vivir-en-la-luna-buscan-astronautas-capaces-de-soportar-temperaturas-de-203-c-2000273947",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Gizmodo-16-12-1024x683.jpg",
+  "date": "2026-11-23T14:35:44.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 1,
+  "score": 9.73,
+  "cluster": "776f1010dade"
  },
  {
   "id": "d474d1cbd9dc",
@@ -1916,7 +2396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.74,
+  "score": 8.72,
   "cluster": "d474d1cbd9dc"
  },
  {
@@ -1931,8 +2411,8 @@
   "date": "2026-11-23T14:31:12.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 2,
-  "score": 11.22,
+  "coverage": 3,
+  "score": 14.2,
   "cluster": "ffb2d7745bb1"
  },
  {
@@ -1948,7 +2428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 8.2,
   "cluster": "5e200ca1e8cf"
  },
  {
@@ -1963,9 +2443,25 @@
   "date": "2026-11-23T14:29:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 2,
-  "score": 12.71,
+  "coverage": 1,
+  "score": 9.69,
   "cluster": "0e5e4e85572f"
+ },
+ {
+  "id": "3c3935d93d32",
+  "lang": "es",
+  "cat": "gadgets",
+  "source": "Gizmodo en Español",
+  "title": "El universo podría esconder una segunda tabla periódica que jamás hemos visto. Los físicos creen que tendría sus propios elementos y un hidrógeno que no puede existir",
+  "excerpt": "Una investigación plantea que la materia oscura podría formar núcleos y átomos con reglas distintas a las de nuestra química. El modelo llega hasta una versión oscura del carbono y propone nuevas formas de buscar señales de ese mundo invisible.",
+  "link": "https://es.gizmodo.com/la-materia-oscura-podria-tener-su-propia-tabla-periodica-de-elementos-2000273937",
+  "image": "https://es.gizmodo.com/app/uploads/2026/11/Diseno-sin-titulo-34-13-1024x683.jpg",
+  "date": "2026-11-23T14:28:15.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:32.693Z",
+  "coverage": 3,
+  "score": 14.19,
+  "cluster": "f6a4d7f7eae9"
  },
  {
   "id": "7c79cad22885",
@@ -1980,7 +2476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 12.69,
+  "score": 12.68,
   "cluster": "7c79cad22885"
  },
  {
@@ -1996,7 +2492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.19,
+  "score": 8.17,
   "cluster": "8f2a9e859e32"
  },
  {
@@ -2012,7 +2508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.68,
+  "score": 8.66,
   "cluster": "c9563f42adff"
  },
  {
@@ -2028,7 +2524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.67,
+  "score": 9.65,
   "cluster": "8ff45c6f2b69"
  },
  {
@@ -2044,7 +2540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.16,
+  "score": 10.15,
   "cluster": "8b5e84c81795"
  },
  {
@@ -2060,7 +2556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.66,
+  "score": 9.64,
   "cluster": "dbb35cc8a2cf"
  },
  {
@@ -2076,7 +2572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 12.65,
+  "score": 12.63,
   "cluster": "6009d4cdee1c"
  },
  {
@@ -2092,7 +2588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 11.15,
+  "score": 11.13,
   "cluster": "f40a19c9e149"
  },
  {
@@ -2108,7 +2604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.15,
+  "score": 11.13,
   "cluster": "ec9fbad6aa49"
  },
  {
@@ -2124,7 +2620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.65,
+  "score": 9.63,
   "cluster": "7ffea40aac37"
  },
  {
@@ -2140,7 +2636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 3,
-  "score": 15.64,
+  "score": 15.62,
   "cluster": "1cd3c3640fde"
  },
  {
@@ -2156,7 +2652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.1,
+  "score": 11.08,
   "cluster": "13a81429d324"
  },
  {
@@ -2172,7 +2668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.1,
+  "score": 11.08,
   "cluster": "3762332fc133"
  },
  {
@@ -2188,7 +2684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.6,
+  "score": 9.58,
   "cluster": "caf9c52d5b17"
  },
  {
@@ -2204,7 +2700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.09,
+  "score": 8.07,
   "cluster": "28015638f3c7"
  },
  {
@@ -2220,7 +2716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 12.56,
+  "score": 12.54,
   "cluster": "6066c9b76223"
  },
  {
@@ -2236,7 +2732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.55,
+  "score": 9.53,
   "cluster": "d1c2c5189c8d"
  },
  {
@@ -2251,9 +2747,9 @@
   "date": "2026-11-23T14:00:50.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 1,
-  "score": -3.95,
-  "cluster": "e89a3cf3d08d"
+  "coverage": 2,
+  "score": -0.97,
+  "cluster": "777cdf12cba5"
  },
  {
   "id": "c88586fc86b3",
@@ -2268,7 +2764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.05,
+  "score": 8.03,
   "cluster": "c88586fc86b3"
  },
  {
@@ -2284,7 +2780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 17.02,
+  "score": 17.01,
   "cluster": "80e2f0a3bff0"
  },
  {
@@ -2300,7 +2796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.02,
+  "score": 8,
   "cluster": "f630b9542fe8"
  },
  {
@@ -2316,7 +2812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 9.52,
+  "score": 9.5,
   "cluster": "f4f4562e4307"
  },
  {
@@ -2332,7 +2828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.01,
+  "score": 7.99,
   "cluster": "11a83f93a0fd"
  },
  {
@@ -2348,7 +2844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.5,
+  "score": 11.48,
   "cluster": "75b51d7a98b4"
  },
  {
@@ -2364,7 +2860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.96,
+  "score": 7.95,
   "cluster": "98812d2d2247"
  },
  {
@@ -2380,7 +2876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.94,
+  "score": 7.93,
   "cluster": "6a213502425c"
  },
  {
@@ -2396,7 +2892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.92,
+  "score": 7.9,
   "cluster": "d4c1de2ef455"
  },
  {
@@ -2412,7 +2908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.4,
+  "score": 8.39,
   "cluster": "9a9f9f0a2bbb"
  },
  {
@@ -2428,7 +2924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.9,
+  "score": 10.88,
   "cluster": "b2084f7d623b"
  },
  {
@@ -2444,7 +2940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.89,
+  "score": 10.87,
   "cluster": "443f9f8e7be2"
  },
  {
@@ -2460,7 +2956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 10.88,
+  "score": 10.86,
   "cluster": "b4b189b75188"
  },
  {
@@ -2476,7 +2972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.87,
+  "score": 7.85,
   "cluster": "b96fb10e6ece"
  },
  {
@@ -2492,7 +2988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.87,
+  "score": 7.85,
   "cluster": "72e73a476186"
  },
  {
@@ -2508,7 +3004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.86,
+  "score": 10.85,
   "cluster": "63b946828aac"
  },
  {
@@ -2524,7 +3020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 9.36,
+  "score": 9.34,
   "cluster": "b79c7a31d57e"
  },
  {
@@ -2540,7 +3036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": -4.15,
+  "score": -4.16,
   "cluster": "c0ca8f05bb31"
  },
  {
@@ -2556,7 +3052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.82,
+  "score": 7.81,
   "cluster": "5d996ce60ae3"
  },
  {
@@ -2572,7 +3068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.82,
+  "score": 7.81,
   "cluster": "495051a7a5a6"
  },
  {
@@ -2588,7 +3084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 4,
-  "score": 18.32,
+  "score": 18.3,
   "cluster": "ccab6d485217"
  },
  {
@@ -2604,7 +3100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.81,
+  "score": 7.79,
   "cluster": "24fcb6f05dd4"
  },
  {
@@ -2620,7 +3116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 15.31,
+  "score": 15.29,
   "cluster": "11fa06150c05"
  },
  {
@@ -2636,7 +3132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": -4.19,
+  "score": -4.21,
   "cluster": "336ebda06c27"
  },
  {
@@ -2652,7 +3148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": -2.69,
+  "score": -2.71,
   "cluster": "f2de3bf4b93c"
  },
  {
@@ -2667,8 +3163,8 @@
   "date": "2026-11-23T13:16:51.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 1,
-  "score": 7.81,
+  "coverage": 2,
+  "score": 10.79,
   "cluster": "f7c435b73472"
  },
  {
@@ -2684,7 +3180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.8,
+  "score": 7.78,
   "cluster": "b660c7b9221e"
  },
  {
@@ -2700,7 +3196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 12.29,
+  "score": 12.27,
   "cluster": "cc3e8fd6ed08"
  },
  {
@@ -2716,7 +3212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.79,
+  "score": 10.77,
   "cluster": "5bc81a720656"
  },
  {
@@ -2732,7 +3228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.78,
+  "score": 10.76,
   "cluster": "2b6de055b902"
  },
  {
@@ -2748,7 +3244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 3,
-  "score": 15.24,
+  "score": 15.22,
   "cluster": "6172fa00fb16"
  },
  {
@@ -2764,7 +3260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 12.23,
+  "score": 12.21,
   "cluster": "f118ee336ef8"
  },
  {
@@ -2780,7 +3276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.72,
+  "score": 7.7,
   "cluster": "73caef329286"
  },
  {
@@ -2796,7 +3292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 0.22,
+  "score": 0.2,
   "cluster": "528de58322b6"
  },
  {
@@ -2812,7 +3308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.71,
+  "score": 7.69,
   "cluster": "bbbde495cf7b"
  },
  {
@@ -2828,7 +3324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 4,
-  "score": 18.19,
+  "score": 18.17,
   "cluster": "4a52474b685a"
  },
  {
@@ -2844,7 +3340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 15.16,
+  "score": 15.14,
   "cluster": "6172fa00fb16"
  },
  {
@@ -2860,7 +3356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.66,
+  "score": 7.64,
   "cluster": "ecff1e4a5848"
  },
  {
@@ -2876,7 +3372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.65,
+  "score": 7.63,
   "cluster": "92eb6647b61b"
  },
  {
@@ -2892,7 +3388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.63,
+  "score": 7.62,
   "cluster": "716808fc580f"
  },
  {
@@ -2908,7 +3404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.13,
+  "score": 9.12,
   "cluster": "75826d6944b0"
  },
  {
@@ -2924,7 +3420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.63,
+  "score": 10.61,
   "cluster": "3f6626c4cad2"
  },
  {
@@ -2940,7 +3436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 9.11,
+  "score": 9.1,
   "cluster": "32347a8e395e"
  },
  {
@@ -2956,7 +3452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.61,
+  "score": 7.59,
   "cluster": "996441003a33"
  },
  {
@@ -2972,7 +3468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.61,
+  "score": 7.59,
   "cluster": "bc741eae3b4f"
  },
  {
@@ -2988,7 +3484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.59,
+  "score": 7.57,
   "cluster": "5c8bd098a441"
  },
  {
@@ -3004,7 +3500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.58,
+  "score": 7.57,
   "cluster": "f35bf63d1519"
  },
  {
@@ -3020,7 +3516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 10.58,
+  "score": 10.57,
   "cluster": "b4b189b75188"
  },
  {
@@ -3036,7 +3532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 10.58,
+  "score": 10.56,
   "cluster": "e8dd1fdea432"
  },
  {
@@ -3052,7 +3548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": -4.45,
+  "score": -4.46,
   "cluster": "c1f41e36e4ac"
  },
  {
@@ -3068,7 +3564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.55,
+  "score": 7.53,
   "cluster": "cdc213ad4f0e"
  },
  {
@@ -3084,7 +3580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": -2.95,
+  "score": -2.97,
   "cluster": "d5c4caa56d0a"
  },
  {
@@ -3100,7 +3596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.54,
+  "score": 10.52,
   "cluster": "9589e409d06f"
  },
  {
@@ -3116,7 +3612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.52,
+  "score": 7.5,
   "cluster": "53c0963ddc5a"
  },
  {
@@ -3132,7 +3628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.51,
+  "score": 7.5,
   "cluster": "fba73f5829c6"
  },
  {
@@ -3148,7 +3644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.51,
+  "score": 7.49,
   "cluster": "63cacf483e1e"
  },
  {
@@ -3164,7 +3660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.5,
+  "score": 7.48,
   "cluster": "a5b430c0e331"
  },
  {
@@ -3180,7 +3676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.49,
+  "score": 7.47,
   "cluster": "60478b6a5b4d"
  },
  {
@@ -3196,7 +3692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.48,
+  "score": 7.46,
   "cluster": "c5aa2409cd7f"
  },
  {
@@ -3212,7 +3708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": -0.03,
+  "score": -0.04,
   "cluster": "0bd957054d10"
  },
  {
@@ -3228,7 +3724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.97,
+  "score": 8.96,
   "cluster": "379419a4d667"
  },
  {
@@ -3244,7 +3740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.46,
+  "score": 7.44,
   "cluster": "081431c631fd"
  },
  {
@@ -3260,7 +3756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 10.45,
+  "score": 10.44,
   "cluster": "9de6e19544a0"
  },
  {
@@ -3276,7 +3772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.45,
+  "score": 7.44,
   "cluster": "b04265e3ad80"
  },
  {
@@ -3292,7 +3788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 10.45,
+  "score": 10.43,
   "cluster": "9589e409d06f"
  },
  {
@@ -3308,7 +3804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.43,
+  "score": 7.42,
   "cluster": "6f822cef00e4"
  },
  {
@@ -3324,7 +3820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 14.92,
+  "score": 14.9,
   "cluster": "80e2f0a3bff0"
  },
  {
@@ -3340,7 +3836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": -1.58,
+  "score": -1.6,
   "cluster": "65e3a3b5b526"
  },
  {
@@ -3356,7 +3852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.92,
+  "score": 8.9,
   "cluster": "133404e6a4a0"
  },
  {
@@ -3372,7 +3868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 7.41,
+  "score": 7.39,
   "cluster": "0227980c3a5c"
  },
  {
@@ -3388,7 +3884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 2.9,
+  "score": 2.88,
   "cluster": "7c79cad22885"
  },
  {
@@ -3404,7 +3900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.89,
+  "score": 11.88,
   "cluster": "f3905efa6f45"
  },
  {
@@ -3420,7 +3916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.89,
+  "score": 8.87,
   "cluster": "96df359de917"
  },
  {
@@ -3436,7 +3932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 13.36,
+  "score": 13.34,
   "cluster": "f118ee336ef8"
  },
  {
@@ -3452,7 +3948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.34,
+  "score": 7.33,
   "cluster": "a5a7230b8712"
  },
  {
@@ -3468,7 +3964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.33,
+  "score": 7.32,
   "cluster": "218c9420a68b"
  },
  {
@@ -3484,7 +3980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 13.32,
+  "score": 13.3,
   "cluster": "b5a3d23f015b"
  },
  {
@@ -3500,7 +3996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.31,
+  "score": 7.3,
   "cluster": "2adf1ad4574e"
  },
  {
@@ -3516,7 +4012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 10.31,
+  "score": 10.29,
   "cluster": "9de6e19544a0"
  },
  {
@@ -3532,7 +4028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": -4.69,
+  "score": -4.71,
   "cluster": "2c32ff322952"
  },
  {
@@ -3548,7 +4044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.81,
+  "score": 8.79,
   "cluster": "8b1c7edaacb4"
  },
  {
@@ -3564,7 +4060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 13.28,
+  "score": 13.26,
   "cluster": "c8a49b8e9dec"
  },
  {
@@ -3580,7 +4076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.26,
+  "score": 7.24,
   "cluster": "ccf02628583f"
  },
  {
@@ -3596,7 +4092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 11.75,
+  "score": 11.73,
   "cluster": "6172fa00fb16"
  },
  {
@@ -3612,7 +4108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.25,
+  "score": 10.23,
   "cluster": "96d7d6b93a0c"
  },
  {
@@ -3628,7 +4124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.73,
+  "score": 11.71,
   "cluster": "84b910dfb622"
  },
  {
@@ -3644,7 +4140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.22,
+  "score": 7.21,
   "cluster": "425a5c5bec69"
  },
  {
@@ -3660,7 +4156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.71,
+  "score": 8.7,
   "cluster": "67dd1b8ceebf"
  },
  {
@@ -3676,7 +4172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.71,
+  "score": 8.69,
   "cluster": "61fb8952829c"
  },
  {
@@ -3692,7 +4188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.21,
+  "score": 7.19,
   "cluster": "f6d734322106"
  },
  {
@@ -3708,7 +4204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.71,
+  "score": 11.69,
   "cluster": "cb7b836591c2"
  },
  {
@@ -3724,7 +4220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 5,
-  "score": 19.19,
+  "score": 19.17,
   "cluster": "7998fedeeecc"
  },
  {
@@ -3740,7 +4236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.18,
+  "score": 7.16,
   "cluster": "33d94ac1bde9"
  },
  {
@@ -3755,8 +4251,8 @@
   "date": "2026-11-23T11:23:50.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 2,
-  "score": 10.18,
+  "coverage": 1,
+  "score": 7.16,
   "cluster": "d4567aaa113c"
  },
  {
@@ -3772,7 +4268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.66,
+  "score": 8.65,
   "cluster": "39d7f2785920"
  },
  {
@@ -3787,9 +4283,9 @@
   "date": "2026-11-23T11:20:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 2,
-  "score": 11.66,
-  "cluster": "9bd899b42317"
+  "coverage": 3,
+  "score": 14.64,
+  "cluster": "dd99d01780f8"
  },
  {
   "id": "260e5805000c",
@@ -3804,7 +4300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 10.16,
+  "score": 10.14,
   "cluster": "260e5805000c"
  },
  {
@@ -3819,8 +4315,8 @@
   "date": "2026-11-23T11:16:49.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 2,
-  "score": 10.14,
+  "coverage": 1,
+  "score": 7.12,
   "cluster": "5643074d46ca"
  },
  {
@@ -3836,7 +4332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.63,
+  "score": 8.61,
   "cluster": "65f45d7fcd33"
  },
  {
@@ -3852,7 +4348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.6,
+  "score": 8.58,
   "cluster": "945be3c58568"
  },
  {
@@ -3868,7 +4364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.09,
+  "score": 7.07,
   "cluster": "4ca4037469b0"
  },
  {
@@ -3884,7 +4380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.09,
+  "score": 7.07,
   "cluster": "43343f991f9d"
  },
  {
@@ -3900,7 +4396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.08,
+  "score": 7.07,
   "cluster": "880621fc1f18"
  },
  {
@@ -3916,7 +4412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.58,
+  "score": 11.56,
   "cluster": "80e2f0a3bff0"
  },
  {
@@ -3932,7 +4428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.07,
+  "score": 7.05,
   "cluster": "6e88ba540ebc"
  },
  {
@@ -3948,7 +4444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.05,
+  "score": 7.03,
   "cluster": "c33f56e0ff58"
  },
  {
@@ -3964,7 +4460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.55,
+  "score": 8.53,
   "cluster": "b843e0811715"
  },
  {
@@ -3980,7 +4476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.55,
+  "score": 8.53,
   "cluster": "51c7fa2373a1"
  },
  {
@@ -3996,7 +4492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.03,
+  "score": 7.02,
   "cluster": "afabef6ce65f"
  },
  {
@@ -4011,8 +4507,8 @@
   "date": "2026-11-23T10:57:14.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
-  "coverage": 3,
-  "score": 13.03,
+  "coverage": 4,
+  "score": 16.01,
   "cluster": "e9e3036c6047"
  },
  {
@@ -4028,7 +4524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 3,
-  "score": 16.02,
+  "score": 16,
   "cluster": "f14bbe4f5ba1"
  },
  {
@@ -4044,7 +4540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.01,
+  "score": 6.99,
   "cluster": "3554f73c74cc"
  },
  {
@@ -4060,7 +4556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.01,
+  "score": 6.99,
   "cluster": "e4dd90f9634d"
  },
  {
@@ -4076,7 +4572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 6.99,
+  "score": 6.97,
   "cluster": "cf0d2a09681a"
  },
  {
@@ -4092,7 +4588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 7.49,
+  "score": 7.47,
   "cluster": "1776a8f7f84a"
  },
  {
@@ -4108,7 +4604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 6.97,
+  "score": 6.96,
   "cluster": "182e8854018e"
  },
  {
@@ -4124,7 +4620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.96,
+  "score": 6.94,
   "cluster": "c30cbbeecba7"
  },
  {
@@ -4140,7 +4636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.94,
+  "score": 6.92,
   "cluster": "30c047718535"
  },
  {
@@ -4156,7 +4652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 9.91,
+  "score": 9.9,
   "cluster": "040fc819c0a4"
  },
  {
@@ -4172,7 +4668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.87,
+  "score": 6.85,
   "cluster": "ec70c7a2227a"
  },
  {
@@ -4188,7 +4684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.36,
+  "score": 8.35,
   "cluster": "91d8e56952af"
  },
  {
@@ -4204,7 +4700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.86,
+  "score": 6.84,
   "cluster": "1cfabbf51c1f"
  },
  {
@@ -4220,7 +4716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.81,
+  "score": 6.79,
   "cluster": "877993afdf1b"
  },
  {
@@ -4236,7 +4732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.29,
+  "score": 8.27,
   "cluster": "c8f4b3308724"
  },
  {
@@ -4252,7 +4748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.79,
+  "score": 6.77,
   "cluster": "8b2481311364"
  },
  {
@@ -4268,7 +4764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 8.28,
+  "score": 8.26,
   "cluster": "abdad0db7535"
  },
  {
@@ -4284,7 +4780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.24,
+  "score": 11.22,
   "cluster": "2418ec2bac27"
  },
  {
@@ -4300,7 +4796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": -5.27,
+  "score": -5.29,
   "cluster": "16c88534a4dc"
  },
  {
@@ -4316,7 +4812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.73,
+  "score": 6.71,
   "cluster": "382fd780a374"
  },
  {
@@ -4332,7 +4828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.7,
   "cluster": "ec38b9d02a3d"
  },
  {
@@ -4348,7 +4844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 7.17,
+  "score": 7.15,
   "cluster": "8c840bbb4794"
  },
  {
@@ -4364,7 +4860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.67,
+  "score": 6.65,
   "cluster": "dbe929900136"
  },
  {
@@ -4380,7 +4876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 9.62,
+  "score": 9.61,
   "cluster": "8a71f23a291b"
  },
  {
@@ -4396,7 +4892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 9.61,
+  "score": 9.59,
   "cluster": "992594e2a509"
  },
  {
@@ -4412,7 +4908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 12.6,
+  "score": 12.58,
   "cluster": "cc3e8fd6ed08"
  },
  {
@@ -4428,7 +4924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.6,
+  "score": 6.58,
   "cluster": "c2022b5acc64"
  },
  {
@@ -4443,8 +4939,8 @@
   "date": "2026-11-23T09:37:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
-  "coverage": 1,
-  "score": 6.59,
+  "coverage": 2,
+  "score": 9.57,
   "cluster": "1bea143daa3b"
  },
  {
@@ -4460,7 +4956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 6.57,
+  "score": 6.55,
   "cluster": "de77528e067f"
  },
  {
@@ -4476,7 +4972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 6.56,
+  "score": 6.54,
   "cluster": "57add5b8f09d"
  },
  {
@@ -4492,7 +4988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 9.55,
+  "score": 9.54,
   "cluster": "3ce5874c613d"
  },
  {
@@ -4508,7 +5004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 4,
-  "score": 14.55,
+  "score": 14.53,
   "cluster": "ccab6d485217"
  },
  {
@@ -4524,7 +5020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "1aa014f4137a"
  },
  {
@@ -4540,7 +5036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "330f0e3f98e3"
  },
  {
@@ -4556,7 +5052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "41b053cc44ed"
  },
  {
@@ -4572,7 +5068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "99c638992eb3"
  },
  {
@@ -4588,7 +5084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "2fc2b87ed235"
  },
  {
@@ -4604,7 +5100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 11.05,
+  "score": 11.03,
   "cluster": "25f5bf1db178"
  },
  {
@@ -4620,7 +5116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 9.55,
+  "score": 9.53,
   "cluster": "e665c2ff6353"
  },
  {
@@ -4636,7 +5132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 8.05,
+  "score": 8.03,
   "cluster": "4cfe99ef89ea"
  },
  {
@@ -4652,7 +5148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "893f65647195"
  },
  {
@@ -4668,7 +5164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "a8683b3d63b9"
  },
  {
@@ -4684,7 +5180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "4e18b4a6a973"
  },
  {
@@ -4700,7 +5196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.55,
+  "score": 6.53,
   "cluster": "e8f0501ef11a"
  },
  {
@@ -4716,7 +5212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 6.54,
+  "score": 6.52,
   "cluster": "681644caf235"
  },
  {
@@ -4732,7 +5228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 9.98,
+  "score": 9.96,
   "cluster": "17727117d1d0"
  },
  {
@@ -4748,7 +5244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.47,
+  "score": 6.46,
   "cluster": "fa3662982803"
  },
  {
@@ -4764,7 +5260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 10.96,
+  "score": 10.95,
   "cluster": "c8a49b8e9dec"
  },
  {
@@ -4780,7 +5276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 2,
-  "score": 9.46,
+  "score": 9.44,
   "cluster": "11fa06150c05"
  },
  {
@@ -4796,7 +5292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.46,
+  "score": 6.44,
   "cluster": "8ab1d6407133"
  },
  {
@@ -4812,7 +5308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 9.43,
+  "score": 9.41,
   "cluster": "cfc37fdd4dd1"
  },
  {
@@ -4828,7 +5324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.38,
+  "score": 6.37,
   "cluster": "8512ddc48423"
  },
  {
@@ -4844,7 +5340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.33,
+  "score": 6.31,
   "cluster": "1107e81120e7"
  },
  {
@@ -4860,7 +5356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.3,
+  "score": 6.28,
   "cluster": "85e4e9ce641d"
  },
  {
@@ -4876,7 +5372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.26,
+  "score": 6.24,
   "cluster": "f0d900ec73e0"
  },
  {
@@ -4892,7 +5388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.16,
+  "score": 6.14,
   "cluster": "dbb266cae1aa"
  },
  {
@@ -4908,7 +5404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.08,
+  "score": 6.07,
   "cluster": "7ed39aec07fe"
  },
  {
@@ -4924,7 +5420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 12.05,
+  "score": 12.03,
   "cluster": "9bd899b42317"
  },
  {
@@ -4940,7 +5436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 6.05,
+  "score": 6.03,
   "cluster": "7ae94d909bd5"
  },
  {
@@ -4956,7 +5452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.673Z",
   "coverage": 1,
-  "score": 5.91,
+  "score": 5.89,
   "cluster": "56340e44cad5"
  },
  {
@@ -4972,7 +5468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.8,
+  "score": 5.79,
   "cluster": "590cfba7d959"
  },
  {
@@ -4988,7 +5484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 2,
-  "score": 8.75,
+  "score": 8.73,
   "cluster": "90f785daaf0c"
  },
  {
@@ -5004,7 +5500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.72,
+  "score": 5.7,
   "cluster": "55ed3640a5be"
  },
  {
@@ -5020,7 +5516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": -1.79,
+  "score": -1.8,
   "cluster": "528de58322b6"
  },
  {
@@ -5036,7 +5532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.71,
+  "score": 5.7,
   "cluster": "b71bd11fbae8"
  },
  {
@@ -5052,7 +5548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 7.21,
+  "score": 7.19,
   "cluster": "9eddab1aa63c"
  },
  {
@@ -5068,7 +5564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 7.16,
+  "score": 7.15,
   "cluster": "bed06b31d102"
  },
  {
@@ -5084,7 +5580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": -6.37,
+  "score": -6.39,
   "cluster": "e14847721c87"
  },
  {
@@ -5100,7 +5596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 7.12,
+  "score": 7.1,
   "cluster": "0d4f3fa8b448"
  },
  {
@@ -5116,7 +5612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": 8.62,
+  "score": 8.6,
   "cluster": "df942bd404e0"
  },
  {
@@ -5132,7 +5628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.6,
+  "score": 5.59,
   "cluster": "354c781bc9dd"
  },
  {
@@ -5148,7 +5644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.6,
+  "score": 5.58,
   "cluster": "9ed3753f809f"
  },
  {
@@ -5164,7 +5660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 7.07,
+  "score": 7.06,
   "cluster": "8188704ab7d5"
  },
  {
@@ -5180,7 +5676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 7.06,
+  "score": 7.05,
   "cluster": "bbbe14ae216e"
  },
  {
@@ -5196,7 +5692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.56,
+  "score": 5.54,
   "cluster": "88e830350584"
  },
  {
@@ -5212,7 +5708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 3,
-  "score": 11.53,
+  "score": 11.51,
   "cluster": "14db92619298"
  },
  {
@@ -5228,7 +5724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 7.02,
+  "score": 7,
   "cluster": "b33d1cbd2eba"
  },
  {
@@ -5243,9 +5739,9 @@
   "date": "2026-11-23T06:25:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
-  "coverage": 2,
-  "score": 8.52,
-  "cluster": "2418ec2bac27"
+  "coverage": 3,
+  "score": 11.5,
+  "cluster": "66878d371704"
  },
  {
   "id": "a4163d9abfd6",
@@ -5260,7 +5756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": 8.51,
+  "score": 8.49,
   "cluster": "df942bd404e0"
  },
  {
@@ -5276,7 +5772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.97,
+  "score": 6.96,
   "cluster": "87abed23905b"
  },
  {
@@ -5292,7 +5788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 2,
-  "score": 8.41,
+  "score": 8.4,
   "cluster": "cde3a665b5ba"
  },
  {
@@ -5308,7 +5804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 2,
-  "score": 9.88,
+  "score": 9.86,
   "cluster": "cd64c60c8e02"
  },
  {
@@ -5324,7 +5820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.38,
+  "score": 5.36,
   "cluster": "65b84fd86e9b"
  },
  {
@@ -5340,7 +5836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.38,
+  "score": 5.36,
   "cluster": "8e8bb02d384d"
  },
  {
@@ -5356,7 +5852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.36,
+  "score": 5.34,
   "cluster": "b506cf50a705"
  },
  {
@@ -5372,7 +5868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.36,
+  "score": 5.34,
   "cluster": "3f916a409a10"
  },
  {
@@ -5388,7 +5884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.34,
+  "score": 5.33,
   "cluster": "cb1e22648100"
  },
  {
@@ -5404,7 +5900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.34,
+  "score": 5.32,
   "cluster": "15039f17f73d"
  },
  {
@@ -5420,7 +5916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 8.34,
+  "score": 8.32,
   "cluster": "3fad503bb6c3"
  },
  {
@@ -5436,7 +5932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.83,
+  "score": 6.81,
   "cluster": "d931de40be8c"
  },
  {
@@ -5452,7 +5948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.33,
+  "score": 5.31,
   "cluster": "71ddff4a5678"
  },
  {
@@ -5468,7 +5964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.33,
+  "score": 5.31,
   "cluster": "b64342178f55"
  },
  {
@@ -5484,7 +5980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.83,
+  "score": 6.81,
   "cluster": "31d2fc62736d"
  },
  {
@@ -5500,7 +5996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.33,
+  "score": 5.31,
   "cluster": "abca2a96974d"
  },
  {
@@ -5516,7 +6012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.32,
+  "score": 5.3,
   "cluster": "db38e75a14b2"
  },
  {
@@ -5532,7 +6028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.31,
+  "score": 5.3,
   "cluster": "d6c16641d97a"
  },
  {
@@ -5548,7 +6044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.3,
+  "score": 5.28,
   "cluster": "443fc9a7e60d"
  },
  {
@@ -5564,7 +6060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.3,
+  "score": 5.28,
   "cluster": "79c3fc62cc48"
  },
  {
@@ -5580,7 +6076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 3,
-  "score": 12.79,
+  "score": 12.77,
   "cluster": "cd64c60c8e02"
  },
  {
@@ -5596,7 +6092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.29,
+  "score": 5.27,
   "cluster": "836ee7873c04"
  },
  {
@@ -5612,7 +6108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 5,
-  "score": 17.29,
+  "score": 17.27,
   "cluster": "4a52474b685a"
  },
  {
@@ -5628,7 +6124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.29,
+  "score": 5.27,
   "cluster": "a6f8d17e5afb"
  },
  {
@@ -5644,7 +6140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 6.77,
+  "score": 6.76,
   "cluster": "7f8f2eea5960"
  },
  {
@@ -5660,7 +6156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.27,
+  "score": 5.26,
   "cluster": "1336ed2d586b"
  },
  {
@@ -5676,7 +6172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 6.77,
+  "score": 6.75,
   "cluster": "33aa80efa0d8"
  },
  {
@@ -5692,7 +6188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.26,
+  "score": 5.25,
   "cluster": "f6950c253ab2"
  },
  {
@@ -5708,7 +6204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.26,
+  "score": 5.24,
   "cluster": "4d33200de6cb"
  },
  {
@@ -5724,7 +6220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.26,
+  "score": 5.24,
   "cluster": "b26414af69dc"
  },
  {
@@ -5740,7 +6236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.21,
+  "score": 5.2,
   "cluster": "b57ba9f18c72"
  },
  {
@@ -5756,7 +6252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 6.71,
+  "score": 6.7,
   "cluster": "6e0a2289c21b"
  },
  {
@@ -5772,7 +6268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.19,
+  "score": 5.18,
   "cluster": "36bf68876a05"
  },
  {
@@ -5788,7 +6284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 5.19,
+  "score": 5.17,
   "cluster": "b8f6260360c7"
  },
  {
@@ -5804,7 +6300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.17,
+  "score": 5.15,
   "cluster": "8fcb9c160efa"
  },
  {
@@ -5819,9 +6315,9 @@
   "date": "2026-11-23T05:10:14.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
-  "coverage": 2,
-  "score": 8.1,
-  "cluster": "992594e2a509"
+  "coverage": 3,
+  "score": 11.09,
+  "cluster": "d80a22023c7c"
  },
  {
   "id": "cc6efac6ccf9",
@@ -5835,7 +6331,7 @@
   "date": "2026-11-23T05:06:12.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.08,
+  "score": 5.06,
   "noDate": false,
   "cluster": "cc6efac6ccf9"
  },
@@ -5852,7 +6348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 5.07,
+  "score": 5.06,
   "cluster": "0b41d1d02c7c"
  },
  {
@@ -5868,7 +6364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.06,
+  "score": 5.04,
   "cluster": "3e8e037ddeda"
  },
  {
@@ -5884,7 +6380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": 8.05,
+  "score": 8.03,
   "cluster": "5bc81a720656"
  },
  {
@@ -5899,7 +6395,7 @@
   "date": "2026-11-23T04:54:20.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 5.02,
+  "score": 5,
   "noDate": false,
   "cluster": "156ebca31bbf"
  },
@@ -5916,7 +6412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.96,
+  "score": 4.95,
   "cluster": "59a26d7467c3"
  },
  {
@@ -5932,7 +6428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.96,
+  "score": 4.95,
   "cluster": "740585f404bf"
  },
  {
@@ -5948,7 +6444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 2,
-  "score": 7.9,
+  "score": 7.88,
   "cluster": "e8dd1fdea432"
  },
  {
@@ -5964,7 +6460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": 7.88,
+  "score": 7.86,
   "cluster": "7e6255878c75"
  },
  {
@@ -5980,7 +6476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "cd8f4583d9e6"
  },
  {
@@ -5996,7 +6492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 3.88,
+  "score": 3.86,
   "cluster": "118f86538a0e"
  },
  {
@@ -6012,7 +6508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.38,
+  "score": 6.36,
   "cluster": "2f9c65df284d"
  },
  {
@@ -6028,7 +6524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "c396694e8097"
  },
  {
@@ -6044,7 +6540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "9479fb20476a"
  },
  {
@@ -6060,7 +6556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "c4eae2c00c7f"
  },
  {
@@ -6076,7 +6572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "3a86f1f5f231"
  },
  {
@@ -6092,7 +6588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "f509ff234d07"
  },
  {
@@ -6108,7 +6604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 3.88,
+  "score": 3.86,
   "cluster": "931ce400bd82"
  },
  {
@@ -6124,7 +6620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 4,
-  "score": 13.88,
+  "score": 13.86,
   "cluster": "ccab6d485217"
  },
  {
@@ -6140,7 +6636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.38,
+  "score": 6.36,
   "cluster": "d178ea74b093"
  },
  {
@@ -6156,7 +6652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": 7.88,
+  "score": 7.86,
   "cluster": "a5202e240254"
  },
  {
@@ -6172,7 +6668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "324f1b8b6d1f"
  },
  {
@@ -6188,7 +6684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "b5940e75199a"
  },
  {
@@ -6204,7 +6700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "6523fa8f9e01"
  },
  {
@@ -6220,7 +6716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 4.88,
+  "score": 4.86,
   "cluster": "ff9c0974d8cd"
  },
  {
@@ -6236,7 +6732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.35,
+  "score": 6.34,
   "cluster": "8b0516656188"
  },
  {
@@ -6252,7 +6748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 7.85,
+  "score": 7.84,
   "cluster": "67cd06d143f8"
  },
  {
@@ -6268,7 +6764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 3,
-  "score": 12.35,
+  "score": 12.34,
   "cluster": "6172fa00fb16"
  },
  {
@@ -6284,7 +6780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": -5.7,
+  "score": -5.72,
   "cluster": "859659cc5306"
  },
  {
@@ -6300,7 +6796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.3,
+  "score": 6.28,
   "cluster": "e156fbaaf0af"
  },
  {
@@ -6316,7 +6812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.3,
+  "score": 6.28,
   "cluster": "cd7b7e7955f5"
  },
  {
@@ -6332,7 +6828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.8,
+  "score": 4.78,
   "cluster": "b6236ce51872"
  },
  {
@@ -6347,7 +6843,7 @@
   "date": "2026-11-23T04:09:50.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 4.77,
+  "score": 4.75,
   "noDate": false,
   "cluster": "8793b86c846b"
  },
@@ -6364,7 +6860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 5.23,
+  "score": 5.21,
   "cluster": "4f9de71b06b9"
  },
  {
@@ -6380,7 +6876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 2,
-  "score": 9.22,
+  "score": 9.2,
   "cluster": "80e2f0a3bff0"
  },
  {
@@ -6396,7 +6892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 6.22,
+  "score": 6.2,
   "cluster": "4c5aeabe7a3e"
  },
  {
@@ -6412,7 +6908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": -4.29,
+  "score": -4.3,
   "cluster": "ce48eff687a6"
  },
  {
@@ -6428,7 +6924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.18,
+  "score": 6.16,
   "cluster": "0ac00f998112"
  },
  {
@@ -6444,7 +6940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": 9.18,
+  "score": 9.16,
   "cluster": "00fc457b7c24"
  },
  {
@@ -6460,7 +6956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 7.68,
+  "score": 7.66,
   "cluster": "5622623819ee"
  },
  {
@@ -6475,9 +6971,9 @@
   "date": "2026-11-23T03:53:30.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
-  "coverage": 2,
-  "score": 10.68,
-  "cluster": "fe03f190fd2d"
+  "coverage": 3,
+  "score": 13.66,
+  "cluster": "dd99d01780f8"
  },
  {
   "id": "2fd00d5afa95",
@@ -6492,7 +6988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 6.18,
+  "score": 6.16,
   "cluster": "2fd00d5afa95"
  },
  {
@@ -6508,7 +7004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.66,
+  "score": 4.64,
   "cluster": "12d6f9a9f580"
  },
  {
@@ -6524,7 +7020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.61,
+  "score": 4.59,
   "cluster": "b62ca4b55b6c"
  },
  {
@@ -6540,7 +7036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.59,
+  "score": 4.57,
   "cluster": "87f2df08f017"
  },
  {
@@ -6556,7 +7052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.54,
+  "score": 4.52,
   "cluster": "65a75dbe7720"
  },
  {
@@ -6572,7 +7068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 7.53,
+  "score": 7.51,
   "cluster": "1302324ca621"
  },
  {
@@ -6588,7 +7084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 3,
-  "score": 10.46,
+  "score": 10.44,
   "cluster": "b5a3d23f015b"
  },
  {
@@ -6604,7 +7100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.45,
+  "score": 4.43,
   "cluster": "53d56b59a0fb"
  },
  {
@@ -6620,7 +7116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 1,
-  "score": 4.41,
+  "score": 4.39,
   "cluster": "127c2299e131"
  },
  {
@@ -6635,7 +7131,7 @@
   "date": "2026-11-23T02:56:44.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 4.36,
+  "score": 4.35,
   "noDate": false,
   "cluster": "fa73027b6ea3"
  },
@@ -6652,7 +7148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:56.564Z",
   "coverage": 1,
-  "score": 4.35,
+  "score": 4.33,
   "cluster": "9bdcd55c9b8c"
  },
  {
@@ -6668,7 +7164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 2,
-  "score": 6.32,
+  "score": 6.3,
   "cluster": "7998fedeeecc"
  },
  {
@@ -6684,7 +7180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 3,
-  "score": 10.26,
+  "score": 10.25,
   "cluster": "7998fedeeecc"
  },
  {
@@ -6700,7 +7196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 4,
-  "score": 14.75,
+  "score": 14.73,
   "cluster": "4a52474b685a"
  },
  {
@@ -6716,7 +7212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 4,
-  "score": 13.24,
+  "score": 13.22,
   "cluster": "b5a3d23f015b"
  },
  {
@@ -6732,7 +7228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 1,
-  "score": 4.22,
+  "score": 4.2,
   "cluster": "97368aa10b2a"
  },
  {
@@ -6748,7 +7244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.18,
+  "score": 4.16,
   "cluster": "d9e1f505319d"
  },
  {
@@ -6764,7 +7260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.16,
+  "score": 4.15,
   "cluster": "b3b6bbfc51f0"
  },
  {
@@ -6780,7 +7276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 8.66,
+  "score": 8.64,
   "cluster": "84b910dfb622"
  },
  {
@@ -6796,7 +7292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 5.62,
+  "score": 5.6,
   "cluster": "a8fb92ca59ad"
  },
  {
@@ -6812,7 +7308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.09,
+  "score": 4.07,
   "cluster": "eb30d709299d"
  },
  {
@@ -6828,7 +7324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.07,
+  "score": 4.05,
   "cluster": "d15a7fdc39fa"
  },
  {
@@ -6844,7 +7340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.06,
+  "score": 4.05,
   "cluster": "2848e499fd3c"
  },
  {
@@ -6860,7 +7356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 5.55,
+  "score": 5.53,
   "cluster": "19fe8ed98359"
  },
  {
@@ -6876,7 +7372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.04,
+  "score": 4.02,
   "cluster": "174ed62af670"
  },
  {
@@ -6892,7 +7388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 8.49,
+  "score": 8.47,
   "cluster": "4a6f7d1cab0e"
  },
  {
@@ -6908,7 +7404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 8.46,
+  "score": 8.45,
   "cluster": "51df59fd8e1e"
  },
  {
@@ -6924,7 +7420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.95,
+  "score": 3.93,
   "cluster": "fb64330e8a17"
  },
  {
@@ -6940,7 +7436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.95,
+  "score": 6.93,
   "cluster": "0a100c6c598b"
  },
  {
@@ -6956,7 +7452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 4,
-  "score": 14.44,
+  "score": 14.42,
   "cluster": "f14bbe4f5ba1"
  },
  {
@@ -6972,7 +7468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.950Z",
   "coverage": 4,
-  "score": 14.44,
+  "score": 14.42,
   "cluster": "f14bbe4f5ba1"
  },
  {
@@ -6988,7 +7484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 4,
-  "score": 15.92,
+  "score": 15.9,
   "cluster": "f14bbe4f5ba1"
  },
  {
@@ -7004,7 +7500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 4,
-  "score": 14.39,
+  "score": 14.37,
   "cluster": "41af665d7820"
  },
  {
@@ -7019,7 +7515,7 @@
   "date": "2026-11-23T01:27:25.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 3.87,
+  "score": 3.85,
   "noDate": false,
   "cluster": "62e2b0eaa6ab"
  },
@@ -7036,7 +7532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.87,
+  "score": 6.85,
   "cluster": "1c6d262ad0f4"
  },
  {
@@ -7052,7 +7548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.82,
+  "score": 6.81,
   "cluster": "f5daa5b7e2e7"
  },
  {
@@ -7068,7 +7564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 3,
-  "score": 9.82,
+  "score": 9.8,
   "cluster": "8128f13d3572"
  },
  {
@@ -7084,7 +7580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.81,
+  "score": 3.79,
   "cluster": "9128d0464d84"
  },
  {
@@ -7100,7 +7596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 3,
-  "score": 9.81,
+  "score": 9.79,
   "cluster": "baa19215665f"
  },
  {
@@ -7115,7 +7611,7 @@
   "date": "2026-11-23T01:13:31.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 3.79,
+  "score": 3.77,
   "noDate": false,
   "cluster": "bfcbb5fd3049"
  },
@@ -7132,7 +7628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 3,
-  "score": 9.75,
+  "score": 9.73,
   "cluster": "cc3e8fd6ed08"
  },
  {
@@ -7148,7 +7644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 5.23,
+  "score": 5.21,
   "cluster": "fc975b4d4852"
  },
  {
@@ -7164,7 +7660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 5.21,
+  "score": 5.19,
   "cluster": "72e580bf5e81"
  },
  {
@@ -7180,7 +7676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.67,
+  "score": 3.65,
   "cluster": "3cc5345b5ffd"
  },
  {
@@ -7196,7 +7692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 5.16,
+  "score": 5.14,
   "cluster": "b0d8b5bba32a"
  },
  {
@@ -7212,7 +7708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 9.59,
+  "score": 9.57,
   "cluster": "51df59fd8e1e"
  },
  {
@@ -7228,7 +7724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.54,
+  "score": 6.52,
   "cluster": "8a71f23a291b"
  },
  {
@@ -7244,7 +7740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 3.52,
+  "score": 3.5,
   "cluster": "1bcd4d42361a"
  },
  {
@@ -7259,8 +7755,8 @@
   "date": "2026-11-23T00:22:56.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
-  "coverage": 3,
-  "score": -2.49,
+  "coverage": 2,
+  "score": -5.51,
   "cluster": "b2084f7d623b"
  },
  {
@@ -7276,7 +7772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.42,
+  "score": 3.4,
   "cluster": "b035968a2f5d"
  },
  {
@@ -7292,7 +7788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.39,
+  "score": 3.38,
   "cluster": "e01c04065276"
  },
  {
@@ -7308,7 +7804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 3.37,
+  "score": 3.36,
   "cluster": "ce950642f119"
  },
  {
@@ -7324,7 +7820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.87,
+  "score": 4.86,
   "cluster": "7d99e0f4115f"
  },
  {
@@ -7340,7 +7836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.36,
+  "score": 3.34,
   "cluster": "02e5c5c184b6"
  },
  {
@@ -7356,7 +7852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.36,
+  "score": 6.34,
   "cluster": "14db92619298"
  },
  {
@@ -7372,7 +7868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.36,
+  "score": 3.34,
   "cluster": "a6b2c1fef4d8"
  },
  {
@@ -7388,7 +7884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.35,
+  "score": 3.34,
   "cluster": "4a2359c23d9d"
  },
  {
@@ -7404,7 +7900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.35,
+  "score": 3.33,
   "cluster": "8b00b00b830b"
  },
  {
@@ -7420,7 +7916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.35,
+  "score": 3.33,
   "cluster": "ecec8d3eaffa"
  },
  {
@@ -7435,8 +7931,8 @@
   "date": "2026-11-22T23:54:11.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
-  "coverage": 1,
-  "score": -7.15,
+  "coverage": 2,
+  "score": -4.17,
   "cluster": "1d9964c89c50"
  },
  {
@@ -7452,7 +7948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.34,
+  "score": 3.32,
   "cluster": "07fa5432c9cd"
  },
  {
@@ -7468,7 +7964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.34,
+  "score": 3.32,
   "cluster": "10747cd1b5f1"
  },
  {
@@ -7484,7 +7980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.33,
+  "score": 6.31,
   "cluster": "ec9fbad6aa49"
  },
  {
@@ -7500,7 +7996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.32,
+  "score": 3.31,
   "cluster": "d2e16ad08aba"
  },
  {
@@ -7516,7 +8012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.32,
+  "score": 3.31,
   "cluster": "9e2742a84d8c"
  },
  {
@@ -7532,7 +8028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 7.64,
+  "score": 7.62,
   "cluster": "25f5bf1db178"
  },
  {
@@ -7548,7 +8044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.07,
+  "score": 3.05,
   "cluster": "786a46ca4b9b"
  },
  {
@@ -7564,7 +8060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.06,
+  "score": 3.05,
   "cluster": "5e132765567b"
  },
  {
@@ -7580,7 +8076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 2,
-  "score": 6.06,
+  "score": 6.05,
   "cluster": "ffb2d7745bb1"
  },
  {
@@ -7596,7 +8092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.06,
+  "score": 3.04,
   "cluster": "5c66d29e08db"
  },
  {
@@ -7612,7 +8108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.56,
+  "score": 4.54,
   "cluster": "5d89bf5fa45d"
  },
  {
@@ -7628,7 +8124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.06,
+  "score": 6.04,
   "cluster": "7e6255878c75"
  },
  {
@@ -7644,7 +8140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 3,
-  "score": 9.06,
+  "score": 9.04,
   "cluster": "040fc819c0a4"
  },
  {
@@ -7660,7 +8156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.06,
+  "score": 3.04,
   "cluster": "135b8eeeecf3"
  },
  {
@@ -7676,7 +8172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 6.06,
+  "score": 6.04,
   "cluster": "f118ee336ef8"
  },
  {
@@ -7692,7 +8188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 3,
-  "score": 10.56,
+  "score": 10.54,
   "cluster": "c969ef07e860"
  },
  {
@@ -7708,7 +8204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.06,
+  "score": 3.04,
   "cluster": "6feef1026607"
  },
  {
@@ -7724,7 +8220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.04,
+  "score": 3.02,
   "cluster": "db4366c8a540"
  },
  {
@@ -7740,7 +8236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.02,
+  "score": 3,
   "cluster": "f1d6295108d7"
  },
  {
@@ -7756,7 +8252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 6.02,
+  "score": 6,
   "cluster": "967b6be984fc"
  },
  {
@@ -7772,7 +8268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.02,
+  "score": 3,
   "cluster": "d591b175569d"
  },
  {
@@ -7788,7 +8284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 2.97,
+  "score": 2.96,
   "cluster": "8768dcb5adc7"
  },
  {
@@ -7804,7 +8300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 2.95,
+  "score": 2.93,
   "cluster": "14eb0456b3b1"
  },
  {
@@ -7820,7 +8316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 5.93,
+  "score": 5.91,
   "cluster": "f47f6de2217f"
  },
  {
@@ -7836,7 +8332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.38,
+  "score": 4.36,
   "cluster": "d5a5f54cce65"
  },
  {
@@ -7852,7 +8348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 5,
-  "score": 17.87,
+  "score": 17.85,
   "cluster": "f14bbe4f5ba1"
  },
  {
@@ -7868,7 +8364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 5.85,
+  "score": 5.84,
   "cluster": "136b6e5df36b"
  },
  {
@@ -7884,7 +8380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 2.85,
+  "score": 2.83,
   "cluster": "53d922b97be3"
  },
  {
@@ -7900,7 +8396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 2.84,
+  "score": 2.83,
   "cluster": "c6141b2b4158"
  },
  {
@@ -7916,7 +8412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 5.72,
+  "score": 5.71,
   "cluster": "4a6f7d1cab0e"
  },
  {
@@ -7932,7 +8428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 2.72,
+  "score": 2.7,
   "cluster": "717a17359b36"
  },
  {
@@ -7948,7 +8444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 4.2,
+  "score": 4.18,
   "cluster": "d694075e9547"
  },
  {
@@ -7964,7 +8460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.69,
+  "score": 2.67,
   "cluster": "447e16d468f4"
  },
  {
@@ -7980,7 +8476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 3,
-  "score": 8.69,
+  "score": 8.67,
   "cluster": "8128f13d3572"
  },
  {
@@ -7996,7 +8492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.67,
+  "score": 2.65,
   "cluster": "779864b36bbf"
  },
  {
@@ -8012,7 +8508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 2.67,
+  "score": 2.65,
   "cluster": "c9b74cd02bc6"
  },
  {
@@ -8028,7 +8524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 8.67,
+  "score": 8.65,
   "cluster": "14db92619298"
  },
  {
@@ -8044,7 +8540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:26.674Z",
   "coverage": 1,
-  "score": 4.17,
+  "score": 4.15,
   "cluster": "e3127fa8e2cb"
  },
  {
@@ -8060,7 +8556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.17,
+  "score": 4.15,
   "cluster": "ec387d3cf09c"
  },
  {
@@ -8076,7 +8572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 4.17,
+  "score": 4.15,
   "cluster": "943be83aa946"
  },
  {
@@ -8091,9 +8587,9 @@
   "date": "2026-11-22T21:46:39.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
-  "coverage": 1,
-  "score": 4.14,
-  "cluster": "55d6ca026cf2"
+  "coverage": 2,
+  "score": 7.12,
+  "cluster": "efccc0696fd5"
  },
  {
   "id": "daa5dd92a86d",
@@ -8108,7 +8604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 5.62,
+  "score": 5.6,
   "cluster": "daa5dd92a86d"
  },
  {
@@ -8124,7 +8620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.6,
+  "score": 2.59,
   "cluster": "e9e3a6c80d27"
  },
  {
@@ -8140,7 +8636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 4,
-  "score": 11.6,
+  "score": 11.58,
   "cluster": "ccab6d485217"
  },
  {
@@ -8156,7 +8652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.59,
+  "score": 2.57,
   "cluster": "db1b86cd9649"
  },
  {
@@ -8172,7 +8668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.58,
+  "score": 2.56,
   "cluster": "f4688955febb"
  },
  {
@@ -8188,7 +8684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 2,
-  "score": 7.07,
+  "score": 7.05,
   "cluster": "cd64c60c8e02"
  },
  {
@@ -8204,7 +8700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 7.07,
+  "score": 7.05,
   "cluster": "220e5775662a"
  },
  {
@@ -8220,7 +8716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.364Z",
   "coverage": 1,
-  "score": 2.56,
+  "score": 2.55,
   "cluster": "4176e020e06d"
  },
  {
@@ -8235,9 +8731,9 @@
   "date": "2026-11-22T21:30:20.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
-  "coverage": 1,
-  "score": 2.55,
-  "cluster": "072d3c51c919"
+  "coverage": 2,
+  "score": 5.53,
+  "cluster": "791895af6118"
  },
  {
   "id": "a79a701b74c2",
@@ -8252,7 +8748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.53,
+  "score": 2.51,
   "cluster": "a79a701b74c2"
  },
  {
@@ -8268,7 +8764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.52,
+  "score": 2.51,
   "cluster": "725d4389c118"
  },
  {
@@ -8284,7 +8780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 4.02,
+  "score": 4,
   "cluster": "88dd95f5fb06"
  },
  {
@@ -8300,7 +8796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 5.5,
+  "score": 5.48,
   "cluster": "96d7d6b93a0c"
  },
  {
@@ -8316,7 +8812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 4,
+  "score": 3.98,
   "cluster": "264b95d50864"
  },
  {
@@ -8332,7 +8828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 5.49,
+  "score": 5.48,
   "cluster": "0bd957054d10"
  },
  {
@@ -8348,7 +8844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 5.48,
+  "score": 5.46,
   "cluster": "6933b2b9ba4c"
  },
  {
@@ -8364,7 +8860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 2.48,
+  "score": 2.46,
   "cluster": "620676748c4c"
  },
  {
@@ -8380,7 +8876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 6.98,
+  "score": 6.96,
   "cluster": "a37e19ca1eee"
  },
  {
@@ -8396,7 +8892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.47,
+  "score": 2.46,
   "cluster": "cf4c79af04bb"
  },
  {
@@ -8412,7 +8908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.41,
+  "score": 2.39,
   "cluster": "7bf88acb0666"
  },
  {
@@ -8428,7 +8924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 3.9,
+  "score": 3.89,
   "cluster": "048d138b8d3c"
  },
  {
@@ -8444,7 +8940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 3.89,
+  "score": 3.87,
   "cluster": "245c335e2fb5"
  },
  {
@@ -8460,7 +8956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.38,
+  "score": 2.37,
   "cluster": "c3c347782855"
  },
  {
@@ -8475,9 +8971,9 @@
   "date": "2026-11-22T20:57:09.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
-  "coverage": 2,
-  "score": 5.37,
-  "cluster": "f3905efa6f45"
+  "coverage": 3,
+  "score": 8.35,
+  "cluster": "0067c225947c"
  },
  {
   "id": "cfeeadfb987e",
@@ -8492,7 +8988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 3,
-  "score": 9.82,
+  "score": 9.8,
   "cluster": "cfeeadfb987e"
  },
  {
@@ -8508,7 +9004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 4,
-  "score": 12.79,
+  "score": 12.77,
   "cluster": "f14bbe4f5ba1"
  },
  {
@@ -8524,7 +9020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.364Z",
   "coverage": 1,
-  "score": 2.29,
+  "score": 2.27,
   "cluster": "4b079564d8fd"
  },
  {
@@ -8540,7 +9036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 4,
-  "score": 11.26,
+  "score": 11.25,
   "cluster": "040fc819c0a4"
  },
  {
@@ -8556,7 +9052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 3.72,
+  "score": 3.7,
   "cluster": "79ec5b7fa684"
  },
  {
@@ -8572,7 +9068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 5.2,
+  "score": 5.19,
   "cluster": "6044a5114aec"
  },
  {
@@ -8588,7 +9084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.19,
+  "score": 2.17,
   "cluster": "5941b065d5c3"
  },
  {
@@ -8604,7 +9100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 3.69,
+  "score": 3.67,
   "cluster": "6109af47f8ad"
  },
  {
@@ -8619,7 +9115,7 @@
   "date": "2026-11-22T20:24:12.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 2.18,
+  "score": 2.16,
   "noDate": false,
   "cluster": "8e22055828cc"
  },
@@ -8636,7 +9132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.364Z",
   "coverage": 1,
-  "score": 2.18,
+  "score": 2.16,
   "cluster": "8b8e5442119b"
  },
  {
@@ -8652,7 +9148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.16,
+  "score": 2.15,
   "cluster": "0bd27272b46e"
  },
  {
@@ -8668,7 +9164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.14,
+  "score": 2.12,
   "cluster": "ba146f1d68b1"
  },
  {
@@ -8684,7 +9180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 5.13,
+  "score": 5.12,
   "cluster": "da1f3f99ea78"
  },
  {
@@ -8700,7 +9196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:28:33.119Z",
   "coverage": 2,
-  "score": 5.12,
+  "score": 5.1,
   "cluster": "79dcf7c6c35b"
  },
  {
@@ -8716,7 +9212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:38:18.755Z",
   "coverage": 4,
-  "score": 11.1,
+  "score": 11.09,
   "cluster": "7998fedeeecc"
  },
  {
@@ -8732,7 +9228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 3.59,
+  "score": 3.58,
   "cluster": "95b94df0f28e"
  },
  {
@@ -8748,7 +9244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.07,
+  "score": 2.05,
   "cluster": "ee5263230658"
  },
  {
@@ -8764,7 +9260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.02,
+  "score": 2,
   "cluster": "e5ab0d863caa"
  },
  {
@@ -8780,7 +9276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2,
+  "score": 1.99,
   "cluster": "75c0ecc21a98"
  },
  {
@@ -8796,7 +9292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 4,
-  "score": 12.5,
+  "score": 12.48,
   "cluster": "8128f13d3572"
  },
  {
@@ -8812,7 +9308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 4.97,
+  "score": 4.95,
   "cluster": "3762332fc133"
  },
  {
@@ -8828,7 +9324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 5,
-  "score": 16.88,
+  "score": 16.87,
   "cluster": "ccab6d485217"
  },
  {
@@ -8844,8 +9340,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 4.84,
-  "cluster": "8191fbf3188c"
+  "score": 4.82,
+  "cluster": "72c366260446"
  },
  {
   "id": "528de58322b6",
@@ -8860,7 +9356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 6.31,
+  "score": 6.29,
   "cluster": "528de58322b6"
  },
  {
@@ -8876,7 +9372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 1.79,
+  "score": 1.78,
   "cluster": "109323e00b89"
  },
  {
@@ -8892,7 +9388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:48.497Z",
   "coverage": 1,
-  "score": 3.26,
+  "score": 3.24,
   "cluster": "ad5cf604ca98"
  },
  {
@@ -8908,7 +9404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 4,
-  "score": 10.76,
+  "score": 10.74,
   "cluster": "4a52474b685a"
  },
  {
@@ -8924,7 +9420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 1.74,
+  "score": 1.72,
   "cluster": "2e52b332f3ac"
  },
  {
@@ -8940,7 +9436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 1.72,
+  "score": 1.7,
   "cluster": "97dfc69c4c3e"
  },
  {
@@ -8955,8 +9451,8 @@
   "date": "2026-11-22T19:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
-  "coverage": 1,
-  "score": 1.71,
+  "coverage": 2,
+  "score": 4.7,
   "cluster": "9112533d5a70"
  },
  {
@@ -8972,7 +9468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:40.949Z",
   "coverage": 2,
-  "score": 4.71,
+  "score": 4.7,
   "cluster": "e665c2ff6353"
  },
  {
@@ -8988,7 +9484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 1.71,
+  "score": 1.69,
   "cluster": "a213577732a4"
  },
  {
@@ -9003,9 +9499,9 @@
   "date": "2026-11-22T18:58:02.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
-  "coverage": 2,
-  "score": 6.2,
-  "cluster": "5d5c301d5673"
+  "coverage": 3,
+  "score": 9.19,
+  "cluster": "9f5bd1576cad"
  },
  {
   "id": "dd2b304b6943",
@@ -9020,7 +9516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 2.2,
+  "score": 2.18,
   "cluster": "dd2b304b6943"
  },
  {
@@ -9036,7 +9532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:46:01.611Z",
   "coverage": 1,
-  "score": 1.69,
+  "score": 1.67,
   "cluster": "3dc95f59d1dd"
  },
  {
@@ -9052,7 +9548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 1.68,
+  "score": 1.66,
   "cluster": "e443627d5fab"
  },
  {
@@ -9068,7 +9564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 1.68,
+  "score": 1.66,
   "cluster": "6c8ed763c816"
  },
  {
@@ -9084,7 +9580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 4.62,
+  "score": 4.61,
   "cluster": "79dcf7c6c35b"
  },
  {
@@ -9100,7 +9596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:46:01.611Z",
   "coverage": 1,
-  "score": 0.62,
+  "score": 0.6,
   "cluster": "7ae3235ff4ee"
  },
  {
@@ -9116,7 +9612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:46:01.611Z",
   "coverage": 1,
-  "score": 1.6,
+  "score": 1.59,
   "cluster": "9ad01b54257c"
  },
  {
@@ -9132,7 +9628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.56,
+  "score": 1.54,
   "cluster": "7e66f5d6bb1f"
  },
  {
@@ -9148,7 +9644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 4.56,
+  "score": 4.54,
   "cluster": "a9bc149cdef2"
  },
  {
@@ -9164,7 +9660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 2,
-  "score": 4.55,
+  "score": 4.53,
   "cluster": "24594a2db9b1"
  },
  {
@@ -9180,7 +9676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 3,
-  "score": 7.53,
+  "score": 7.52,
   "cluster": "cfeeadfb987e"
  },
  {
@@ -9196,7 +9692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 1,
-  "score": 1.52,
+  "score": 1.5,
   "cluster": "9856ae1fcd3e"
  },
  {
@@ -9212,7 +9708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 3,
-  "score": 7.51,
+  "score": 7.49,
   "cluster": "cfeeadfb987e"
  },
  {
@@ -9228,7 +9724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.5,
+  "score": 1.48,
   "cluster": "1598841272eb"
  },
  {
@@ -9244,7 +9740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 2,
-  "score": 4.47,
+  "score": 4.45,
   "cluster": "88bf40be5cee"
  },
  {
@@ -9259,9 +9755,9 @@
   "date": "2026-11-22T18:00:24.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
-  "coverage": 1,
-  "score": 1.38,
-  "cluster": "9f807a6777a7"
+  "coverage": 2,
+  "score": 4.37,
+  "cluster": "de45bef9dad9"
  },
  {
   "id": "f0e97250d1f5",
@@ -9275,9 +9771,9 @@
   "date": "2026-11-22T18:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
-  "coverage": 1,
-  "score": 1.38,
-  "cluster": "f0e97250d1f5"
+  "coverage": 2,
+  "score": 4.36,
+  "cluster": "791895af6118"
  },
  {
   "id": "ffce0b284cb9",
@@ -9292,7 +9788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.38,
+  "score": 1.36,
   "cluster": "ffce0b284cb9"
  },
  {
@@ -9308,7 +9804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.36,
+  "score": 1.34,
   "cluster": "6097cd7615cb"
  },
  {
@@ -9324,7 +9820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.36,
+  "score": 1.34,
   "cluster": "4b8e84a7e9f2"
  },
  {
@@ -9340,7 +9836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.36,
+  "score": 1.34,
   "cluster": "41a4242a4503"
  },
  {
@@ -9356,7 +9852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.34,
+  "score": 1.33,
   "cluster": "655807d96147"
  },
  {
@@ -9372,7 +9868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.34,
+  "score": 1.33,
   "cluster": "7c633227f33b"
  },
  {
@@ -9388,7 +9884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 2.84,
+  "score": 2.82,
   "cluster": "d59cd65df1a1"
  },
  {
@@ -9404,7 +9900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.33,
+  "score": 1.31,
   "cluster": "4882bdd80bf9"
  },
  {
@@ -9420,7 +9916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.33,
+  "score": 1.31,
   "cluster": "51b79b095b69"
  },
  {
@@ -9436,7 +9932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.32,
+  "score": 1.3,
   "cluster": "390993094151"
  },
  {
@@ -9452,7 +9948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.32,
+  "score": 1.3,
   "cluster": "0044ca9e7630"
  },
  {
@@ -9466,8 +9962,8 @@
   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953522595320.jpg",
   "date": "2026-11-22T17:48:23.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
-  "coverage": 5,
-  "score": 16.32,
+  "coverage": 4,
+  "score": 13.3,
   "noDate": false,
   "cluster": "17727117d1d0"
  },
@@ -9484,7 +9980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 2,
-  "score": 4.31,
+  "score": 4.29,
   "cluster": "90f785daaf0c"
  },
  {
@@ -9499,7 +9995,7 @@
   "date": "2026-11-22T17:46:14.000Z",
   "firstSeen": "2026-11-22T15:37:55.308Z",
   "coverage": 1,
-  "score": 4.3,
+  "score": 4.29,
   "noDate": false,
   "cluster": "598bbb10ba99"
  },
@@ -9516,7 +10012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.3,
+  "score": 1.29,
   "cluster": "72999730a3d4"
  },
  {
@@ -9532,7 +10028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:42.841Z",
   "coverage": 1,
-  "score": 1.3,
+  "score": 1.28,
   "cluster": "f8536b988d15"
  },
  {
@@ -9548,7 +10044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.29,
+  "score": 1.27,
   "cluster": "135d2996a2ad"
  },
  {
@@ -9564,7 +10060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.29,
+  "score": 1.27,
   "cluster": "3b0a06e57c3c"
  },
  {
@@ -9580,7 +10076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.28,
+  "score": 1.26,
   "cluster": "9b381b4cf5b6"
  },
  {
@@ -9596,7 +10092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.28,
+  "score": 1.26,
   "cluster": "a39dac0de5af"
  },
  {
@@ -9612,7 +10108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.27,
+  "score": 1.25,
   "cluster": "a01f742fcc87"
  },
  {
@@ -9628,7 +10124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.27,
+  "score": 1.25,
   "cluster": "72c52daefd89"
  },
  {
@@ -9644,7 +10140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.26,
+  "score": 1.24,
   "cluster": "5d6090a797c9"
  },
  {
@@ -9660,7 +10156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.26,
+  "score": 1.24,
   "cluster": "af87f95cfcee"
  },
  {
@@ -9676,7 +10172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.24,
+  "score": 1.23,
   "cluster": "4c535e6bb29b"
  },
  {
@@ -9692,7 +10188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.24,
+  "score": 1.23,
   "cluster": "4f83826f2ee7"
  },
  {
@@ -9708,7 +10204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 2.74,
+  "score": 2.72,
   "cluster": "78bac31878b7"
  },
  {
@@ -9724,7 +10220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.23,
+  "score": 1.22,
   "cluster": "7a45cb8da2de"
  },
  {
@@ -9740,7 +10236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.23,
+  "score": 1.22,
   "cluster": "06313aee4b50"
  },
  {
@@ -9756,7 +10252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 4,
-  "score": 11.73,
+  "score": 11.71,
   "cluster": "41af665d7820"
  },
  {
@@ -9771,8 +10267,8 @@
   "date": "2026-11-22T17:31:30.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
-  "coverage": 2,
-  "score": 4.22,
+  "coverage": 3,
+  "score": 7.21,
   "cluster": "f6a4d7f7eae9"
  },
  {
@@ -9788,7 +10284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 2.72,
+  "score": 2.7,
   "cluster": "44295a112ce8"
  },
  {
@@ -9804,7 +10300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.22,
+  "score": 1.2,
   "cluster": "55c7c5ee508a"
  },
  {
@@ -9820,7 +10316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:23.365Z",
   "coverage": 2,
-  "score": 4.21,
+  "score": 4.2,
   "cluster": "7998fedeeecc"
  },
  {
@@ -9836,7 +10332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.21,
+  "score": 1.19,
   "cluster": "f7e180a1457d"
  },
  {
@@ -9852,7 +10348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.21,
+  "score": 1.19,
   "cluster": "1942d4e58afd"
  },
  {
@@ -9868,7 +10364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.21,
+  "score": 1.19,
   "cluster": "90fd3bba876e"
  },
  {
@@ -9884,7 +10380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 4.2,
+  "score": 4.18,
   "cluster": "033dd0de3d1b"
  },
  {
@@ -9900,7 +10396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.19,
+  "score": 1.17,
   "cluster": "8f13f666e414"
  },
  {
@@ -9916,7 +10412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 2,
-  "score": 4.18,
+  "score": 4.16,
   "cluster": "a088151f7cee"
  },
  {
@@ -9932,7 +10428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.18,
+  "score": 1.16,
   "cluster": "8cf958c235ba"
  },
  {
@@ -9948,7 +10444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.18,
+  "score": 1.16,
   "cluster": "8d3117e1e6d9"
  },
  {
@@ -9964,7 +10460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.66,
+  "score": 1.64,
   "cluster": "c9869a3dd9db"
  },
  {
@@ -9980,7 +10476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.14,
+  "score": 1.12,
   "cluster": "46b600448f90"
  },
  {
@@ -9995,9 +10491,9 @@
   "date": "2026-11-22T17:06:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
-  "coverage": 2,
-  "score": 5.58,
-  "cluster": "136b6e5df36b"
+  "coverage": 3,
+  "score": 8.56,
+  "cluster": "efccc0696fd5"
  },
  {
   "id": "ca0958df65e4",
@@ -10012,7 +10508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.07,
+  "score": 1.05,
   "cluster": "ca0958df65e4"
  },
  {
@@ -10028,7 +10524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:34.601Z",
   "coverage": 1,
-  "score": 2.56,
+  "score": 2.54,
   "cluster": "edaff44d8cc4"
  },
  {
@@ -10044,7 +10540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:34.601Z",
   "coverage": 1,
-  "score": 2.56,
+  "score": 2.54,
   "cluster": "94792365608c"
  },
  {
@@ -10060,7 +10556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 1,
-  "score": 1.06,
+  "score": 1.04,
   "cluster": "7925e5b38776"
  },
  {
@@ -10076,7 +10572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:12.000Z",
   "coverage": 3,
-  "score": 10.05,
+  "score": 10.03,
   "cluster": "51df59fd8e1e"
  },
  {
@@ -10092,504 +10588,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:34.601Z",
   "coverage": 1,
-  "score": 1.05,
-  "cluster": "69bc9deb24e0"
- },
- {
-  "id": "26173a4dd145",
-  "lang": "es",
-  "cat": "gadgets",
-  "source": "Computer Hoy",
-  "title": "Tech with Gerard, experto en Linux: \"300 distribuciones y solo necesitas una... Linux por fin está listo para el público general\"",
-  "excerpt": "Tech with Gerard afirma que Linux ha alcanzado un nivel de madurez que lo convierte en una alternativa real para cualquier usuario de Windows y macOS, pero no es Ubuntu.",
-  "link": "https://computerhoy.20minutos.es/software/tech-with-gerard-experto-linux-300-distribuciones-solo-necesitas-una-linux-por-fin-esta-listo-para-publico-general_7056550_0.html",
-  "image": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/08/6aefb36643b566-65156620.jpeg",
-  "date": "2026-11-22T17:00:00.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:44:12.000Z",
-  "coverage": 1,
-  "score": 1.05,
-  "cluster": "26173a4dd145"
- },
- {
-  "id": "c5b338e57aed",
-  "lang": "es",
-  "cat": "tech",
-  "source": "Infobae",
-  "title": "Japón probó un taxi aéreo sin piloto con un pasajero a bordo: cómo fue el vuelo",
-  "excerpt": "El EH216-S recorrió 380 metros mediante una ruta programada y bajo supervisión terrestre, en una exhibición pública destinada a acercar a los ciudadanos este transporte eléctrico de despegue vertical urbano",
-  "link": "https://www.infobae.com/tecno/2026/11/22/japon-probo-un-taxi-aereo-sin-piloto-con-un-pasajero-a-bordo-como-fue-el-vuelo/",
-  "image": "https://www.infobae.com/resizer/v2/3DN4A574XVCHTFL3YQ2XEV7OYM.png?auth=330679899b9100176e53c68af8a17644827f013d620add81e44a15626833b847&smart=true&width=1127&height=572",
-  "date": "2026-11-22T16:56:53.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:03:34.601Z",
-  "coverage": 1,
   "score": 1.03,
-  "cluster": "c5b338e57aed"
- },
- {
-  "id": "6db294537607",
-  "lang": "es",
-  "cat": "politics",
-  "source": "El Mundo",
-  "title": "PP y PSOE desembarcan en Formentera: la isla que se decide por la mínima y que por primera vez pone en juego un senador",
-  "excerpt": "A una semana de las urnas, los dos grandes partidos envían a dos pesos pesados, Sémper y Bolaños, a la menor de las islas Baleares. El PP impulsará una nueva Ley de Costas \"que proteja los negocios y las viviendas de la isla\" y frenará la inmigración ilegal",
-  "link": "https://www.elmundo.es/baleares/2026/11/22/6b031472fc6c8339628b457e.html",
-  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953663225321.jpg",
-  "date": "2026-11-22T16:52:41.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T18:38:42.841Z",
-  "coverage": 1,
-  "score": 1.01,
-  "cluster": "6db294537607"
- },
- {
-  "id": "28bd80a8cd2e",
-  "lang": "es",
-  "cat": "politics",
-  "source": "Infobae",
-  "title": "El Gobierno argentino condenó las amenazas de Irán contra Rafael Grossi, director del OIEA",
-  "excerpt": "La Cancillería reclamó a Teherán el cese inmediato de las intimidaciones, tras las declaraciones de un asesor de la Guardia Revolucionaria que cuestionó al diplomático por pedir controles nucleares",
-  "link": "https://www.infobae.com/politica/2026/11/22/el-gobierno-argentino-condeno-las-amenazas-de-iran-contra-rafael-grossi-director-del-oiea/",
-  "image": "https://www.infobae.com/resizer/v2/I52MSHGXA5FXDEPQFJIVFOXBCQ.JPG?auth=d704368362009ad368cb47f47a94996c4e83903930a304ae9f6b8ff301f44163&smart=true&width=5500&height=3659",
-  "date": "2026-11-22T16:50:30.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:03:34.601Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "28bd80a8cd2e"
- },
- {
-  "id": "2537fc83e906",
-  "lang": "es",
-  "cat": "world",
-  "source": "El País",
-  "title": "Un carguero ruso sancionado sigue ardiendo un día después del ataque de un dron en el golfo de Finlandia",
-  "excerpt": "Los servicios de emergencia finlandeses, rusos y estonios colaboran para extinguir las llamas, pese a las tensiones por la invasión de Ucrania",
-  "link": "https://elpais.com/internacional/2026-11-22/un-carguero-ruso-sancionado-sigue-ardiendo-un-dia-despues-del-ataque-de-un-dron-en-el-golfo-de-finlandia.html",
-  "image": "https://imagenes.elpais.com/resizer/v2/DOOCT4MLYNKLDF5QIMMXLUYMKA.jpg?auth=8e891a439c9b3f69043e37a8478b080952c1ca4eb7d65f361d1c90ff7f551c8f",
-  "date": "2026-11-22T16:50:21.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:03:34.601Z",
-  "coverage": 2,
-  "score": 4,
-  "cluster": "0e5e4e85572f"
- },
- {
-  "id": "aca81302d8b3",
-  "lang": "es",
-  "cat": "tech",
-  "source": "Infobae",
-  "title": "Cajas de TV Android baratas e infectadas generaron 40.000 millones de solicitudes publicitarias falsas por día",
-  "excerpt": "La operación BADBOX 3.0, que la firma HUMAN vinculó con un fabricante chino, también alquilaba sin permiso la conexión de los hogares a servicios que revenden acceso",
-  "link": "https://www.infobae.com/tecno/2026/11/22/cajas-de-tv-android-baratas-e-infectadas-generaron-40000-millones-de-solicitudes-publicitarias-falsas-por-dia/",
-  "image": "https://www.infobae.com/resizer/v2/M75WYHJUYVBUVJOCDGNMUG75BA.png?auth=3deae5f707453859641948d1a951cdf5636ad04da4719571d8a454e480b8c9fc&smart=true&width=1920&height=1080",
-  "date": "2026-11-22T16:39:56.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:03:34.601Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "aca81302d8b3"
- },
- {
-  "id": "6a52ff977d8c",
-  "lang": "es",
-  "cat": "politics",
-  "source": "El Mundo",
-  "title": "Junts recupera el espíritu de Convergència con Jordi Pujol y Artur Mas para remontar las encuestas del 29-N",
-  "excerpt": "Los dos ex presidentes de la Generalitat arropan a Carles Puigdemont y Míriam Nogueras en el acto central de la campaña electoral",
-  "link": "https://www.elmundo.es/cataluna/2026/11/22/6b02c6e121efa0ef0d8b457d.html",
-  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953549234912.jpg",
-  "date": "2026-11-22T16:39:08.000Z",
-  "firstSeen": "2026-11-22T15:37:55.308Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "6a52ff977d8c"
- },
- {
-  "id": "37e15b848601",
-  "lang": "es",
-  "cat": "world",
-  "source": "France 24",
-  "title": "Incendio en fábrica de confitería en Indonesia deja al menos tres muertos y 36 desaparecidos",
-  "excerpt": "Al menos tres personas murieron y otras 36 permanecen desaparecidas tras un incendio en una fábrica de confitería en la provincia de Banten, cerca de Yakarta, Indonesia. El fuego comenzó el sábado 21 de noviembre y continúa activo en varias zonas de…",
-  "link": "https://www.france24.com/es/video/20261122-incendio-en-f%C3%A1brica-de-confiter%C3%ADa-en-indonesia-deja-al-menos-tres-muertos-y-36-desaparecidos",
-  "image": "https://s.france24.com/media/display/9d66fb3e-e692-11f1-88de-ebb478925cf0/w:1024/p:16x9/2026-11-22T032718Z-625999293-RC20SOATBXWK-RTRMADP-3-INDONESIA-FIRE.jpg",
-  "date": "2026-11-22T16:36:52.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:03:34.601Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "37e15b848601"
- },
- {
-  "id": "4e49bf37b681",
-  "lang": "es",
-  "cat": "politics",
-  "source": "El País",
-  "title": "El auge de la riqueza extrema es el fenómeno social más importante de nuestra época",
-  "excerpt": "Frente a la oligarquía internacional, hoy hay que crear una internacional democrática",
-  "link": "https://elpais.com/opinion/2026-11-22/el-auge-de-la-riqueza-extrema-es-el-fenomeno-social-mas-importante-de-nuestra-epoca.html",
-  "image": "https://imagenes.elpais.com/resizer/v2/BVLKDJ7SDZHWHCW37GHLHANY4Q.JPG?auth=9fae6ab1698787437f646f3cc20aff04432a3df780c0dea5bf7f96c041dab10d",
-  "date": "2026-11-22T16:36:23.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:03:34.601Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "4e49bf37b681"
- },
- {
-  "id": "202d0d8228a4",
-  "lang": "es",
-  "cat": "world",
-  "source": "France 24",
-  "title": "¿Qué llevó al fracaso de las negociaciones de la COP31 en Antalya?",
-  "excerpt": "La COP31 concluyó este 22 de noviembre en Antalya, Turquía, sin un acuerdo político, tras el rechazo de la UE y Panamá al texto final, que omitía el abandono de los combustibles fósiles. Después de 44 horas de prórroga, el presidente de la cumbre,…",
-  "link": "https://www.france24.com/es/video/20261122-qu%C3%A9-llev%C3%B3-al-fracaso-de-las-negociaciones-de-la-cop31-en-antalya",
-  "image": "https://s.france24.com/media/display/b28a10a4-e68e-11f1-92ed-ebb478925cf0/w:1024/p:16x9/ES-20261122-100210-100833-CS.jpg",
-  "date": "2026-11-22T16:34:22.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T17:03:34.601Z",
-  "coverage": 3,
-  "score": 7,
-  "cluster": "d4567aaa113c"
- },
- {
-  "id": "1d77e130314e",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "CriptoNoticias",
-  "title": "Chainflip da un ultimátum a quienes vaciaron sus bóvedas",
-  "excerpt": "El servicio de intercambio publicó una oferta a los atacantes en su sitio web y en una transacción de Bitcoin.",
-  "link": "https://www.criptonoticias.com/seguridad-bitcoin/chainflip-ultimatum-atacantes-bovedas/",
-  "image": "",
-  "date": "2026-11-22T16:34:06.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:38:18.755Z",
-  "coverage": 1,
-  "score": 0,
-  "cluster": "1d77e130314e"
- },
- {
-  "id": "9d0eafd1a5c5",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "Tesla despliega FSD v15 y estrena una Reality View rediseñada",
-  "excerpt": "Tesla comenzó a distribuir FSD v15 a un grupo de Early Access y presentó una Reality View rediseñada. La compañía afirma que la versión mejora 25 veces el manejo de casos críticos para la seguridad, aunque el sistema sigue requiriendo que el…",
-  "link": "https://www.diariobitcoin.com/tecnologia/tesla-despliega-fsd-v15-y-estrena-una-reality-view-redisenada/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795365212-840x515.jpg",
-  "date": "2026-11-22T16:33:35.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:38:18.755Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "9d0eafd1a5c5"
- },
- {
-  "id": "bad4ac2b4f33",
-  "lang": "es",
-  "cat": "tech",
-  "source": "Wired en Español",
-  "title": "Mineras quieren explorar en el sur de Chile un área casi del tamaño de Ciudad de México para extraer tierras raras",
-  "excerpt": "Estas concesiones mineras están en medio de zonas campesinas y en la cordillera de Nahuelbuta, un área reconocida por la presencia de fauna nativa, cultivos agrícolas y parajes turísticos.",
-  "link": "https://es.wired.com/articulos/mineras-quieren-explorar-en-el-sur-de-chile-un-area-casi-del-tamano-de-ciudad-de-mexico-para-extraer-tierras-raras",
-  "image": "https://media.es.wired.com/photos/6affb17bbf0ec78333445866/master/pass/tierraras.jpg",
-  "date": "2026-11-22T16:30:00.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:38:18.754Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "bad4ac2b4f33"
- },
- {
-  "id": "f96239320141",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "Broadcom cae tras un reporte sobre recortes de pedidos de chips de IA de Google",
-  "excerpt": "Un reporte atribuye a Google planes para reducir en cerca de 1 millón de unidades, o 20%, sus envíos previstos de chips TPU 8i de Broadcom para 2027. La información, basada en una afirmación del analista Ming-Chi Kuo, pone el foco en la dependencia…",
-  "link": "https://www.diariobitcoin.com/mercado-de-capitales-verticales/broadcom-cae-tras-un-reporte-sobre-recortes-de-pedidos-de-chips-de-ia-de-google/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795364899-840x515.jpg",
-  "date": "2026-11-22T16:28:21.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:28:33.120Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "f96239320141"
- },
- {
-  "id": "474587515d4a",
-  "lang": "es",
-  "cat": "politics",
-  "source": "El Mundo",
-  "title": "La llegada de 360 migrantes en seis cayucos durante las últimas 48 horas vuelve a disparar la presión migratoria en El Hierro",
-  "excerpt": "Las embarcaciones atracan en La Restinga tras cuatro días de tregua y en plena resaca del récord histórico de desembarcos en Canarias",
-  "link": "https://www.elmundo.es/espana/2026/11/22/6b0316ebfdddff996e8b4590.html",
-  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953647632534.jpg",
-  "date": "2026-11-22T16:26:24.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:29:11.344Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "474587515d4a"
- },
- {
-  "id": "b9dd2596db89",
-  "lang": "es",
-  "cat": "world",
-  "source": "France 24",
-  "title": "El escándalo por el fraude con IA en exámenes universitarios fulmina a un ministro en Corea del Sur",
-  "excerpt": "El ministro de Educación de Corea del Sur, Choi Kyo-jin, presentó su dimisión este 22 de noviembre, responsabilizándose por la falta de preparación para hacer frente a posibles trampas con dispositivos e inteligencia artificial en los cruciales…",
-  "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261122-el-esc%C3%A1ndalo-por-el-fraude-con-ia-en-ex%C3%A1menes-universitarios-fulmina-a-un-ministro-en-corea-del-sur",
-  "image": "https://s.france24.com/media/display/761a353e-e681-11f1-87dc-13439ca2fe89/w:1024/p:16x9/FOTO-PORTADA-COREA-MINISTRO-EDUCACION.jpg",
-  "date": "2026-11-22T16:20:06.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:20:30.373Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "b9dd2596db89"
- },
- {
-  "id": "d07ade836176",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "PIRG estima que las demoras del software automotor elevan en USD $12.000 millones el costo anual de las reparaciones en EE. UU.",
-  "excerpt": "La digitalización de los vehículos también aumentó la dependencia de herramientas de diagnóstico y programas que los talleres deben conseguir y utilizar. PIRG estima que las demoras vinculadas al software representan unos USD $12.000 millones…",
-  "link": "https://www.diariobitcoin.com/estados-unidos/pirg-estima-que-las-demoras-del-software-automotor-elevan-en-usd-12-000-millones-el-costo-anual-de-las-reparaciones-en-ee-uu/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795364169-840x515.jpg",
-  "date": "2026-11-22T16:16:11.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:18:47.036Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "d07ade836176"
- },
- {
-  "id": "8dcb8a5affcf",
-  "lang": "es",
-  "cat": "politics",
-  "source": "El Mundo",
-  "title": "Llegan cinco cayucos a la isla de El Hierro con casi 300 personas este domingo",
-  "excerpt": "La primera embarcación habría partido hace siete días de Thies en Senegal y a bordo viajaban personas de este país y de Guinea Conakry",
-  "link": "https://www.elmundo.es/espana/2026/11/22/6b02bf6dfdddff46338b4582.html",
-  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953426326267.jpg",
-  "date": "2026-11-22T16:16:01.000Z",
-  "firstSeen": "2026-11-22T15:37:55.308Z",
-  "coverage": 2,
-  "score": 4,
-  "noDate": false,
-  "cluster": "8dcb8a5affcf"
- },
- {
-  "id": "372580360b8d",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "Remedy Robotics obtiene USD $62 millones para avanzar con su robot quirúrgico de IA",
-  "excerpt": "Remedy Robotics levantó USD $62 millones para avanzar con el N1 System, una plataforma que combina robótica e inteligencia artificial para intervenciones cardiovasculares y neurovasculares. La empresa planea ensayos clínicos con la Universidad de…",
-  "link": "https://www.diariobitcoin.com/startups-verticales/remedy-robotics-obtiene-usd-62-millones-para-avanzar-con-su-robot-quirurgico-de-ia/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795363863-840x515.jpg",
-  "date": "2026-11-22T16:11:05.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "372580360b8d"
- },
- {
-  "id": "aaddd688635f",
-  "lang": "es",
-  "cat": "tech",
-  "source": "Infobae",
-  "title": "La inversión en IA supera USD 1 billón, pero el mercado empieza a exigir resultados a las tecnológicas",
-  "excerpt": "Los inversores comenzaron a exigir ingresos, flujo de caja y resultados verificables después de que las principales compañías del sector destinaran cifras récord a centros de datos, procesadores y modelos avanzados",
-  "link": "https://www.infobae.com/tecno/2026/11/22/la-inversion-en-ia-supera-usd-1-billon-pero-el-mercado-empieza-a-exigir-resultados-a-las-tecnologicas/",
-  "image": "https://www.infobae.com/resizer/v2/PQXXSBCGDFC3TDRERHGOKQRKLM.jpg?auth=1011fcd00cdf58cafac753c61a47aa446dee5cc93a2c028e8afceedf9b55e60e&smart=true&width=3414&height=2283",
-  "date": "2026-11-22T16:02:22.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "aaddd688635f"
- },
- {
-  "id": "2954e6c8225f",
-  "lang": "es",
-  "cat": "politics",
-  "source": "El País",
-  "title": "La remontada como identidad en el Barcelona",
-  "excerpt": "El buen hacer de Frenkie de Jong, Lamine y Pedri dan la vuelta a un marcador con el que no supo jugar el Villarreal",
-  "link": "https://elpais.com/deportes/futbol/2026-11-22/la-remontada-como-identidad-en-el-barcelona.html",
-  "image": "https://imagenes.elpais.com/resizer/v2/SYTQDRV6CVK7NI4PRGTKW6Y2FA.jpg?auth=66653c0a542071e6d1b4ea40531545cc10c7e7c09891336d64729ade2912e43b",
-  "date": "2026-11-22T16:01:15.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:26:37.858Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "2954e6c8225f"
- },
- {
-  "id": "2cb27aacaf9e",
-  "lang": "es",
-  "cat": "economy",
-  "source": "El Mundo",
-  "title": "Los autónomos se manifiestan en Madrid para reclamar al Gobierno medidas \"concretas y eficaces\" y \"menos burocracia\"",
-  "excerpt": "La marcha ha sido convocada por media docena de asociaciones profesionales para exigir que se les escuche en las mesas de negociación",
-  "link": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b0310ebe9cf4a462a8b4592.html",
-  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953632321485.jpg",
-  "date": "2026-11-22T16:01:09.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.563Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "2cb27aacaf9e"
- },
- {
-  "id": "e7e7437ad65a",
-  "lang": "es",
-  "cat": "tech",
-  "source": "Xataka",
-  "title": "En 1961, unos niños imitaron a un adulto que pegaba a un muñeco. Unos ratones de Princeton han empezado a explicar por qué",
-  "excerpt": "En 1961, en la guardería de la Universidad de Stanford, Albert Bandura reunió a 72 niños de tres a cinco años y los sentó delante de un adulto. Acto seguido, el adulto la tomó con un muñeco hinchable: lo tumbó, le pegó con un mazo en la cabeza e,…",
-  "link": "https://www.xataka.com/investigacion/1961-unos-ninos-imitaron-a-adulto-que-pegaba-a-muneco-unos-ratones-princeton-han-empezado-a-explicar-que",
-  "image": "https://i.blogs.es/883120/fr0ggy5-n42fovx4eqo-unsplash/1024_2000.jpeg",
-  "date": "2026-11-22T16:00:00.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 2,
-  "score": 4,
-  "cluster": "5643074d46ca"
- },
- {
-  "id": "2df1c2602fbd",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "Runway abre Praxis-1, un modelo de IA para que los robots aprendan de videos",
-  "excerpt": "Runway publicó Praxis-1, un modelo de pesos abiertos que combina predicción de video y generación de acciones para que los robots aprendan a manipular objetos. La compañía destaca sus resultados en dos benchmarks, aunque reconoce dificultades con…",
-  "link": "https://www.diariobitcoin.com/tecnologia/runway-abre-praxis-1-un-modelo-de-ia-para-que-los-robots-aprendan-de-videos/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795363144-840x515.jpg",
-  "date": "2026-11-22T15:59:06.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "2df1c2602fbd"
- },
- {
-  "id": "be8e616b5740",
-  "lang": "es",
-  "cat": "tech",
-  "source": "Infobae",
-  "title": "“Ojalá lo de Hugging Face no hubiese pasado, pero la IA es nueva y conlleva un impacto complejo”: Sam Altman, CEO de OpenAI",
-  "excerpt": "El fiscal general de California presentó una demanda contra OpenAI por fallas en la supervisión de sus productos y falta de transparencia",
-  "link": "https://www.infobae.com/tecno/2026/11/22/ojala-lo-de-hugging-face-no-hubiese-pasado-pero-la-ia-es-nueva-y-conlleva-un-impacto-complejo-sam-altman-ceo-de-openai/",
-  "image": "https://www.infobae.com/resizer/v2/6PKWMMG3U5GONHSUIHTZBSFW7M.JPG?auth=0e670bee05496493cb5657675a5e9448352df940f8b8049019b6ecd70f92a0bc&smart=true&width=4896&height=3264",
-  "date": "2026-11-22T15:58:51.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 1,
-  "score": 4,
-  "cluster": "be8e616b5740"
- },
- {
-  "id": "fc4ed0d38de4",
-  "lang": "es",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "¿Qué significan las elecciones de mitad de mandato en EE.UU. para los inversores?",
-  "excerpt": "",
-  "link": "https://es.investing.com/news/stock-market-news/que-significan-las-elecciones-de-mitad-de-mandato-en-eeuu-para-los-inversores-3939221",
-  "image": "https://content-media.investing.com/news/LYNXNPEAAF009_M.jpg",
-  "date": "2026-11-22T15:56:18.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "fc4ed0d38de4"
- },
- {
-  "id": "713df6411a07",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "Ucrania busca recuperar más de 500 drones Puma con tecnología antinterferencias",
-  "excerpt": "Ucrania busca sacar del estancamiento a más de 500 drones Puma RQ-20A mediante un sistema de comunicaciones propio que permite cambiar de frecuencia y eleva su alcance informado de 16 a 50 kilómetros.",
-  "link": "https://www.diariobitcoin.com/tecnologia/ucrania-busca-recuperar-mas-de-500-drones-puma-con-tecnologia-antinterferencias/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795362867-840x515.jpg",
-  "date": "2026-11-22T15:54:30.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T16:11:56.564Z",
-  "coverage": 3,
-  "score": 8.5,
-  "cluster": "f14bbe4f5ba1"
- },
- {
-  "id": "a28d2ff1c795",
-  "lang": "es",
-  "cat": "world",
-  "source": "El Mundo",
-  "title": "Un antiguo alto cargo francés de Interior, investigado por filtraciones al partido de Le Pen sobre sus asuntos judiciales",
-  "excerpt": "El principal sospechoso es Hugues Moutouh, antiguo secretario general del Ministerio y afín a RN. Tenía acceso a información confidencial",
-  "link": "https://www.elmundo.es/internacional/2026/11/22/6b030cd421efa01e3e8b457f.html",
-  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953622564358.jpg",
-  "date": "2026-11-22T15:51:31.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T22:01:23.365Z",
-  "coverage": 1,
-  "score": 1,
-  "cluster": "a28d2ff1c795"
- },
- {
-  "id": "8db97795c0e4",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "Tesla reserva su chip AI5 para Optimus y mantiene AI4 en sus autos",
-  "excerpt": "Elon Musk afirma que Tesla reservará su próximo chip de IA, AI5, para el robot humanoide Optimus y sus supercomputadoras, mientras los autos y los proyectos de robotaxi seguirán con AI4. La compañía prevé integrar el procesador en Optimus en 2027 y…",
-  "link": "https://www.diariobitcoin.com/tecnologia/tesla-reserva-su-chip-ai5-para-optimus-y-mantiene-ai4-en-sus-autos/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795362557-840x515.jpg",
-  "date": "2026-11-22T15:49:19.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T15:52:16.880Z",
-  "coverage": 1,
-  "score": 2.5,
-  "cluster": "8db97795c0e4"
- },
- {
-  "id": "74c5f9660f54",
-  "lang": "es",
-  "cat": "crypto",
-  "source": "DiarioBitcoin",
-  "title": "Hablarle con rudeza a ChatGPT elevó su precisión, pero también cambió el costo",
-  "excerpt": "Un estudio de Penn State encontró que ChatGPT 4o acertó más preguntas cuando recibió instrucciones groseras, mientras una investigación posterior observó que el tono puede alterar hasta 44,3% el consumo de tokens. Los hallazgos abren preguntas sobre…",
-  "link": "https://www.diariobitcoin.com/tecnologia/hablarle-con-rudeza-a-chatgpt-elevo-su-precision-pero-tambien-cambio-el-costo/",
-  "image": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1795361780-840x515.jpg",
-  "date": "2026-11-22T15:36:23.000Z",
-  "firstSeen": "2026-11-22T15:37:55.308Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "74c5f9660f54"
- },
- {
-  "id": "4d0202dca5a7",
-  "lang": "es",
-  "cat": "tech",
-  "source": "Xataka",
-  "title": "Por primera vez, Rockstar premia en 'GTA VI' una relación de pareja saludable. La machosfera está que trina",
-  "excerpt": "Sin duda fue uno de los puntos más conflictivos y mediáticos en el primitivo 'GTA III': la forma mas rápida y sencilla de no gastar dinero con una prostituta (ya solo la primera mitad de la frase tiene media docena de banderas rojas leída hoy) era…",
-  "link": "https://www.xataka.com/videojuegos/primera-vez-rockstar-premia-gta-vi-relacion-pareja-saludable-machosfera-esta-que-trina",
-  "image": "https://i.blogs.es/d78943/jason_and_lucia_03/1024_2000.jpeg",
-  "date": "2026-11-22T15:32:20.000Z",
-  "firstSeen": "2026-11-22T15:37:55.307Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "4d0202dca5a7"
+  "cluster": "69bc9deb24e0"
  },
  {
   "id": "8beaada2cbcf",

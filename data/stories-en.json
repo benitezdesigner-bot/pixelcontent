@@ -12,8 +12,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.024Z",
   "coverage": 1,
-  "score": 10.49,
+  "score": 10.47,
   "cluster": "e8817cdb20a9"
+ },
+ {
+  "id": "1a23a1679977",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "New Atlas",
+  "title": "Concorde's heir fires up its engine core, but AI gets the first ride",
+  "excerpt": "The heart of the engine that's meant to bring supersonic flight back to the airports is now up and running. Boom Supersonic has fired up the prototype core of an engine that will power two very different machines: Overture (the Mach 1.7 airliner)…",
+  "link": "https://newatlas.com/aircraft/boom-supersonic-sprint-core-engine-test/",
+  "image": "https://assets.newatlas.com/dims4/default/bec677a/2147483647/strip/true/crop/2400x1600+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc5%2Fdd%2F3d82e77e489f889bfe5fc202390a%2Fboom-na-2.jpg",
+  "date": "2026-11-23T16:47:54.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 10.46,
+  "cluster": "1a23a1679977"
  },
  {
   "id": "1faafad57fc7",
@@ -28,7 +44,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.98,
+  "score": 7.96,
   "cluster": "1faafad57fc7"
  },
  {
@@ -44,7 +60,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 11.97,
+  "score": 11.95,
   "cluster": "3e33a311aeb0"
  },
  {
@@ -60,7 +76,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 8.96,
+  "score": 8.95,
   "cluster": "36ed8ad50a45"
  },
  {
@@ -76,7 +92,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 13.46,
+  "score": 13.45,
   "cluster": "b29106e08869"
  },
  {
@@ -92,7 +108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 8.96,
+  "score": 8.94,
   "cluster": "81ff11ce30de"
  },
  {
@@ -108,7 +124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.024Z",
   "coverage": 2,
-  "score": 14.94,
+  "score": 14.92,
   "cluster": "de79ba5ddb88"
  },
  {
@@ -124,7 +140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 4,
-  "score": 20.93,
+  "score": 20.91,
   "cluster": "e24fc9fb1bdf"
  },
  {
@@ -140,7 +156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.023Z",
   "coverage": 1,
-  "score": 10.43,
+  "score": 10.41,
   "cluster": "6cdea3adebfc"
  },
  {
@@ -156,7 +172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.92,
+  "score": 8.9,
   "cluster": "416dd247cd8d"
  },
  {
@@ -172,7 +188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 23.89,
+  "score": 23.88,
   "cluster": "e24fc9fb1bdf"
  },
  {
@@ -188,7 +204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 13.39,
+  "score": 13.38,
   "cluster": "9c5f92f162b4"
  },
  {
@@ -204,7 +220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.89,
+  "score": 8.87,
   "cluster": "e7789610a73a"
  },
  {
@@ -220,7 +236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.39,
+  "score": 13.37,
   "cluster": "6406ad6c929a"
  },
  {
@@ -236,7 +252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.39,
+  "score": 10.37,
   "cluster": "104765e3433c"
  },
  {
@@ -252,7 +268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 2.89,
+  "score": 2.87,
   "cluster": "c32e65acfc49"
  },
  {
@@ -268,7 +284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.88,
+  "score": 8.87,
   "cluster": "b7db257b9f5c"
  },
  {
@@ -284,7 +300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.38,
+  "score": 13.37,
   "cluster": "1cb78417896f"
  },
  {
@@ -300,7 +316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.38,
+  "score": 10.36,
   "cluster": "1fcd20e31c85"
  },
  {
@@ -316,7 +332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.88,
+  "score": 11.86,
   "cluster": "2648c1cdf9ec"
  },
  {
@@ -332,7 +348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.88,
+  "score": 11.86,
   "cluster": "0770198fefa0"
  },
  {
@@ -348,7 +364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.87,
+  "score": 8.85,
   "cluster": "7c9e59e9c239"
  },
  {
@@ -364,8 +380,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.86,
+  "score": 8.84,
   "cluster": "2f6ba9d25db3"
+ },
+ {
+  "id": "7845c78e1629",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "U.S. Intelligence Chief Warns Americans to Brace for More Tech Outages",
+  "excerpt": "America's digital infrastructure is getting a wholesale update and outages will continue.",
+  "link": "https://gizmodo.com/u-s-intelligence-chief-warns-americans-to-brace-for-more-tech-outages-2000843670",
+  "image": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2288690479-1280x853.jpg",
+  "date": "2026-11-23T16:25:45.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 6,
+  "score": 25.34,
+  "cluster": "7845c78e1629"
  },
  {
   "id": "8ec863ff8861",
@@ -380,7 +412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.85,
+  "score": 11.84,
   "cluster": "8ec863ff8861"
  },
  {
@@ -396,7 +428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.85,
+  "score": 8.83,
   "cluster": "c866c4f0c1eb"
  },
  {
@@ -412,7 +444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.85,
+  "score": 11.83,
   "cluster": "ae8335cf5c27"
  },
  {
@@ -428,7 +460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 13.35,
+  "score": 13.33,
   "cluster": "56b22a9072be"
  },
  {
@@ -444,7 +476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 14.83,
+  "score": 14.81,
   "cluster": "c32e65acfc49"
  },
  {
@@ -460,7 +492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 14.83,
+  "score": 14.81,
   "cluster": "d61ab0d32cbe"
  },
  {
@@ -476,7 +508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 22.32,
+  "score": 22.3,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -492,8 +524,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 17.8,
+  "score": 17.78,
   "cluster": "de79ba5ddb88"
+ },
+ {
+  "id": "179b2af5b1b2",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "Two Storms Are Coming for Thanksgiving Travel—One on Each Coast",
+  "excerpt": "Tens of millions of Americans are planning to travel for the holiday, and the U.S. is in for some wild weather.",
+  "link": "https://gizmodo.com/two-storms-are-coming-for-thanksgiving-travel-one-on-each-coast-2000843878",
+  "image": "https://gizmodo.com/app/uploads/2026/11/car-driving-through-flood-1280x853.jpg",
+  "date": "2026-11-23T16:15:02.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 8.78,
+  "cluster": "179b2af5b1b2"
  },
  {
   "id": "f922f5d9cdd0",
@@ -508,7 +556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.8,
+  "score": 11.78,
   "cluster": "f922f5d9cdd0"
  },
  {
@@ -524,7 +572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.79,
+  "score": 8.78,
   "cluster": "de36b121eed6"
  },
  {
@@ -540,7 +588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.79,
+  "score": 11.77,
   "cluster": "6406ad6c929a"
  },
  {
@@ -556,7 +604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 14.79,
+  "score": 14.77,
   "cluster": "df5c3d4d3830"
  },
  {
@@ -572,7 +620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.28,
+  "score": 10.27,
   "cluster": "941d9d7c875e"
  },
  {
@@ -588,7 +636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.77,
+  "score": 8.75,
   "cluster": "5d73a5474c02"
  },
  {
@@ -604,7 +652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 22.26,
+  "score": 22.24,
   "cluster": "09db32e54d58"
  },
  {
@@ -620,7 +668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.73,
+  "score": 8.71,
   "cluster": "b3d5939afddc"
  },
  {
@@ -636,7 +684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 13.22,
+  "score": 13.2,
   "cluster": "6a16b32fcddc"
  },
  {
@@ -652,7 +700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 13.22,
+  "score": 13.2,
   "cluster": "5566b456d1b7"
  },
  {
@@ -668,7 +716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.21,
+  "score": 10.2,
   "cluster": "4f474af5544e"
  },
  {
@@ -684,7 +732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.71,
+  "score": 8.7,
   "cluster": "94bc57470e7f"
  },
  {
@@ -700,7 +748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 1.2,
+  "score": 1.19,
   "cluster": "5295f5b691da"
  },
  {
@@ -716,7 +764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.7,
+  "score": 11.69,
   "cluster": "6c80453d9c99"
  },
  {
@@ -732,7 +780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.7,
+  "score": 8.68,
   "cluster": "2051fbe57206"
  },
  {
@@ -748,7 +796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.7,
+  "score": 8.68,
   "cluster": "89e5b94b9291"
  },
  {
@@ -764,7 +812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.19,
+  "score": 10.18,
   "cluster": "264c5cfe8be2"
  },
  {
@@ -779,8 +827,8 @@
   "date": "2026-11-23T15:55:12.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 1,
-  "score": 8.69,
+  "coverage": 2,
+  "score": 11.67,
   "cluster": "f205e38d2cf7"
  },
  {
@@ -795,8 +843,8 @@
   "date": "2026-11-23T15:55:03.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 4,
-  "score": 17.69,
+  "coverage": 3,
+  "score": 14.67,
   "cluster": "7281bb418a1d"
  },
  {
@@ -812,7 +860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.18,
+  "score": 10.17,
   "cluster": "29fd82f261e4"
  },
  {
@@ -828,7 +876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.67,
+  "score": 8.65,
   "cluster": "935f1cf7e2ca"
  },
  {
@@ -844,7 +892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.16,
+  "score": 10.14,
   "cluster": "a7098c5bfccf"
  },
  {
@@ -860,7 +908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.66,
+  "score": 8.64,
   "cluster": "7ee65d1ae7eb"
  },
  {
@@ -876,7 +924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 14.64,
+  "score": 14.62,
   "cluster": "77ece0992320"
  },
  {
@@ -892,7 +940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.14,
+  "score": 10.12,
   "cluster": "e09aa9a8dd80"
  },
  {
@@ -908,7 +956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.13,
+  "score": 10.11,
   "cluster": "102acd4aa550"
  },
  {
@@ -923,7 +971,7 @@
   "date": "2026-11-23T15:41:25.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.61,
+  "score": 11.59,
   "noDate": false,
   "cluster": "ca1952e7b979"
  },
@@ -940,7 +988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 4,
-  "score": 20.61,
+  "score": 20.59,
   "cluster": "09db32e54d58"
  },
  {
@@ -956,7 +1004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 10.11,
+  "score": 10.09,
   "cluster": "830628a6592a"
  },
  {
@@ -972,7 +1020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 10.1,
+  "score": 10.09,
   "cluster": "822b73cb10a4"
  },
  {
@@ -988,7 +1036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.6,
+  "score": 11.58,
   "cluster": "512453057e1c"
  },
  {
@@ -1004,7 +1052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.6,
+  "score": 11.58,
   "cluster": "d3d91d3fb456"
  },
  {
@@ -1020,7 +1068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.59,
+  "score": 11.57,
   "cluster": "a8d519390506"
  },
  {
@@ -1036,8 +1084,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.56,
+  "score": 11.55,
   "cluster": "7d2b5f32fee6"
+ },
+ {
+  "id": "ee5aa285a746",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "This Ant Is a Third the Size of Its Enemy. Its Game Plan Is Kinda Brilliant",
+  "excerpt": "Researchers in China have figured out how fire ants keep besting an invasive rival ant more than three times their size. They work smarter, not harder.",
+  "link": "https://gizmodo.com/this-ant-is-a-third-the-size-of-its-enemy-its-game-plan-is-kinda-brilliant-2000843802",
+  "image": "https://gizmodo.com/app/uploads/2026/11/tiny-fire-ant-invasive-auropunctatus-1280x853.jpg",
+  "date": "2026-11-23T15:30:21.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 8.53,
+  "cluster": "ee5aa285a746"
  },
  {
   "id": "1130f1e2de69",
@@ -1052,7 +1116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.55,
+  "score": 8.53,
   "cluster": "1130f1e2de69"
  },
  {
@@ -1068,7 +1132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.55,
+  "score": 11.53,
   "cluster": "423071d6f76d"
  },
  {
@@ -1084,7 +1148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.54,
+  "score": 11.53,
   "cluster": "c7f455eb1ff2"
  },
  {
@@ -1100,7 +1164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 7,
-  "score": 26.51,
+  "score": 26.49,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -1116,7 +1180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.01,
+  "score": 9.99,
   "cluster": "f2286b4f32ed"
  },
  {
@@ -1132,7 +1196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 10.01,
+  "score": 9.99,
   "cluster": "d8210b3c3b49"
  },
  {
@@ -1148,7 +1212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.5,
+  "score": 8.48,
   "cluster": "8dee6718f49b"
  },
  {
@@ -1164,7 +1228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.47,
+  "score": 8.45,
   "cluster": "b72dd7042507"
  },
  {
@@ -1180,7 +1244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.97,
+  "score": 9.95,
   "cluster": "7243364cdd59"
  },
  {
@@ -1196,7 +1260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.97,
+  "score": 9.95,
   "cluster": "fa69809e3f31"
  },
  {
@@ -1212,7 +1276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 9.97,
+  "score": 9.95,
   "cluster": "2a01fd54249f"
  },
  {
@@ -1228,7 +1292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 14.46,
+  "score": 14.45,
   "cluster": "06bff48752d2"
  },
  {
@@ -1244,8 +1308,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.94,
+  "score": 12.92,
   "cluster": "93b5534af2ec"
+ },
+ {
+  "id": "479d4cf822c7",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "No. 1 Apple Leaker Says MacBook Neo 2 and Complete iPad Refresh Coming in Spring",
+  "excerpt": "The MacBook Neo 2 could come in all-new colors, just like the yearly iPhone refresh.",
+  "link": "https://gizmodo.com/macbook-neo-2-ipad-spring-update-2000843885",
+  "image": "https://gizmodo.com/app/uploads/2026/03/Apple-Macbook-Neo-March-4th-15-1280x853.jpg",
+  "date": "2026-11-23T15:10:02.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 2,
+  "score": 12.92,
+  "cluster": "479d4cf822c7"
  },
  {
   "id": "84536455e117",
@@ -1260,7 +1340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.43,
+  "score": 8.41,
   "cluster": "84536455e117"
  },
  {
@@ -1276,7 +1356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": -0.58,
+  "score": -0.59,
   "cluster": "5295f5b691da"
  },
  {
@@ -1292,7 +1372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 23.41,
+  "score": 23.4,
   "cluster": "e24fc9fb1bdf"
  },
  {
@@ -1308,7 +1388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 21.91,
+  "score": 21.89,
   "cluster": "e24fc9fb1bdf"
  },
  {
@@ -1324,7 +1404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.91,
+  "score": 12.89,
   "cluster": "143cfc55d1d6"
  },
  {
@@ -1340,7 +1420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.4,
+  "score": 11.39,
   "cluster": "aa93777566bc"
  },
  {
@@ -1356,7 +1436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -3.6,
+  "score": -3.62,
   "cluster": "6cf0220f31f5"
  },
  {
@@ -1372,7 +1452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 4,
-  "score": 20.4,
+  "score": 20.38,
   "cluster": "3f2e0616506f"
  },
  {
@@ -1388,8 +1468,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.89,
+  "score": 12.87,
   "cluster": "9ae3fa8ff2a7"
+ },
+ {
+  "id": "9e3cb34cea54",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "Scientists Thought Volcanic Blasts Couldn’t Happen This Deep. This Robot Just Pulled Up Something Unexpected",
+  "excerpt": "The research may also explain why Challenger Deep is so deep.",
+  "link": "https://gizmodo.com/this-rover-just-brought-back-the-crumbs-of-the-deepest-ocean-volcanic-explosion-2000843370",
+  "image": "https://gizmodo.com/app/uploads/2026/11/pyroclastic-flow-at-challenger-deep-medea-jason-1280x853.jpg",
+  "date": "2026-11-23T15:00:16.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 8.37,
+  "cluster": "9e3cb34cea54"
  },
  {
   "id": "7f0a590f4bbd",
@@ -1404,7 +1500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.38,
+  "score": 8.36,
   "cluster": "7f0a590f4bbd"
  },
  {
@@ -1420,7 +1516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.38,
+  "score": 8.36,
   "cluster": "004696e34f8c"
  },
  {
@@ -1436,7 +1532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.88,
+  "score": 9.86,
   "cluster": "00eafea95337"
  },
  {
@@ -1452,7 +1548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.87,
+  "score": 9.85,
   "cluster": "aaf0595a93ae"
  },
  {
@@ -1468,7 +1564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.36,
+  "score": 7.34,
   "cluster": "685a662a313a"
  },
  {
@@ -1484,7 +1580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.35,
+  "score": 11.33,
   "cluster": "a5104180c52d"
  },
  {
@@ -1500,7 +1596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.34,
+  "score": 8.32,
   "cluster": "74d80cfb7027"
  },
  {
@@ -1516,7 +1612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.34,
+  "score": 11.32,
   "cluster": "46132fec3248"
  },
  {
@@ -1532,7 +1628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.33,
+  "score": 8.32,
   "cluster": "bb11eebcf591"
  },
  {
@@ -1548,7 +1644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.81,
+  "score": 9.79,
   "cluster": "1331f5e0fa6f"
  },
  {
@@ -1564,7 +1660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.8,
+  "score": 9.78,
   "cluster": "ad1e59530bc5"
  },
  {
@@ -1580,7 +1676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.29,
+  "score": 11.27,
   "cluster": "705c37d6a969"
  },
  {
@@ -1596,7 +1692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.79,
+  "score": 9.77,
   "cluster": "d6a5b08e3fa8"
  },
  {
@@ -1612,7 +1708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.76,
+  "score": 9.75,
   "cluster": "fac080966b18"
  },
  {
@@ -1628,7 +1724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.26,
+  "score": 11.24,
   "cluster": "8ec863ff8861"
  },
  {
@@ -1644,7 +1740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.75,
+  "score": 9.74,
   "cluster": "a19cafb4c3cc"
  },
  {
@@ -1660,7 +1756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 11.24,
+  "score": 11.23,
   "cluster": "6efc9a656820"
  },
  {
@@ -1676,7 +1772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 21.73,
+  "score": 21.72,
   "cluster": "e24fc9fb1bdf"
  },
  {
@@ -1692,7 +1788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.23,
+  "score": 8.21,
   "cluster": "2f25e58a8cd5"
  },
  {
@@ -1708,7 +1804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 11.21,
+  "score": 11.2,
   "cluster": "24e978d3dda1"
  },
  {
@@ -1724,7 +1820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.21,
+  "score": 8.2,
   "cluster": "f0b763333710"
  },
  {
@@ -1740,7 +1836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.2,
+  "score": 8.19,
   "cluster": "b89f75313224"
  },
  {
@@ -1756,7 +1852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.7,
+  "score": 9.68,
   "cluster": "8425a12bb072"
  },
  {
@@ -1772,7 +1868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.7,
+  "score": 9.68,
   "cluster": "66a36c3ad63d"
  },
  {
@@ -1788,7 +1884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 12.7,
+  "score": 12.68,
   "cluster": "163a5367dcf2"
  },
  {
@@ -1804,7 +1900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.2,
+  "score": 8.18,
   "cluster": "d4c43e046f97"
  },
  {
@@ -1820,7 +1916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 21.68,
+  "score": 21.67,
   "cluster": "e24fc9fb1bdf"
  },
  {
@@ -1836,7 +1932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.68,
+  "score": 9.67,
   "cluster": "dd6f7963c991"
  },
  {
@@ -1852,7 +1948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 4,
-  "score": 18.68,
+  "score": 18.66,
   "cluster": "d88bd90fa925"
  },
  {
@@ -1868,8 +1964,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.67,
+  "score": 9.65,
   "cluster": "90f831b4fd3e"
+ },
+ {
+  "id": "237963232e8c",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "Jensen Huang Is Back as CEO of Nvidia",
+  "excerpt": "The company’s board of directors unanimously voted to reinstate Jensen Huang as CEO after the Trump admin signaled support over the weekend.",
+  "link": "https://gizmodo.com/jensen-huang-is-back-as-ceo-of-nvidia-2000843880",
+  "image": "https://gizmodo.com/app/uploads/2026/11/GettyImages-2285673473-1280x853.jpg",
+  "date": "2026-11-23T14:20:55.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 9.65,
+  "cluster": "237963232e8c"
  },
  {
   "id": "a5b831f26837",
@@ -1884,7 +1996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 9.66,
+  "score": 9.64,
   "cluster": "a5b831f26837"
  },
  {
@@ -1900,7 +2012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.64,
+  "score": 9.63,
   "cluster": "486b8bf6308b"
  },
  {
@@ -1916,7 +2028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.64,
+  "score": 9.62,
   "cluster": "440334632af8"
  },
  {
@@ -1932,7 +2044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.13,
+  "score": 8.11,
   "cluster": "aa820a7101e6"
  },
  {
@@ -1948,7 +2060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.63,
+  "score": 9.61,
   "cluster": "8ff332a50a11"
  },
  {
@@ -1963,8 +2075,8 @@
   "date": "2026-11-23T14:14:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 2,
-  "score": -0.87,
+  "coverage": 1,
+  "score": -3.89,
   "cluster": "a315648460f9"
  },
  {
@@ -1980,7 +2092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 14.12,
+  "score": 14.11,
   "cluster": "06bff48752d2"
  },
  {
@@ -1996,7 +2108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.62,
+  "score": 9.6,
   "cluster": "7cad82252131"
  },
  {
@@ -2012,7 +2124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.11,
+  "score": 11.1,
   "cluster": "633ed4b43411"
  },
  {
@@ -2028,8 +2140,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 11.1,
+  "score": 11.09,
   "cluster": "46132fec3248"
+ },
+ {
+  "id": "bab01673581e",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "A New ‘Avengers: Doomsday’ Trailer Heralds a Crisis on All Earths",
+  "excerpt": "The clock is ticking towards 'Avengers: Doomsday,' and the latest trailer wants to show you what everyone's fighting for.",
+  "link": "https://gizmodo.com/a-new-avengers-doomsday-trailer-heralds-a-crisis-on-all-earths-2000843702",
+  "image": "https://gizmodo.com/app/uploads/2026/07/avengers-doomsday-teaser-poster-crop-1280x853.jpg",
+  "date": "2026-11-23T14:08:52.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 2,
+  "score": 11.08,
+  "cluster": "f205e38d2cf7"
  },
  {
   "id": "ca5128f9f5a2",
@@ -2044,7 +2172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.09,
+  "score": 11.08,
   "cluster": "f922f5d9cdd0"
  },
  {
@@ -2060,7 +2188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 7,
-  "score": 27.59,
+  "score": 27.57,
   "cluster": "e24fc9fb1bdf"
  },
  {
@@ -2075,7 +2203,7 @@
   "date": "2026-11-23T14:06:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.58,
+  "score": 9.57,
   "noDate": false,
   "cluster": "b431ea497743"
  },
@@ -2092,7 +2220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.57,
+  "score": 9.56,
   "cluster": "09afcc847896"
  },
  {
@@ -2108,7 +2236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 4,
-  "score": 17.07,
+  "score": 17.05,
   "cluster": "15b8c4deaa8d"
  },
  {
@@ -2124,8 +2252,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.06,
+  "score": 8.05,
   "cluster": "1aa46ef1d272"
+ },
+ {
+  "id": "17dae86ddff9",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "‘Blade Runner 2099’ Adds a Gripping New Chapter to the Sci-Fi Franchise",
+  "excerpt": "Michelle Yeoh and Hunter Schafer star in Prime Video’s new limited series arriving November 25.",
+  "link": "https://gizmodo.com/blade-runner-2099-adds-a-gripping-new-chapter-to-the-sci-fi-franchise-2000842640",
+  "image": "https://gizmodo.com/app/uploads/2026/11/BladeRunner2099_review-1280x853.jpg",
+  "date": "2026-11-23T14:00:53.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 2,
+  "score": 11.04,
+  "cluster": "17dae86ddff9"
  },
  {
   "id": "c81f91b7bf25",
@@ -2140,7 +2284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.05,
+  "score": 8.04,
   "cluster": "c81f91b7bf25"
  },
  {
@@ -2156,7 +2300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.05,
+  "score": 8.04,
   "cluster": "efab4af8a0df"
  },
  {
@@ -2171,9 +2315,9 @@
   "date": "2026-11-23T14:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 1,
-  "score": 8.05,
-  "cluster": "b49bf6f040ff"
+  "coverage": 2,
+  "score": 11.03,
+  "cluster": "17dae86ddff9"
  },
  {
   "id": "23de3667e273",
@@ -2188,7 +2332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 11.05,
+  "score": 11.03,
   "cluster": "23de3667e273"
  },
  {
@@ -2204,7 +2348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.05,
+  "score": 8.03,
   "cluster": "ab11099790b1"
  },
  {
@@ -2220,7 +2364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.04,
+  "score": 8.02,
   "cluster": "c71a8c468226"
  },
  {
@@ -2236,7 +2380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.54,
+  "score": 9.52,
   "cluster": "ecc5392a4e01"
  },
  {
@@ -2252,7 +2396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.03,
+  "score": 8.01,
   "cluster": "4b0f943fb6fa"
  },
  {
@@ -2268,7 +2412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.02,
+  "score": 11.01,
   "cluster": "423071d6f76d"
  },
  {
@@ -2284,7 +2428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.52,
+  "score": 12.5,
   "cluster": "3bb3b65d8d33"
  },
  {
@@ -2300,7 +2444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.02,
+  "score": 8,
   "cluster": "4fc9328efd4a"
  },
  {
@@ -2316,7 +2460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.51,
+  "score": 9.49,
   "cluster": "cc78f3f81fb6"
  },
  {
@@ -2332,7 +2476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.99,
+  "score": 10.97,
   "cluster": "c2ee55235eac"
  },
  {
@@ -2348,7 +2492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 3.48,
+  "score": 3.46,
   "cluster": "c32e65acfc49"
  },
  {
@@ -2364,7 +2508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.47,
+  "score": 12.46,
   "cluster": "849935bc5d31"
  },
  {
@@ -2380,7 +2524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.97,
+  "score": 7.95,
   "cluster": "5b7e85cac5af"
  },
  {
@@ -2396,7 +2540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 10.97,
+  "score": 10.95,
   "cluster": "c3c44e55bd12"
  },
  {
@@ -2412,7 +2556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.96,
+  "score": 7.95,
   "cluster": "cdfc11f1677d"
  },
  {
@@ -2428,7 +2572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.46,
+  "score": 9.45,
   "cluster": "14ab63e88c03"
  },
  {
@@ -2444,7 +2588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.96,
+  "score": 13.94,
   "cluster": "3f2e0616506f"
  },
  {
@@ -2460,7 +2604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 19.91,
+  "score": 19.9,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -2476,7 +2620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.4,
+  "score": 12.39,
   "cluster": "93b5534af2ec"
  },
  {
@@ -2492,7 +2636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 10.9,
+  "score": 10.89,
   "cluster": "c3c44e55bd12"
  },
  {
@@ -2508,7 +2652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.39,
+  "score": 9.38,
   "cluster": "e5dc49b860e0"
  },
  {
@@ -2524,8 +2668,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.39,
+  "score": 15.37,
   "cluster": "e013bcbd3977"
+ },
+ {
+  "id": "963214fbec9b",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "Raymond Wong’s 8 Most Underrated Tech Gifts of 2026",
+  "excerpt": "For the second year in a row, Gizmodo's Consumer Tech Editor Raymond Wong dug through his online orders to find the tech gems that you won't find on other holiday gift guides.",
+  "link": "https://gizmodo.com/raymond-wong-favorite-tech-gifts-2026-2000841649",
+  "image": "https://gizmodo.com/app/uploads/2026/11/Ray-Gift-Guide-11-1280x853.jpg",
+  "date": "2026-11-23T13:30:29.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 3,
+  "score": 13.87,
+  "cluster": "963214fbec9b"
  },
  {
   "id": "eee8e7bbee50",
@@ -2540,7 +2700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.88,
+  "score": 13.86,
   "cluster": "eee8e7bbee50"
  },
  {
@@ -2556,7 +2716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.36,
+  "score": 15.34,
   "cluster": "e013bcbd3977"
  },
  {
@@ -2572,7 +2732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.34,
+  "score": 9.32,
   "cluster": "4df8b0a4ff06"
  },
  {
@@ -2588,7 +2748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 7.83,
+  "score": 7.81,
   "cluster": "1e3834cb7a60"
  },
  {
@@ -2604,7 +2764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 7.82,
+  "score": 7.8,
   "cluster": "b6f41ac88f74"
  },
  {
@@ -2620,7 +2780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.8,
+  "score": 7.78,
   "cluster": "87dc9545fdb3"
  },
  {
@@ -2636,7 +2796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.28,
+  "score": 9.26,
   "cluster": "38eb59f15c27"
  },
  {
@@ -2652,7 +2812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.77,
+  "score": 10.75,
   "cluster": "30f1434d7064"
  },
  {
@@ -2668,7 +2828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.26,
+  "score": 9.24,
   "cluster": "fd0018acc368"
  },
  {
@@ -2684,7 +2844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -4.24,
+  "score": -4.26,
   "cluster": "4b26fbf04e23"
  },
  {
@@ -2700,7 +2860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.24,
+  "score": 15.23,
   "cluster": "e013bcbd3977"
  },
  {
@@ -2716,7 +2876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 9.24,
+  "score": 9.22,
   "cluster": "df6ffd1d4725"
  },
  {
@@ -2732,7 +2892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.73,
+  "score": 7.72,
   "cluster": "729ee0028e4e"
  },
  {
@@ -2748,7 +2908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 19.73,
+  "score": 19.71,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -2764,7 +2924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 17.22,
+  "score": 17.2,
   "cluster": "df5c3d4d3830"
  },
  {
@@ -2780,7 +2940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.22,
+  "score": 9.2,
   "cluster": "a44d3770aa7f"
  },
  {
@@ -2796,7 +2956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 13.62,
+  "score": 13.61,
   "cluster": "aa81b60f7a8a"
  },
  {
@@ -2811,9 +2971,9 @@
   "date": "2026-11-23T12:40:34.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 2,
-  "score": -1.39,
-  "cluster": "6d6290d67ed7"
+  "coverage": 3,
+  "score": 1.59,
+  "cluster": "963214fbec9b"
  },
  {
   "id": "087df5ac9be2",
@@ -2828,7 +2988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.61,
+  "score": 7.59,
   "cluster": "087df5ac9be2"
  },
  {
@@ -2844,7 +3004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 10.57,
+  "score": 10.56,
   "cluster": "f0ff1818b8fe"
  },
  {
@@ -2860,7 +3020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.57,
+  "score": 7.55,
   "cluster": "6360118ef85d"
  },
  {
@@ -2876,7 +3036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.55,
+  "score": 13.53,
   "cluster": "6d192fa23bd1"
  },
  {
@@ -2892,7 +3052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.02,
+  "score": 12.01,
   "cluster": "09db32e54d58"
  },
  {
@@ -2908,7 +3068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 4,
-  "score": 16.51,
+  "score": 16.49,
   "cluster": "15b8c4deaa8d"
  },
  {
@@ -2924,7 +3084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.47,
+  "score": 7.45,
   "cluster": "9047326037c9"
  },
  {
@@ -2940,7 +3100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.96,
+  "score": 11.94,
   "cluster": "0c873259805e"
  },
  {
@@ -2956,7 +3116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.45,
+  "score": 7.43,
   "cluster": "10cef0634437"
  },
  {
@@ -2972,8 +3132,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.42,
+  "score": 10.4,
   "cluster": "5ab5fd032df0"
+ },
+ {
+  "id": "2e75c967b605",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "Robert Rodriguez Could Replace Zack Snyder on ‘Escape From New York’ Remake",
+  "excerpt": "Plus, Luca Guadagnino confirms his 'American Psycho' remake is 'not happening.'",
+  "link": "https://gizmodo.com/robert-rodriguez-could-replace-zack-snyder-on-escape-from-new-york-remake-2000843691",
+  "image": "https://gizmodo.com/app/uploads/2026/11/escape-from-new-york-ms-1280x853.jpg",
+  "date": "2026-11-23T12:00:13.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 7.37,
+  "cluster": "2e75c967b605"
  },
  {
   "id": "70a4447641e0",
@@ -2988,7 +3164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.88,
+  "score": 11.86,
   "cluster": "70a4447641e0"
  },
  {
@@ -3004,7 +3180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.38,
+  "score": 7.36,
   "cluster": "92effb5a3302"
  },
  {
@@ -3019,9 +3195,9 @@
   "date": "2026-11-23T12:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
-  "coverage": 1,
-  "score": -4.62,
-  "cluster": "c53d7d1ecc03"
+  "coverage": 2,
+  "score": -1.64,
+  "cluster": "963214fbec9b"
  },
  {
   "id": "3fdf0a68287c",
@@ -3036,7 +3212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.38,
+  "score": 7.36,
   "cluster": "3fdf0a68287c"
  },
  {
@@ -3052,7 +3228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.37,
+  "score": 7.35,
   "cluster": "dc8b0e4d523f"
  },
  {
@@ -3068,7 +3244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 3,
-  "score": 14.87,
+  "score": 14.85,
   "cluster": "2648c1cdf9ec"
  },
  {
@@ -3084,7 +3260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 15.33,
+  "score": 15.31,
   "cluster": "9e136b5671a6"
  },
  {
@@ -3100,7 +3276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.33,
+  "score": 7.31,
   "cluster": "def9853d91a0"
  },
  {
@@ -3116,7 +3292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 11.82,
+  "score": 11.81,
   "cluster": "c2ee55235eac"
  },
  {
@@ -3132,7 +3308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.31,
+  "score": 7.3,
   "cluster": "e6a8790d097d"
  },
  {
@@ -3148,7 +3324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 4,
-  "score": 19.29,
+  "score": 19.27,
   "cluster": "09db32e54d58"
  },
  {
@@ -3164,7 +3340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.24,
+  "score": 7.23,
   "cluster": "2444946166c8"
  },
  {
@@ -3180,7 +3356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 13.23,
+  "score": 13.21,
   "cluster": "28fb1e929b99"
  },
  {
@@ -3196,7 +3372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.73,
+  "score": 8.71,
   "cluster": "5ce89c51ba29"
  },
  {
@@ -3212,7 +3388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.73,
+  "score": 8.71,
   "cluster": "91e0a7d973c2"
  },
  {
@@ -3228,7 +3404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -4.79,
+  "score": -4.8,
   "cluster": "1fd0dcfe5d12"
  },
  {
@@ -3244,7 +3420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.71,
+  "score": 8.7,
   "cluster": "54fa01bc554e"
  },
  {
@@ -3260,7 +3436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 4,
-  "score": 20.71,
+  "score": 20.69,
   "cluster": "e64a5ed8eea8"
  },
  {
@@ -3276,7 +3452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.68,
+  "score": 8.67,
   "cluster": "ff4859a231b0"
  },
  {
@@ -3292,8 +3468,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 8.66,
+  "score": 8.65,
   "cluster": "da736a82b7db"
+ },
+ {
+  "id": "3acac630c28f",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "The Hypershell X Series of Next-Gen Exoskeletons Just Hit Their Lowest Prices of the Year for Black Friday",
+  "excerpt": "Whatever you need from an exoskeleton, there's a model to suit.",
+  "link": "https://gizmodo.com/the-hypershell-x-series-of-next-gen-exoskeletons-just-hit-their-lowest-prices-of-the-year-for-black-friday-2000838268",
+  "image": "https://gizmodo.com/app/uploads/2026/11/Hypershell-BFCM--1280x853.jpg",
+  "date": "2026-11-23T11:20:20.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 7.14,
+  "cluster": "3acac630c28f"
  },
  {
   "id": "cc25131bcb5d",
@@ -3308,7 +3500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 5,
-  "score": 19.15,
+  "score": 19.14,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -3324,7 +3516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.13,
+  "score": 7.11,
   "cluster": "cd38cf9ef5db"
  },
  {
@@ -3340,7 +3532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 10.13,
+  "score": 10.11,
   "cluster": "620631940a36"
  },
  {
@@ -3356,7 +3548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 3,
-  "score": 16.1,
+  "score": 16.09,
   "cluster": "f571db581dd5"
  },
  {
@@ -3372,7 +3564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.09,
+  "score": 7.07,
   "cluster": "733d64ff538a"
  },
  {
@@ -3388,7 +3580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.05,
+  "score": 10.04,
   "cluster": "7279bb2a3919"
  },
  {
@@ -3404,7 +3596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 8.55,
+  "score": 8.54,
   "cluster": "0361d5737063"
  },
  {
@@ -3420,7 +3612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": -1.95,
+  "score": -1.97,
   "cluster": "632d974398df"
  },
  {
@@ -3436,7 +3628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.05,
+  "score": 10.03,
   "cluster": "6c80453d9c99"
  },
  {
@@ -3452,7 +3644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 4,
-  "score": 17.53,
+  "score": 17.52,
   "cluster": "2648c1cdf9ec"
  },
  {
@@ -3468,7 +3660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 13.03,
+  "score": 13.01,
   "cluster": "8e7f947c4425"
  },
  {
@@ -3484,7 +3676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 7.02,
+  "score": 7,
   "cluster": "6bd59496d585"
  },
  {
@@ -3500,7 +3692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 5,
-  "score": 20.51,
+  "score": 20.49,
   "cluster": "43700faf2a81"
  },
  {
@@ -3516,7 +3708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.96,
+  "score": 6.95,
   "cluster": "7f79f4b1bddf"
  },
  {
@@ -3532,7 +3724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 9.89,
+  "score": 9.87,
   "cluster": "ade7fd04f3e8"
  },
  {
@@ -3548,7 +3740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.88,
+  "score": 6.86,
   "cluster": "ad4829ce2daa"
  },
  {
@@ -3564,7 +3756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 11.34,
+  "score": 11.32,
   "cluster": "0c873259805e"
  },
  {
@@ -3580,7 +3772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.83,
+  "score": 12.81,
   "cluster": "e98ce263e496"
  },
  {
@@ -3596,7 +3788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.82,
+  "score": 6.81,
   "cluster": "202f9d858fca"
  },
  {
@@ -3612,7 +3804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.8,
+  "score": 6.79,
   "cluster": "2e8d42482444"
  },
  {
@@ -3628,7 +3820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 12.8,
+  "score": 12.78,
   "cluster": "c0041aadd906"
  },
  {
@@ -3644,7 +3836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 6.77,
+  "score": 6.75,
   "cluster": "05aab9fe7b4a"
  },
  {
@@ -3660,7 +3852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 9.75,
+  "score": 9.73,
   "cluster": "48c4e1713bfe"
  },
  {
@@ -3676,7 +3868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.74,
+  "score": 6.72,
   "cluster": "e1f23138583f"
  },
  {
@@ -3692,7 +3884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.73,
+  "score": 6.72,
   "cluster": "429094fc08f2"
  },
  {
@@ -3708,7 +3900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": -5.27,
+  "score": -5.29,
   "cluster": "635a0b3bbbc4"
  },
  {
@@ -3724,7 +3916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.72,
+  "score": 6.7,
   "cluster": "797345372947"
  },
  {
@@ -3740,8 +3932,24 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 5.72,
+  "score": 5.7,
   "cluster": "bc100d7659c3"
+ },
+ {
+  "id": "a55ff58f22bd",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "Maker of Privacy-Focused Mobile OS Says Google Is Threatening Its Device Partners",
+  "excerpt": "GrapheneOS's accusations land days before a big share project with Motorola launches.",
+  "link": "https://gizmodo.com/maker-of-privacy-focused-mobile-os-says-google-is-threatening-its-device-partners-2000843669",
+  "image": "https://gizmodo.com/app/uploads/2026/11/Google-GrapheneOS-Phone-Makers-Antitrust-Privacy-1280x853.jpg",
+  "date": "2026-11-23T10:00:13.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 1,
+  "score": 6.7,
+  "cluster": "a55ff58f22bd"
  },
  {
   "id": "770ea247b249",
@@ -3756,7 +3964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.71,
+  "score": 6.7,
   "cluster": "770ea247b249"
  },
  {
@@ -3772,7 +3980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": -5.29,
+  "score": -5.3,
   "cluster": "1b1d99b69149"
  },
  {
@@ -3788,7 +3996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.68,
+  "score": 6.66,
   "cluster": "7f3845c3cd12"
  },
  {
@@ -3804,7 +4012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.63,
+  "score": 6.62,
   "cluster": "6d3140316bc0"
  },
  {
@@ -3820,7 +4028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 12.61,
+  "score": 12.59,
   "cluster": "314fc052bd62"
  },
  {
@@ -3836,7 +4044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.58,
+  "score": 6.56,
   "cluster": "5158548f46fe"
  },
  {
@@ -3852,7 +4060,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.57,
+  "score": 12.56,
   "cluster": "ce3073bd5d64"
  },
  {
@@ -3868,7 +4076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 12.57,
+  "score": 12.55,
   "cluster": "48ebf8f03916"
  },
  {
@@ -3884,7 +4092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:51:25.024Z",
   "coverage": 2,
-  "score": 12.57,
+  "score": 12.55,
   "cluster": "3834868d10c4"
  },
  {
@@ -3900,7 +4108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.47,
+  "score": 6.45,
   "cluster": "dd9351c2bdc8"
  },
  {
@@ -3916,7 +4124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.91,
+  "score": 10.9,
   "cluster": "772e8ef098cb"
  },
  {
@@ -3932,7 +4140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.34,
+  "score": 6.33,
   "cluster": "d79fc45a2714"
  },
  {
@@ -3948,7 +4156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.31,
+  "score": 6.29,
   "cluster": "8cfc7255bcbb"
  },
  {
@@ -3964,7 +4172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.77,
+  "score": 7.75,
   "cluster": "515f22cb9a3b"
  },
  {
@@ -3980,7 +4188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.23,
+  "score": 6.21,
   "cluster": "288bd2f6f55c"
  },
  {
@@ -3996,7 +4204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 1,
-  "score": 6.18,
+  "score": 6.17,
   "cluster": "1bad8faa352c"
  },
  {
@@ -4012,7 +4220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.242Z",
   "coverage": 2,
-  "score": 9.18,
+  "score": 9.16,
   "cluster": "e7e69ac7ea24"
  },
  {
@@ -4028,7 +4236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 7.6,
+  "score": 7.58,
   "cluster": "abb5957252d7"
  },
  {
@@ -4044,7 +4252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 9.04,
+  "score": 9.03,
   "cluster": "524518cf00bc"
  },
  {
@@ -4060,7 +4268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 2,
-  "score": 10.47,
+  "score": 10.45,
   "cluster": "eee8e7bbee50"
  },
  {
@@ -4076,7 +4284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 7.32,
+  "score": 7.31,
   "cluster": "1fa14915cd18"
  },
  {
@@ -4092,7 +4300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 8.82,
+  "score": 8.8,
   "cluster": "96a01e753b2c"
  },
  {
@@ -4108,7 +4316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.76,
+  "score": 5.74,
   "cluster": "89c495cb337b"
  },
  {
@@ -4124,7 +4332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": -6.28,
+  "score": -6.29,
   "cluster": "1db6c2307217"
  },
  {
@@ -4140,7 +4348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 3,
-  "score": 13.22,
+  "score": 13.2,
   "cluster": "e995d4d0cb4a"
  },
  {
@@ -4156,7 +4364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.68,
+  "score": 5.67,
   "cluster": "70513a4aa5a1"
  },
  {
@@ -4172,7 +4380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": -6.34,
+  "score": -6.36,
   "cluster": "92a35f34fbb5"
  },
  {
@@ -4188,7 +4396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.64,
+  "score": 5.63,
   "cluster": "9b372731409d"
  },
  {
@@ -4204,7 +4412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.64,
+  "score": 5.62,
   "cluster": "af75c65b1493"
  },
  {
@@ -4220,7 +4428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 7.13,
+  "score": 7.11,
   "cluster": "8d5cc95a3523"
  },
  {
@@ -4236,7 +4444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.63,
+  "score": 5.61,
   "cluster": "baf1a5211288"
  },
  {
@@ -4252,7 +4460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.62,
+  "score": 5.6,
   "cluster": "403e1bae6c4a"
  },
  {
@@ -4268,7 +4476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.6,
+  "score": 8.59,
   "cluster": "70a4447641e0"
  },
  {
@@ -4284,7 +4492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.6,
+  "score": 8.58,
   "cluster": "3f2e0616506f"
  },
  {
@@ -4300,7 +4508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 11.57,
+  "score": 11.56,
   "cluster": "e64a5ed8eea8"
  },
  {
@@ -4316,7 +4524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.57,
+  "score": 8.55,
   "cluster": "d61ab0d32cbe"
  },
  {
@@ -4332,7 +4540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.56,
+  "score": 5.54,
   "cluster": "e7f8247e4f55"
  },
  {
@@ -4348,7 +4556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 8.52,
+  "score": 8.5,
   "cluster": "c32e65acfc49"
  },
  {
@@ -4364,7 +4572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.51,
+  "score": 5.49,
   "cluster": "a3559e9bacb2"
  },
  {
@@ -4380,7 +4588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 6.97,
+  "score": 6.95,
   "cluster": "ee27144dcee0"
  },
  {
@@ -4396,7 +4604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 6.97,
+  "score": 6.95,
   "cluster": "42a8c67d6cb6"
  },
  {
@@ -4412,7 +4620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.47,
+  "score": 5.45,
   "cluster": "585c9faf9f6e"
  },
  {
@@ -4428,7 +4636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 5.46,
+  "score": 5.44,
   "cluster": "83c8a30ff39a"
  },
  {
@@ -4444,7 +4652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.43,
+  "score": 5.41,
   "cluster": "8ade731ef60b"
  },
  {
@@ -4460,7 +4668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 6.92,
+  "score": 6.9,
   "cluster": "88c202caa782"
  },
  {
@@ -4476,7 +4684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.39,
+  "score": 5.37,
   "cluster": "cb372748e574"
  },
  {
@@ -4492,7 +4700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T16:38:24.241Z",
   "coverage": 1,
-  "score": 6.89,
+  "score": 6.87,
   "cluster": "d1baf1523e99"
  },
  {
@@ -4508,7 +4716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.37,
+  "score": 5.36,
   "cluster": "58018b46b8a1"
  },
  {
@@ -4524,7 +4732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.33,
+  "score": 5.31,
   "cluster": "f6211ecf3071"
  },
  {
@@ -4540,7 +4748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 6.82,
+  "score": 6.8,
   "cluster": "ad3cbc391bb1"
  },
  {
@@ -4555,7 +4763,7 @@
   "date": "2026-11-23T05:45:12.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 14.3,
+  "score": 14.28,
   "noDate": false,
   "cluster": "15b8c4deaa8d"
  },
@@ -4572,7 +4780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 11.28,
+  "score": 11.27,
   "cluster": "c58553137769"
  },
  {
@@ -4588,7 +4796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 5.27,
+  "score": 5.26,
   "cluster": "66bd3e3ef2e6"
  },
  {
@@ -4604,7 +4812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 3,
-  "score": 15.76,
+  "score": 15.74,
   "cluster": "4c11a1876df0"
  },
  {
@@ -4620,7 +4828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 5.24,
+  "score": 5.22,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -4636,7 +4844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 8.23,
+  "score": 8.22,
   "cluster": "3254ef278d69"
  },
  {
@@ -4652,7 +4860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": -3.87,
+  "score": -3.89,
   "cluster": "6d192fa23bd1"
  },
  {
@@ -4668,7 +4876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 5.05,
+  "score": 5.04,
   "cluster": "4cd515da3b85"
  },
  {
@@ -4684,7 +4892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 9.55,
+  "score": 9.54,
   "cluster": "d86d06ccfeb5"
  },
  {
@@ -4700,7 +4908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 10.97,
+  "score": 10.95,
   "cluster": "8e7f947c4425"
  },
  {
@@ -4716,7 +4924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 4,
-  "score": 16.93,
+  "score": 16.91,
   "cluster": "d88bd90fa925"
  },
  {
@@ -4732,7 +4940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 4.9,
+  "score": 4.89,
   "cluster": "94e8727b585e"
  },
  {
@@ -4748,7 +4956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": -4.17,
+  "score": -4.19,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -4764,7 +4972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 10.81,
+  "score": 10.79,
   "cluster": "849935bc5d31"
  },
  {
@@ -4780,7 +4988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 4.73,
+  "score": 4.71,
   "cluster": "d137cc38db68"
  },
  {
@@ -4796,7 +5004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 4.72,
+  "score": 4.7,
   "cluster": "e104b0170769"
  },
  {
@@ -4812,7 +5020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 9.21,
+  "score": 9.2,
   "cluster": "7d2b5f32fee6"
  },
  {
@@ -4828,7 +5036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 4.67,
+  "score": 4.66,
   "cluster": "53e40a8bdb0e"
  },
  {
@@ -4844,7 +5052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 7.59,
+  "score": 7.57,
   "cluster": "c5c49f64212c"
  },
  {
@@ -4860,7 +5068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 7.52,
+  "score": 7.51,
   "cluster": "a8d519390506"
  },
  {
@@ -4876,7 +5084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 4.5,
+  "score": 4.49,
   "cluster": "d146eb099810"
  },
  {
@@ -4892,7 +5100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 2,
-  "score": 8.97,
+  "score": 8.95,
   "cluster": "88a37079168d"
  },
  {
@@ -4908,7 +5116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 2,
-  "score": 7.38,
+  "score": 7.36,
   "cluster": "d61ab0d32cbe"
  },
  {
@@ -4924,7 +5132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 5.85,
+  "score": 5.84,
   "cluster": "642e454a32b4"
  },
  {
@@ -4940,7 +5148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 3,
-  "score": 13.31,
+  "score": 13.3,
   "cluster": "8e7f947c4425"
  },
  {
@@ -4956,7 +5164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.016Z",
   "coverage": 1,
-  "score": 4.3,
+  "score": 4.28,
   "cluster": "ac0cbb65d654"
  },
  {
@@ -4972,7 +5180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 4,
-  "score": 13.25,
+  "score": 13.23,
   "cluster": "15b8c4deaa8d"
  },
  {
@@ -4987,9 +5195,9 @@
   "date": "2026-11-23T02:23:13.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
-  "coverage": 4,
-  "score": 14.68,
-  "cluster": "14133e8440d3"
+  "coverage": 5,
+  "score": 17.66,
+  "cluster": "7845c78e1629"
  },
  {
   "id": "83d15fc084d8",
@@ -5004,7 +5212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.66,
+  "score": 5.64,
   "cluster": "83d15fc084d8"
  },
  {
@@ -5020,7 +5228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T07:20:39.017Z",
   "coverage": 1,
-  "score": 4.1,
+  "score": 4.09,
   "cluster": "f32fe06ee03a"
  },
  {
@@ -5036,7 +5244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 4,
-  "score": 13.1,
+  "score": 13.08,
   "cluster": "0f6e9cdc6849"
  },
  {
@@ -5052,7 +5260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.59,
+  "score": 5.57,
   "cluster": "19f8e32a1da2"
  },
  {
@@ -5068,7 +5276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.06,
+  "score": 4.05,
   "cluster": "3bb0094b63d9"
  },
  {
@@ -5083,7 +5291,7 @@
   "date": "2026-11-23T02:01:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 5,
-  "score": 16.06,
+  "score": 16.04,
   "noDate": false,
   "cluster": "fd3c1132cf6b"
  },
@@ -5100,7 +5308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 7.04,
+  "score": 7.02,
   "cluster": "6d6290d67ed7"
  },
  {
@@ -5116,7 +5324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 5.51,
+  "score": 5.49,
   "cluster": "86845f971107"
  },
  {
@@ -5132,7 +5340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 4,
+  "score": 3.98,
   "cluster": "d0bc63222d2b"
  },
  {
@@ -5148,7 +5356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 5.46,
+  "score": 5.44,
   "cluster": "096eb98386c5"
  },
  {
@@ -5164,7 +5372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.95,
+  "score": 3.93,
   "cluster": "46084e3539a8"
  },
  {
@@ -5180,7 +5388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 3,
-  "score": 12.89,
+  "score": 12.88,
   "cluster": "2648c1cdf9ec"
  },
  {
@@ -5196,7 +5404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 11.39,
+  "score": 11.37,
   "cluster": "9e136b5671a6"
  },
  {
@@ -5212,7 +5420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.88,
+  "score": 3.86,
   "cluster": "05a5742bcea1"
  },
  {
@@ -5228,7 +5436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.86,
+  "score": 3.84,
   "cluster": "04504f1c4726"
  },
  {
@@ -5244,7 +5452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.84,
+  "score": 3.83,
   "cluster": "722eda40d616"
  },
  {
@@ -5260,7 +5468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.31,
+  "score": 5.3,
   "cluster": "ac9b29d220cb"
  },
  {
@@ -5276,7 +5484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.78,
+  "score": 3.77,
   "cluster": "03b636dc5c77"
  },
  {
@@ -5292,7 +5500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 3,
-  "score": 9.75,
+  "score": 9.74,
   "cluster": "4ed3335f5f91"
  },
  {
@@ -5308,7 +5516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.24,
+  "score": 5.23,
   "cluster": "6ee0a6470460"
  },
  {
@@ -5324,7 +5532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 8.22,
+  "score": 8.2,
   "cluster": "ccf893989325"
  },
  {
@@ -5340,7 +5548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.71,
+  "score": 3.7,
   "cluster": "9ca1323a09e2"
  },
  {
@@ -5356,7 +5564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 9.68,
+  "score": 9.67,
   "cluster": "e497745ec4db"
  },
  {
@@ -5372,7 +5580,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 5.18,
+  "score": 5.16,
   "cluster": "b0bf6395d760"
  },
  {
@@ -5388,7 +5596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.63,
+  "score": 3.61,
   "cluster": "09fd85fdd56d"
  },
  {
@@ -5404,7 +5612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 6.6,
+  "score": 6.59,
   "cluster": "7281bb418a1d"
  },
  {
@@ -5419,7 +5627,7 @@
   "date": "2026-11-23T00:33:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 3,
-  "score": 9.57,
+  "score": 9.55,
   "noDate": false,
   "cluster": "d3d91d3fb456"
  },
@@ -5436,7 +5644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 12.56,
+  "score": 12.54,
   "cluster": "aa81b60f7a8a"
  },
  {
@@ -5452,7 +5660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": -8.45,
+  "score": -8.47,
   "cluster": "073870100baa"
  },
  {
@@ -5468,7 +5676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.55,
+  "score": 3.53,
   "cluster": "9aece1f48d4a"
  },
  {
@@ -5484,7 +5692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 11.03,
+  "score": 11.02,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -5500,7 +5708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 8.02,
+  "score": 8.01,
   "cluster": "7e276867e62f"
  },
  {
@@ -5516,7 +5724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 9.48,
+  "score": 9.46,
   "cluster": "6670527b0215"
  },
  {
@@ -5532,7 +5740,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.96,
+  "score": 4.95,
   "cluster": "6e76b6ad97e6"
  },
  {
@@ -5548,7 +5756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 6.43,
+  "score": 6.41,
   "cluster": "626e59734f22"
  },
  {
@@ -5564,7 +5772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.4,
+  "score": 3.38,
   "cluster": "07f9bbd955fc"
  },
  {
@@ -5580,7 +5788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.4,
+  "score": 3.38,
   "cluster": "484954d5c9a3"
  },
  {
@@ -5596,7 +5804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.38,
+  "score": 3.36,
   "cluster": "e20d7ae3782b"
  },
  {
@@ -5612,7 +5820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 6.38,
+  "score": 6.36,
   "cluster": "3ecf1ecb43f0"
  },
  {
@@ -5628,7 +5836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.37,
+  "score": 3.35,
   "cluster": "b06fc917eba8"
  },
  {
@@ -5644,7 +5852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": -8.7,
+  "score": -8.72,
   "cluster": "f6c2bff29426"
  },
  {
@@ -5660,7 +5868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 1,
-  "score": 3.27,
+  "score": 3.26,
   "cluster": "c5c5481f03cd"
  },
  {
@@ -5676,7 +5884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.74,
+  "score": 4.72,
   "cluster": "6738e42a373d"
  },
  {
@@ -5692,7 +5900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.22,
+  "score": 3.2,
   "cluster": "6611db37c6f5"
  },
  {
@@ -5708,7 +5916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 5,
-  "score": 18.22,
+  "score": 18.2,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -5724,7 +5932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.71,
+  "score": 4.7,
   "cluster": "c56921972084"
  },
  {
@@ -5740,7 +5948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 5,
-  "score": 15.21,
+  "score": 15.19,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -5756,7 +5964,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 2,
-  "score": 7.68,
+  "score": 7.66,
   "cluster": "1807cf7613f2"
  },
  {
@@ -5772,7 +5980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": -5.94,
+  "score": -5.96,
   "cluster": "e995d4d0cb4a"
  },
  {
@@ -5788,7 +5996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 3.05,
+  "score": 3.03,
   "cluster": "2fdb1a1ec1db"
  },
  {
@@ -5803,9 +6011,9 @@
   "date": "2026-11-22T22:48:02.000Z",
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
-  "coverage": 3,
-  "score": 8.98,
-  "cluster": "e7090200216e"
+  "coverage": 4,
+  "score": 11.96,
+  "cluster": "7845c78e1629"
  },
  {
   "id": "a4537224b7d2",
@@ -5820,7 +6028,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.48,
+  "score": 4.46,
   "cluster": "a4537224b7d2"
  },
  {
@@ -5836,7 +6044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": -6.04,
+  "score": -6.05,
   "cluster": "632d974398df"
  },
  {
@@ -5851,8 +6059,8 @@
   "date": "2026-11-22T22:37:43.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
-  "coverage": 3,
-  "score": 10.42,
+  "coverage": 2,
+  "score": 7.41,
   "cluster": "c5027510d9a0"
  },
  {
@@ -5868,7 +6076,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 3,
-  "score": 10.42,
+  "score": 10.41,
   "cluster": "aa81b60f7a8a"
  },
  {
@@ -5884,7 +6092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.88,
+  "score": 2.86,
   "cluster": "100149a02675"
  },
  {
@@ -5900,7 +6108,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.85,
+  "score": 2.83,
   "cluster": "00dd1a103566"
  },
  {
@@ -5916,7 +6124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 5,
-  "score": 14.82,
+  "score": 14.81,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -5932,7 +6140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 4.3,
+  "score": 4.28,
   "cluster": "152623e56e8c"
  },
  {
@@ -5948,7 +6156,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 5,
-  "score": 16.24,
+  "score": 16.22,
   "cluster": "09db32e54d58"
  },
  {
@@ -5964,7 +6172,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.73,
+  "score": 2.71,
   "cluster": "f5cf02013749"
  },
  {
@@ -5980,7 +6188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.902Z",
   "coverage": 3,
-  "score": 8.72,
+  "score": 8.71,
   "cluster": "09db32e54d58"
  },
  {
@@ -5996,7 +6204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 3,
-  "score": 11.72,
+  "score": 11.7,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -6012,7 +6220,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 1,
-  "score": 2.71,
+  "score": 2.7,
   "cluster": "eeb1e11900cd"
  },
  {
@@ -6028,7 +6236,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 5.71,
+  "score": 5.7,
   "cluster": "314fc052bd62"
  },
  {
@@ -6044,7 +6252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-23T02:23:46.901Z",
   "coverage": 2,
-  "score": 5.71,
+  "score": 5.7,
   "cluster": "b611a7417b5c"
  },
  {
@@ -6059,7 +6267,7 @@
   "date": "2026-11-22T21:51:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 2.66,
+  "score": 2.65,
   "noDate": false,
   "cluster": "9dfd5a1985ad"
  },
@@ -6076,7 +6284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 6,
-  "score": 17.64,
+  "score": 17.62,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -6092,7 +6300,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.63,
+  "score": 2.62,
   "cluster": "b697042aec6a"
  },
  {
@@ -6108,7 +6316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.63,
+  "score": 2.61,
   "cluster": "3d95598c9708"
  },
  {
@@ -6124,7 +6332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 2.62,
+  "score": 2.6,
   "cluster": "9d561cc7e83a"
  },
  {
@@ -6140,7 +6348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 16.07,
+  "score": 16.05,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -6156,7 +6364,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 5,
-  "score": 17.57,
+  "score": 17.55,
   "cluster": "d88bd90fa925"
  },
  {
@@ -6172,7 +6380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -9.43,
+  "score": -9.45,
   "cluster": "cbd4b83e547f"
  },
  {
@@ -6188,7 +6396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.55,
+  "score": 2.53,
   "cluster": "97713ff68f78"
  },
  {
@@ -6204,7 +6412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 2.54,
+  "score": 2.52,
   "cluster": "bef1bd06a30e"
  },
  {
@@ -6220,7 +6428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.53,
+  "score": 2.51,
   "cluster": "03ff1eb2421d"
  },
  {
@@ -6236,7 +6444,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 4,
-  "score": 13.02,
+  "score": 13,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -6252,7 +6460,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.51,
+  "score": 2.49,
   "cluster": "d7fd540855b1"
  },
  {
@@ -6268,7 +6476,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 5.49,
+  "score": 5.48,
   "cluster": "e16611e15cde"
  },
  {
@@ -6284,7 +6492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -9.54,
+  "score": -9.55,
   "cluster": "34cf49dafd37"
  },
  {
@@ -6300,7 +6508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 8.46,
+  "score": 8.44,
   "cluster": "e497745ec4db"
  },
  {
@@ -6316,7 +6524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": -9.62,
+  "score": -9.64,
   "cluster": "66ae122a2b7c"
  },
  {
@@ -6332,7 +6540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.38,
+  "score": 2.36,
   "cluster": "2428b477d259"
  },
  {
@@ -6347,9 +6555,9 @@
   "date": "2026-11-22T20:55:33.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 4,
-  "score": 12.86,
-  "cluster": "14133e8440d3"
+  "coverage": 5,
+  "score": 15.84,
+  "cluster": "7845c78e1629"
  },
  {
   "id": "20a6e430f222",
@@ -6364,7 +6572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 5.34,
+  "score": 5.32,
   "cluster": "20a6e430f222"
  },
  {
@@ -6380,7 +6588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.3,
+  "score": 2.28,
   "cluster": "941af467e7f5"
  },
  {
@@ -6396,7 +6604,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 5.29,
+  "score": 5.27,
   "cluster": "7ef2671ba68b"
  },
  {
@@ -6412,7 +6620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.21,
+  "score": 2.2,
   "cluster": "d2642b27adb3"
  },
  {
@@ -6428,7 +6636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.21,
+  "score": 2.19,
   "cluster": "7c35c7b163de"
  },
  {
@@ -6444,7 +6652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.2,
+  "score": 2.18,
   "cluster": "c4f91851e71f"
  },
  {
@@ -6460,7 +6668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 3.69,
+  "score": 3.68,
   "cluster": "eac5320fa5a7"
  },
  {
@@ -6476,7 +6684,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.18,
+  "score": 2.16,
   "cluster": "fb61cc4234e2"
  },
  {
@@ -6492,7 +6700,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 3.66,
+  "score": 3.65,
   "cluster": "fdf18ad95019"
  },
  {
@@ -6508,7 +6716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.13,
+  "score": 2.12,
   "cluster": "d5561701de93"
  },
  {
@@ -6524,7 +6732,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.13,
+  "score": 2.11,
   "cluster": "4ac2ac817826"
  },
  {
@@ -6540,7 +6748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.1,
+  "score": 2.08,
   "cluster": "b9ff9afa7b3c"
  },
  {
@@ -6556,7 +6764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.07,
+  "score": 2.05,
   "cluster": "5373bce8afb1"
  },
  {
@@ -6572,7 +6780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 2.05,
+  "score": 2.03,
   "cluster": "dfbff6411453"
  },
  {
@@ -6588,7 +6796,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 6,
-  "score": 17.05,
+  "score": 17.03,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -6603,9 +6811,25 @@
   "date": "2026-11-22T19:57:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 4.03,
+  "score": 4.02,
   "noDate": false,
   "cluster": "2b8062874970"
+ },
+ {
+  "id": "06bbdcddc55b",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Gizmodo",
+  "title": "‘Sunrise on the Reaping’ Box Office Proves ‘Hunger Games’ Still Got It",
+  "excerpt": "For fans of prequels and stories about teens fighting to survive, 'Sunrise on the Reaping' made for a perfect weekend meal.",
+  "link": "https://gizmodo.com/sunrise-on-the-reaping-box-office-proves-hunger-games-still-got-it-2000843666",
+  "image": "https://gizmodo.com/app/uploads/2026/09/the-hunger-games-sunrise-on-the-reaping-1280x853.jpg",
+  "date": "2026-11-22T19:51:38.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T16:54:28.736Z",
+  "coverage": 2,
+  "score": 4.98,
+  "cluster": "06bbdcddc55b"
  },
  {
   "id": "6b73b8836b3e",
@@ -6620,7 +6844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 3.47,
+  "score": 3.45,
   "cluster": "6b73b8836b3e"
  },
  {
@@ -6636,7 +6860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.96,
+  "score": 1.95,
   "cluster": "b12b3ae0d228"
  },
  {
@@ -6652,7 +6876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.94,
+  "score": 1.92,
   "cluster": "7020b5a3700c"
  },
  {
@@ -6668,7 +6892,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.88,
+  "score": 1.86,
   "cluster": "23d8669970c1"
  },
  {
@@ -6684,7 +6908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 3.38,
+  "score": 3.36,
   "cluster": "940e55205b44"
  },
  {
@@ -6700,7 +6924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 7.88,
+  "score": 7.86,
   "cluster": "602c39981a44"
  },
  {
@@ -6716,7 +6940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 4.87,
+  "score": 4.86,
   "cluster": "1be9a8552240"
  },
  {
@@ -6732,7 +6956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 4.85,
+  "score": 4.83,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -6748,7 +6972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 4.82,
+  "score": 4.81,
   "cluster": "41d31761ec9c"
  },
  {
@@ -6764,7 +6988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.82,
+  "score": 1.8,
   "cluster": "490fe1287b08"
  },
  {
@@ -6780,7 +7004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 13.81,
+  "score": 13.8,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -6796,7 +7020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.8,
+  "score": 1.78,
   "cluster": "58c5fd35ec98"
  },
  {
@@ -6812,7 +7036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.77,
+  "score": 1.75,
   "cluster": "0d33e501774b"
  },
  {
@@ -6828,7 +7052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -10.28,
+  "score": -10.3,
   "cluster": "9d3b1b4e1aa5"
  },
  {
@@ -6844,7 +7068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 4.72,
+  "score": 4.7,
   "cluster": "b46e4c9bd6a4"
  },
  {
@@ -6860,7 +7084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 3.21,
+  "score": 3.2,
   "cluster": "6a3c9ca93cfb"
  },
  {
@@ -6876,7 +7100,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 13.7,
+  "score": 13.68,
   "cluster": "58ba47aabdb3"
  },
  {
@@ -6892,7 +7116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 6.19,
+  "score": 6.17,
   "cluster": "3f2e0616506f"
  },
  {
@@ -6907,7 +7131,7 @@
   "date": "2026-11-22T18:53:53.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 6,
-  "score": 18.18,
+  "score": 18.16,
   "noDate": false,
   "cluster": "e64a5ed8eea8"
  },
@@ -6924,7 +7148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 3,
-  "score": 7.66,
+  "score": 7.65,
   "cluster": "0f6e9cdc6849"
  },
  {
@@ -6940,7 +7164,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.63,
+  "score": 1.61,
   "cluster": "cd200aab6cc1"
  },
  {
@@ -6956,7 +7180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 1.63,
+  "score": 1.61,
   "cluster": "de58128811dc"
  },
  {
@@ -6971,9 +7195,9 @@
   "date": "2026-11-22T18:34:59.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 3,
-  "score": 7.58,
-  "cluster": "e7090200216e"
+  "coverage": 4,
+  "score": 10.56,
+  "cluster": "7845c78e1629"
  },
  {
   "id": "b64d2e67efc9",
@@ -6988,7 +7212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:45:59.691Z",
   "coverage": 2,
-  "score": 4.55,
+  "score": 4.53,
   "cluster": "b64d2e67efc9"
  },
  {
@@ -7004,7 +7228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 3,
-  "score": 7.55,
+  "score": 7.53,
   "cluster": "0f6e9cdc6849"
  },
  {
@@ -7020,7 +7244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:45:59.691Z",
   "coverage": 2,
-  "score": 4.52,
+  "score": 4.51,
   "cluster": "b611a7417b5c"
  },
  {
@@ -7036,7 +7260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": -8.99,
+  "score": -9.01,
   "cluster": "3673b90c3910"
  },
  {
@@ -7052,7 +7276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.5,
+  "score": 1.48,
   "cluster": "699ea053e18a"
  },
  {
@@ -7068,7 +7292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.5,
+  "score": 1.48,
   "cluster": "26bb11cdaab6"
  },
  {
@@ -7083,9 +7307,9 @@
   "date": "2026-11-22T18:18:21.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
-  "coverage": 5,
-  "score": 13.48,
-  "cluster": "14133e8440d3"
+  "coverage": 6,
+  "score": 16.47,
+  "cluster": "7845c78e1629"
  },
  {
   "id": "20f83d9572c0",
@@ -7100,7 +7324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 4.46,
+  "score": 4.45,
   "cluster": "20f83d9572c0"
  },
  {
@@ -7116,7 +7340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 5.95,
+  "score": 5.93,
   "cluster": "0657f5c19944"
  },
  {
@@ -7132,7 +7356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.45,
+  "score": 1.43,
   "cluster": "e4e5ec09ef1d"
  },
  {
@@ -7148,7 +7372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 5,
-  "score": 14.94,
+  "score": 14.93,
   "cluster": "09db32e54d58"
  },
  {
@@ -7164,7 +7388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.44,
+  "score": 1.42,
   "cluster": "4d3cc10c5927"
  },
  {
@@ -7180,7 +7404,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 4,
-  "score": 10.43,
+  "score": 10.41,
   "cluster": "c0041aadd906"
  },
  {
@@ -7196,7 +7420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.41,
+  "score": 1.4,
   "cluster": "12bbde7ca7bc"
  },
  {
@@ -7211,7 +7435,7 @@
   "date": "2026-11-22T18:05:48.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.41,
+  "score": 1.4,
   "noDate": false,
   "cluster": "4a3fc25ec61a"
  },
@@ -7228,7 +7452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": -10.59,
+  "score": -10.61,
   "cluster": "c21a3b05e4bf"
  },
  {
@@ -7244,7 +7468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.39,
+  "score": 1.38,
   "cluster": "2cc243c8c89e"
  },
  {
@@ -7260,7 +7484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.38,
+  "score": 1.36,
   "cluster": "781eaa7f5e8e"
  },
  {
@@ -7276,7 +7500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.38,
+  "score": 1.36,
   "cluster": "43ff13bda800"
  },
  {
@@ -7292,7 +7516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 4.38,
+  "score": 4.36,
   "cluster": "524518cf00bc"
  },
  {
@@ -7308,7 +7532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": -4.64,
+  "score": -4.66,
   "cluster": "ccf893989325"
  },
  {
@@ -7323,7 +7547,7 @@
   "date": "2026-11-22T17:55:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.36,
+  "score": 1.34,
   "noDate": false,
   "cluster": "3500af305ed0"
  },
@@ -7340,7 +7564,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": -4.65,
+  "score": -4.67,
   "cluster": "46a122c8953e"
  },
  {
@@ -7356,8 +7580,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 3.35,
-  "cluster": "a500820b5385"
+  "score": 3.33,
+  "cluster": "06bbdcddc55b"
  },
  {
   "id": "18f88e8e220e",
@@ -7372,7 +7596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.33,
+  "score": 1.31,
   "cluster": "18f88e8e220e"
  },
  {
@@ -7388,7 +7612,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 3,
-  "score": 7.31,
+  "score": 7.29,
   "cluster": "4ed3335f5f91"
  },
  {
@@ -7404,7 +7628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.31,
+  "score": 1.29,
   "cluster": "8dafc0c5db87"
  },
  {
@@ -7420,7 +7644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 1.3,
+  "score": 1.28,
   "cluster": "a3d87933ceb4"
  },
  {
@@ -7436,7 +7660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 3,
-  "score": 7.22,
+  "score": 7.21,
   "cluster": "4ed3335f5f91"
  },
  {
@@ -7451,8 +7675,8 @@
   "date": "2026-11-22T17:30:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
-  "coverage": 4,
-  "score": 10.21,
+  "coverage": 3,
+  "score": 7.2,
   "cluster": "29a7bf2daa03"
  },
  {
@@ -7468,7 +7692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 2,
-  "score": 4.19,
+  "score": 4.17,
   "cluster": "a500820b5385"
  },
  {
@@ -7484,7 +7708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.187Z",
   "coverage": 1,
-  "score": 2.69,
+  "score": 2.67,
   "cluster": "265c68ec3a4c"
  },
  {
@@ -7500,7 +7724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.187Z",
   "coverage": 1,
-  "score": 1.17,
+  "score": 1.15,
   "cluster": "91bc026d2609"
  },
  {
@@ -7516,8 +7740,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 3,
-  "score": 8.66,
-  "cluster": "14133e8440d3"
+  "score": 8.64,
+  "cluster": "0b4f0d7826ec"
  },
  {
   "id": "4c9d70de279c",
@@ -7531,7 +7755,7 @@
   "date": "2026-11-22T17:18:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 8.65,
+  "score": 8.63,
   "noDate": false,
   "cluster": "4c9d70de279c"
  },
@@ -7547,9 +7771,9 @@
   "date": "2026-11-22T17:15:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
-  "coverage": 2,
-  "score": 5.63,
-  "cluster": "3df9e26d0976"
+  "coverage": 3,
+  "score": 8.61,
+  "cluster": "479d4cf822c7"
  },
  {
   "id": "e3bce82e41c2",
@@ -7564,7 +7788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 4,
-  "score": 10.12,
+  "score": 10.1,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -7580,7 +7804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 4,
-  "score": 11.62,
+  "score": 11.6,
   "cluster": "36ebe6cb9197"
  },
  {
@@ -7596,7 +7820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.187Z",
   "coverage": 1,
-  "score": 1.08,
+  "score": 1.06,
   "cluster": "269744fa7aca"
  },
  {
@@ -7611,9 +7835,9 @@
   "date": "2026-11-22T17:00:07.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
-  "coverage": 1,
-  "score": 2.55,
-  "cluster": "bac8a192da88"
+  "coverage": 2,
+  "score": 5.53,
+  "cluster": "7845c78e1629"
  },
  {
   "id": "c52011ecd8c5",
@@ -7628,7 +7852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.222Z",
   "coverage": 2,
-  "score": 8.55,
+  "score": 8.53,
   "cluster": "c52011ecd8c5"
  },
  {
@@ -7644,7 +7868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.222Z",
   "coverage": 2,
-  "score": 4.05,
+  "score": 4.03,
   "cluster": "3498286fe0ad"
  },
  {
@@ -7660,7 +7884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 1,
-  "score": 1.05,
+  "score": 1.03,
   "cluster": "178b1fdf980d"
  },
  {
@@ -7676,7 +7900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 1,
-  "score": 1.05,
+  "score": 1.03,
   "cluster": "7df5af3bc836"
  },
  {
@@ -7692,7 +7916,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 1,
-  "score": 1.05,
+  "score": 1.03,
   "cluster": "9cb79b635e1d"
  },
  {
@@ -7708,7 +7932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 1,
-  "score": 2.55,
+  "score": 2.53,
   "cluster": "275fbea67a34"
  },
  {
@@ -7724,7 +7948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 3,
-  "score": 7.03,
+  "score": 7.01,
   "cluster": "fd3c1132cf6b"
  },
  {
@@ -7739,7 +7963,7 @@
   "date": "2026-11-22T16:56:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 1.03,
+  "score": 1.01,
   "noDate": false,
   "cluster": "438acf5edc56"
  },
@@ -8157,7 +8381,7 @@
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 3,
   "score": 8.5,
-  "cluster": "14133e8440d3"
+  "cluster": "63f7e3fe636b"
  },
  {
   "id": "3df9e26d0976",
@@ -8330,10 +8554,10 @@
   "image": "https://www.engadget.com/img/gallery/4-ipad-pro-alternatives-for-those-looking-to-ditch-apple/l-intro-1794555342.jpg",
   "date": "2026-11-22T15:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
+  "coverage": 2,
+  "score": 5.5,
   "noDate": false,
-  "cluster": "c20dac2fb129"
+  "cluster": "479d4cf822c7"
  },
  {
   "id": "fd4163bac27d",
@@ -8906,8 +9130,8 @@
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0,0,100,100",
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 4,
-  "score": 10,
+  "coverage": 3,
+  "score": 7,
   "noDate": false,
   "cluster": "29a7bf2daa03"
  },
@@ -9722,8 +9946,8 @@
   "image": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/master/pass/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
   "date": "2026-11-22T11:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 4,
-  "score": -2,
+  "coverage": 3,
+  "score": -5,
   "noDate": false,
   "cluster": "29a7bf2daa03"
  },
@@ -9786,10 +10010,10 @@
   "image": "https://media.wired.com/photos/6b00a7fa835217c5c30f2b18/master/pass/The-Gifts-Moms-Actually-Want,-Picked-by-Moms.jpg",
   "date": "2026-11-22T11:02:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": -11,
+  "coverage": 2,
+  "score": -8,
   "noDate": false,
-  "cluster": "cbf30328532a"
+  "cluster": "963214fbec9b"
  },
  {
   "id": "6cfafb674561",
@@ -10041,8 +10265,8 @@
   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg",
   "date": "2026-11-22T10:02:17.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 4,
-  "score": 10,
+  "coverage": 3,
+  "score": 7,
   "noDate": false,
   "cluster": "7281bb418a1d"
  },
@@ -10365,230 +10589,6 @@
   "score": 1,
   "noDate": false,
   "cluster": "c96c1ed2d4eb"
- },
- {
-  "id": "5c32e616b480",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Guardian",
-  "title": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
-  "excerpt": "We asked everyone from gen Alpha preschoolers to retired boomers, celebs and Guardian writers what’s on their gift list this year – here’s what they said • The best Christmas gifts for 2026 How old are you, and what would you like for Christmas?…",
-  "link": "https://www.theguardian.com/thefilter/2026/nov/22/best-christmas-gifts-every-generation-uk",
-  "image": "https://i.guim.co.uk/img/media/032769a43e0c128c7890799f53ee9f22c5deebbf/0_0_4000_3199/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=1dd564df0246e40e5f3f83f1958c0293",
-  "date": "2026-11-22T07:00:21.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 4,
-  "score": -2,
-  "noDate": false,
-  "cluster": "29a7bf2daa03"
- },
- {
-  "id": "d5fc78291994",
-  "lang": "en",
-  "cat": "world",
-  "source": "The New York Times",
-  "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-  "excerpt": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
-  "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
-  "date": "2026-11-22T06:58:18.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "d5fc78291994"
- },
- {
-  "id": "f38e55a05f8c",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Interesting Engineering",
-  "title": "Quantum chromodynamics could explain dark energy origins, scientists say",
-  "excerpt": "Despite dark energy making up around 70% of the total energy in the Universe, we...",
-  "link": "https://interestingengineering.com/science/quantum-origin-dark-energy-physics",
-  "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-22T122301.349.jpg",
-  "date": "2026-11-22T06:55:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "f38e55a05f8c"
- },
- {
-  "id": "0501f2a906cd",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Digital Trends",
-  "title": "FSD v15 is rolling out, and Tesla says it handles risky moments 25 times better",
-  "excerpt": "Tesla has started rolling out FSD v15 with Reality View, a claimed 25 times improvement in safety-critical cases, speed camera slowdown, and Bike Rack Mode.",
-  "link": "https://www.digitaltrends.com/cars/tesla-fsd-v15-rollout/",
-  "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Tesla-Reality-View-on-the-center-display.jpg?resize=440%2C292&ssl=1",
-  "date": "2026-11-22T06:34:41.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "0501f2a906cd"
- },
- {
-  "id": "203808a1de0a",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Interesting Engineering",
-  "title": "US Army to get next-gen autonomous fuel delivery with converted unmanned surface vessels",
-  "excerpt": "Textron Systems is strengthening its role in next-generation autonomous maritime operations after supporting NEYA Systems...",
-  "link": "https://interestingengineering.com/military/us-army-next-gen-autonomous-fuel-delivery",
-  "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/unmanned-vessel.jpg",
-  "date": "2026-11-22T06:11:57.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "203808a1de0a"
- },
- {
-  "id": "a0149a113037",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Guardian",
-  "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-  "excerpt": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras,…",
-  "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-  "image": "https://i.guim.co.uk/img/media/4d3b2eefdc19be5ce451b348a00b741e730d6dbd/1327_0_6144_4918/master/6144.jpg?width=700&quality=85&auto=format&fit=max&s=175442141f5fe8594ef9a5c49c516e65",
-  "date": "2026-11-22T06:00:21.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "a0149a113037"
- },
- {
-  "id": "9eade0408225",
-  "lang": "en",
-  "cat": "economy",
-  "source": "The Guardian",
-  "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-  "excerpt": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom…",
-  "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-  "image": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=9a4afd06b57894e978a012893c54b9de",
-  "date": "2026-11-22T06:00:19.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "9eade0408225"
- },
- {
-  "id": "96eef9501f0c",
-  "lang": "en",
-  "cat": "world",
-  "source": "The Guardian",
-  "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-  "excerpt": "As nationalist, Eurosceptic parties surge in four of the bloc’s biggest member states, the coming year’s polls could test its resilience like never before In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of…",
-  "link": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-  "image": "https://i.guim.co.uk/img/media/f71c17905954a1100fc2d7a17e00406b3aee9c81/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=56b20b73238e7f1a54eb39ac168b4b71",
-  "date": "2026-11-22T06:00:18.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "96eef9501f0c"
- },
- {
-  "id": "97cd20591521",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Digital Trends",
-  "title": "Google is adding Target and grocery stores to Search and Gemini, just in time for the holidays",
-  "excerpt": "With the holiday shopping season fast approaching, Google has rolled out four new Connected Apps in Google Search and the Gemini app to help with grocery shopping. According to Google, they can help you build an order and check out with ease when…",
-  "link": "https://www.digitaltrends.com/computing/google-connected-apps-groceries/",
-  "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-grocery-Connected-Apps.jpg?resize=440%2C292&ssl=1",
-  "date": "2026-11-22T05:45:32.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 3,
-  "score": 7,
-  "noDate": false,
-  "cluster": "c5027510d9a0"
- },
- {
-  "id": "0985b71f3d0a",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Cointelegraph",
-  "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-  "excerpt": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
-  "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png",
-  "date": "2026-11-22T05:28:43.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "0985b71f3d0a"
- },
- {
-  "id": "14a9be827b79",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Interesting Engineering",
-  "title": "US firm to advance rapid carbon-carbon manufacturing for hypersonic applications",
-  "excerpt": "Textron Systems has been selected by the Defense Advanced Research Projects Agency (DARPA) to participate...",
-  "link": "https://interestingengineering.com/military/us-firm-carbon-carbon-manufacturing-hypersonic",
-  "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/missle-hyper.jpg",
-  "date": "2026-11-22T05:21:13.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "14a9be827b79"
- },
- {
-  "id": "dc4db2d33164",
-  "lang": "en",
-  "cat": "world",
-  "source": "The Guardian",
-  "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
-  "excerpt": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email, free app or daily news podcast The twin brother of a man whose body lay…",
-  "link": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-  "image": "https://i.guim.co.uk/img/media/21037e6e3a5170670290d4fe1957b61cc7a1f5c6/181_0_1203_963/master/1203.jpg?width=700&quality=85&auto=format&fit=max&s=ab0d34ef0704195af1a2a82c4e93a3d8",
-  "date": "2026-11-22T05:21:01.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "dc4db2d33164"
- },
- {
-  "id": "24b94457b999",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too",
-  "excerpt": "The founding father of the conservative movement’s pick was very different from Trump’s.",
-  "link": "https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/ronald-reagan-howard-baker-GettyImages-50365876.jpg",
-  "date": "2026-11-22T05:01:28.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 3,
-  "score": 7,
-  "noDate": false,
-  "cluster": "7281bb418a1d"
- },
- {
-  "id": "595c7b442b98",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The Hill",
-  "title": "Van Hollen says it's still a \"wide-open race\" for majority leader",
-  "excerpt": "Sen. Chris Van Hollen (D-Md.), who is challenging Senate Minority Leader Chuck Schumer (D-N.Y.) to lead the body’s Democratic caucus in the next Congress, said this week that the race for majority leader is “wide open.” The progressive Democrat…",
-  "link": "https://thehill.com/homenews/senate/6235600-van-hollen-schumer-senate-race/",
-  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Top-Van-Hollen_051226_AP_Jose-Luis-Magana.jpg?w=900",
-  "date": "2026-11-22T03:10:53.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "595c7b442b98"
  },
  {
   "id": "2a20561a78fa",
