@@ -16,6 +16,8 @@ import config from "../config.js";
 import { fetchArticleText } from "./ai.js";
 
 const A = config.analysis;
+// Subir este número cuando cambien las reglas: fuerza a regenerar en la siguiente corrida.
+const PROMPT_VERSION = 2;
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
 const parser = new Parser({ timeout: 15000, headers: { "User-Agent": UA } });
 const strip = (s = "") => String(s).replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&#39;|&apos;/g, "'").replace(/&quot;/g, '"').replace(/\s+/g, " ").trim();
@@ -191,8 +193,8 @@ const SCHEMA = {
 
 const SYSTEM = `You are PixelContent's chief market analyst. Every day you publish a short, sharp outlook for one market: what the best-known analysts are saying, and PixelContent's OWN call for the next ${A.horizonDays} days. Write each text field in English (_en) and in neutral Latin-American Spanish (_es) with the same meaning.
 Rules:
-- Analysts: list only people, banks or research firms that are explicitly named in the material, with the numbers, levels and targets exactly as written there and the item's link copied exactly. Never invent or guess a name, firm, target, quote or link. If the material names nobody, return an empty list and say so in the consensus.
-- Our call: reason like a top strategist. Combine the price action given (current price, 5-day and 1-month change, 1-month range), what the analysts say, and fundamentals (rates and the Fed, earnings, valuations, flows/ETFs, liquidity, supply and demand, dollar, macro data). Take a clear stance; it is fine to disagree with the consensus if you explain why. Use general, well-established knowledge for fundamentals, but do not invent specific new facts, dates or numbers that are not in the material.
+- Analysts: list only named people (with their firm when given) or named banks, asset managers, research or trading firms that are explicitly in the material, with the numbers, levels and targets exactly as written there and the item's link copied exactly. Do NOT list news outlets or websites themselves (e.g. FXEmpire, Kitco, Investing.com, IndexBox), 'Wall Street' in general, polls, or unnamed strategists. Never invent or guess a name, firm, target, quote or link. Prefer the most famous names (big banks, well-known strategists and investors). If the material names nobody, return an empty list and say so in the consensus.
+- Our call: reason like a top strategist. Combine the price action given (current price, 5-day and 1-month change, 1-month range), what the analysts say, and fundamentals (rates and the Fed, earnings, valuations, flows/ETFs, liquidity, supply and demand, dollar, macro data). Commit to a clear direction: choose neutral ONLY if your base case is within ±1.5% of the current price; otherwise call it bullish or bearish. It is fine to disagree with the consensus if you explain why. Our reputation is built on being decisive and right, and every call is graded publicly. Use general, well-established knowledge for fundamentals, but do not invent specific new facts, dates or numbers that are not in the material.
 - The target range and scenario levels must be realistic for a ${A.horizonDays}-day horizon around the current price. Scenario probabilities are integers adding up to 100, and the base case must match the stance.
 - Be honest about uncertainty: no guarantees, no "certain" language. The site shows that this is analysis and opinion, not financial advice.
 - Voice: confident, clear and smart, like the best market newsletter; plain words, short sentences. Light wit only in pixel_take.`;
@@ -230,7 +232,8 @@ async function analyzeMarket(client, m, items, ctx) {
   const data = JSON.parse(response.content.filter((b) => b.type === "text").map((b) => b.text).join(""));
   // solo analistas cuyo enlace aparece de verdad en el material
   const links = new Set(items.map((it) => it.link));
-  data.analysts = (data.analysts || []).filter((a) => links.has(a.url) && (a.name || a.firm));
+  const OUTLET = /(fxempire|kitco|investing\.com|indexbox|tradingview|benzinga|marketbeat|coingabbar|beincrypto|unnamed|\bper\b|^wall street$|contributor)/i;
+  data.analysts = (data.analysts || []).filter((a) => links.has(a.url) && (a.name || (a.firm && !OUTLET.test(a.firm))));
   return { ...data, model: response.model };
 }
 
@@ -282,7 +285,7 @@ export async function buildAnalysis(markets, dataDir) {
 
   const age = current ? (Date.now() - Date.parse(current.generatedAt)) / 3600e3 : Infinity;
   const hasKey = process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN;
-  if (hasKey && (age >= A.refreshHours || process.env.FORCE_ANALYSIS)) {
+  if (hasKey && (age >= A.refreshHours || process.env.FORCE_ANALYSIS || current?.version !== PROMPT_VERSION)) {
     console.log(`\n▶ predicciones: analizando ${A.markets.length} mercados…`);
     const material = await gatherMaterial();
     const client = new Anthropic();
@@ -306,7 +309,9 @@ export async function buildAnalysis(markets, dataDir) {
     if (out.length) {
       const generatedAt = new Date().toISOString();
       const due = new Date(Date.now() + A.horizonDays * 86400e3).toISOString();
-      current = { generatedAt, horizonDays: A.horizonDays, due, markets: out };
+      current = { version: PROMPT_VERSION, generatedAt, horizonDays: A.horizonDays, due, markets: out };
+      const today = generatedAt.slice(0, 10);
+      for (let i = history.length - 1; i >= 0; i--) if (history[i].date === today && !history[i].graded) history.splice(i, 1); // una predicción por mercado por día
       for (const p of out)
         history.push({ market: p.id, date: generatedAt.slice(0, 10), due, price: p.price, stance: p.stance, confidence: p.confidence, low: p.target_low, high: p.target_high });
       fs.writeFileSync(curFile, JSON.stringify(current));
