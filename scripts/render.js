@@ -16,6 +16,15 @@ const T = {
     related: "More stories",
     share: "Share",
     shareEnd: "Share this story",
+    nlTitle: "Get the news that moves your money",
+    nlSub: "Breaking news, market calls and the weirdest true stories in your inbox. Free.",
+    nlName: "Your name (optional)",
+    nlEmail: "Your email",
+    nlBtn: "Notify me",
+    nlOk: "You're in! Check your inbox for a welcome email.",
+    nlErr: "Something went wrong. Please try again.",
+    nlBadEmail: "Please enter a valid email.",
+    nlPrivacy: "No spam. Unsubscribe anytime.",
     comments: "Comments",
     commentsIntro: "What do you think? Keep it civil: insults and spam are removed.",
     copy: "Copy link",
@@ -77,6 +86,15 @@ const T = {
     related: "Más noticias",
     share: "Compartir",
     shareEnd: "Comparte esta noticia",
+    nlTitle: "Recibe las noticias que mueven tu dinero",
+    nlSub: "Última hora, predicciones de mercado y las historias más raras en tu correo. Gratis.",
+    nlName: "Tu nombre (opcional)",
+    nlEmail: "Tu correo",
+    nlBtn: "Avísame",
+    nlOk: "¡Listo! Revisa tu correo: te enviamos la bienvenida.",
+    nlErr: "Algo salió mal. Inténtalo de nuevo.",
+    nlBadEmail: "Escribe un correo válido.",
+    nlPrivacy: "Sin spam. Te das de baja cuando quieras.",
     comments: "Comentarios",
     commentsIntro: "¿Qué opinas? Con respeto: los insultos y el spam se eliminan.",
     copy: "Copiar enlace",
@@ -348,9 +366,25 @@ ${
         .join("<span class=\"sep\">•</span>")}</div></div></div></div>`;
     };
 
+    const nl = config.newsletter || {};
+    const notifyBox = (cls = "") =>
+      nl.webhook
+        ? `<section class="notify ${cls}" data-notify data-webhook="${esc(nl.webhook)}" data-lang="${lang}">
+  <div class="nt-head"><span class="nt-icon" aria-hidden="true">🔔</span><div><h2>${t.nlTitle}</h2><p>${t.nlSub}</p></div></div>
+  <form class="nt-form" novalidate>
+    <input type="text" name="name" placeholder="${t.nlName}" maxlength="40" autocomplete="given-name">
+    <input type="email" name="email" placeholder="${t.nlEmail}" required autocomplete="email">
+    <input type="text" name="website" tabindex="-1" autocomplete="off" class="nt-hp" aria-hidden="true">
+    <button type="submit">${t.nlBtn}</button>
+  </form>
+  <p class="nt-msg" data-ok="${esc(t.nlOk)}" data-err="${esc(t.nlErr)}" data-bad="${esc(t.nlBadEmail)}">${t.nlPrivacy}</p>
+</section>`
+        : "";
+
     const footer = (rel) => {
       const pre = prefixFor(rel);
-      return `<footer class="footer"><div class="wrap">
+      return `<div class="wrap nt-band">${notifyBox("wide")}</div>
+<footer class="footer"><div class="wrap">
   <div class="f-brand"><a class="logo" href="${pre}${base}index.html"><span class="logo-mark">P</span><span class="logo-word">pixel<em>content</em></span></a><p>${t.footer}</p></div>
   <div class="f-links">${cats.map((c) => `<a href="${pre}${base}${c.id}.html">${esc(c[lang])}</a>`).join("")}</div>
   <div class="f-links"><a href="${pre}${base}predictions.html">📈 ${t.predictions}</a><a href="${pre}${base}about.html">${t.about}</a><a href="${pre}${base}privacy.html">${t.privacy}</a><a href="${pre}${other === "es" ? "es/" : ""}index.html" data-setlang="${other}">${t.other}</a>${config.social?.youtube ? `<a href="${esc(config.social.youtube)}" target="_blank" rel="noopener">▶ YouTube</a>` : ""}</div>
@@ -423,6 +457,7 @@ ${adBox("leaderboard", "wide top")}
 <div class="layout">
   <div class="main-col">${sections}</div>
   <aside class="side-col">
+    ${notifyBox("side")}
     ${predTeaser(pre)}
     <section class="latest"><h2 class="sec-title"><span><i class="live"></i>${t.latest}</span></h2>${latest.map((s) => card(s, pre, "mini")).join("")}</section>
     ${trendingList(trending, pre)}
@@ -551,6 +586,7 @@ ${adBox("leaderboard", "wide")}
     ${shareBar(title, t.share)}
     ${article}
     ${shareBar(title, t.shareEnd, "share-end")}
+    ${notifyBox("inline")}
     ${commentsBox(s)}
     <h2 class="sec-title"><span>${t.related}</span></h2>
     <div class="grid3">${related.map((r) => card(r, pre, "card")).join("")}</div>

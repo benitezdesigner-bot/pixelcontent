@@ -61,7 +61,30 @@
     window.addEventListener("resize", function () { if (window.innerWidth > 600) setMenu(false); });
   }
 
-  // 4. Compartir
+  // 4. Suscripción a notificaciones por correo (n8n → GetWeb)
+  document.querySelectorAll("[data-notify]").forEach(function (box) {
+    var form = box.querySelector("form"), msg = box.querySelector(".nt-msg"), btn = form.querySelector("button");
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var email = form.email.value.trim();
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { msg.textContent = msg.dataset.bad; msg.className = "nt-msg err"; form.email.focus(); return; }
+      btn.disabled = true;
+      fetch(box.dataset.webhook, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: email, name: form.name.value.trim(), website: form.website.value, lang: box.dataset.lang, page: location.href.split("#")[0] }),
+      })
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function () {
+          msg.textContent = msg.dataset.ok; msg.className = "nt-msg ok";
+          form.style.display = "none";
+          store.set("subscribed", "1");
+        })
+        .catch(function () { msg.textContent = msg.dataset.err; msg.className = "nt-msg err"; btn.disabled = false; });
+    });
+  });
+
+  // 5. Compartir
   var toast = document.querySelector("[data-toast]");
   function showToast() {
     if (!toast) return;

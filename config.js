@@ -16,6 +16,9 @@ export default {
     youtube: "https://www.youtube.com/@pixelcontentnews",
   },
 
+  // ── Suscripción a notificaciones por correo (n8n → GetWeb, con correo de bienvenida) ──
+  newsletter: { webhook: "https://n8n.srv2084195.hstgr.cloud/webhook/pixelcontent-suscripcion" },
+
   // ── Comentarios en cada noticia ─────────────────────────────
   // provider: "disqus" (shortname de tu sitio en disqus.com) o "cusdis" (appId de cusdis.com).
   // Mientras esté vacío no se muestra la sección de comentarios.
