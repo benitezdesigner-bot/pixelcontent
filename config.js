@@ -64,6 +64,9 @@ export default {
     // Con al menos esta cantidad de notas propias en un idioma, el sitio muestra SOLO notas propias.
     minOwnToShowOnly: Number(process.env.AI_MIN_OWN) || 24,
     effort: "low",
+    // Las notas normales se escriben en lote (Batch API, 50 % más barato). Minutos que la
+    // actualización espera el lote; si no termina, las notas salen en la siguiente.
+    batchWaitMin: Number(process.env.AI_BATCH_WAIT_MIN) || 12,
   },
 
   // Cuántas noticias guardar y por cuánto tiempo.

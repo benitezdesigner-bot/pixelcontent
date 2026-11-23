@@ -7,7 +7,7 @@ import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 import Parser from "rss-parser";
 import config from "../config.js";
-import { summarizeNew } from "./ai.js";
+import { summarizeAll } from "./ai.js";
 import { renderSite } from "./render.js";
 import { buildAnalysis } from "./analysis.js";
 
@@ -362,8 +362,7 @@ async function main() {
   writeJSON("og-cache.json", ogCache);
 
   // resúmenes propios con IA (solo si hay clave)
-  const summaries = {};
-  for (const lang of ["en", "es"]) summaries[lang] = await summarizeNew(editions[lang], lang, DATA);
+  const summaries = await summarizeAll(editions, DATA);
 
   const markets = await fetchMarkets();
   console.log(`\n▶ mercados: ${markets.length} indicadores`);

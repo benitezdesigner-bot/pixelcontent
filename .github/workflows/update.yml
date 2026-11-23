@@ -1,4 +1,4 @@
-# Reconstruye PixelContent 3 veces al día y lo publica (GitHub Pages o Hostinger por FTP).
+# Reconstruye PixelContent 5 veces al día y lo publica (GitHub Pages o Hostinger por FTP).
 # Si la variable DEPLOY_TARGET vale "github", publica en GitHub Pages en su lugar.
 name: Actualizar noticias
 
@@ -46,6 +46,8 @@ jobs:
           ADSENSE_SLOT_ARTICLE: ${{ vars.ADSENSE_SLOT_ARTICLE }}
           AI_MODEL: ${{ vars.AI_MODEL }}
           AI_MAX_PER_RUN: ${{ vars.AI_MAX_PER_RUN }}
+          # Al subir cambios de código no se escriben notas nuevas (solo las de última hora): ahorra API.
+          AI_ONLY_PRIORITY: ${{ github.event_name == 'push' && '1' || '' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Guardar el historial de noticias
