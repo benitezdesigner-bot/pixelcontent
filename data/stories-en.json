@@ -1,19 +1,1155 @@
 [
  {
+  "id": "83d15fc084d8",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Interesting Engineering",
+  "title": "China’s 217-mph speeding electric supercar goes global, hits 0-62 mph in two seconds",
+  "excerpt": "Chinese giant Xiaomi has begun selling its electric vehicles outside China for the first time,...",
+  "link": "https://interestingengineering.com/transportation/china-electric-supercar-goes-global",
+  "image": "https://www.youtube.com/embed/Mi7wDJ5swJY",
+  "date": "2026-11-23T02:19:59.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": 13.48,
+  "cluster": "83d15fc084d8"
+ },
+ {
+  "id": "6efc9a656820",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The New York Times",
+  "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+  "excerpt": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
+  "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-spy-chip-fpvj/22dc-spy-chip-fpvj-mediumSquareAt3X.jpg",
+  "date": "2026-11-23T02:17:16.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": 14.96,
+  "cluster": "6efc9a656820"
+ },
+ {
   "id": "83c8a30ff39a",
   "lang": "en",
   "cat": "world",
   "source": "The Guardian",
-  "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+  "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
   "excerpt": "Get our breaking news email, free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating…",
   "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-  "image": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=700&quality=85&auto=format&fit=max&s=7d67ce0f57dee2238c138420fc4a3748",
-  "date": "2026-11-22T21:51:23.000Z",
+  "image": "https://i.guim.co.uk/img/media/be8178f5c5e3de46c0382feac86201617d03820f/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=bd66d35f70889973442f05e2c4bec9bd",
+  "date": "2026-11-23T02:09:47.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.94,
+  "score": 8.92,
   "cluster": "83c8a30ff39a"
+ },
+ {
+  "id": "0f6e9cdc6849",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+  "excerpt": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+  "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b017ad0c4d6-1795259088.jpg?resize=1920%2C1440",
+  "date": "2026-11-23T02:09:15.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 4,
+  "score": 17.92,
+  "cluster": "fb6cb9567670"
+ },
+ {
+  "id": "19f8e32a1da2",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Copper rises after last week’s 9% drop on AI demand concerns",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/copper-rises-after-last-weeks-9-drop-on-ai-demand-concerns-93CH-5044234",
+  "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+  "date": "2026-11-23T02:07:05.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 10.41,
+  "cluster": "19f8e32a1da2"
+ },
+ {
+  "id": "3bb0094b63d9",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "New Atlas",
+  "title": "Gravity sends unstoppable messages for the first time",
+  "excerpt": "Options are limited when you absolutely need to get a message through. Snail mail can get lost. Electromagnetic waves can be shielded. Even reliable ol’ Morse code taps out in a vacuum. Continue Reading Category: Technology Tags: Gravity,…",
+  "link": "https://newatlas.com/technology/gravity-unstoppable-messages-first-time/",
+  "image": "https://assets.newatlas.com/dims4/default/9eb7a5d/2147483647/strip/true/crop/2000x1500+0+0/resize/1280x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F82%2F08%2F3d4afebc4db6a14da0d06aee94fe%2Fhand-apple-gravity.jpg",
+  "date": "2026-11-23T02:03:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": 11.88,
+  "cluster": "3bb0094b63d9"
+ },
+ {
+  "id": "2d7d190b4c02",
+  "lang": "en",
+  "cat": "world",
+  "source": "The New York Times",
+  "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+  "excerpt": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+  "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+  "date": "2026-11-23T02:01:42.000Z",
+  "firstSeen": "2026-11-22T15:37:45.298Z",
+  "coverage": 5,
+  "score": 20.88,
+  "noDate": false,
+  "cluster": "2d7d190b4c02"
+ },
+ {
+  "id": "6d6290d67ed7",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Is a +52% November run the start or the end for this AI-picked ad-tech name?",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/is-a-52-november-run-the-start-or-the-end-for-this-aipicked-adtech-name-5044230",
+  "image": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
+  "date": "2026-11-23T01:57:45.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.86,
+  "cluster": "6d6290d67ed7"
+ },
+ {
+  "id": "86845f971107",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+  "excerpt": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+  "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-05T130309Z_991038335_RC2NFJAH27US_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-TUSK-1795394679.jpg?resize=1920%2C1440",
+  "date": "2026-11-23T01:53:23.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 2,
+  "score": 13.33,
+  "cluster": "86845f971107"
+ },
+ {
+  "id": "d0bc63222d2b",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+  "excerpt": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795398611.jpg?resize=1920%2C1080&quality=80",
+  "date": "2026-11-23T01:51:32.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 8.82,
+  "cluster": "d0bc63222d2b"
+ },
+ {
+  "id": "096eb98386c5",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Israeli forces continue house demolitions in southern Lebanon",
+  "excerpt": "Israeli forces continue house demolitions in southern Lebanon",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/leb-demolition-horizontal-thumb-1795398161.jpg?resize=1920%2C1080&quality=80",
+  "date": "2026-11-23T01:43:29.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 10.28,
+  "cluster": "096eb98386c5"
+ },
+ {
+  "id": "46084e3539a8",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Clariant, CD&R in talks to acquire Ashland, Bloomberg reports",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/clariant-cdr-in-talks-to-acquire-ashland-bloomberg-reports-5044227",
+  "image": "https://content-media.investing.com/news/LYNXMPED9T0EI_M.jpg",
+  "date": "2026-11-23T01:42:45.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.77,
+  "cluster": "46084e3539a8"
+ },
+ {
+  "id": "7993e8c0c2e8",
+  "lang": "en",
+  "cat": "world",
+  "source": "The New York Times",
+  "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+  "excerpt": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+  "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
+  "date": "2026-11-23T01:32:02.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 2,
+  "score": 14.71,
+  "cluster": "7993e8c0c2e8"
+ },
+ {
+  "id": "27b75575f5ef",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Wall Street futures jump after major indexes enter correction territory",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
+  "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+  "date": "2026-11-23T01:31:47.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 3,
+  "score": 16.21,
+  "cluster": "4a1108db1694"
+ },
+ {
+  "id": "05a5742bcea1",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "Here's how much Starlink cost in 2020 vs. 2026",
+  "excerpt": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+  "link": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+  "image": "https://www.engadget.com/img/gallery/heres-how-much-starlink-cost-in-2020-vs-2026/l-intro-1794842346.jpg",
+  "date": "2026-11-23T01:30:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.7,
+  "cluster": "05a5742bcea1"
+ },
+ {
+  "id": "a5b831f26837",
+  "lang": "en",
+  "cat": "world",
+  "source": "The New York Times",
+  "title": "Is Mexico Stepping Up in the War on Drugs?",
+  "excerpt": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+  "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
+  "date": "2026-11-23T01:26:59.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 10.18,
+  "cluster": "a5b831f26837"
+ },
+ {
+  "id": "04504f1c4726",
+  "lang": "en",
+  "cat": "tech",
+  "source": "TechCrunch",
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+  "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+  "date": "2026-11-23T01:25:53.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.68,
+  "cluster": "04504f1c4726"
+ },
+ {
+  "id": "58ba47aabdb3",
+  "lang": "en",
+  "cat": "world",
+  "source": "BBC News",
+  "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+  "excerpt": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+  "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+  "date": "2026-11-23T01:23:43.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T22:01:21.530Z",
+  "coverage": 5,
+  "score": 20.67,
+  "cluster": "a269819b4407"
+ },
+ {
+  "id": "722eda40d616",
+  "lang": "en",
+  "cat": "world",
+  "source": "The Guardian",
+  "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+  "excerpt": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian…",
+  "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+  "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=700&quality=85&auto=format&fit=max&s=352e8733d76f5544397457ac2fa769bc",
+  "date": "2026-11-23T01:23:07.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 8.66,
+  "cluster": "722eda40d616"
+ },
+ {
+  "id": "ac9b29d220cb",
+  "lang": "en",
+  "cat": "economy",
+  "source": "The New York Times",
+  "title": "S&P 500 Futures Rise After Tough Week",
+  "excerpt": "Early investor bets pointed to some stability when regular trading resumes on Monday, though analysts warned that more volatility could still be ahead.",
+  "link": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-markets-jvtl/22biz-markets-jvtl-mediumSquareAt3X.jpg",
+  "date": "2026-11-23T01:17:46.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 10.13,
+  "cluster": "ac9b29d220cb"
+ },
+ {
+  "id": "03b636dc5c77",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Australia shares set to slide at open, NZ falls",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/australia-shares-set-to-slide-at-open-nz-falls-5044213",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+  "date": "2026-11-23T01:12:41.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.6,
+  "cluster": "03b636dc5c77"
+ },
+ {
+  "id": "4ed3335f5f91",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Delta flights faced brief delays at Atlanta airport over automated system issue",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0HI_L.jpg",
+  "date": "2026-11-23T01:07:12.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T22:01:21.529Z",
+  "coverage": 3,
+  "score": 14.57,
+  "cluster": "4ed3335f5f91"
+ },
+ {
+  "id": "6ee0a6470460",
+  "lang": "en",
+  "cat": "economy",
+  "source": "BBC News",
+  "title": "Energy bills will soar - here's how you can ease the pain",
+  "excerpt": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+  "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+  "date": "2026-11-23T01:05:07.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 10.06,
+  "cluster": "6ee0a6470460"
+ },
+ {
+  "id": "ccf893989325",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/beijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5044173",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ0M1_L.jpg",
+  "date": "2026-11-23T01:00:24.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": 13.04,
+  "cluster": "ccf893989325"
+ },
+ {
+  "id": "9ca1323a09e2",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "How to clear your cache on Google TV",
+  "excerpt": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+  "link": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+  "image": "https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg",
+  "date": "2026-11-23T01:00:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.53,
+  "cluster": "9ca1323a09e2"
+ },
+ {
+  "id": "e497745ec4db",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0LD_L.jpg",
+  "date": "2026-11-23T00:54:24.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": 14.5,
+  "cluster": "e497745ec4db"
+ },
+ {
+  "id": "94e8727b585e",
+  "lang": "en",
+  "cat": "world",
+  "source": "The Guardian",
+  "title": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+  "excerpt": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast Beau Lamarre-Condon is a…",
+  "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+  "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/224_167_2452_1962/master/2452.jpg?width=700&quality=85&auto=format&fit=max&s=d9f8f432da9a01c536ee94da099b5c43",
+  "date": "2026-11-23T00:54:02.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 8.5,
+  "cluster": "94e8727b585e"
+ },
+ {
+  "id": "b0bf6395d760",
+  "lang": "en",
+  "cat": "crypto",
+  "source": "Cointelegraph",
+  "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+  "excerpt": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday.",
+  "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82Y4PMA2YN6DTA00JY4GVH4/hi-crypto-charts-101-how-to-read-cryptocurrency-charts-trump.jpg",
+  "date": "2026-11-23T00:53:49.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 10,
+  "cluster": "b0bf6395d760"
+ },
+ {
+  "id": "233527ac46cd",
+  "lang": "en",
+  "cat": "world",
+  "source": "BBC News",
+  "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+  "excerpt": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+  "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+  "date": "2026-11-23T00:50:35.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T22:01:21.530Z",
+  "coverage": 6,
+  "score": 11.48,
+  "cluster": "2d7d190b4c02"
+ },
+ {
+  "id": "09fd85fdd56d",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+  "excerpt": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+  "link": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+  "image": "https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg",
+  "date": "2026-11-23T00:45:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.45,
+  "cluster": "09fd85fdd56d"
+ },
+ {
+  "id": "625f75768949",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+  "excerpt": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+  "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=1920%2C1440",
+  "date": "2026-11-23T00:39:51.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 8.42,
+  "cluster": "625f75768949"
+ },
+ {
+  "id": "2c8bfaa220e8",
+  "lang": "en",
+  "cat": "world",
+  "source": "BBC News",
+  "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+  "excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+  "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+  "date": "2026-11-23T00:33:36.000Z",
+  "firstSeen": "2026-11-22T15:37:45.296Z",
+  "coverage": 2,
+  "score": 11.39,
+  "noDate": false,
+  "cluster": "7e276867e62f"
+ },
+ {
+  "id": "e2be825e0d55",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Guardian",
+  "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+  "excerpt": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders…",
+  "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+  "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=700&quality=85&auto=format&fit=max&s=ad04a537268aeda6ddd71fc03bc516dd",
+  "date": "2026-11-23T00:31:31.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": 14.38,
+  "cluster": "e2be825e0d55"
+ },
+ {
+  "id": "073870100baa",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Yanko Design",
+  "title": "5 Best Cabin Accessories That Add Comfort Without Taking Over the Room",
+  "excerpt": "5 Best Cabin Accessories That Add Comfort Without Taking Over the Room A cabin can feel crowded long before it runs out of floor space. Sometimes it’s breakfast dishes covering the counter, a lamp competing with a...",
+  "link": "https://www.yankodesign.com/2026/11/22/5-best-cabin-accessories-that-add-comfort-without-taking-over-the-room/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-cabin-accessories-that-add-comfort-without-taking-over-the-room",
+  "image": "https://www.yankodesign.com/images/design_news/2026/11/cabin-accessories-that-add-comfort-without-taking-over-the-room/5_best_cabin_accessories_yanko_design_hero.webp",
+  "date": "2026-11-23T00:30:34.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": -3.63,
+  "cluster": "073870100baa"
+ },
+ {
+  "id": "9aece1f48d4a",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "Should you go with a headphone DAC/amp combo or a stack?",
+  "excerpt": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+  "link": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+  "image": "https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg",
+  "date": "2026-11-23T00:30:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.37,
+  "cluster": "9aece1f48d4a"
+ },
+ {
+  "id": "fb29a8b0ea23",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The New York Times",
+  "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+  "excerpt": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president.",
+  "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-el-sayed-trump-flpb/22pol-el-sayed-trump-flpb-mediumSquareAt3X-v2.jpg",
+  "date": "2026-11-23T00:27:25.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 3,
+  "score": 15.85,
+  "cluster": "81fbc1e9870b"
+ },
+ {
+  "id": "7e276867e62f",
+  "lang": "en",
+  "cat": "world",
+  "source": "The Guardian",
+  "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+  "excerpt": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in pictures…",
+  "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+  "image": "https://i.guim.co.uk/img/media/df88b141409fe9863f25f07d5c8fd7707d6c5e27/0_128_3000_1800/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=540a465964a36c177583ab646fe828b9",
+  "date": "2026-11-23T00:25:40.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 2,
+  "score": 12.84,
+  "cluster": "7e276867e62f"
+ },
+ {
+  "id": "05aab9fe7b4a",
+  "lang": "en",
+  "cat": "economy",
+  "source": "BBC News",
+  "title": "What is going on with Poundland?",
+  "excerpt": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+  "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
+  "date": "2026-11-23T00:22:27.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.33,
+  "cluster": "05aab9fe7b4a"
+ },
+ {
+  "id": "6670527b0215",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Asian stock markets tumble as AI bubble fears mount",
+  "excerpt": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
+  "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T015144Z_77722265_RC21IOA70JJX_RTRMADP_3_SOUTHKOREA-MARKETS-1-1795393000_0f55a3-1795395323.jpg?resize=1200%2C630&quality=80",
+  "date": "2026-11-23T00:18:03.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 2,
+  "score": 14.3,
+  "cluster": "6670527b0215"
+ },
+ {
+  "id": "6e76b6ad97e6",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "8 Windows apps you should probably remove from your PC",
+  "excerpt": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+  "link": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+  "image": "https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg",
+  "date": "2026-11-23T00:15:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 9.78,
+  "cluster": "6e76b6ad97e6"
+ },
+ {
+  "id": "626e59734f22",
+  "lang": "en",
+  "cat": "economy",
+  "source": "BBC News",
+  "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+  "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+  "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
+  "date": "2026-11-23T00:08:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 11.25,
+  "cluster": "626e59734f22"
+ },
+ {
+  "id": "07f9bbd955fc",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+  "excerpt": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+  "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/An-undated-photo-showing-members-of-Anglophone-separatist-fighters-during-reconnaissance-training-in-an-undisclosed-locationPhoto-courtesy-Chris-Anu-1795336596.jpg?resize=1200%2C675",
+  "date": "2026-11-23T00:03:30.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 8.22,
+  "cluster": "07f9bbd955fc"
+ },
+ {
+  "id": "484954d5c9a3",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "New Atlas",
+  "title": "$21,500 pickup plans to fix the American truck problem",
+  "excerpt": "First Slate and now REO. It looks like America is done chasing hefty, overdesigned trucks the size of cruise ships. After years of watching pickups grow bigger, fatter, more complicated, and increasingly expensive, there's a growing appetite for…",
+  "link": "https://newatlas.com/automotive/reo-runabout-lineup/",
+  "image": "https://assets.newatlas.com/dims4/default/c61bb6c/2147483647/strip/true/crop/2048x1374+0+0/resize/1431x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F30%2F7a%2F085e80a743cfb6b1e9be88b6518c%2Ft4c-5-2048.jpg",
+  "date": "2026-11-23T00:03:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.22,
+  "cluster": "484954d5c9a3"
+ },
+ {
+  "id": "e20d7ae3782b",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "Public vs. private IP addresses: what's the difference?",
+  "excerpt": "One identifies your network, the other identifies the devices using your network.",
+  "link": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+  "image": "https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg",
+  "date": "2026-11-23T00:00:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.2,
+  "cluster": "e20d7ae3782b"
+ },
+ {
+  "id": "3ecf1ecb43f0",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+  "excerpt": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+  "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C675",
+  "date": "2026-11-22T23:59:22.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 11.2,
+  "cluster": "3ecf1ecb43f0"
+ },
+ {
+  "id": "b06fc917eba8",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Mystery of the red stream in Turkiye",
+  "excerpt": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795391721.jpg?resize=1200%2C675",
+  "date": "2026-11-22T23:57:58.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 8.19,
+  "cluster": "b06fc917eba8"
+ },
+ {
+  "id": "f6c2bff29426",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "What is the best way to secure your PlayStation 5 for a flight?",
+  "excerpt": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+  "link": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+  "image": "https://www.engadget.com/img/gallery/what-is-the-best-way-to-secure-your-playstation-5-for-a-flight/l-intro-1794602643.jpg",
+  "date": "2026-11-22T23:45:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": -3.88,
+  "cluster": "f6c2bff29426"
+ },
+ {
+  "id": "c5c5481f03cd",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Lion on the loose in Turkiye sparks fear among residents",
+  "excerpt": "Lion on the loose in Turkiye sparks fear among residents",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/lion-loose-horizontal-thumb-1795390790.jpg?resize=1920%2C1080&quality=80",
+  "date": "2026-11-22T23:40:48.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 1,
+  "score": 8.09,
+  "cluster": "c5c5481f03cd"
+ },
+ {
+  "id": "6738e42a373d",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Hill",
+  "title": "Mamdani releases 84,000 more 9/11 records",
+  "excerpt": "New York City Mayor Zohran Mamdani (D) released 84,000 more records pertaining to the Sept. 11, 2001, attacks following a previous release that showed city leaders lied about air quality. “After the horrific terror attacks of September 11th and the…",
+  "link": "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/",
+  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-31.png?w=900",
+  "date": "2026-11-22T23:33:47.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 9.56,
+  "cluster": "6738e42a373d"
+ },
+ {
+  "id": "6611db37c6f5",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Yanko Design",
+  "title": "Forgotten Lampshades Become Playful Chandeliers in This Romanian Designer’s Lighting Collection",
+  "excerpt": "Forgotten Lampshades Become Playful Chandeliers in This Romanian Designer’s Lighting Collection There is something undeniably charming about objects that carry traces of the past. Their imperfections, unusual proportions, and familiar textures often…",
+  "link": "https://www.yankodesign.com/2026/11/22/forgotten-lampshades-become-playful-chandeliers-in-this-romanian-designers-lighting-collection/?utm_source=rss&utm_medium=rss&utm_campaign=forgotten-lampshades-become-playful-chandeliers-in-this-romanian-designers-lighting-collection",
+  "image": "https://www.yankodesign.com/images/design_news/2026/11/forgotten-lampshades-become-playful-chandeliers-in-this-romanian-designers-lighting-collection/Lampa_volta_lighting_02.jpg",
+  "date": "2026-11-22T23:30:26.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 8.04,
+  "cluster": "6611db37c6f5"
+ },
+ {
+  "id": "b7770b3d86ad",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The New York Times",
+  "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+  "excerpt": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
+  "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00pol-dems-house-majority-hfo-vwlm/00pol-dems-house-majority-hfo-vwlm-mediumSquareAt3X.jpg",
+  "date": "2026-11-22T23:30:08.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T18:38:40.475Z",
+  "coverage": 3,
+  "score": 17.04,
+  "cluster": "a269819b4407"
+ },
+ {
+  "id": "c56921972084",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "How to use AI glasses as a teleprompter",
+  "excerpt": "If you have the right type of smart glasses, this is an easy feature to enable.",
+  "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+  "image": "https://www.engadget.com/img/gallery/how-to-use-ai-glasses-as-a-teleprompter/l-intro-1794839468.jpg",
+  "date": "2026-11-22T23:30:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 9.53,
+  "cluster": "c56921972084"
+ },
+ {
+  "id": "16eaa063c1f0",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The New York Times",
+  "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+  "excerpt": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
+  "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
+  "date": "2026-11-22T23:28:41.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T18:38:40.475Z",
+  "coverage": 5,
+  "score": 20.03,
+  "cluster": "16eaa063c1f0"
+ },
+ {
+  "id": "1807cf7613f2",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+  "excerpt": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+  "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b03755c-1795388764.jpg?resize=1920%2C1440",
+  "date": "2026-11-22T23:22:59.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 2,
+  "score": 12.5,
+  "cluster": "1807cf7613f2"
+ },
+ {
+  "id": "baeb871cf4fc",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Digital Trends",
+  "title": "These are my favorite Black Friday deals to make your iPhone a little more interesting",
+  "excerpt": "We have officially entered Black Friday week, which means it’s the perfect time to jazz up your smartphone with accessories. There are now magnetic power banks that barely add any bulk to your phone, cases that double as wallets, and external lenses…",
+  "link": "https://www.digitaltrends.com/phones/ive-picked-6-black-friday-deals-to-jazz-up-your-smartphone/",
+  "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/iPhone-Black-Friday-accessories-2.jpg?resize=440%2C292&ssl=1",
+  "date": "2026-11-22T23:01:22.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 5,
+  "score": 7.88,
+  "cluster": "3498286fe0ad"
+ },
+ {
+  "id": "2fdb1a1ec1db",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "The pros and cons of sharing your location",
+  "excerpt": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+  "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+  "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg",
+  "date": "2026-11-22T23:00:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 7.87,
+  "cluster": "2fdb1a1ec1db"
+ },
+ {
+  "id": "e7090200216e",
+  "lang": "en",
+  "cat": "tech",
+  "source": "The Verge",
+  "title": "We haven’t seen the last of the major tech outages",
+  "excerpt": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of…",
+  "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "date": "2026-11-22T22:48:02.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 7.8,
+  "cluster": "e7090200216e"
+ },
+ {
+  "id": "a4537224b7d2",
+  "lang": "en",
+  "cat": "crypto",
+  "source": "Cointelegraph",
+  "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+  "excerpt": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
+  "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82HY5BRFTHNBV47HXBFNCPV/nov-23.jpg",
+  "date": "2026-11-22T22:47:09.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 9.3,
+  "cluster": "a4537224b7d2"
+ },
+ {
+  "id": "c87198fde0e1",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Digital Trends",
+  "title": "Best Buy Black Friday 2026 buying guide: A one-stop shopping list featuring 19 products you can’t miss",
+  "excerpt": "I sorted Best Buy's Black Friday sale into categories and picked 19 products worth buying, cheapest first.",
+  "link": "https://www.digitaltrends.com/home-theater/best-buy-black-friday-2026-buying-guide-a-one-stop-shopping-list-featuring-19-products-you-cant-miss/",
+  "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/best-product-shopping-guide-final-lead-image.jpg?resize=440%2C292&ssl=1",
+  "date": "2026-11-22T22:45:03.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": -1.22,
+  "cluster": "eaeeee342535"
+ },
+ {
+  "id": "c5027510d9a0",
+  "lang": "en",
+  "cat": "world",
+  "source": "BBC News",
+  "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+  "excerpt": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+  "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
+  "date": "2026-11-22T22:37:43.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-22T18:38:40.475Z",
+  "coverage": 2,
+  "score": 12.24,
+  "cluster": "c5027510d9a0"
+ },
+ {
+  "id": "9cd25bc21082",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Trump to host private dinner for largest owners of his meme coin",
+  "excerpt": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+  "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP25198724695124-1776869150.jpg?resize=1920%2C1440",
+  "date": "2026-11-22T22:37:38.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 2,
+  "score": 12.24,
+  "cluster": "e2be825e0d55"
+ },
+ {
+  "id": "100149a02675",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "Can you safely use a 140w charger on an iPhone?",
+  "excerpt": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+  "link": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+  "image": "https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg",
+  "date": "2026-11-22T22:30:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 7.7,
+  "cluster": "100149a02675"
+ },
+ {
+  "id": "00dd1a103566",
+  "lang": "en",
+  "cat": "markets",
+  "source": "Investing.com",
+  "title": "Goldman Sachs’ economic outlook for 2027",
+  "excerpt": "",
+  "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-economic-outlook-for-2027-5044151",
+  "image": "https://content-media.investing.com/news/LYNXMPEM50182_1200_L.jpg",
+  "date": "2026-11-22T22:24:42.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 7.67,
+  "cluster": "00dd1a103566"
+ },
+ {
+  "id": "986ed2e7726d",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+  "excerpt": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+  "link": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aff532d36231-1795117869.jpg?resize=1920%2C1440",
+  "date": "2026-11-22T22:19:47.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 5,
+  "score": 19.64,
+  "cluster": "a269819b4407"
+ },
+ {
+  "id": "152623e56e8c",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "This free app connects your Android phone to your Windows PC wirelessly",
+  "excerpt": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
+  "link": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+  "image": "https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg",
+  "date": "2026-11-22T22:15:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 9.12,
+  "cluster": "152623e56e8c"
+ },
+ {
+  "id": "52ed84d042f7",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Hill",
+  "title": "Russian ship docked in Libya hit in suspected drone attack",
+  "excerpt": "A Russian ship docked at a naval base in Benghazi was severely damaged in a suspected Ukrainian drone attack Sunday, according to Libyan officials. The Merkury, a Russian navy corvette, was struck by two sea drones while docked in the eastern Libyan…",
+  "link": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-30.png?w=900",
+  "date": "2026-11-22T22:03:52.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 4,
+  "score": 18.06,
+  "cluster": "969b3e367a9a"
+ },
+ {
+  "id": "f5cf02013749",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "New Atlas",
+  "title": "108-mic array gives immersive video a matching soundtrack",
+  "excerpt": "Blackmagic Design has crammed 108 microphones into a faceted metal sphere small enough to sit on top of a camera. The company’s new Ambisonic Microphone is built to give 360-degree cameras and the immersive video they shoot a soundtrack that’s…",
+  "link": "https://newatlas.com/technology/blackmagic-ambisonic-microphone-immersive-audio/",
+  "image": "https://assets.newatlas.com/dims4/default/c970230/2147483647/strip/true/crop/2000x1094+0+0/resize/1440x788!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F0e%2F06%2F034ee28a4719b478300ff0114764%2F1-blackmagic-ambisonic-microphone-2x.jpg",
+  "date": "2026-11-22T22:03:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 7.55,
+  "cluster": "f5cf02013749"
+ },
+ {
+  "id": "909c7891b599",
+  "lang": "en",
+  "cat": "world",
+  "source": "Al Jazeera",
+  "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+  "excerpt": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795384757.jpg?resize=1805%2C1080&quality=80",
+  "date": "2026-11-22T22:01:48.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.902Z",
+  "coverage": 3,
+  "score": 13.54,
+  "cluster": "909c7891b599"
+ },
+ {
+  "id": "6d237cbadb79",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Guardian",
+  "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+  "excerpt": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald Trump as long…",
+  "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+  "image": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=700&quality=85&auto=format&fit=max&s=724301389237418347353d40b6a22ab5",
+  "date": "2026-11-22T22:01:17.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 3,
+  "score": 16.54,
+  "cluster": "81fbc1e9870b"
+ },
+ {
+  "id": "eeb1e11900cd",
+  "lang": "en",
+  "cat": "gadgets",
+  "source": "Engadget",
+  "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+  "excerpt": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
+  "link": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
+  "image": "https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg",
+  "date": "2026-11-22T22:00:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 7.53,
+  "cluster": "eeb1e11900cd"
+ },
+ {
+  "id": "b1b92a46cd7e",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Hill",
+  "title": "This Week on The Hill: Lawmakers break for Thanksgiving as year-end agenda looms",
+  "excerpt": "Lawmakers are home for Thanksgiving, but they will have little time to enjoy the break before returning to a packed legislative agenda. With Democrats set to take control of both chambers in January, Republicans have just a few weeks left to push…",
+  "link": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/",
+  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/On-the-Hill_112226_Kochi_Illo_CJ-GN.png?w=900",
+  "date": "2026-11-22T22:00:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 1,
+  "score": 7.53,
+  "cluster": "b1b92a46cd7e"
+ },
+ {
+  "id": "b611a7417b5c",
+  "lang": "en",
+  "cat": "politics",
+  "source": "The Hill",
+  "title": "Jeffries faces growing pains with large majority and sprawling investigative agenda",
+  "excerpt": "House Minority Leader Hakeem Jeffries (D-N.Y.) is set to take over the largest Democratic Caucus since the 1990s, and with it, potential headaches stemming from policy disagreements and sprawling investigations. Democrats have been in a celebratory…",
+  "link": "https://thehill.com/the-120/6234822-hakeem-jeffries-democratic-house-speaker-agenda/",
+  "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/jeffrieshakeem_111226gn12_w.jpg?w=900",
+  "date": "2026-11-22T22:00:00.000Z",
+  "noDate": false,
+  "firstSeen": "2026-11-23T02:23:46.901Z",
+  "coverage": 2,
+  "score": 10.53,
+  "cluster": "9262e5fe5f54"
  },
  {
   "id": "9dfd5a1985ad",
@@ -27,7 +1163,7 @@
   "date": "2026-11-22T21:51:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 8.94,
+  "score": 7.48,
   "noDate": false,
   "cluster": "9dfd5a1985ad"
  },
@@ -36,7 +1172,7 @@
   "lang": "en",
   "cat": "world",
   "source": "The Guardian",
-  "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone",
+  "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
   "excerpt": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian…",
   "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
   "image": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=700&quality=85&auto=format&fit=max&s=ca0b9a525d2c15606ae2a9f3afdcedb9",
@@ -44,7 +1180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 3,
-  "score": 14.92,
+  "score": 13.46,
   "cluster": "b15d9fea3e61"
  },
  {
@@ -60,7 +1196,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.91,
+  "score": 7.45,
   "cluster": "b697042aec6a"
  },
  {
@@ -76,7 +1212,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.91,
+  "score": 7.45,
   "cluster": "3d95598c9708"
  },
  {
@@ -92,7 +1228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 8.9,
+  "score": 7.44,
   "cluster": "9d561cc7e83a"
  },
  {
@@ -107,8 +1243,8 @@
   "date": "2026-11-22T21:33:52.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 4,
-  "score": 19.35,
+  "coverage": 5,
+  "score": 20.89,
   "cluster": "a269819b4407"
  },
  {
@@ -123,9 +1259,9 @@
   "date": "2026-11-22T21:33:44.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
-  "coverage": 3,
-  "score": 17.85,
-  "cluster": "e2830407b36a"
+  "coverage": 4,
+  "score": 19.39,
+  "cluster": "969b3e367a9a"
  },
  {
   "id": "cbd4b83e547f",
@@ -140,7 +1276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 4,
-  "score": 5.84,
+  "score": 4.39,
   "cluster": "cbd4b83e547f"
  },
  {
@@ -156,7 +1292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.83,
+  "score": 7.37,
   "cluster": "97713ff68f78"
  },
  {
@@ -172,7 +1308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 8.81,
+  "score": 7.36,
   "cluster": "bef1bd06a30e"
  },
  {
@@ -188,7 +1324,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.8,
+  "score": 7.35,
   "cluster": "03ff1eb2421d"
  },
  {
@@ -196,15 +1332,15 @@
   "lang": "en",
   "cat": "politics",
   "source": "The Hill",
-  "title": "El-Sayed would pass Medicare for All as 'TrumpCare': 'I don't really care what it's called",
-  "excerpt": "Sen.-elect Abdul El-Sayed (D-Mich.) on Sunday said he would pass a single-payer healthcare bill, commonly referred to as Medicare for All, with the name \"TrumpCare,\" adding that he does not \"really care what it's called.\" NBC News's \"Meet the Press\"…",
+  "title": "El-Sayed would pass Medicare for All as 'TrumpCare': 'I don't really care what it's called'",
+  "excerpt": "Sen.-elect Abdul El-Sayed (D-Mich.) on Sunday said he would pass a single-payer healthcare bill — commonly referred to as “Medicare for All” — with the name “TrumpCare,” adding that he does not “really care what it’s called.” During El-Sayed’s…",
   "link": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26314030517506-e1794415643417.jpg?w=900",
   "date": "2026-11-22T21:24:40.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 2,
-  "score": 13.3,
+  "coverage": 4,
+  "score": 17.84,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -220,7 +1356,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.79,
+  "score": 7.33,
   "cluster": "d7fd540855b1"
  },
  {
@@ -236,7 +1372,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 11.77,
+  "score": 10.31,
   "cluster": "e16611e15cde"
  },
  {
@@ -252,7 +1388,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -3.26,
+  "score": -4.72,
   "cluster": "34cf49dafd37"
  },
  {
@@ -267,25 +1403,9 @@
   "date": "2026-11-22T21:14:07.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
-  "coverage": 1,
-  "score": 11.74,
-  "cluster": "716c53fa8fce"
- },
- {
-  "id": "4ed3335f5f91",
-  "lang": "en",
-  "cat": "markets",
-  "source": "Investing.com",
-  "title": "Delta flights faced brief delays at Atlanta airport over automated system issue",
-  "excerpt": "",
-  "link": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0HI_L.jpg",
-  "date": "2026-11-22T21:12:24.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T22:01:21.529Z",
-  "coverage": 3,
-  "score": 14.73,
-  "cluster": "4ed3335f5f91"
+  "coverage": 2,
+  "score": 13.28,
+  "cluster": "e497745ec4db"
  },
  {
   "id": "66ae122a2b7c",
@@ -300,7 +1420,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": -3.34,
+  "score": -4.8,
   "cluster": "66ae122a2b7c"
  },
  {
@@ -316,7 +1436,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.66,
+  "score": 7.2,
   "cluster": "2428b477d259"
  },
  {
@@ -332,7 +1452,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 4,
-  "score": 19.13,
+  "score": 17.68,
   "cluster": "16bb4b229baf"
  },
  {
@@ -340,7 +1460,7 @@
   "lang": "en",
   "cat": "politics",
   "source": "The Hill",
-  "title": "Democratic Rep says next Congress will focus on using AI to improve healthcare, jobs and agriculture",
+  "title": "Democratic lawmaker says next Congress will focus on using AI to improve healthcare, jobs, agriculture",
   "excerpt": "Rep. Brad Schneider (D-Ill.) said the next Congress will be focusing on using AI to improve healthcare, jobs and agriculture. “We can make sure that we do have people overseeing and protecting American interests, American citizens from the risk of…",
   "link": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2025/04/schneiderbrad_040825gn01_w.jpg?w=900",
@@ -348,7 +1468,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 11.62,
+  "score": 10.16,
   "cluster": "20a6e430f222"
  },
  {
@@ -364,7 +1484,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.58,
+  "score": 7.12,
   "cluster": "941af467e7f5"
  },
  {
@@ -380,7 +1500,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 11.57,
+  "score": 10.11,
   "cluster": "7ef2671ba68b"
  },
  {
@@ -396,7 +1516,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.52,
+  "score": 7.06,
   "cluster": "66bd3e3ef2e6"
  },
  {
@@ -412,7 +1532,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.49,
+  "score": 7.03,
   "cluster": "d2642b27adb3"
  },
  {
@@ -428,7 +1548,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.49,
+  "score": 7.03,
   "cluster": "7c35c7b163de"
  },
  {
@@ -444,40 +1564,24 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 4,
-  "score": 18.98,
-  "cluster": "e2830407b36a"
+  "score": 17.52,
+  "cluster": "969b3e367a9a"
  },
  {
   "id": "c4f91851e71f",
   "lang": "en",
   "cat": "politics",
   "source": "The Hill",
-  "title": "Flanagan says wins made by her, Mary Peltola 'makes our capitol look a little bit more like America'",
-  "excerpt": "Sen.-elect Peggy Flanagan (D-Minn.) on Sunday said the victories won by her and Sen.-elect Mary Peltola (D-Alaska) as the first Native American women to be in the U.S. Senate \"makes our capitol look a little bit more like America.\" Flanagan told…",
+  "title": "Flanagan says wins made by her, Peltola 'makes our capital look a little bit more like America'",
+  "excerpt": "Sen.-elect Peggy Flanagan (D-Minn.) on Sunday said the victories won by her and Sen.-elect Mary Peltola (D-Alaska) as the first Native American women to be in the U.S. Senate \"makes our capital look a little bit more like America.\" Flanagan told…",
   "link": "https://thehill.com/homenews/senate/6235791-peggy-flanagan-says-wins-made-by-her-mary-peltola-makes-our-capitol-look-a-little-bit-more-like-america/",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-28.png?w=900",
   "date": "2026-11-22T20:27:35.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 2,
-  "score": 11.48,
+  "coverage": 1,
+  "score": 7.02,
   "cluster": "c4f91851e71f"
- },
- {
-  "id": "58ba47aabdb3",
-  "lang": "en",
-  "cat": "world",
-  "source": "BBC News",
-  "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-  "excerpt": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-  "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
-  "date": "2026-11-22T20:26:24.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 4,
-  "score": 17.47,
-  "cluster": "a269819b4407"
  },
  {
   "id": "eac5320fa5a7",
@@ -492,7 +1596,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 9.97,
+  "score": 8.51,
   "cluster": "eac5320fa5a7"
  },
  {
@@ -507,9 +1611,9 @@
   "date": "2026-11-22T20:23:36.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 2,
-  "score": 11.46,
-  "cluster": "fb61cc4234e2"
+  "coverage": 3,
+  "score": 13,
+  "cluster": "6efc9a656820"
  },
  {
   "id": "fdf18ad95019",
@@ -524,7 +1628,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 12.94,
+  "score": 11.48,
   "cluster": "493972531c14"
  },
  {
@@ -540,7 +1644,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.41,
+  "score": 6.95,
   "cluster": "d5561701de93"
  },
  {
@@ -556,7 +1660,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.41,
+  "score": 6.95,
   "cluster": "4ac2ac817826"
  },
  {
@@ -572,7 +1676,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.37,
+  "score": 6.92,
   "cluster": "b9ff9afa7b3c"
  },
  {
@@ -588,7 +1692,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.35,
+  "score": 6.89,
   "cluster": "5373bce8afb1"
  },
  {
@@ -604,7 +1708,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.33,
+  "score": 6.87,
   "cluster": "dfbff6411453"
  },
  {
@@ -620,7 +1724,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 4,
-  "score": 17.33,
+  "score": 15.87,
   "cluster": "b15d9fea3e61"
  },
  {
@@ -635,7 +1739,7 @@
   "date": "2026-11-22T19:57:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 10.31,
+  "score": 8.86,
   "noDate": false,
   "cluster": "2b8062874970"
  },
@@ -652,7 +1756,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 12.75,
+  "score": 11.29,
   "cluster": "4dfd121c6c30"
  },
  {
@@ -668,7 +1772,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.24,
+  "score": 6.78,
   "cluster": "b12b3ae0d228"
  },
  {
@@ -684,7 +1788,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.22,
+  "score": 6.76,
   "cluster": "7020b5a3700c"
  },
  {
@@ -700,7 +1804,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.16,
+  "score": 6.7,
   "cluster": "23d8669970c1"
  },
  {
@@ -716,7 +1820,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 9.66,
+  "score": 8.2,
   "cluster": "940e55205b44"
  },
  {
@@ -732,7 +1836,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 11.16,
+  "score": 9.7,
   "cluster": "602c39981a44"
  },
  {
@@ -748,7 +1852,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 11.15,
+  "score": 9.69,
   "cluster": "1be9a8552240"
  },
  {
@@ -764,7 +1868,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 2,
-  "score": 11.13,
+  "score": 9.67,
   "cluster": "81fbc1e9870b"
  },
  {
@@ -780,7 +1884,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 11.1,
+  "score": 9.64,
   "cluster": "41d31761ec9c"
  },
  {
@@ -796,7 +1900,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.1,
+  "score": 6.64,
   "cluster": "490fe1287b08"
  },
  {
@@ -805,14 +1909,14 @@
   "cat": "politics",
   "source": "The Guardian",
   "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-  "excerpt": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen…",
+  "excerpt": "Milestone reached Sunday after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina Democrats have won their largest majority in the House in more than three decades after Chuck Hubbard defeated Republican representative…",
   "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
   "image": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=700&quality=85&auto=format&fit=max&s=2620a31ff89b69898c1c25b848ecf6cf",
   "date": "2026-11-22T19:17:56.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 4,
-  "score": 17.09,
+  "coverage": 5,
+  "score": 18.63,
   "cluster": "a269819b4407"
  },
  {
@@ -828,7 +1932,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 8.08,
+  "score": 6.62,
   "cluster": "58c5fd35ec98"
  },
  {
@@ -844,7 +1948,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 11.05,
+  "score": 9.59,
   "cluster": "0d33e501774b"
  },
  {
@@ -860,13 +1964,13 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": -4,
+  "score": -5.46,
   "cluster": "9d3b1b4e1aa5"
  },
  {
   "id": "adb0aabaaa02",
   "lang": "en",
-  "cat": "world",
+  "cat": "tech",
   "source": "The Guardian",
   "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
   "excerpt": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email, free app or daily news podcast Bosses at 10 datacentre companies secured almost 120…",
@@ -876,7 +1980,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 2,
-  "score": 11,
+  "score": 9.54,
   "cluster": "b46e4c9bd6a4"
  },
  {
@@ -892,7 +1996,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 9.49,
+  "score": 8.03,
   "cluster": "6a3c9ca93cfb"
  },
  {
@@ -908,7 +2012,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 5,
-  "score": 7.98,
+  "score": 6.52,
   "cluster": "2d7d190b4c02"
  },
  {
@@ -923,9 +2027,9 @@
   "date": "2026-11-22T18:56:48.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 4,
-  "score": 16.97,
-  "cluster": "c4393aa0e780"
+  "coverage": 5,
+  "score": 18.52,
+  "cluster": "16eaa063c1f0"
  },
  {
   "id": "2e34b198714b",
@@ -940,7 +2044,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.529Z",
   "coverage": 1,
-  "score": 9.47,
+  "score": 8.01,
   "cluster": "2e34b198714b"
  },
  {
@@ -954,10 +2058,10 @@
   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/foxxvirginia_032726gn01_w.jpg?w=900",
   "date": "2026-11-22T18:53:53.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 4,
-  "score": 18.46,
+  "coverage": 5,
+  "score": 20,
   "noDate": false,
-  "cluster": "483d8f6c1df0"
+  "cluster": "16eaa063c1f0"
  },
  {
   "id": "fb6cb9567670",
@@ -971,8 +2075,8 @@
   "date": "2026-11-22T18:51:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 4,
-  "score": 16.94,
+  "coverage": 5,
+  "score": 18.48,
   "cluster": "fb6cb9567670"
  },
  {
@@ -988,7 +2092,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 7.91,
+  "score": 6.45,
   "cluster": "cd200aab6cc1"
  },
  {
@@ -1004,24 +2108,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 7.91,
+  "score": 6.45,
   "cluster": "de58128811dc"
- },
- {
-  "id": "16eaa063c1f0",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The New York Times",
-  "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
-  "excerpt": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
-  "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
-  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
-  "date": "2026-11-22T18:37:10.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T18:38:40.475Z",
-  "coverage": 4,
-  "score": 16.87,
-  "cluster": "483d8f6c1df0"
  },
  {
   "id": "fbe9ad59c54d",
@@ -1036,7 +2124,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
   "coverage": 1,
-  "score": 7.85,
+  "score": 6.4,
   "cluster": "fbe9ad59c54d"
  },
  {
@@ -1052,7 +2140,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:45:59.691Z",
   "coverage": 2,
-  "score": 10.83,
+  "score": 9.37,
   "cluster": "b64d2e67efc9"
  },
  {
@@ -1067,8 +2155,8 @@
   "date": "2026-11-22T18:29:46.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 2,
-  "score": 10.82,
+  "coverage": 3,
+  "score": 12.37,
   "cluster": "19ca54e98ff7"
  },
  {
@@ -1083,25 +2171,9 @@
   "date": "2026-11-22T18:25:42.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T18:45:59.691Z",
-  "coverage": 2,
-  "score": 10.8,
-  "cluster": "9262e5fe5f54"
- },
- {
-  "id": "b7770b3d86ad",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The New York Times",
-  "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
-  "excerpt": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
-  "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
-  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00pol-dems-house-majority-hfo-vwlm/00pol-dems-house-majority-hfo-vwlm-mediumSquareAt3X.jpg",
-  "date": "2026-11-22T18:23:08.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 3,
-  "score": 16.79,
-  "cluster": "a269819b4407"
+  "score": 12.34,
+  "cluster": "9262e5fe5f54"
  },
  {
   "id": "3673b90c3910",
@@ -1116,7 +2188,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": -2.71,
+  "score": -4.17,
   "cluster": "3673b90c3910"
  },
  {
@@ -1132,7 +2204,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.78,
+  "score": 6.32,
   "cluster": "699ea053e18a"
  },
  {
@@ -1148,24 +2220,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.78,
+  "score": 6.32,
   "cluster": "26bb11cdaab6"
- },
- {
-  "id": "2d7d190b4c02",
-  "lang": "en",
-  "cat": "world",
-  "source": "The New York Times",
-  "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-  "excerpt": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-  "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-  "date": "2026-11-22T18:20:39.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 5,
-  "score": 19.77,
-  "noDate": false,
-  "cluster": "2d7d190b4c02"
  },
  {
   "id": "373e4a9d30e4",
@@ -1180,24 +2236,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 10.76,
+  "score": 9.3,
   "cluster": "16bb4b229baf"
- },
- {
-  "id": "233527ac46cd",
-  "lang": "en",
-  "cat": "world",
-  "source": "BBC News",
-  "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-  "excerpt": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-  "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-  "date": "2026-11-22T18:17:59.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T22:01:21.530Z",
-  "coverage": 6,
-  "score": 10.76,
-  "cluster": "2d7d190b4c02"
  },
  {
   "id": "20f83d9572c0",
@@ -1212,7 +2252,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 10.74,
+  "score": 9.28,
   "cluster": "20f83d9572c0"
  },
  {
@@ -1228,7 +2268,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 12.23,
+  "score": 10.77,
   "cluster": "0657f5c19944"
  },
  {
@@ -1244,7 +2284,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.73,
+  "score": 6.27,
   "cluster": "e4e5ec09ef1d"
  },
  {
@@ -1260,8 +2300,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 4,
-  "score": 18.22,
-  "cluster": "e2830407b36a"
+  "score": 16.77,
+  "cluster": "969b3e367a9a"
  },
  {
   "id": "4d3cc10c5927",
@@ -1276,7 +2316,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.72,
+  "score": 6.26,
   "cluster": "4d3cc10c5927"
  },
  {
@@ -1292,7 +2332,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 5,
-  "score": 19.71,
+  "score": 18.25,
   "cluster": "46bb805ec67e"
  },
  {
@@ -1308,7 +2348,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.69,
+  "score": 6.23,
   "cluster": "12bbde7ca7bc"
  },
  {
@@ -1319,11 +2359,11 @@
   "title": "Rather Than Sell Their House, They Became Landlords Instead",
   "excerpt": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
   "link": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
-  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X.jpg",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg",
   "date": "2026-11-22T18:05:48.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.69,
+  "score": 6.23,
   "noDate": false,
   "cluster": "4a3fc25ec61a"
  },
@@ -1340,7 +2380,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 5,
-  "score": 7.68,
+  "score": 6.23,
   "cluster": "2d7d190b4c02"
  },
  {
@@ -1356,7 +2396,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.67,
+  "score": 6.21,
   "cluster": "2cc243c8c89e"
  },
  {
@@ -1372,7 +2412,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.66,
+  "score": 6.2,
   "cluster": "781eaa7f5e8e"
  },
  {
@@ -1388,7 +2428,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.66,
+  "score": 6.2,
   "cluster": "43ff13bda800"
  },
  {
@@ -1404,24 +2444,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.66,
+  "score": 6.2,
   "cluster": "78b7685e14ee"
- },
- {
-  "id": "c5027510d9a0",
-  "lang": "en",
-  "cat": "world",
-  "source": "BBC News",
-  "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-  "excerpt": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-  "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
-  "date": "2026-11-22T17:57:43.000Z",
-  "noDate": false,
-  "firstSeen": "2026-11-22T18:38:40.475Z",
-  "coverage": 2,
-  "score": 12.15,
-  "cluster": "97cd20591521"
  },
  {
   "id": "c5c9681ac21c",
@@ -1436,8 +2460,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 1.63,
-  "cluster": "c5c9681ac21c"
+  "score": 0.18,
+  "cluster": "ccf893989325"
  },
  {
   "id": "3500af305ed0",
@@ -1451,9 +2475,9 @@
   "date": "2026-11-22T17:55:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 10.63,
+  "score": 9.18,
   "noDate": false,
-  "cluster": "3500af305ed0"
+  "cluster": "1c42a93b1597"
  },
  {
   "id": "baaf80a5b164",
@@ -1468,7 +2492,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 1.63,
+  "score": 0.17,
   "cluster": "46a122c8953e"
  },
  {
@@ -1484,7 +2508,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 2,
-  "score": 9.62,
+  "score": 8.17,
   "cluster": "a500820b5385"
  },
  {
@@ -1500,7 +2524,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.6,
+  "score": 6.15,
   "cluster": "18f88e8e220e"
  },
  {
@@ -1516,7 +2540,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 3,
-  "score": 13.59,
+  "score": 12.13,
   "cluster": "4ed3335f5f91"
  },
  {
@@ -1532,7 +2556,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.58,
+  "score": 6.13,
   "cluster": "8dafc0c5db87"
  },
  {
@@ -1548,7 +2572,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T18:38:40.475Z",
   "coverage": 1,
-  "score": 7.58,
+  "score": 6.12,
   "cluster": "a3d87933ceb4"
  },
  {
@@ -1564,7 +2588,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 3,
-  "score": 13.5,
+  "score": 12.04,
   "cluster": "4ed3335f5f91"
  },
  {
@@ -1580,8 +2604,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 4,
-  "score": 16.49,
-  "cluster": "4782459313af"
+  "score": 15.03,
+  "cluster": "29a7bf2daa03"
  },
  {
   "id": "a500820b5385",
@@ -1596,7 +2620,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 2,
-  "score": 10.47,
+  "score": 9.01,
   "cluster": "a500820b5385"
  },
  {
@@ -1612,7 +2636,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.187Z",
   "coverage": 1,
-  "score": 8.97,
+  "score": 7.51,
   "cluster": "265c68ec3a4c"
  },
  {
@@ -1628,7 +2652,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.187Z",
   "coverage": 1,
-  "score": 7.45,
+  "score": 5.99,
   "cluster": "91bc026d2609"
  },
  {
@@ -1644,7 +2668,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 3,
-  "score": 14.93,
+  "score": 13.48,
   "cluster": "16bb4b229baf"
  },
  {
@@ -1659,7 +2683,7 @@
   "date": "2026-11-22T17:18:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 14.93,
+  "score": 13.47,
   "noDate": false,
   "cluster": "4c9d70de279c"
  },
@@ -1676,8 +2700,8 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 2,
-  "score": 11.91,
-  "cluster": "493972531c14"
+  "score": 10.45,
+  "cluster": "3df9e26d0976"
  },
  {
   "id": "e3bce82e41c2",
@@ -1692,7 +2716,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 4,
-  "score": 16.4,
+  "score": 14.94,
   "cluster": "2d7d190b4c02"
  },
  {
@@ -1707,9 +2731,9 @@
   "date": "2026-11-22T17:12:48.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
-  "coverage": 3,
-  "score": 14.9,
-  "cluster": "e2830407b36a"
+  "coverage": 4,
+  "score": 16.44,
+  "cluster": "969b3e367a9a"
  },
  {
   "id": "269744fa7aca",
@@ -1724,7 +2748,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.187Z",
   "coverage": 1,
-  "score": 7.36,
+  "score": 5.9,
   "cluster": "269744fa7aca"
  },
  {
@@ -1740,7 +2764,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 2,
-  "score": 11.83,
+  "score": 10.37,
   "cluster": "bac8a192da88"
  },
  {
@@ -1756,7 +2780,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.222Z",
   "coverage": 3,
-  "score": 17.83,
+  "score": 16.37,
   "cluster": "c52011ecd8c5"
  },
  {
@@ -1771,8 +2795,8 @@
   "date": "2026-11-22T17:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.222Z",
-  "coverage": 7,
-  "score": 25.33,
+  "coverage": 3,
+  "score": 11.87,
   "cluster": "3498286fe0ad"
  },
  {
@@ -1788,7 +2812,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 1,
-  "score": 7.33,
+  "score": 5.87,
   "cluster": "178b1fdf980d"
  },
  {
@@ -1804,7 +2828,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 1,
-  "score": 7.33,
+  "score": 5.87,
   "cluster": "7df5af3bc836"
  },
  {
@@ -1820,7 +2844,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 2,
-  "score": 10.33,
+  "score": 8.87,
   "cluster": "9cb79b635e1d"
  },
  {
@@ -1836,7 +2860,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 1,
-  "score": 8.83,
+  "score": 7.37,
   "cluster": "275fbea67a34"
  },
  {
@@ -1852,7 +2876,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 3,
-  "score": 13.31,
+  "score": 11.85,
   "cluster": "4064ef48a759"
  },
  {
@@ -1867,7 +2891,7 @@
   "date": "2026-11-22T16:56:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.3,
+  "score": 5.85,
   "noDate": false,
   "cluster": "438acf5edc56"
  },
@@ -1884,7 +2908,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:44:11.188Z",
   "coverage": 1,
-  "score": 10.27,
+  "score": 8.82,
   "cluster": "9175c4da6624"
  },
  {
@@ -1900,7 +2924,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 1,
-  "score": 8.77,
+  "score": 7.31,
   "cluster": "bb39a2c8c643"
  },
  {
@@ -1916,7 +2940,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 1,
-  "score": 7.24,
+  "score": 5.78,
   "cluster": "b88e5b4b7e70"
  },
  {
@@ -1932,7 +2956,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:38:17.426Z",
   "coverage": 1,
-  "score": 7.18,
+  "score": 5.72,
   "cluster": "2a805be7b78a"
  },
  {
@@ -1948,7 +2972,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:38:17.425Z",
   "coverage": 1,
-  "score": 7.18,
+  "score": 5.72,
   "cluster": "ff69f03faa88"
  },
  {
@@ -1964,7 +2988,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T17:03:33.223Z",
   "coverage": 5,
-  "score": 7.18,
+  "score": 5.72,
   "cluster": "2d7d190b4c02"
  },
  {
@@ -1980,7 +3004,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:38:17.425Z",
   "coverage": 1,
-  "score": 8.67,
+  "score": 7.21,
   "cluster": "a50c49c5abf3"
  },
  {
@@ -1996,7 +3020,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:43:43.017Z",
   "coverage": 1,
-  "score": 7.16,
+  "score": 5.7,
   "cluster": "7678100b5b0b"
  },
  {
@@ -2012,7 +3036,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:20:28.181Z",
   "coverage": 1,
-  "score": 7.1,
+  "score": 5.65,
   "cluster": "432c372e603f"
  },
  {
@@ -2028,7 +3052,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:20:28.181Z",
   "coverage": 1,
-  "score": 7.09,
+  "score": 5.63,
   "cluster": "26541281d355"
  },
  {
@@ -2044,7 +3068,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:18:44.569Z",
   "coverage": 1,
-  "score": 7.08,
+  "score": 5.62,
   "cluster": "69d237384442"
  },
  {
@@ -2060,7 +3084,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:26:36.555Z",
   "coverage": 1,
-  "score": 7.08,
+  "score": 5.62,
   "cluster": "b08bc130bb0b"
  },
  {
@@ -2075,7 +3099,7 @@
   "date": "2026-11-22T16:14:46.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 5,
-  "score": 8.57,
+  "score": 7.12,
   "noDate": false,
   "cluster": "2d7d190b4c02"
  },
@@ -2092,7 +3116,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 5,
-  "score": 19.05,
+  "score": 17.59,
   "cluster": "46bb805ec67e"
  },
  {
@@ -2108,7 +3132,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:18:44.569Z",
   "coverage": 1,
-  "score": 7.05,
+  "score": 5.59,
   "cluster": "798247febde2"
  },
  {
@@ -2124,7 +3148,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:18:44.570Z",
   "coverage": 1,
-  "score": 8.53,
+  "score": 7.07,
   "cluster": "0598c2e882d9"
  },
  {
@@ -2139,7 +3163,7 @@
   "date": "2026-11-22T16:04:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.01,
+  "score": 5.56,
   "noDate": false,
   "cluster": "c815411561d0"
  },
@@ -2156,7 +3180,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 2,
-  "score": 10.01,
+  "score": 8.55,
   "cluster": "c8ba8cb27360"
  },
  {
@@ -2171,8 +3195,8 @@
   "date": "2026-11-22T16:01:59.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T16:28:30.653Z",
-  "coverage": 4,
-  "score": 16,
+  "coverage": 5,
+  "score": 17.55,
   "cluster": "fb6cb9567670"
  },
  {
@@ -2187,8 +3211,8 @@
   "date": "2026-11-22T16:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
-  "coverage": 1,
-  "score": 6.99,
+  "coverage": 2,
+  "score": 8.53,
   "cluster": "d19e1c64a568"
  },
  {
@@ -2204,7 +3228,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:26:36.555Z",
   "coverage": 1,
-  "score": 6.99,
+  "score": 5.53,
   "cluster": "ed8f1d49247e"
  },
  {
@@ -2220,7 +3244,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:28:30.653Z",
   "coverage": 1,
-  "score": 6.99,
+  "score": 5.53,
   "cluster": "1e4780d8e621"
  },
  {
@@ -2236,7 +3260,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 1,
-  "score": 6.97,
+  "score": 5.51,
   "cluster": "665b02d8d90f"
  },
  {
@@ -2252,7 +3276,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 1,
-  "score": 9.96,
+  "score": 8.5,
   "cluster": "ef68dc9e6979"
  },
  {
@@ -2268,7 +3292,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T15:52:14.757Z",
   "coverage": 2,
-  "score": 9.93,
+  "score": 8.47,
   "cluster": "b46e4c9bd6a4"
  },
  {
@@ -2284,7 +3308,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 3,
-  "score": 14.43,
+  "score": 12.97,
   "cluster": "16bb4b229baf"
  },
  {
@@ -2299,8 +3323,8 @@
   "date": "2026-11-22T15:47:16.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T15:47:42.949Z",
-  "coverage": 2,
-  "score": 12.92,
+  "coverage": 4,
+  "score": 17.46,
   "cluster": "3df9e26d0976"
  },
  {
@@ -2316,7 +3340,7 @@
   "noDate": false,
   "firstSeen": "2026-11-22T16:11:54.218Z",
   "coverage": 1,
-  "score": 8.41,
+  "score": 6.95,
   "cluster": "13e2c07ae4a3"
  },
  {
@@ -2331,7 +3355,7 @@
   "date": "2026-11-22T15:30:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.83,
+  "score": 5.37,
   "noDate": false,
   "cluster": "7171acd10e97"
  },
@@ -2347,7 +3371,7 @@
   "date": "2026-11-22T15:30:09.000Z",
   "firstSeen": "2026-11-22T15:44:50.042Z",
   "coverage": 1,
-  "score": 8.33,
+  "score": 6.87,
   "noDate": false,
   "cluster": "8b4a9c841d1a"
  },
@@ -2363,7 +3387,7 @@
   "date": "2026-11-22T15:30:00.000Z",
   "firstSeen": "2026-11-22T15:44:50.042Z",
   "coverage": 1,
-  "score": 6.83,
+  "score": 5.37,
   "noDate": false,
   "cluster": "bcf34bdaedad"
  },
@@ -2379,7 +3403,7 @@
   "date": "2026-11-22T15:28:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.81,
+  "score": 5.36,
   "noDate": false,
   "cluster": "d7a5485f744f"
  },
@@ -2395,7 +3419,7 @@
   "date": "2026-11-22T15:26:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 3,
-  "score": 14.31,
+  "score": 12.85,
   "noDate": false,
   "cluster": "493972531c14"
  },
@@ -2411,7 +3435,7 @@
   "date": "2026-11-22T15:24:20.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.79,
+  "score": 5.34,
   "noDate": false,
   "cluster": "fc34d3031ad2"
  },
@@ -2426,10 +3450,10 @@
   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/02/trumpdonald_schumerchuck_022726gn01_w.jpg?w=900",
   "date": "2026-11-22T15:19:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 8.27,
+  "coverage": 2,
+  "score": 9.81,
   "noDate": false,
-  "cluster": "72f09eb75d78"
+  "cluster": "1807cf7613f2"
  },
  {
   "id": "2269595c3cbc",
@@ -2443,7 +3467,7 @@
   "date": "2026-11-22T15:15:07.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.74,
+  "score": 5.29,
   "noDate": false,
   "cluster": "2269595c3cbc"
  },
@@ -2459,7 +3483,7 @@
   "date": "2026-11-22T15:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.24,
+  "score": 6.78,
   "noDate": false,
   "cluster": "c20dac2fb129"
  },
@@ -2474,8 +3498,8 @@
   "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
   "date": "2026-11-22T15:12:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 11.23,
+  "coverage": 3,
+  "score": 12.77,
   "noDate": false,
   "cluster": "4dfd121c6c30"
  },
@@ -2491,7 +3515,7 @@
   "date": "2026-11-22T15:03:38.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.68,
+  "score": 5.22,
   "noDate": false,
   "cluster": "c868416eb404"
  },
@@ -2506,10 +3530,10 @@
   "image": "https://i.guim.co.uk/img/media/5d2a6cedacc58722d23ad3e97679243dd5038818/1104_445_3625_2899/master/3625.jpg?width=700&quality=85&auto=format&fit=max&s=7b913cd0527d5d00841a87b40f16deac",
   "date": "2026-11-22T15:00:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 4,
-  "score": 15.66,
+  "coverage": 5,
+  "score": 17.2,
   "noDate": false,
-  "cluster": "483d8f6c1df0"
+  "cluster": "16eaa063c1f0"
  },
  {
   "id": "07194b192617",
@@ -2523,7 +3547,7 @@
   "date": "2026-11-22T15:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.66,
+  "score": 5.2,
   "noDate": false,
   "cluster": "07194b192617"
  },
@@ -2539,7 +3563,7 @@
   "date": "2026-11-22T15:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.66,
+  "score": 5.2,
   "noDate": false,
   "cluster": "a3fef1646dc6"
  },
@@ -2555,7 +3579,7 @@
   "date": "2026-11-22T15:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.66,
+  "score": 5.2,
   "noDate": false,
   "cluster": "4ccbfddf1a8f"
  },
@@ -2570,10 +3594,10 @@
   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/vanhollenchris_schumercharles_111326gn01_w.jpg?w=900",
   "date": "2026-11-22T14:59:49.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 6.66,
+  "coverage": 2,
+  "score": 8.2,
   "noDate": false,
-  "cluster": "79b14787c764"
+  "cluster": "1807cf7613f2"
  },
  {
   "id": "5f90b56cd8f8",
@@ -2587,7 +3611,7 @@
   "date": "2026-11-22T14:57:05.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.64,
+  "score": 5.18,
   "noDate": false,
   "cluster": "5f90b56cd8f8"
  },
@@ -2603,7 +3627,7 @@
   "date": "2026-11-22T14:51:39.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.61,
+  "score": 5.15,
   "noDate": false,
   "cluster": "cf1a9d685762"
  },
@@ -2619,7 +3643,7 @@
   "date": "2026-11-22T14:51:37.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 11.11,
+  "score": 9.65,
   "noDate": false,
   "cluster": "363be724f1d5"
  },
@@ -2635,7 +3659,7 @@
   "date": "2026-11-22T14:51:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 9.61,
+  "score": 8.15,
   "noDate": false,
   "cluster": "0eec71ac6650"
  },
@@ -2651,7 +3675,7 @@
   "date": "2026-11-22T14:48:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.6,
+  "score": 8.14,
   "noDate": false,
   "cluster": "63e4201e02da"
  },
@@ -2667,7 +3691,7 @@
   "date": "2026-11-22T14:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 8.08,
+  "score": 6.62,
   "noDate": false,
   "cluster": "5f0fb8794bae"
  },
@@ -2683,7 +3707,7 @@
   "date": "2026-11-22T14:41:25.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.56,
+  "score": 5.1,
   "noDate": false,
   "cluster": "ffe0cd876cfd"
  },
@@ -2699,7 +3723,7 @@
   "date": "2026-11-22T14:35:55.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.53,
+  "score": 5.07,
   "noDate": false,
   "cluster": "bca759dd4d9c"
  },
@@ -2715,7 +3739,7 @@
   "date": "2026-11-22T14:35:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.52,
+  "score": 5.06,
   "noDate": false,
   "cluster": "fb157832a472"
  },
@@ -2731,7 +3755,7 @@
   "date": "2026-11-22T14:34:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.51,
+  "score": 5.06,
   "noDate": false,
   "cluster": "0e0033667e08"
  },
@@ -2747,7 +3771,7 @@
   "date": "2026-11-22T14:33:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 12.51,
+  "score": 11.05,
   "noDate": false,
   "cluster": "f7671820ae49"
  },
@@ -2763,7 +3787,7 @@
   "date": "2026-11-22T14:30:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.99,
+  "score": 6.54,
   "noDate": false,
   "cluster": "b786d45dfd10"
  },
@@ -2779,7 +3803,7 @@
   "date": "2026-11-22T14:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.49,
+  "score": 5.03,
   "noDate": false,
   "cluster": "96218b7d40f9"
  },
@@ -2795,7 +3819,7 @@
   "date": "2026-11-22T14:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.49,
+  "score": 5.03,
   "noDate": false,
   "cluster": "e617de6ab327"
  },
@@ -2811,9 +3835,9 @@
   "date": "2026-11-22T14:22:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 13.95,
+  "score": 12.49,
   "noDate": false,
-  "cluster": "e2830407b36a"
+  "cluster": "4c9d70de279c"
  },
  {
   "id": "2b86c9cc5f29",
@@ -2827,7 +3851,7 @@
   "date": "2026-11-22T14:20:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 10.94,
+  "score": 9.48,
   "noDate": false,
   "cluster": "2b86c9cc5f29"
  },
@@ -2843,7 +3867,7 @@
   "date": "2026-11-22T14:20:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.44,
+  "score": 4.98,
   "noDate": false,
   "cluster": "751e6f683476"
  },
@@ -2859,7 +3883,7 @@
   "date": "2026-11-22T14:15:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.91,
+  "score": 6.45,
   "noDate": false,
   "cluster": "197b0e92e5bc"
  },
@@ -2875,7 +3899,7 @@
   "date": "2026-11-22T14:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.41,
+  "score": 4.95,
   "noDate": false,
   "cluster": "e91d2a4888d0"
  },
@@ -2891,7 +3915,7 @@
   "date": "2026-11-22T14:08:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.37,
+  "score": 4.91,
   "noDate": false,
   "cluster": "acde35f028d8"
  },
@@ -2907,7 +3931,7 @@
   "date": "2026-11-22T14:05:20.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 9.36,
+  "score": 7.9,
   "noDate": false,
   "cluster": "cd3f9ca39c77"
  },
@@ -2923,7 +3947,7 @@
   "date": "2026-11-22T14:01:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.33,
+  "score": 4.87,
   "noDate": false,
   "cluster": "d85a97bebee8"
  },
@@ -2939,7 +3963,7 @@
   "date": "2026-11-22T14:00:33.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.83,
+  "score": 6.37,
   "noDate": false,
   "cluster": "f7ac6af79b52"
  },
@@ -2955,7 +3979,7 @@
   "date": "2026-11-22T14:00:32.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.83,
+  "score": 6.37,
   "noDate": false,
   "cluster": "204648171c6d"
  },
@@ -2971,7 +3995,7 @@
   "date": "2026-11-22T14:00:31.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": -2.67,
+  "score": -4.13,
   "noDate": false,
   "cluster": "f1f2cb976874"
  },
@@ -2987,7 +4011,7 @@
   "date": "2026-11-22T14:00:29.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 9.33,
+  "score": 7.87,
   "noDate": false,
   "cluster": "2d7d190b4c02"
  },
@@ -3002,10 +4026,10 @@
   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ0UK_L.jpg",
   "date": "2026-11-22T14:00:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 7,
-  "score": 24.33,
+  "coverage": 1,
+  "score": 4.87,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "482dfa1bff00"
  },
  {
   "id": "bc4bf2d54934",
@@ -3019,7 +4043,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.83,
+  "score": 6.37,
   "noDate": false,
   "cluster": "bc4bf2d54934"
  },
@@ -3034,10 +4058,10 @@
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0,0,100,100",
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 9,
-  "score": 24.33,
+  "coverage": 4,
+  "score": 13.87,
   "noDate": false,
-  "cluster": "4782459313af"
+  "cluster": "29a7bf2daa03"
  },
  {
   "id": "08360187a8fd",
@@ -3051,7 +4075,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.33,
+  "score": 4.87,
   "noDate": false,
   "cluster": "08360187a8fd"
  },
@@ -3067,7 +4091,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.33,
+  "score": 4.87,
   "noDate": false,
   "cluster": "3e9b0accb36d"
  },
@@ -3083,7 +4107,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.83,
+  "score": 6.37,
   "noDate": false,
   "cluster": "ffae009bc0b1"
  },
@@ -3099,7 +4123,7 @@
   "date": "2026-11-22T14:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.83,
+  "score": 6.37,
   "noDate": false,
   "cluster": "f3e65377cbdf"
  },
@@ -3115,7 +4139,7 @@
   "date": "2026-11-22T13:50:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.77,
+  "score": 6.31,
   "noDate": false,
   "cluster": "4e724c4997d2"
  },
@@ -3131,7 +4155,7 @@
   "date": "2026-11-22T13:50:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 12.27,
+  "score": 10.81,
   "noDate": false,
   "cluster": "edb39a91cc5d"
  },
@@ -3147,7 +4171,7 @@
   "date": "2026-11-22T13:49:20.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 9.27,
+  "score": 7.81,
   "noDate": false,
   "cluster": "69216dbd1106"
  },
@@ -3163,7 +4187,7 @@
   "date": "2026-11-22T13:46:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.75,
+  "score": 6.29,
   "noDate": false,
   "cluster": "7e9e4cc10757"
  },
@@ -3179,7 +4203,7 @@
   "date": "2026-11-22T13:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.74,
+  "score": 6.28,
   "noDate": false,
   "cluster": "273a1ea81d9c"
  },
@@ -3195,7 +4219,7 @@
   "date": "2026-11-22T13:35:09.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 9.19,
+  "score": 7.73,
   "noDate": false,
   "cluster": "75339f6618bc"
  },
@@ -3211,7 +4235,7 @@
   "date": "2026-11-22T13:31:40.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.17,
+  "score": 4.71,
   "noDate": false,
   "cluster": "7ff6e93eeec8"
  },
@@ -3227,7 +4251,7 @@
   "date": "2026-11-22T13:30:05.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.16,
+  "score": 4.7,
   "noDate": false,
   "cluster": "ea8481d69737"
  },
@@ -3243,7 +4267,7 @@
   "date": "2026-11-22T13:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.66,
+  "score": 6.2,
   "noDate": false,
   "cluster": "7d2e760ecdbc"
  },
@@ -3259,7 +4283,7 @@
   "date": "2026-11-22T13:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.16,
+  "score": 4.7,
   "noDate": false,
   "cluster": "55236dd062e1"
  },
@@ -3275,7 +4299,7 @@
   "date": "2026-11-22T13:26:19.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.14,
+  "score": 4.68,
   "noDate": false,
   "cluster": "aeea368c1d81"
  },
@@ -3290,10 +4314,10 @@
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440",
   "date": "2026-11-22T13:16:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 4,
-  "score": 15.09,
+  "coverage": 5,
+  "score": 16.63,
   "noDate": false,
-  "cluster": "e2830407b36a"
+  "cluster": "969b3e367a9a"
  },
  {
   "id": "abce69213c3d",
@@ -3307,7 +4331,7 @@
   "date": "2026-11-22T13:15:40.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.08,
+  "score": 4.62,
   "noDate": false,
   "cluster": "abce69213c3d"
  },
@@ -3323,7 +4347,7 @@
   "date": "2026-11-22T13:15:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 9.08,
+  "score": 7.62,
   "noDate": false,
   "cluster": "2b8062874970"
  },
@@ -3339,9 +4363,9 @@
   "date": "2026-11-22T13:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 9.08,
+  "score": 7.62,
   "noDate": false,
-  "cluster": "bddb5ebd608e"
+  "cluster": "93511a099623"
  },
  {
   "id": "2bc6067434de",
@@ -3355,7 +4379,7 @@
   "date": "2026-11-22T13:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.58,
+  "score": 6.12,
   "noDate": false,
   "cluster": "2bc6067434de"
  },
@@ -3371,7 +4395,7 @@
   "date": "2026-11-22T13:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 9.01,
+  "score": 7.55,
   "noDate": false,
   "cluster": "b64d2e67efc9"
  },
@@ -3387,7 +4411,7 @@
   "date": "2026-11-22T13:01:25.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6,
+  "score": 4.54,
   "noDate": false,
   "cluster": "f1c00677928e"
  },
@@ -3403,7 +4427,7 @@
   "date": "2026-11-22T13:00:57.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.5,
+  "score": 6.04,
   "noDate": false,
   "cluster": "be824d35f3bd"
  },
@@ -3419,7 +4443,7 @@
   "date": "2026-11-22T13:00:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 12,
+  "score": 10.54,
   "noDate": false,
   "cluster": "b7ad53f84096"
  },
@@ -3434,8 +4458,8 @@
   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22DB-mamdani-kmcp/22DB-mamdani-kmcp-mediumSquareAt3X.jpg",
   "date": "2026-11-22T13:00:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 3,
-  "score": 14.99,
+  "coverage": 4,
+  "score": 16.53,
   "noDate": false,
   "cluster": "4a1108db1694"
  },
@@ -3451,7 +4475,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.49,
+  "score": 6.03,
   "noDate": false,
   "cluster": "82a8a10f0807"
  },
@@ -3467,7 +4491,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.99,
+  "score": 4.53,
   "noDate": false,
   "cluster": "0f50037c76f2"
  },
@@ -3483,7 +4507,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.99,
+  "score": 4.53,
   "noDate": false,
   "cluster": "d1afb959f577"
  },
@@ -3499,7 +4523,7 @@
   "date": "2026-11-22T13:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.99,
+  "score": 4.53,
   "noDate": false,
   "cluster": "5328c3f24e10"
  },
@@ -3515,7 +4539,7 @@
   "date": "2026-11-22T12:51:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 5,
-  "score": 19.44,
+  "score": 17.98,
   "noDate": false,
   "cluster": "46bb805ec67e"
  },
@@ -3531,7 +4555,7 @@
   "date": "2026-11-22T12:45:03.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 2,
-  "score": 11.91,
+  "score": 10.45,
   "noDate": false,
   "cluster": "4476b606161a"
  },
@@ -3547,7 +4571,7 @@
   "date": "2026-11-22T12:40:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -6.12,
+  "score": -7.58,
   "noDate": false,
   "cluster": "a3d63629e827"
  },
@@ -3563,7 +4587,7 @@
   "date": "2026-11-22T12:32:25.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.84,
+  "score": 4.38,
   "noDate": false,
   "cluster": "cc275525a80e"
  },
@@ -3579,7 +4603,7 @@
   "date": "2026-11-22T12:31:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 10.33,
+  "score": 8.88,
   "noDate": false,
   "cluster": "3e2b016a40c9"
  },
@@ -3595,7 +4619,7 @@
   "date": "2026-11-22T12:30:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.33,
+  "score": 5.87,
   "noDate": false,
   "cluster": "3e4850050840"
  },
@@ -3611,7 +4635,7 @@
   "date": "2026-11-22T12:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.33,
+  "score": 5.87,
   "noDate": false,
   "cluster": "113d0aee3c51"
  },
@@ -3627,7 +4651,7 @@
   "date": "2026-11-22T12:29:34.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.82,
+  "score": 4.37,
   "noDate": false,
   "cluster": "1cf4c847a4f0"
  },
@@ -3643,7 +4667,7 @@
   "date": "2026-11-22T12:27:46.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.81,
+  "score": 4.36,
   "noDate": false,
   "cluster": "94031a80a6e2"
  },
@@ -3659,7 +4683,7 @@
   "date": "2026-11-22T12:22:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.79,
+  "score": 4.33,
   "noDate": false,
   "cluster": "8bc05df59ec1"
  },
@@ -3674,10 +4698,10 @@
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T071015Z_268220017_RC2VSOAP8KV4_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-AFTERMATH-1795343380.jpg?resize=1920%2C1440",
   "date": "2026-11-22T12:19:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 8.77,
+  "coverage": 2,
+  "score": 10.31,
   "noDate": false,
-  "cluster": "2ad0ceb8c2d3"
+  "cluster": "7993e8c0c2e8"
  },
  {
   "id": "b46e4c9bd6a4",
@@ -3691,7 +4715,7 @@
   "date": "2026-11-22T12:16:11.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 3,
-  "score": 11.75,
+  "score": 10.29,
   "noDate": false,
   "cluster": "b46e4c9bd6a4"
  },
@@ -3707,7 +4731,7 @@
   "date": "2026-11-22T12:12:07.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 4,
-  "score": 16.23,
+  "score": 14.77,
   "noDate": false,
   "cluster": "f908da6e29c9"
  },
@@ -3723,7 +4747,7 @@
   "date": "2026-11-22T12:07:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.7,
+  "score": 4.24,
   "noDate": false,
   "cluster": "4bf8745996d9"
  },
@@ -3739,7 +4763,7 @@
   "date": "2026-11-22T12:06:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.69,
+  "score": 4.24,
   "noDate": false,
   "cluster": "0568b018cc11"
  },
@@ -3755,7 +4779,7 @@
   "date": "2026-11-22T12:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -6.34,
+  "score": -7.8,
   "noDate": false,
   "cluster": "76f4feb05807"
  },
@@ -3771,7 +4795,7 @@
   "date": "2026-11-22T11:54:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 8.63,
+  "score": 7.17,
   "noDate": false,
   "cluster": "20f83d9572c0"
  },
@@ -3787,7 +4811,7 @@
   "date": "2026-11-22T11:50:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 10.1,
+  "score": 8.65,
   "noDate": false,
   "cluster": "c52011ecd8c5"
  },
@@ -3803,7 +4827,7 @@
   "date": "2026-11-22T11:46:42.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 7.09,
+  "score": 5.63,
   "noDate": false,
   "cluster": "66e999a9f0a5"
  },
@@ -3819,7 +4843,7 @@
   "date": "2026-11-22T11:44:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 11.57,
+  "score": 10.12,
   "noDate": false,
   "cluster": "de821aa0f1a3"
  },
@@ -3835,7 +4859,7 @@
   "date": "2026-11-22T11:33:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.51,
+  "score": 4.05,
   "noDate": false,
   "cluster": "0c8172c95365"
  },
@@ -3850,10 +4874,10 @@
   "image": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/master/pass/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
   "date": "2026-11-22T11:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 9,
-  "score": 11.49,
+  "coverage": 7,
+  "score": 10.03,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "29a7bf2daa03"
  },
  {
   "id": "b431ea497743",
@@ -3867,7 +4891,7 @@
   "date": "2026-11-22T11:25:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.97,
+  "score": 5.51,
   "noDate": false,
   "cluster": "b431ea497743"
  },
@@ -3883,9 +4907,9 @@
   "date": "2026-11-22T11:15:27.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 15.91,
+  "score": 14.45,
   "noDate": false,
-  "cluster": "e2830407b36a"
+  "cluster": "969b3e367a9a"
  },
  {
   "id": "c9eb381fcfbf",
@@ -3899,7 +4923,7 @@
   "date": "2026-11-22T11:07:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.37,
+  "score": 3.91,
   "noDate": false,
   "cluster": "c9eb381fcfbf"
  },
@@ -3915,7 +4939,7 @@
   "date": "2026-11-22T11:03:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 11.34,
+  "score": 9.88,
   "noDate": false,
   "cluster": "46a122c8953e"
  },
@@ -3931,7 +4955,7 @@
   "date": "2026-11-22T11:02:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -6.66,
+  "score": -8.12,
   "noDate": false,
   "cluster": "cbf30328532a"
  },
@@ -3947,14 +4971,14 @@
   "date": "2026-11-22T11:00:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 6.83,
+  "score": 5.37,
   "noDate": false,
   "cluster": "6cfafb674561"
  },
  {
   "id": "0ea430def483",
   "lang": "en",
-  "cat": "tech",
+  "cat": "politics",
   "source": "The Guardian",
   "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
   "excerpt": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China Howard Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump, is emerging as Democrats’ prime target when the party…",
@@ -3963,7 +4987,7 @@
   "date": "2026-11-22T11:00:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 11.33,
+  "score": 9.87,
   "noDate": false,
   "cluster": "0ea430def483"
  },
@@ -3979,7 +5003,7 @@
   "date": "2026-11-22T11:00:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": -6.67,
+  "score": -8.13,
   "noDate": false,
   "cluster": "2606cafd4f33"
  },
@@ -3994,10 +5018,10 @@
   "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 8.33,
+  "coverage": 2,
+  "score": 9.87,
   "noDate": false,
-  "cluster": "31c336541238"
+  "cluster": "3df9e26d0976"
  },
  {
   "id": "9f6df889b722",
@@ -4011,7 +5035,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 9.83,
+  "score": 8.37,
   "noDate": false,
   "cluster": "9f6df889b722"
  },
@@ -4027,7 +5051,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 8.33,
+  "score": 6.87,
   "noDate": false,
   "cluster": "d4ce14995a94"
  },
@@ -4043,7 +5067,7 @@
   "date": "2026-11-22T11:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 6.83,
+  "score": 5.37,
   "noDate": false,
   "cluster": "ec3d02840bba"
  },
@@ -4059,7 +5083,7 @@
   "date": "2026-11-22T10:54:22.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 3,
-  "score": 12.79,
+  "score": 11.34,
   "noDate": false,
   "cluster": "cc6891ccf573"
  },
@@ -4075,7 +5099,7 @@
   "date": "2026-11-22T10:41:01.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.22,
+  "score": 3.76,
   "noDate": false,
   "cluster": "236aa2a73eaf"
  },
@@ -4091,8 +5115,8 @@
   "date": "2026-11-22T10:39:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 5,
-  "score": 18.71,
-  "cluster": "e2830407b36a"
+  "score": 17.26,
+  "cluster": "969b3e367a9a"
  },
  {
   "id": "d71d6efc58d1",
@@ -4106,7 +5130,7 @@
   "date": "2026-11-22T10:39:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.21,
+  "score": 3.75,
   "noDate": false,
   "cluster": "d71d6efc58d1"
  },
@@ -4122,7 +5146,7 @@
   "date": "2026-11-22T10:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.16,
+  "score": 3.7,
   "noDate": false,
   "cluster": "4cae423ce55f"
  },
@@ -4138,7 +5162,7 @@
   "date": "2026-11-22T10:20:50.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.11,
+  "score": 3.65,
   "noDate": false,
   "cluster": "f3b7e6e0107e"
  },
@@ -4154,7 +5178,7 @@
   "date": "2026-11-22T10:16:39.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 14.08,
+  "score": 12.63,
   "noDate": false,
   "cluster": "f7671820ae49"
  },
@@ -4170,7 +5194,7 @@
   "date": "2026-11-22T10:02:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.01,
+  "score": 3.55,
   "noDate": false,
   "cluster": "d619d9b762e9"
  },
@@ -4186,7 +5210,7 @@
   "date": "2026-11-22T10:02:17.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 8.01,
+  "score": 6.55,
   "noDate": false,
   "cluster": "b6df141d7093"
  },
@@ -4202,7 +5226,7 @@
   "date": "2026-11-22T10:02:11.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5,
+  "score": 3.55,
   "noDate": false,
   "cluster": "6fb35511c863"
  },
@@ -4218,7 +5242,7 @@
   "date": "2026-11-22T10:01:47.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5,
+  "score": 3.54,
   "noDate": false,
   "cluster": "3cc841ff3d4c"
  },
@@ -4234,7 +5258,7 @@
   "date": "2026-11-22T10:00:23.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 7.99,
+  "score": 6.54,
   "noDate": false,
   "cluster": "887128f5bcf6"
  },
@@ -4250,7 +5274,7 @@
   "date": "2026-11-22T10:00:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 4.99,
+  "score": 3.53,
   "noDate": false,
   "cluster": "6580d386341b"
  },
@@ -4266,7 +5290,7 @@
   "date": "2026-11-22T10:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 7.99,
+  "score": 6.53,
   "noDate": false,
   "cluster": "4064ef48a759"
  },
@@ -4282,7 +5306,7 @@
   "date": "2026-11-22T09:33:06.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 6.34,
+  "score": 4.89,
   "noDate": false,
   "cluster": "8169d7dc0073"
  },
@@ -4298,7 +5322,7 @@
   "date": "2026-11-22T09:28:04.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 4.82,
+  "score": 3.36,
   "noDate": false,
   "cluster": "4c68479e97ae"
  },
@@ -4314,7 +5338,7 @@
   "date": "2026-11-22T09:25:33.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.8,
+  "score": 3.34,
   "noDate": false,
   "cluster": "1f2661d7b912"
  },
@@ -4330,7 +5354,7 @@
   "date": "2026-11-22T09:20:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 13.77,
+  "score": 12.32,
   "noDate": false,
   "cluster": "f908da6e29c9"
  },
@@ -4346,7 +5370,7 @@
   "date": "2026-11-22T09:18:08.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.76,
+  "score": 3.3,
   "noDate": false,
   "cluster": "028176a58f59"
  },
@@ -4362,7 +5386,7 @@
   "date": "2026-11-22T09:09:20.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 4.71,
+  "score": 3.25,
   "noDate": false,
   "cluster": "261c4915e766"
  },
@@ -4378,7 +5402,7 @@
   "date": "2026-11-22T09:08:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.71,
+  "score": 3.25,
   "noDate": false,
   "cluster": "d84c3be8036b"
  },
@@ -4394,7 +5418,7 @@
   "date": "2026-11-22T09:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 4.68,
+  "score": 3.22,
   "noDate": false,
   "cluster": "f473ec4365ab"
  },
@@ -4410,7 +5434,7 @@
   "date": "2026-11-22T09:00:22.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 9.16,
+  "score": 7.7,
   "noDate": false,
   "cluster": "7751ababced9"
  },
@@ -4426,7 +5450,7 @@
   "date": "2026-11-22T09:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 9.16,
+  "score": 7.7,
   "noDate": false,
   "cluster": "8b9217c105c8"
  },
@@ -4442,7 +5466,7 @@
   "date": "2026-11-22T08:35:05.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 4,
-  "score": 13.52,
+  "score": 12.06,
   "noDate": false,
   "cluster": "f908da6e29c9"
  },
@@ -4458,7 +5482,7 @@
   "date": "2026-11-22T08:00:22.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.83,
+  "score": 4.37,
   "noDate": false,
   "cluster": "a0dc0301adf1"
  },
@@ -4467,14 +5491,14 @@
   "lang": "en",
   "cat": "markets",
   "source": "Investing.com",
-  "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
+  "title": "Bitcoin makes tentative rebound, rising over 1% to reclaim $60,000",
   "excerpt": "",
   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
   "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg",
   "date": "2026-11-22T07:29:58.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 7.16,
+  "score": 4.2,
   "noDate": false,
   "cluster": "91e845d85895"
  },
@@ -4490,7 +5514,7 @@
   "date": "2026-11-22T07:24:05.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 7.13,
+  "score": 5.67,
   "noDate": false,
   "cluster": "f908da6e29c9"
  },
@@ -4506,25 +5530,9 @@
   "date": "2026-11-22T07:22:05.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 4.12,
+  "score": 2.66,
   "noDate": false,
   "cluster": "c96c1ed2d4eb"
- },
- {
-  "id": "2c8bfaa220e8",
-  "lang": "en",
-  "cat": "world",
-  "source": "BBC News",
-  "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-  "excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-  "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
-  "date": "2026-11-22T07:12:41.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 4.06,
-  "noDate": false,
-  "cluster": "2c8bfaa220e8"
  },
  {
   "id": "3684e9678abe",
@@ -4538,7 +5546,7 @@
   "date": "2026-11-22T07:11:17.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 7.06,
+  "score": 5.6,
   "noDate": false,
   "cluster": "cd3f9ca39c77"
  },
@@ -4554,9 +5562,9 @@
   "date": "2026-11-22T07:00:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 4,
-  "score": 0.99,
+  "score": -0.46,
   "noDate": false,
-  "cluster": "4782459313af"
+  "cluster": "29a7bf2daa03"
  },
  {
   "id": "d5fc78291994",
@@ -4570,7 +5578,7 @@
   "date": "2026-11-22T06:58:18.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 3.98,
+  "score": 2.53,
   "noDate": false,
   "cluster": "d5fc78291994"
  },
@@ -4586,7 +5594,7 @@
   "date": "2026-11-22T06:55:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.96,
+  "score": 2.51,
   "noDate": false,
   "cluster": "f38e55a05f8c"
  },
@@ -4602,7 +5610,7 @@
   "date": "2026-11-22T06:34:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.35,
+  "score": 3.89,
   "noDate": false,
   "cluster": "0501f2a906cd"
  },
@@ -4618,7 +5626,7 @@
   "date": "2026-11-22T06:11:57.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.73,
+  "score": 2.27,
   "noDate": false,
   "cluster": "203808a1de0a"
  },
@@ -4634,7 +5642,7 @@
   "date": "2026-11-22T06:00:21.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 5.16,
+  "score": 3.7,
   "noDate": false,
   "cluster": "a0149a113037"
  },
@@ -4650,7 +5658,7 @@
   "date": "2026-11-22T06:00:19.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 5.16,
+  "score": 3.7,
   "noDate": false,
   "cluster": "9eade0408225"
  },
@@ -4666,7 +5674,7 @@
   "date": "2026-11-22T06:00:18.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.16,
+  "score": 3.7,
   "noDate": false,
   "cluster": "96eef9501f0c"
  },
@@ -4682,9 +5690,9 @@
   "date": "2026-11-22T05:45:32.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 4,
-  "score": 12.58,
+  "score": 11.12,
   "noDate": false,
-  "cluster": "97cd20591521"
+  "cluster": "c5027510d9a0"
  },
  {
   "id": "0985b71f3d0a",
@@ -4698,7 +5706,7 @@
   "date": "2026-11-22T05:28:43.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.49,
+  "score": 2.03,
   "noDate": false,
   "cluster": "0985b71f3d0a"
  },
@@ -4714,7 +5722,7 @@
   "date": "2026-11-22T05:21:13.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 3.44,
+  "score": 1.99,
   "noDate": false,
   "cluster": "14a9be827b79"
  },
@@ -4730,7 +5738,7 @@
   "date": "2026-11-22T05:21:01.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 3.44,
+  "score": 1.98,
   "noDate": false,
   "cluster": "dc4db2d33164"
  },
@@ -4746,7 +5754,7 @@
   "date": "2026-11-22T05:01:28.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 6.33,
+  "score": 4.88,
   "noDate": false,
   "cluster": "b6df141d7093"
  },
@@ -4762,7 +5770,7 @@
   "date": "2026-11-22T03:10:53.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 2.72,
+  "score": 1.26,
   "noDate": false,
   "cluster": "595c7b442b98"
  },
@@ -4778,7 +5786,7 @@
   "date": "2026-11-22T03:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 2.68,
+  "score": 1.22,
   "noDate": false,
   "cluster": "002fff653dc2"
  },
@@ -4794,7 +5802,7 @@
   "date": "2026-11-22T02:45:15.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 2.58,
+  "score": 1.12,
   "noDate": false,
   "cluster": "324aea832765"
  },
@@ -4810,7 +5818,7 @@
   "date": "2026-11-22T02:44:01.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 2.57,
+  "score": 1.11,
   "noDate": false,
   "cluster": "325f1a2a1c9a"
  },
@@ -4826,7 +5834,7 @@
   "date": "2026-11-22T02:08:49.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 5.37,
+  "score": 4,
   "noDate": false,
   "cluster": "edb39a91cc5d"
  },
@@ -4842,7 +5850,7 @@
   "date": "2026-11-22T01:57:37.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 5.31,
+  "score": 4,
   "noDate": false,
   "cluster": "0d33e501774b"
  },
@@ -4858,7 +5866,7 @@
   "date": "2026-11-22T01:56:16.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 5.31,
+  "score": 4,
   "noDate": false,
   "cluster": "22dd625d41f2"
  },
@@ -4874,7 +5882,7 @@
   "date": "2026-11-22T01:29:53.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 5.16,
+  "score": 4,
   "noDate": false,
   "cluster": "e3281306dcda"
  },
@@ -4890,7 +5898,7 @@
   "date": "2026-11-22T01:25:03.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 3,
-  "score": 8.13,
+  "score": 7,
   "noDate": false,
   "cluster": "f7671820ae49"
  },
@@ -4906,7 +5914,7 @@
   "date": "2026-11-22T01:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 2.08,
+  "score": 1,
   "noDate": false,
   "cluster": "a849c376f1c8"
  },
@@ -4922,7 +5930,7 @@
   "date": "2026-11-22T01:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 4.99,
+  "score": 4,
   "noDate": false,
   "cluster": "9ed99d699b0f"
  },
@@ -4938,7 +5946,7 @@
   "date": "2026-11-22T01:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.99,
+  "score": 1,
   "noDate": false,
   "cluster": "2abd764f7b88"
  },
@@ -4954,7 +5962,7 @@
   "date": "2026-11-22T00:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.91,
+  "score": 1,
   "noDate": false,
   "cluster": "b2e192e3c051"
  },
@@ -4970,7 +5978,7 @@
   "date": "2026-11-22T00:30:34.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -10.17,
+  "score": -11,
   "noDate": false,
   "cluster": "b2ba226a82e2"
  },
@@ -4986,7 +5994,7 @@
   "date": "2026-11-22T00:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.83,
+  "score": 1,
   "noDate": false,
   "cluster": "c5ce3bc4dc84"
  },
@@ -5002,7 +6010,7 @@
   "date": "2026-11-22T00:15:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.74,
+  "score": 1,
   "noDate": false,
   "cluster": "3785d9d3d536"
  },
@@ -5018,7 +6026,7 @@
   "date": "2026-11-22T00:10:44.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 2,
-  "score": 4.72,
+  "score": 4,
   "noDate": false,
   "cluster": "df0cbaf8a585"
  },
@@ -5034,7 +6042,7 @@
   "date": "2026-11-22T00:10:37.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 3.22,
+  "score": 2.5,
   "noDate": false,
   "cluster": "f03a82a7ba20"
  },
@@ -5050,7 +6058,7 @@
   "date": "2026-11-22T00:09:58.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 1.71,
+  "score": 1,
   "noDate": false,
   "cluster": "55c7e27ba1e3"
  },
@@ -5066,7 +6074,7 @@
   "date": "2026-11-22T00:04:07.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.68,
+  "score": 1,
   "noDate": false,
   "cluster": "fe71d9b3a355"
  },
@@ -5082,7 +6090,7 @@
   "date": "2026-11-22T00:03:40.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
-  "score": 3.18,
+  "score": 2.5,
   "noDate": false,
   "cluster": "ac2c25ea3413"
  },
@@ -5098,7 +6106,7 @@
   "date": "2026-11-22T00:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 3.18,
+  "score": 2.5,
   "noDate": false,
   "cluster": "25213b77b838"
  },
@@ -5114,7 +6122,7 @@
   "date": "2026-11-22T00:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": -10.34,
+  "score": -11,
   "noDate": false,
   "cluster": "715c4675c2ca"
  },
@@ -5130,7 +6138,7 @@
   "date": "2026-11-21T23:45:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.58,
+  "score": 1,
   "noDate": false,
   "cluster": "27c960e8347d"
  },
@@ -5146,7 +6154,7 @@
   "date": "2026-11-21T23:30:56.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.5,
+  "score": 1,
   "noDate": false,
   "cluster": "0734ffe76166"
  },
@@ -5162,7 +6170,7 @@
   "date": "2026-11-21T23:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.49,
+  "score": 1,
   "noDate": false,
   "cluster": "4d6e61d1d314"
  },
@@ -5178,7 +6186,7 @@
   "date": "2026-11-21T23:12:24.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.39,
+  "score": 1,
   "noDate": false,
   "cluster": "ad7adb5f6324"
  },
@@ -5194,7 +6202,7 @@
   "date": "2026-11-21T23:05:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.35,
+  "score": 1,
   "noDate": false,
   "cluster": "37207d937890"
  },
@@ -5210,7 +6218,7 @@
   "date": "2026-11-21T23:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.34,
+  "score": 1,
   "noDate": false,
   "cluster": "e77970a68ca8"
  },
@@ -5226,7 +6234,7 @@
   "date": "2026-11-21T23:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 1,
-  "score": 1.33,
+  "score": 1,
   "noDate": false,
   "cluster": "d8461eee92aa"
  },
@@ -5242,9 +6250,9 @@
   "date": "2026-11-21T22:53:10.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 5.79,
+  "score": 5.5,
   "noDate": false,
-  "cluster": "fe9dc1d014af"
+  "cluster": "93511a099623"
  },
  {
   "id": "8a02ad235939",
@@ -5258,7 +6266,7 @@
   "date": "2026-11-21T22:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
   "coverage": 2,
-  "score": 4.16,
+  "score": 4,
   "cluster": "b05c36fbb62f"
  },
  {
@@ -5273,7 +6281,7 @@
   "date": "2026-11-21T22:12:41.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
   "coverage": 1,
-  "score": 1.06,
+  "score": 1,
   "noDate": false,
   "cluster": "6bc7da661c0f"
  },
@@ -5368,8 +6376,8 @@
   "image": "https://gizmodo.com/app/uploads/2026/11/autonomous-killer-drone-1280x853.jpg",
   "date": "2026-11-21T21:20:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 6,
-  "score": 4,
+  "coverage": 5,
+  "score": 1,
   "noDate": false,
   "cluster": "de821aa0f1a3"
  },
@@ -5526,7 +6534,7 @@
   "excerpt": "A blitz of new Trump administration policies are set to upend the lives of international students again, making it harder for them to live and work in the United States.",
   "link": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html",
   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00dc-international-students-01-thmq/00dc-international-students-01-thmq-mediumSquareAt3X.jpg",
-  "date": "2026-11-21T19:58:02.000Z",
+  "date": "2026-11-21T19:58:03.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
   "coverage": 1,
   "score": 2.5,
@@ -5640,10 +6648,10 @@
   "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/backdrop-export.jpg?resize=440%2C292&ssl=1",
   "date": "2026-11-21T18:18:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 7,
-  "score": 7,
+  "coverage": 2,
+  "score": -8,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "c0942925cd7d"
  },
  {
   "id": "c351983322a2",
@@ -5752,10 +6760,10 @@
   "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fde67fb13ec22194f44b21fc8ca9b85ce2f9481-1520x856.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
   "date": "2026-11-21T17:50:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 4,
+  "coverage": 2,
+  "score": 7,
   "noDate": false,
-  "cluster": "50a435182dc3"
+  "cluster": "8ef7531eac41"
  },
  {
   "id": "11a79bbce9a7",
@@ -5864,10 +6872,10 @@
   "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Kingbull-Expedition-e-bike-BFCM-Featured.jpg?resize=440%2C292&ssl=1",
   "date": "2026-11-21T17:00:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 7,
-  "score": 7,
+  "coverage": 4,
+  "score": -2,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "061f6c8fa6ba"
  },
  {
   "id": "a1f1ef3a7528",
@@ -5912,8 +6920,8 @@
   "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Hero-Image-6.jpg?resize=440%2C292&ssl=1",
   "date": "2026-11-21T16:36:16.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 7,
-  "score": 7,
+  "coverage": 5,
+  "score": 1,
   "noDate": false,
   "cluster": "3498286fe0ad"
  },
@@ -6009,8 +7017,8 @@
   "date": "2026-11-21T16:00:00.000Z",
   "noDate": false,
   "firstSeen": "2026-11-22T15:52:14.757Z",
-  "coverage": 7,
-  "score": 19,
+  "coverage": 1,
+  "score": 1,
   "cluster": "ac2e64a2c435"
  },
  {
@@ -6056,8 +7064,8 @@
   "image": "https://gizmodo.com/app/uploads/2026/01/Brian-Armstrong-CEO-Coinbase-Clarity-Act-1280x853.jpg",
   "date": "2026-11-21T15:34:56.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 2,
-  "score": 5.5,
+  "coverage": 3,
+  "score": 8.5,
   "noDate": false,
   "cluster": "8ef7531eac41"
  },
@@ -6216,8 +7224,8 @@
   "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
   "date": "2026-11-21T14:01:06.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 3,
-  "score": 13,
+  "coverage": 4,
+  "score": 16,
   "noDate": false,
   "cluster": "4a1108db1694"
  },
@@ -6360,8 +7368,8 @@
   "image": "https://gizmodo.com/app/uploads/2026/11/soft-robot-UCSD-1280x851.jpg",
   "date": "2026-11-21T13:00:35.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 2,
-  "score": 4,
+  "coverage": 1,
+  "score": 1,
   "noDate": false,
   "cluster": "defe135e402d"
  },
@@ -6664,10 +7672,10 @@
   "image": "https://media.wired.com/photos/6b0130a435cb0e2956884a12/master/pass/Pure-One-Station-5.jpg",
   "date": "2026-11-21T11:30:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 7,
-  "score": 7,
+  "coverage": 2,
+  "score": -8,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "c0942925cd7d"
  },
  {
   "id": "758b220fea04",
@@ -6680,10 +7688,10 @@
   "image": "https://gizmodo.com/app/uploads/2026/11/Roborock_BF2--1280x853.jpg",
   "date": "2026-11-21T11:20:26.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 7,
-  "score": 7,
+  "coverage": 4,
+  "score": -2,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "061f6c8fa6ba"
  },
  {
   "id": "0ccdf7da7ed7",
@@ -6776,10 +7784,10 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
   "date": "2026-11-21T10:26:36.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
+  "coverage": 2,
+  "score": 5.5,
   "noDate": false,
-  "cluster": "06b98fb6c92a"
+  "cluster": "86845f971107"
  },
  {
   "id": "6d38a5f3e883",
@@ -6792,8 +7800,8 @@
   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
   "date": "2026-11-21T10:03:45.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 4,
-  "score": 11.5,
+  "coverage": 5,
+  "score": 14.5,
   "noDate": false,
   "cluster": "6d38a5f3e883"
  },
@@ -6808,10 +7816,10 @@
   "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-mcbride-ckvt/21dc-mcbride-ckvt-mediumSquareAt3X.jpg",
   "date": "2026-11-21T10:02:29.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 2,
-  "score": 4,
+  "coverage": 1,
+  "score": 1,
   "noDate": false,
-  "cluster": "c4f91851e71f"
+  "cluster": "1c57349e0202"
  },
  {
   "id": "0c11f6968cfe",
@@ -6923,7 +7931,7 @@
   "coverage": 3,
   "score": 8.5,
   "noDate": false,
-  "cluster": "bddb5ebd608e"
+  "cluster": "93511a099623"
  },
  {
   "id": "2a4d59bc0474",
@@ -7112,10 +8120,10 @@
   "image": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&w=1920&h=1080",
   "date": "2026-11-21T06:00:02.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
+  "coverage": 2,
+  "score": 5.5,
   "noDate": false,
-  "cluster": "e0907b24b566"
+  "cluster": "83d15fc084d8"
  },
  {
   "id": "e095dc235b2b",
@@ -7432,10 +8440,10 @@
   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
   "date": "2026-11-21T05:13:03.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 7,
+  "coverage": 3,
+  "score": 10,
   "noDate": false,
-  "cluster": "85c8a58c4cf3"
+  "cluster": "ccf893989325"
  },
  {
   "id": "30aaa889f8ae",
@@ -7496,10 +8504,10 @@
   "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
   "date": "2026-11-21T04:10:07.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 2,
-  "score": 5.5,
+  "coverage": 3,
+  "score": 8.5,
   "noDate": false,
-  "cluster": "68a271432dc9"
+  "cluster": "3bb0094b63d9"
  },
  {
   "id": "02aa3255b7ff",
@@ -7592,10 +8600,10 @@
   "image": "https://www.yankodesign.com/images/design_news/2026/11/wubens-black-friday-flashlights-bring-more-than-brightness-to-the-gift-list/Wuben-X4.png",
   "date": "2026-11-21T02:45:08.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 7,
-  "score": 19,
+  "coverage": 2,
+  "score": 4,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "eaeeee342535"
  },
  {
   "id": "f244aeb90e46",
@@ -7608,8 +8616,8 @@
   "image": "https://gizmodo.com/app/uploads/2026/11/kalshi-app-betting-1280x853.jpg",
   "date": "2026-11-21T02:40:12.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 3,
-  "score": 8.5,
+  "coverage": 2,
+  "score": 5.5,
   "noDate": false,
   "cluster": "f244aeb90e46"
  },
@@ -7640,10 +8648,10 @@
   "image": "https://assets.newatlas.com/dims4/default/d4bfe06/2147483647/strip/true/crop/2256x1504+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa4%2F88%2F51e3f9ce49478965b09f163a3af7%2Foptopatch-mosaic-2-1500x752-1.jpeg",
   "date": "2026-11-21T02:03:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 2,
-  "score": 4,
+  "coverage": 1,
+  "score": 1,
   "noDate": false,
-  "cluster": "defe135e402d"
+  "cluster": "d6c9e9d08796"
  },
  {
   "id": "8be599660b8e",
@@ -7720,10 +8728,10 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
   "date": "2026-11-21T00:06:11.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 7,
-  "score": 8.5,
+  "coverage": 4,
+  "score": -0.5,
   "noDate": false,
-  "cluster": "3498286fe0ad"
+  "cluster": "061f6c8fa6ba"
  },
  {
   "id": "6bf2a7d8b91f",
@@ -7864,10 +8872,10 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
   "date": "2026-11-20T23:08:57.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
+  "coverage": 2,
+  "score": 5.5,
   "noDate": false,
-  "cluster": "5d3c25a64fe3"
+  "cluster": "d19e1c64a568"
  },
  {
   "id": "af1edec9d3a9",
@@ -8123,7 +9131,7 @@
   "coverage": 2,
   "score": 5.5,
   "noDate": false,
-  "cluster": "97cd20591521"
+  "cluster": "5a49fd4a2d77"
  },
  {
   "id": "8e3ceec613f9",
@@ -8203,7 +9211,7 @@
   "coverage": 2,
   "score": 4,
   "noDate": false,
-  "cluster": "d84f1df3c514"
+  "cluster": "1c42a93b1597"
  },
  {
   "id": "5ad8e79a3944",
@@ -8251,7 +9259,7 @@
   "coverage": 3,
   "score": 7,
   "noDate": false,
-  "cluster": "fb61cc4234e2"
+  "cluster": "4f2a95e34a00"
  },
  {
   "id": "a629167d70c6",
@@ -8587,7 +9595,7 @@
   "coverage": 2,
   "score": 5.5,
   "noDate": false,
-  "cluster": "d6bff5841b5a"
+  "cluster": "1c42a93b1597"
  },
  {
   "id": "ac4538388484",
@@ -8667,7 +9675,7 @@
   "coverage": 4,
   "score": 10,
   "noDate": false,
-  "cluster": "3500af305ed0"
+  "cluster": "1c42a93b1597"
  },
  {
   "id": "095a786d5489",
@@ -8808,8 +9816,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/11/mazama-project-athena-rig-sunset.jpeg?resize=1200,675",
   "date": "2026-11-20T18:34:00.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 4,
+  "coverage": 1,
+  "score": 1,
   "noDate": false,
   "cluster": "388977f644d2"
  },
@@ -8875,7 +9883,7 @@
   "coverage": 2,
   "score": 5.5,
   "noDate": false,
-  "cluster": "97cd20591521"
+  "cluster": "0b82445c00ab"
  },
  {
   "id": "aa650f223215",
@@ -9115,7 +10123,7 @@
   "coverage": 2,
   "score": 4,
   "noDate": false,
-  "cluster": "fbf5db5de0d1"
+  "cluster": "3df9e26d0976"
  },
  {
   "id": "edf1fa852c87",
@@ -9208,10 +10216,10 @@
   "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2150052525.jpg?resize=1200,800",
   "date": "2026-11-20T15:46:07.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 4,
+  "coverage": 1,
+  "score": 1,
   "noDate": false,
-  "cluster": "4d80b20a3c0c"
+  "cluster": "91f1fffca12a"
  },
  {
   "id": "f783a4ebd29b",
@@ -9579,7 +10587,7 @@
   "coverage": 2,
   "score": 4,
   "noDate": false,
-  "cluster": "a08f91a8664c"
+  "cluster": "4f2a95e34a00"
  },
  {
   "id": "b4c3ff1f41a2",
@@ -9624,8 +10632,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
   "date": "2026-11-20T13:21:11.000Z",
   "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 4,
-  "score": 13,
+  "coverage": 3,
+  "score": 10,
   "noDate": false,
   "cluster": "85c8a58c4cf3"
  },
@@ -9736,8 +10744,8 @@
   "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png",
   "date": "2026-11-20T12:10:14.000Z",
   "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 2,
-  "score": 5.5,
+  "coverage": 1,
+  "score": 2.5,
   "noDate": false,
   "cluster": "48b193d4cf06"
  },
@@ -10088,8 +11096,8 @@
   "image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=184a8b1f0163a998b5f96e52978bd890",
   "date": "2026-11-20T09:18:30.000Z",
   "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 3,
-  "score": 10,
+  "coverage": 2,
+  "score": 7,
   "noDate": false,
   "cluster": "85c8a58c4cf3"
  },
@@ -10188,1013 +11196,5 @@
   "score": 8.5,
   "noDate": false,
   "cluster": "cf581ff78a34"
- },
- {
-  "id": "11494c1a3d53",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Cointelegraph",
-  "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-  "excerpt": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
-  "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
-  "date": "2026-11-20T08:03:34.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "11494c1a3d53"
- },
- {
-  "id": "76f445f54bae",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "New Atlas",
-  "title": "New 3D printing tech makes intricate objects over 4 times faster",
-  "excerpt": "Eating your cake and having it too is generally considered impossible, both literally and figuratively. Few scenarios illustrate this better than 3D printing, where printing speed, quality, and material compatibility typically come at the expense of…",
-  "link": "https://newatlas.com/3d-printing/dial-3d-printing-three-in-one/",
-  "image": "https://assets.newatlas.com/dims4/default/d3c1c68/2147483647/strip/true/crop/4032x2688+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F21%2Fcc%2Feeea08b84375bbbba6337490daf3%2Fimg-8511-1.jpeg",
-  "date": "2026-11-20T08:03:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "76f445f54bae"
- },
- {
-  "id": "762c2d91a178",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "Should AI be judging our credit worthiness?",
-  "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-  "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
-  "date": "2026-11-20T07:32:19.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "762c2d91a178"
- },
- {
-  "id": "849d571e5e17",
-  "lang": "en",
-  "cat": "economy",
-  "source": "The Guardian",
-  "title": "What impact has Brexit had on the UK and EU economies?",
-  "excerpt": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop. Taking place in Brussels as the war…",
-  "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-  "image": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c56c6ac029bb4b93ff8147cf4bed68cf",
-  "date": "2026-11-20T07:00:26.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "849d571e5e17"
- },
- {
-  "id": "20e35ed44b45",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Cointelegraph",
-  "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-  "excerpt": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.",
-  "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
-  "date": "2026-11-20T06:24:41.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "20e35ed44b45"
- },
- {
-  "id": "65cd4be03b47",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "CoinDesk",
-  "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-  "excerpt": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
-  "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-  "date": "2026-11-20T06:12:15.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "65cd4be03b47"
- },
- {
-  "id": "6e9558ae937f",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "CoinDesk",
-  "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-  "excerpt": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
-  "link": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-  "date": "2026-11-20T06:08:28.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "6e9558ae937f"
- },
- {
-  "id": "eeea0e424e24",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-  "excerpt": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-  "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
-  "date": "2026-11-20T06:00:33.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "eeea0e424e24"
- },
- {
-  "id": "bec4ce241599",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "CoinDesk",
-  "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-  "excerpt": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
-  "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-  "date": "2026-11-20T05:32:25.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "bec4ce241599"
- },
- {
-  "id": "f9d03515d8e7",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "New Atlas",
-  "title": "Wild 1,300-hp hybrid trophy truck hides a Honda Passport underneath",
-  "excerpt": "There’s no way… no way you’re telling me what you’re seeing is effectively an earnest Honda Passport. The three-row mid-size SUV lends itself very graciously to this wild Baja Spec monster. Continue Reading Category: Automotive, Transport Tags:…",
-  "link": "https://newatlas.com/automotive/honda-passport-trophy-truck/",
-  "image": "https://assets.newatlas.com/dims4/default/d9716fb/2147483647/strip/true/crop/2560x1707+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fea%2F6c%2F5e34b180457db059420b34476f5b%2Fhybrid-honda-passport-throws-more-hp-in-baja-racing-than-any-other-90-liter-v8-powered-trophy-truck-3.jpg",
-  "date": "2026-11-20T05:15:23.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "f9d03515d8e7"
- },
- {
-  "id": "51ca9e41eaaa",
-  "lang": "en",
-  "cat": "world",
-  "source": "The Guardian",
-  "title": "Race to be next UN secretary general exposes divisions among world powers",
-  "excerpt": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to…",
-  "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-  "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=700&quality=85&auto=format&fit=max&s=c6471bb5e4064eb2f8c681f8604f9090",
-  "date": "2026-11-20T05:00:24.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "51ca9e41eaaa"
- },
- {
-  "id": "701cca617c9f",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "Chris Christie says MAGA has the ‘smell of politically rotting flesh’",
-  "excerpt": "",
-  "link": "https://www.politico.com/video/2026/11/20/chris-christie-says-maga-has-the-smell-of-politically-rotting-flesh-2234771",
-  "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/0417d7e4-ef54-4551-a375-8f2c239866b0/ef5d7420-29b7-489f-a51e-5ae99be5c469/1280x720/match/image.jpg",
-  "date": "2026-11-20T05:00:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "701cca617c9f"
- },
- {
-  "id": "e549c1e8abc3",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Cointelegraph",
-  "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-  "excerpt": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
-  "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
-  "date": "2026-11-20T03:33:22.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "e549c1e8abc3"
- },
- {
-  "id": "9c11ce75e185",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "New Atlas",
-  "title": "Snappy, luxurious caravan comes from camper brand no one expected",
-  "excerpt": "Known best for camper vans and small motorhomes, Pleasure-Way has been a North American RV market staple for 40 years. But until this year, it's never tried its hand at a camping trailer. That changes in a major way with the Everbound Luxury Travel…",
-  "link": "https://newatlas.com/camping-trailers/pleasure-way-everbound-travel-trailer/",
-  "image": "https://assets.newatlas.com/dims4/default/e2be674/2147483647/strip/true/crop/1273x912+0+0/resize/1273x912!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F48%2Fe494c4af4ca29029262b9825b0ca%2F3zyjb64a-everbound-cap-red-1-copy.jpg",
-  "date": "2026-11-20T03:03:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "9c11ce75e185"
- },
- {
-  "id": "0e9876dba44f",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Guardian",
-  "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
-  "excerpt": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah Get our breaking news email, free app or daily news podcast Right now, the prime minister faces a…",
-  "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
-  "image": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=700&quality=85&auto=format&fit=max&s=f9f85d234f89d394aea8b7c180e838d9",
-  "date": "2026-11-20T02:00:18.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 2,
-  "score": 4,
-  "noDate": false,
-  "cluster": "2c7c28baade2"
- },
- {
-  "id": "5bcf6b900a9a",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "New Atlas",
-  "title": "Physicists flip an atom's magnetic heart in 'impossible' experiment",
-  "excerpt": "A magnetic switch buried deep within an atom’s heart has been flipped in a baffling new experiment, giving physicists both a mystery to solve and potentially a handy new tool in quantum technology. Continue Reading Category: Physics, Science Tags:…",
-  "link": "https://newatlas.com/physics/physicists-flip-atom-experiment/",
-  "image": "https://assets.newatlas.com/dims4/default/e565028/2147483647/strip/true/crop/2000x1500+0+0/resize/1280x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F11%2Fdd%2Fa3e663404bb3ab4ee8efaf740dcd%2Fnuclear-spin-experiment.jpg",
-  "date": "2026-11-20T01:03:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "5bcf6b900a9a"
- },
- {
-  "id": "8f4728ffc5b9",
-  "lang": "en",
-  "cat": "tech",
-  "source": "TechCrunch",
-  "title": "Apple may be developing its own AI agent that runs your Mac",
-  "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-  "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-  "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-  "date": "2026-11-20T00:56:01.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "8f4728ffc5b9"
- },
- {
-  "id": "f980f0e522af",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-  "excerpt": "Eating at your desk? The dos and don'ts of lunch at work",
-  "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
-  "date": "2026-11-20T00:08:37.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "f980f0e522af"
- },
- {
-  "id": "7c01653370c3",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-  "excerpt": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-  "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-  "date": "2026-11-20T00:02:07.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "7c01653370c3"
- },
- {
-  "id": "6185e5e50ba8",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "Rob Sand shuts down any talk of 2028",
-  "excerpt": "The incoming Iowa governor said he's unlikely to ever consider running for president.",
-  "link": "https://www.politico.com/news/2026/11/19/rob-sand-iowa-2028-01177322",
-  "image": "",
-  "date": "2026-11-19T23:54:25.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1.5,
-  "noDate": false,
-  "cluster": "6185e5e50ba8"
- },
- {
-  "id": "f6f9b67dfea5",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Cointelegraph",
-  "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-  "excerpt": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
-  "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg",
-  "date": "2026-11-19T23:44:02.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "f6f9b67dfea5"
- },
- {
-  "id": "11a8aa5fd92f",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-  "excerpt": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-  "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-  "date": "2026-11-19T23:33:51.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "11a8aa5fd92f"
- },
- {
-  "id": "535b7ca7ddb9",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "Massachusetts gov says Dems want ‘a uniter and a fighter’ for 2028",
-  "excerpt": "Democrat Maura Healey just won her second term as governor.",
-  "link": "https://www.politico.com/news/2026/11/19/massachusetts-gov-maura-healey-2028-01177150",
-  "image": "",
-  "date": "2026-11-19T23:14:37.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 0,
-  "noDate": false,
-  "cluster": "535b7ca7ddb9"
- },
- {
-  "id": "a0036ddfdaf7",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "Keisha Lance Bottoms says Democrats better spend big on the South",
-  "excerpt": "Georgia's new governor says Democrats shouldn't have to ‘beg and borrow’ to get resources for campaigns in the South.",
-  "link": "https://www.politico.com/news/2026/11/19/keisha-lance-bottoms-democrats-campaigns-south-01177147",
-  "image": "",
-  "date": "2026-11-19T23:11:12.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 0,
-  "noDate": false,
-  "cluster": "a0036ddfdaf7"
- },
- {
-  "id": "9b2835c8ee75",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "California targets Nvidia in China AI chip probe",
-  "excerpt": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-  "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
-  "date": "2026-11-19T23:04:30.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 3,
-  "score": 11.5,
-  "noDate": false,
-  "cluster": "85c8a58c4cf3"
- },
- {
-  "id": "60adc63f8502",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Futurism",
-  "title": "Hackers Leak User Data From JPMorgan, Visa, and Mastercard",
-  "excerpt": "It's been a banner week for cyberattacks.",
-  "link": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
-  "image": "https://futurism.com/wp-content/uploads/2026/11/hackers-leaked-data-jpmorgan-visa-mastercard.jpg?quality=85&w=2048",
-  "date": "2026-11-19T22:56:21.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 2,
-  "score": 4,
-  "noDate": false,
-  "cluster": "4d80b20a3c0c"
- },
- {
-  "id": "b2a6f621e26b",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "The U.S. and Iran Are Back to Trading Strikes",
-  "excerpt": "A roughly two-month lull in the fighting is seemingly over.",
-  "link": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/Tehran.jpeg",
-  "date": "2026-11-19T22:39:31.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "b2a6f621e26b"
- },
- {
-  "id": "26866164fb29",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Decrypt",
-  "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-  "excerpt": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-  "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-  "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg",
-  "date": "2026-11-19T22:36:02.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "26866164fb29"
- },
- {
-  "id": "a4e073ebcb6b",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "Beshear defends Texas strategy",
-  "excerpt": "The chair of the Democratic Governors Association has taken fire for not spending enough on Gov.-elect Gina Hinojosa’s race in Texas",
-  "link": "https://www.politico.com/news/2026/11/19/beshear-texas-strategy-hinojosa-01176684",
-  "image": "https://static.politico.com/cb/6c/4918d48e446292f648b6ed515f5f/election-2-26-south-carolina-democrats-86993.jpg",
-  "date": "2026-11-19T22:34:48.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "a4e073ebcb6b"
- },
- {
-  "id": "cc3b25b12b20",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Cointelegraph",
-  "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-  "excerpt": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
-  "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
-  "date": "2026-11-19T22:25:18.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 2,
-  "score": 4,
-  "noDate": false,
-  "cluster": "cc3b25b12b20"
- },
- {
-  "id": "4ef64e926586",
-  "lang": "en",
-  "cat": "tech",
-  "source": "Ars Technica",
-  "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-  "excerpt": "Amazon now uses its shopping platform for political purposes.",
-  "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-  "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
-  "date": "2026-11-19T22:16:37.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "4ef64e926586"
- },
- {
-  "id": "fea67cf9c7ef",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Guardian",
-  "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-  "excerpt": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Anthropic closed its…",
-  "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-  "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=0a0587bae3284620bfda93f17c2a2626",
-  "date": "2026-11-19T22:09:18.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "fea67cf9c7ef"
- },
- {
-  "id": "9992639954bf",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "Leader of Democratic AG group to step down after Texas triumph",
-  "excerpt": "Sean Rankin led DAGA for a decade, helping Democrats flip five GOP-held attorney general offices.",
-  "link": "https://www.politico.com/news/2026/11/19/after-texas-triumph-daga-chief-steps-aside-01176340",
-  "image": "https://static.politico.com/6f/34/c8ba389647b79cc707a80cc75355/rankin-chicago-pressphoto.jpg",
-  "date": "2026-11-19T21:37:28.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "9992639954bf"
- },
- {
-  "id": "f9769f3205d7",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "Trump, Xi, Putin Hold Historic Trilateral Talks",
-  "excerpt": "Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.",
-  "link": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/TrilateralTalks-GettyImages-2305843300.jpg",
-  "date": "2026-11-19T21:28:32.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 2,
-  "score": 5.5,
-  "noDate": false,
-  "cluster": "f9769f3205d7"
- },
- {
-  "id": "8499656a2671",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Decrypt",
-  "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-  "excerpt": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
-  "link": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-  "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
-  "date": "2026-11-19T21:12:06.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "8499656a2671"
- },
- {
-  "id": "f109d83f1539",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Cointelegraph",
-  "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-  "excerpt": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
-  "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png",
-  "date": "2026-11-19T21:01:42.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 2,
-  "score": 5.5,
-  "noDate": false,
-  "cluster": "48b193d4cf06"
- },
- {
-  "id": "c55e81ce5306",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Futurism",
-  "title": "Wait, Why Exactly Is It So Bad to Sell AI Chips to China?",
-  "excerpt": "\"AI is a common asset of mankind, not a game reserved for the wealthy nations or the rich people.\"",
-  "link": "https://futurism.com/artificial-intelligence/us-china-ai-chip-sales-why-bad",
-  "image": "https://futurism.com/wp-content/uploads/2026/11/bad-sell-ai-chips-china.jpg?quality=85&w=2048",
-  "date": "2026-11-19T20:57:30.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "c55e81ce5306"
- },
- {
-  "id": "eecad14c3d43",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Decrypt",
-  "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-  "excerpt": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
-  "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-  "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
-  "date": "2026-11-19T20:46:02.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "eecad14c3d43"
- },
- {
-  "id": "4d80b20a3c0c",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Decrypt",
-  "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-  "excerpt": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
-  "link": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-  "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg",
-  "date": "2026-11-19T20:15:32.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 3,
-  "score": 7,
-  "noDate": false,
-  "cluster": "4d80b20a3c0c"
- },
- {
-  "id": "653751b5d3ac",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Guardian",
-  "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
-  "excerpt": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously…",
-  "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
-  "image": "https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=700&quality=85&auto=format&fit=max&s=5e90299c7bc3ecadfe88d23822048fb6",
-  "date": "2026-11-19T20:07:23.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 3,
-  "score": 7,
-  "noDate": false,
-  "cluster": "653751b5d3ac"
- },
- {
-  "id": "874d22e581e2",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "New Atlas",
-  "title": "Articulated gaming mouse wraps your entire finger for instant level up",
-  "excerpt": "First of all, never mind how this thing works, get a load of how it looks! That said, the Borslon is in fact claimed to be an improvement on traditional gaming mice, with a radical articulated finger-worn design. Continue Reading Category:…",
-  "link": "https://newatlas.com/computers/borslon-finger-worn-gaming-mouse/",
-  "image": "https://assets.newatlas.com/dims4/default/c2de868/2147483647/strip/true/crop/1536x1024+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa5%2Fc3%2F4ef2a7a449a8b17d8d23a7fb55df%2Fgold-and-black-robotic-finger-device.jpeg",
-  "date": "2026-11-19T20:00:04.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "874d22e581e2"
- },
- {
-  "id": "ee2f0bfbe242",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "Futurism",
-  "title": "Players Encountering Bizarre Bugs in GTA VI",
-  "excerpt": "These are hilarious.",
-  "link": "https://futurism.com/future-society/gta-6-bugs",
-  "image": "https://futurism.com/wp-content/uploads/2026/11/players-bizarre-bugs-gta-6-2.jpg?quality=85&w=2048",
-  "date": "2026-11-19T19:51:40.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "ee2f0bfbe242"
- },
- {
-  "id": "4bfc32c214e2",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "Shenzhen Was No Yalta Conference",
-  "excerpt": "For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance.",
-  "link": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/trump-xi-putin-GettyImages-2305282210.jpg",
-  "date": "2026-11-19T19:41:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "4bfc32c214e2"
- },
- {
-  "id": "926ccdc729c1",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "‘They should be subsidizing the ratepayers’: NC governor says data center subsidies should be rolled back",
-  "excerpt": "Democratic Gov. Josh Stein also said the federal government needs to do more to assist with Hurricane Helene recovery.",
-  "link": "https://www.politico.com/news/2026/11/19/josh-stein-north-carolina-data-centers-01176128",
-  "image": "",
-  "date": "2026-11-19T19:39:11.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 2,
-  "score": 3,
-  "noDate": false,
-  "cluster": "388977f644d2"
- },
- {
-  "id": "8889f174524e",
-  "lang": "en",
-  "cat": "economy",
-  "source": "The Guardian",
-  "title": "US ⁠judge allows Trump’s $15bn lawsuit against New York Times to proceed",
-  "excerpt": "Trump alleges defamation by three Times reporters and Penguin Random House in campaign against news outlets A federal ⁠judge in Florida on Thursday said Donald Trump’s $15bn defamation lawsuit against the New York Times and book publisher Penguin…",
-  "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
-  "image": "https://i.guim.co.uk/img/media/e0d95a8cd905be85ddf4efa2770e418df5ac0b2b/441_0_4410_3528/master/4410.jpg?width=700&quality=85&auto=format&fit=max&s=7a5cf420b9fdfb03e6e3271b5762fb6e",
-  "date": "2026-11-19T19:27:51.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 2,
-  "score": 5.5,
-  "noDate": false,
-  "cluster": "f244aeb90e46"
- },
- {
-  "id": "50f277826a30",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "In Italy, Meloni Grapples With a Potential Spoiler",
-  "excerpt": "With elections due next year, the prime minister faces pressure from a challenger to her right.",
-  "link": "https://foreignpolicy.com/2026/11/19/italy-meloni-vannacci-far-right-spoiler-elections-ukraine/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/vannacci-italy-futuro-nationale-GettyImages-2280696724.jpg",
-  "date": "2026-11-19T19:25:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "50f277826a30"
- },
- {
-  "id": "edf7059d79f8",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "Nevada's new governor promises legislative blitz on affordability",
-  "excerpt": "Democrat Aaron Ford promised to lower prescription drug prices and rein in corporations’ role in the housing market.",
-  "link": "https://www.politico.com/news/2026/11/19/nevada-aaron-ford-promises-legislative-blitz-on-affordability-01175985",
-  "image": "",
-  "date": "2026-11-19T19:19:11.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 0,
-  "noDate": false,
-  "cluster": "edf7059d79f8"
- },
- {
-  "id": "79d85497c831",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Decrypt",
-  "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-  "excerpt": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
-  "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-  "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg",
-  "date": "2026-11-19T19:08:24.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 3,
-  "score": 10,
-  "noDate": false,
-  "cluster": "6d38a5f3e883"
- },
- {
-  "id": "f1b9eaa5143f",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Guardian",
-  "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-  "excerpt": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as…",
-  "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-  "image": "https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=700&quality=85&auto=format&fit=max&s=f921768aa661af120c5b5b7e07422c9f",
-  "date": "2026-11-19T18:15:48.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "f1b9eaa5143f"
- },
- {
-  "id": "cc8f5f19e8f9",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Decrypt",
-  "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-  "excerpt": "At least four people were arrested outside Nasdaq during Anthropic’s historic IPO, as protesters warned that AI valuations could leave retirement savers exposed to a potential market crash and broader economic losses.",
-  "link": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
-  "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/anthropic-ipo-protests-nasdaq-gID_7.jpg",
-  "date": "2026-11-19T17:55:38.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "cc8f5f19e8f9"
- },
- {
-  "id": "73ab934ead65",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "Iran’s ‘Boiling Frog’ Strategy",
-  "excerpt": "Why Tehran believes its strategy to hurt the West is working.",
-  "link": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-2302492589-e1794332921921.jpg",
-  "date": "2026-11-19T17:55:24.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 4,
-  "noDate": false,
-  "cluster": "73ab934ead65"
- },
- {
-  "id": "2ba955c9f93b",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "New Atlas",
-  "title": "BMW dreamed up the roofed scooter, now Segway wants a piece",
-  "excerpt": "\"Oh no, here we go again!\" That’s exactly how I feel reading about Segway, one of the world’s most well-known electric scooter brands, reviving the roofed scooter conversation. It’s a concept that somehow pops up almost every year, and then dies…",
-  "link": "https://newatlas.com/motorcycles/segway-xcruiser-roofed-scooter/",
-  "image": "https://assets.newatlas.com/dims4/default/8b7a341/2147483647/strip/true/crop/2048x1152+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F62%2Ff1%2F231b9e2743da984bef4b44906fa0%2Fmilanshow-350gt-ultra-pc.jpg",
-  "date": "2026-11-19T17:38:55.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "2ba955c9f93b"
- },
- {
-  "id": "b567009c49e5",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "Is This the Beginning of the End for Modi?",
-  "excerpt": "Political discontent in India—and the government’s response—is beginning to spiral.",
-  "link": "https://foreignpolicy.com/2026/11/19/india-protests-election-fraud-modi-corruption-education-students/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-1229978540.jpg",
-  "date": "2026-11-19T17:28:42.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "b567009c49e5"
- },
- {
-  "id": "cb85e7698533",
-  "lang": "en",
-  "cat": "crypto",
-  "source": "Decrypt",
-  "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-  "excerpt": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
-  "link": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
-  "image": "https://cdn.decrypt.co/wp-content/uploads/2019/11/bitcoin-investment_2-gID_1-pID_6.png",
-  "date": "2026-11-19T17:28:03.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "cb85e7698533"
- },
- {
-  "id": "eafe1839b1c8",
-  "lang": "en",
-  "cat": "politics",
-  "source": "Politico",
-  "title": "JD Vance slams GOP governor’s call for immigration reform as ‘morally and electorally disastrous’",
-  "excerpt": "The vice president took aim at Oklahoma Republican Kevin Stitt’s comments at the POLITICO Pub.",
-  "link": "https://www.politico.com/news/2026/11/19/jd-vance-slams-republican-governor-immigration-01175617",
-  "image": "",
-  "date": "2026-11-19T17:14:06.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 0,
-  "noDate": false,
-  "cluster": "eafe1839b1c8"
- },
- {
-  "id": "30f0877812a8",
-  "lang": "en",
-  "cat": "world",
-  "source": "Foreign Policy",
-  "title": "The Gulf Is America’s Next AI Security Test",
-  "excerpt": "Even after the Nvidia scandal, new rules leave significant loopholes.",
-  "link": "https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/",
-  "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/nvidia-huang-scandal-GettyImages-2247490231-e1795101151797.jpg",
-  "date": "2026-11-19T15:26:55.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "30f0877812a8"
- },
- {
-  "id": "50a5a499604d",
-  "lang": "en",
-  "cat": "economy",
-  "source": "The Guardian",
-  "title": "AI demand will push up interest rates around the world, IMF head warns",
-  "excerpt": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest…",
-  "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-  "image": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=700&quality=85&auto=format&fit=max&s=b469422ed433329c6c96144dcff952cd",
-  "date": "2026-11-19T15:15:14.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 5.5,
-  "noDate": false,
-  "cluster": "50a5a499604d"
- },
- {
-  "id": "4752ddb6802e",
-  "lang": "en",
-  "cat": "economy",
-  "source": "The Guardian",
-  "title": "Labor leaders call on governments to stop awarding Amazon public contracts",
-  "excerpt": "Union leaders from 19 countries urge reassessment of ties to Amazon, citing company’s poor record on worker rights More than 30 labor union leaders from 19 countries are calling on governments to review their public contracts with Amazon and Amazon…",
-  "link": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
-  "image": "https://i.guim.co.uk/img/media/777da2deae52c2f9b27d896c5c1bdf7d7e81aaea/156_347_2891_2313/master/2891.jpg?width=700&quality=85&auto=format&fit=max&s=4f7331551d035f1333681ab9fe8c2c63",
-  "date": "2026-11-19T14:05:21.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "4752ddb6802e"
- },
- {
-  "id": "5d6684640159",
-  "lang": "en",
-  "cat": "politics",
-  "source": "The Guardian",
-  "title": "After a blue wave, Trump will dig in his heels. We must be more vigilant than ever | Steve Cohen and Michael Shank",
-  "excerpt": "Anti-democratic behaviors won’t disappear overnight. The new Congress – and all of us – must rise to the occasion Americans just witnessed a blue tsunami in the midterm elections, with historic firsts across many US states: the country’s first…",
-  "link": "https://www.theguardian.com/commentisfree/2026/nov/19/trump-blue-wave-new-congress",
-  "image": "https://i.guim.co.uk/img/media/85c284f0c3a78090bd0f1af46ed2bd445de04dcf/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=499880506b938001af2bf729340ecb77",
-  "date": "2026-11-19T14:00:51.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 2.5,
-  "noDate": false,
-  "cluster": "5d6684640159"
- },
- {
-  "id": "feb249b67917",
-  "lang": "en",
-  "cat": "economy",
-  "source": "BBC News",
-  "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-  "excerpt": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-  "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg",
-  "date": "2026-11-19T13:35:52.000Z",
-  "firstSeen": "2026-11-22T15:37:45.296Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "feb249b67917"
- },
- {
-  "id": "e43a8cb3f143",
-  "lang": "en",
-  "cat": "tech",
-  "source": "The Guardian",
-  "title": "Parents: please don’t buy Grand Theft Auto VI for your child",
-  "excerpt": "Rockstar Games’ brilliant 18-rated criminal caper is stuffed with sex, drugs and violence. It is the most explicit game I’ve ever played – and it really is not for kids Tell us: are you playing Grand Theft Auto VI? I am haunted still by an…",
-  "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
-  "image": "https://i.guim.co.uk/img/media/5edb70773e55b1b78706ab8ee865fd8e8d045c6f/196_0_2699_2160/master/2699.jpg?width=700&quality=85&auto=format&fit=max&s=132206b587b78822bc1cc514922998f4",
-  "date": "2026-11-19T13:00:48.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 3,
-  "score": 7,
-  "noDate": false,
-  "cluster": "e43a8cb3f143"
- },
- {
-  "id": "4519167667a7",
-  "lang": "en",
-  "cat": "gadgets",
-  "source": "New Atlas",
-  "title": "Apartment-like tiny house feels anything but small inside",
-  "excerpt": "This spacious tiny house has been designed to offer downsizing while minimizing compromises. It features a remarkably open, apartment-like interior arranged on one floor, with two bedrooms, a generous kitchen/living area, and plenty of room to move…",
-  "link": "https://newatlas.com/tiny-houses/coda-removed-tiny-homes/",
-  "image": "https://assets.newatlas.com/dims4/default/e424783/2147483647/strip/true/crop/2500x1395+0+0/resize/1440x804!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc7%2F13%2Ff79dced94686a1cb835c72c9f0c2%2Fcoda-tiny-house7.png",
-  "date": "2026-11-19T12:57:00.000Z",
-  "firstSeen": "2026-11-22T15:37:45.297Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "4519167667a7"
- },
- {
-  "id": "f134fe4f942f",
-  "lang": "en",
-  "cat": "world",
-  "source": "The Guardian",
-  "title": "Race to replant five South African baobabs after export blocked",
-  "excerpt": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who…",
-  "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-  "image": "https://i.guim.co.uk/img/media/048c1619883c277fcef86d2ceda7a59071397137/0_191_1360_1088/master/1360.jpg?width=700&quality=85&auto=format&fit=max&s=f8d4ebf248dd5f465aa1c2c494cb6c8f",
-  "date": "2026-11-19T11:03:24.000Z",
-  "firstSeen": "2026-11-22T15:37:45.298Z",
-  "coverage": 1,
-  "score": 1,
-  "noDate": false,
-  "cluster": "f134fe4f942f"
  }
 ]
