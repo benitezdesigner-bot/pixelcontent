@@ -2,73 +2,73 @@
  {
   "key": "^GSPC",
   "label": "S&P 500",
-  "price": 7236.64,
-  "change": 4.721
+  "price": 7237.17,
+  "change": 4.729
  },
  {
   "key": "^IXIC",
   "label": "Nasdaq",
-  "price": 24105.213,
-  "change": 6.577
+  "price": 24089.559,
+  "change": 6.507
  },
  {
   "key": "^DJI",
   "label": "Dow Jones",
-  "price": 49591.26,
-  "change": 2.999
+  "price": 49595.31,
+  "change": 3.007
  },
  {
   "key": "^MXX",
   "label": "IPC México",
-  "price": 69431.26,
-  "change": 1.168
+  "price": 69355.62,
+  "change": 1.058
  },
  {
   "key": "GC=F",
   "label": "Gold / Oro",
-  "price": 3653.3,
-  "change": 3.923
+  "price": 3634.4,
+  "change": 3.385
  },
  {
   "key": "CL=F",
   "label": "WTI Oil",
-  "price": 81,
-  "change": -2.889
+  "price": 80.25,
+  "change": 0.1
  },
  {
   "key": "EURUSD=X",
   "label": "EUR/USD",
-  "price": 1.0885,
-  "change": -0.8164
+  "price": 1.0905,
+  "change": -0.6325
  },
  {
   "key": "MXN=X",
   "label": "USD/MXN",
-  "price": 19.1702,
-  "change": 0.1424
+  "price": 19.17,
+  "change": 0.1411
  },
  {
   "key": "^TNX",
   "label": "US 10Y",
-  "price": 4.946,
-  "change": 0.6921905
+  "price": 4.918,
+  "change": 0.1221604
  },
  {
   "key": "bitcoin",
   "label": "BTC",
-  "price": 61653,
-  "change": 1.4306872179459669
+  "price": 61130,
+  "change": 0.21738195963459808
  },
  {
   "key": "ethereum",
   "label": "ETH",
-  "price": 1739.28,
-  "change": 1.4647232124805334
+  "price": 1709.08,
+  "change": -0.3995669426540688
  },
  {
   "key": "solana",
   "label": "SOL",
-  "price": 73.57,
-  "change": 4.536466476539472
+  "price": 71.74,
+  "change": 2.1710742866844828
  }
 ]
