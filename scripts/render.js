@@ -36,6 +36,32 @@ const T = {
     langName: "English",
     other: "Español",
     catIntro: (c) => `The latest ${c.toLowerCase()} news from the world's leading outlets, updated around the clock.`,
+    predictions: "Predictions",
+    predTitle: "Market Predictions & Analysis",
+    predIntro: (n) => `What the most-followed analysts on Wall Street and in crypto are saying, and PixelContent's own call for the next ${n} days.`,
+    ourCall: "Our call",
+    analystsSay: "What the analysts say",
+    consensus: "Consensus",
+    fundamentals: "Fundamentals",
+    catalysts: "What to watch",
+    risks: "What would prove us wrong",
+    target: (n) => `${n}-day target`,
+    confidence: "Confidence",
+    stanceName: { bullish: "Bullish", neutral: "Neutral", bearish: "Bearish" },
+    confName: { low: "Low", medium: "Medium", high: "High" },
+    caseName: { bull: "Bull case", base: "Base case", bear: "Bear case" },
+    trackRecord: "Our track record",
+    trackIntro: "Every call is graded against the real price when it expires: hits and misses, all public.",
+    dirHits: "Direction right",
+    rangeHits: "Inside our range",
+    gradedN: (n) => `${n} calls graded`,
+    firstResults: (d) => `Our first calls are graded on ${d}. Every result will be published here, hit or miss.`,
+    disclaimer: "Analysis and opinion for information and entertainment only. This is not financial advice. Markets are risky, and past accuracy does not guarantee future results.",
+    noAnalysts: "No named analyst calls in today's sources.",
+    weekCalls: "This week's market calls",
+    basedOn: (n) => `Based on ${n} analysis and market pieces`,
+    predSoon: "Our market predictions are being prepared. Check back soon.",
+    resultCol: ["Date", "Market", "Our call", "Range", "Result", ""],
   },
   es: {
     tagline: "Economía, bolsa, tecnología y el mundo — lo que mueve tu dinero",
@@ -68,6 +94,32 @@ const T = {
     langName: "Español",
     other: "English",
     catIntro: (c) => `Las noticias más recientes de ${c.toLowerCase()} de los principales medios, actualizadas todo el día.`,
+    predictions: "Predicciones",
+    predTitle: "Predicciones y análisis de mercados",
+    predIntro: (n) => `Lo que dicen los analistas más seguidos de Wall Street y del mundo cripto, y la postura propia de PixelContent para los próximos ${n} días.`,
+    ourCall: "Nuestra postura",
+    analystsSay: "Qué dicen los analistas",
+    consensus: "Consenso",
+    fundamentals: "Fundamentales",
+    catalysts: "Qué vigilar",
+    risks: "Qué nos haría equivocarnos",
+    target: (n) => `Objetivo a ${n} días`,
+    confidence: "Confianza",
+    stanceName: { bullish: "Alcista", neutral: "Neutral", bearish: "Bajista" },
+    confName: { low: "Baja", medium: "Media", high: "Alta" },
+    caseName: { bull: "Escenario alcista", base: "Escenario base", bear: "Escenario bajista" },
+    trackRecord: "Nuestro historial",
+    trackIntro: "Cada predicción se califica contra el precio real al vencer: aciertos y fallos, todo público.",
+    dirHits: "Dirección acertada",
+    rangeHits: "Dentro de nuestro rango",
+    gradedN: (n) => `${n} predicciones calificadas`,
+    firstResults: (d) => `Nuestras primeras predicciones se califican el ${d}. Publicaremos cada resultado aquí, acierto o fallo.`,
+    disclaimer: "Análisis y opinión con fines informativos y de entretenimiento. No es asesoría financiera. Los mercados tienen riesgo y los aciertos pasados no garantizan resultados futuros.",
+    noAnalysts: "Hoy las fuentes no citan predicciones de analistas con nombre.",
+    weekCalls: "Predicciones de la semana",
+    basedOn: (n) => `Basado en ${n} análisis y notas de mercado`,
+    predSoon: "Estamos preparando nuestras predicciones de mercado. Vuelve pronto.",
+    resultCol: ["Fecha", "Mercado", "Postura", "Rango", "Resultado", ""],
   },
 };
 
@@ -93,7 +145,7 @@ function fmtPrice(m) {
   return p.toLocaleString("en-US", { minimumFractionDigits: d, maximumFractionDigits: d });
 }
 
-export function renderSite({ editions, summaries, markets, root }) {
+export function renderSite({ editions, summaries, markets, analysis, root }) {
   const out = path.join(root, "public");
   fs.rmSync(out, { recursive: true, force: true });
   fs.mkdirSync(path.join(out, "assets"), { recursive: true });
@@ -185,6 +237,23 @@ export function renderSite({ editions, summaries, markets, root }) {
         )
         .join("")}</ol></section>`;
 
+
+    // ── predicciones ────────────────────────────────────────
+    const P = analysis && analysis.markets?.length ? analysis : null;
+    const L = (o, k) => o[`${k}_${lang}`] ?? o[`${k}_en`] ?? "";
+    const num = (x) => (x == null || isNaN(x) ? "—" : fmtPrice({ price: Number(x) }));
+    const arrow = (st) => (st === "bullish" ? "▲" : st === "bearish" ? "▼" : "●");
+    const stanceTag = (st, cls = "") => `<span class="stance s-${st} ${cls}">${arrow(st)} ${esc(t.stanceName[st] || st)}</span>`;
+    const predTeaser = (pre) =>
+      P
+        ? `<section class="pred-teaser"><h2 class="sec-title" style="--c:#ff4b2b"><span>📈 ${t.weekCalls}</span><a href="${pre}${base}predictions.html">${t.seeAll} →</a></h2><ul>${P.markets
+            .map(
+              (m) =>
+                `<li><a href="${pre}${base}predictions.html#m-${m.id}"><span class="pt-l">${esc(L(m, "label"))}</span><span class="pt-t">${num(m.target_low)}–${num(m.target_high)}</span>${stanceTag(m.stance, "mini")}</a></li>`
+            )
+            .join("")}</ul></section>`
+        : "";
+
     const head = ({ title, desc, rel, image, jsonld = "", altRel, noindex = false }) => {
       const pre = prefixFor(rel);
       const canonical = site ? `${site}/${base}${rel.replace(/index\.html$/, "")}` : "";
@@ -235,6 +304,7 @@ ${jsonld}
 </div></header>
 <nav class="catnav" data-nav><div class="wrap">
   <a href="${pre}${base}index.html" class="${active === "home" ? "on" : ""}">${t.home}</a>
+  <a href="${pre}${base}predictions.html" class="nav-pred ${active === "predictions" ? "on" : ""}" style="--c:#ff4b2b">📈 ${t.predictions}</a>
   ${cats.map((c) => `<a href="${pre}${base}${c.id}.html" class="${active === c.id ? "on" : ""}" style="--c:${c.color}">${icon(c.id, 15)}${esc(c[lang])}</a>`).join("")}
 </div></nav>
 ${
@@ -257,7 +327,7 @@ ${
       return `<footer class="footer"><div class="wrap">
   <div class="f-brand"><a class="logo" href="${pre}${base}index.html"><span class="logo-mark">P</span><span class="logo-word">pixel<em>content</em></span></a><p>${t.footer}</p></div>
   <div class="f-links">${cats.map((c) => `<a href="${pre}${base}${c.id}.html">${esc(c[lang])}</a>`).join("")}</div>
-  <div class="f-links"><a href="${pre}${base}about.html">${t.about}</a><a href="${pre}${base}privacy.html">${t.privacy}</a><a href="${pre}${other === "es" ? "es/" : ""}index.html" data-setlang="${other}">${t.other}</a>${config.social?.youtube ? `<a href="${esc(config.social.youtube)}" target="_blank" rel="noopener">▶ YouTube</a>` : ""}</div>
+  <div class="f-links"><a href="${pre}${base}predictions.html">📈 ${t.predictions}</a><a href="${pre}${base}about.html">${t.about}</a><a href="${pre}${base}privacy.html">${t.privacy}</a><a href="${pre}${other === "es" ? "es/" : ""}index.html" data-setlang="${other}">${t.other}</a>${config.social?.youtube ? `<a href="${esc(config.social.youtube)}" target="_blank" rel="noopener">▶ YouTube</a>` : ""}</div>
   <p class="copy">© ${new Date().getFullYear()} ${config.siteName}</p>
 </div></footer>
 <div class="toast" data-toast>${t.copied}</div>
@@ -327,6 +397,7 @@ ${adBox("leaderboard", "wide top")}
 <div class="layout">
   <div class="main-col">${sections}</div>
   <aside class="side-col">
+    ${predTeaser(pre)}
     <section class="latest"><h2 class="sec-title"><span><i class="live"></i>${t.latest}</span></h2>${latest.map((s) => card(s, pre, "mini")).join("")}</section>
     ${trendingList(trending, pre)}
     ${adBox("sidebar", "sticky")}
@@ -433,6 +504,90 @@ ${adBox("leaderboard", "wide")}
 </main>` +
         footer(rel);
       write(base + rel, html, { index: !!sum });
+    }
+
+
+    // ── página de predicciones y análisis ───────────────────
+    {
+      const rel = "predictions.html";
+      const pre = prefixFor(rel);
+      const H = P?.horizonDays || config.analysis.horizonDays;
+      let bodyHtml;
+      if (!P) bodyHtml = `<div class="pred-hero"><span class="pred-badge">📈 PixelContent Research</span><h1>${t.predTitle}</h1><p>${t.predSoon}</p></div>`;
+      else {
+        const total = P.markets.reduce((a, m) => a + (m.sources || 0), 0);
+        const sc = P.score || {};
+        const labelOf = (id) => {
+          const m = config.analysis.markets.find((x) => x.id === id);
+          return m ? m[lang] : id;
+        };
+        const board = P.markets
+          .map(
+            (m) => `<a class="pc-card s-${m.stance}" href="#m-${m.id}">
+  <span class="pc-label">${esc(L(m, "label"))}</span>
+  <b class="pc-price">${num(m.price)}</b>
+  <i class="${(m.change1d || 0) >= 0 ? "up" : "down"}">${(m.change1d || 0) >= 0 ? "▲" : "▼"} ${Math.abs(m.change1d || 0).toFixed(2)}%</i>
+  ${stanceTag(m.stance)}
+  <span class="pc-target">${t.target(H)}: <b>${num(m.target_low)} – ${num(m.target_high)}</b></span>
+</a>`
+          )
+          .join("");
+        const track = sc.graded
+          ? `<div class="track-nums"><div><b>${sc.directionRate}%</b><span>${t.dirHits}</span></div><div><b>${sc.rangeRate}%</b><span>${t.rangeHits}</span></div><div><b>${sc.graded}</b><span>${t.gradedN(sc.graded)}</span></div></div>
+<table class="track-table"><thead><tr>${t.resultCol.map((c) => `<th>${c}</th>`).join("")}</tr></thead><tbody>${(sc.recent || [])
+              .map(
+                (h) =>
+                  `<tr><td>${h.date}</td><td>${esc(labelOf(h.market))}</td><td>${stanceTag(h.stance, "mini")}</td><td>${num(h.low)}–${num(h.high)}</td><td>${num(h.final)} <i class="${h.ret >= 0 ? "up" : "down"}">${h.ret >= 0 ? "+" : ""}${h.ret}%</i></td><td>${h.directionHit ? "✅" : "❌"}</td></tr>`
+              )
+              .join("")}</tbody></table>`
+          : `<p class="track-soon">⏳ ${t.firstResults((sc.nextDue || P.due || "").slice(0, 10))}</p>`;
+        const sections = P.markets
+          .map((m, i) => {
+            const analysts = (m.analysts || [])
+              .map(
+                (a) =>
+                  `<li>${stanceTag(a.stance, "mini")}<div><b>${esc([a.name, a.firm].filter(Boolean).join(" · "))}</b><p>${esc(L(a, "call"))}</p><a href="${esc(a.url)}" target="_blank" rel="noopener nofollow">${esc(a.source)} ↗</a></div></li>`
+              )
+              .join("");
+            const scen = (m.scenarios || [])
+              .slice()
+              .sort((a, b) => ["bull", "base", "bear"].indexOf(a.case) - ["bull", "base", "bear"].indexOf(b.case))
+              .map(
+                (x) =>
+                  `<div class="sc sc-${x.case}"><div class="sc-top"><b>${t.caseName[x.case]}</b><span>${x.probability}%</span></div><div class="bar"><i style="width:${Math.max(3, Math.min(100, x.probability))}%"></i></div><p><b>${num(x.level)}</b> · ${esc(L(x, "text"))}</p></div>`
+              )
+              .join("");
+            const list = (k) => `<ul>${(m[`${k}_${lang}`] || m[`${k}_en`] || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
+            return `<section class="pred-sec" id="m-${m.id}">
+  <div class="ps-head"><h2>${esc(L(m, "label"))}</h2><span class="ps-price">${num(m.price)}</span>${stanceTag(m.stance)}</div>
+  <h3 class="ps-headline">${esc(L(m, "headline"))}</h3>
+  <p class="ps-summary">${esc(L(m, "summary"))}</p>
+  <div class="ps-grid">
+    <div class="ps-analysts"><h4>${t.analystsSay}</h4>${analysts ? `<ul class="an-list">${analysts}</ul>` : `<p class="muted">${t.noAnalysts}</p>`}<p class="consensus"><b>${t.consensus}:</b> ${esc(L(m, "consensus"))}</p></div>
+    <div class="ps-call s-${m.stance}"><h4>📊 ${t.ourCall}</h4>
+      <div class="call-box">${stanceTag(m.stance)}<span>${t.target(H)}: <b>${num(m.target_low)} – ${num(m.target_high)}</b></span><span>${t.confidence}: <b>${esc(t.confName[m.confidence] || m.confidence)}</b></span></div>
+      <div class="scen">${scen}</div>
+    </div>
+  </div>
+  <div class="ps-analysis">${(m[`analysis_${lang}`] || m.analysis_en || []).map((x) => `<p>${esc(x)}</p>`).join("")}</div>
+  <div class="ps-lists"><div><h4>${t.fundamentals}</h4>${list("fundamentals")}</div><div><h4>${t.catalysts}</h4>${list("catalysts")}</div><div><h4>${t.risks}</h4>${list("risks")}</div></div>
+  ${L(m, "pixel_take") ? `<aside class="take"><span class="take-badge">😏 ${t.pixelTake}</span><p>${esc(L(m, "pixel_take"))}</p></aside>` : ""}
+</section>${i % 2 === 1 ? adBox("infeed", "wide") : ""}`;
+          })
+          .join("");
+        bodyHtml = `<div class="pred-hero"><span class="pred-badge">📈 PixelContent Research</span><h1>${t.predTitle}</h1><p>${esc(t.predIntro(H))}</p><p class="pred-meta">${t.updated} ${P.generatedAt.slice(0, 10)} · ${t.basedOn(total)}</p></div>
+<p class="disclaimer">⚠️ ${t.disclaimer}</p>
+<section class="pred-board">${board}</section>
+${adBox("leaderboard", "wide")}
+<section class="track"><h2 class="sec-title" style="--c:#ff4b2b"><span>🎯 ${t.trackRecord}</span></h2><p class="muted">${t.trackIntro}</p>${track}</section>
+${sections}
+<p class="disclaimer">⚠️ ${t.disclaimer}</p>`;
+      }
+      const desc = P ? `${t.predIntro(P.horizonDays)}` : t.predTitle;
+      write(
+        base + rel,
+        head({ title: `${t.predTitle} — ${config.siteName}`, desc, rel, altRel: rel }) + header(rel, "predictions", rel) + `<main class="wrap pred-page">${bodyHtml}</main>` + footer(rel)
+      );
     }
 
     // ── about / privacy (AdSense pide estas páginas) ────────

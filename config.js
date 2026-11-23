@@ -157,6 +157,45 @@ export default {
     ],
   },
 
+  // ── Predicciones y análisis de mercados ────────────────────
+  // Página "Predictions / Predicciones": lo que dicen analistas conocidos (de las fuentes
+  // de abajo) + la postura propia de PixelContent para la semana, con un historial
+  // público que califica cada predicción contra el precio real.
+  analysis: {
+    refreshHours: Number(process.env.ANALYSIS_REFRESH_HOURS) || 20, // se regenera como máximo una vez al día
+    horizonDays: 7, // plazo de cada predicción
+    maxItemsPerMarket: 14,
+    maxArticleFetches: 4, // textos completos leídos por mercado (solo para analizar)
+    effort: "medium",
+    markets: [
+      { id: "sp500", key: "^GSPC", en: "S&P 500 (NYSE)", es: "S&P 500 (Bolsa de NY)", words: ["s&p", "wall street", "stocks", "stock market", "equities", "spx", "nyse", "u.s. stocks", "us stocks"], google: '"S&P 500" strategist OR analyst forecast OR outlook OR target' },
+      { id: "nasdaq", key: "^IXIC", en: "Nasdaq", es: "Nasdaq", words: ["nasdaq", "tech stocks", "nvidia", "magnificent seven", "ai stocks", "semiconductor"], google: "Nasdaq strategist OR analyst forecast OR outlook" },
+      { id: "dow", key: "^DJI", en: "Dow Jones", es: "Dow Jones", words: ["dow", "blue chip", "blue-chip"], google: '"Dow Jones" analyst forecast OR outlook' },
+      { id: "bitcoin", key: "bitcoin", en: "Bitcoin", es: "Bitcoin", words: ["bitcoin", "btc", "crypto market"], google: "bitcoin price analyst forecast OR prediction OR target" },
+      { id: "ethereum", key: "ethereum", en: "Ethereum", es: "Ethereum", words: ["ethereum", "ether ", " eth "], google: "ethereum price analyst forecast OR prediction OR target" },
+      { id: "gold", key: "GC=F", en: "Gold", es: "Oro", words: ["gold", "xau", "bullion"], google: "gold price forecast analyst OR strategist" },
+      { id: "oil", key: "CL=F", en: "Oil (WTI)", es: "Petróleo (WTI)", words: ["oil", "crude", "wti", "brent", "opec"], google: "oil price forecast analyst OR strategist" },
+    ],
+    // Fuentes de análisis y opinión de mercado (además de una búsqueda de Google News por mercado).
+    feeds: [
+      { name: "MarketWatch", url: "https://feeds.content.dowjones.io/public/rss/mw_marketpulse" },
+      { name: "CNBC", url: "https://www.cnbc.com/id/20910258/device/rss/rss.html" },
+      { name: "CNBC", url: "https://www.cnbc.com/id/15839069/device/rss/rss.html" },
+      { name: "Investing.com", url: "https://www.investing.com/rss/market_overview_Opinion.rss" },
+      { name: "Investing.com", url: "https://www.investing.com/rss/market_overview_Technical.rss" },
+      { name: "Investing.com", url: "https://www.investing.com/rss/stock_Opinion.rss" },
+      { name: "Investing.com", url: "https://www.investing.com/rss/302.rss" },
+      { name: "Seeking Alpha", url: "https://seekingalpha.com/market_currents.xml" },
+      { name: "Seeking Alpha", url: "https://seekingalpha.com/tag/wall-st-breakfast.xml" },
+      { name: "FXStreet", url: "https://www.fxstreet.com/rss/analysis" },
+      { name: "Cointelegraph", url: "https://cointelegraph.com/rss/tag/price-analysis" },
+      { name: "Cointelegraph", url: "https://cointelegraph.com/rss/category/markets" },
+      { name: "CoinDesk", url: "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml" },
+      { name: "Expansión", url: "https://e00-expansion.uecdn.es/rss/mercados.xml" },
+      { name: "Investing.com ES", url: "https://es.investing.com/rss/market_overview_Opinion.rss" },
+    ],
+  },
+
   // Palabras que hacen BAJAR una noticia (ofertas, listas de compras…).
   downrankWords: {
     en: [" deal", "deals", " sale", "% off", "$ off", "discount", "coupon", "promo code", "best ", "gift guide", "buying guide", "on sale"],

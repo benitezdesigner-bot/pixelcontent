@@ -70,7 +70,7 @@ const decode = (t) =>
     .replace(/&#?[a-z0-9]+;/gi, " ");
 
 // Lee el texto de la nota original (solo para que la IA la analice; no se publica).
-async function fetchArticleText(url) {
+export async function fetchArticleText(url) {
   try {
     const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "text/html" }, redirect: "follow", signal: AbortSignal.timeout(12000) });
     if (!res.ok) return "";

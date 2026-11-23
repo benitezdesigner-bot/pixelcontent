@@ -9,6 +9,7 @@ import Parser from "rss-parser";
 import config from "../config.js";
 import { summarizeNew } from "./ai.js";
 import { renderSite } from "./render.js";
+import { buildAnalysis } from "./analysis.js";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATA = path.join(ROOT, "data");
@@ -362,7 +363,15 @@ async function main() {
   const markets = await fetchMarkets();
   console.log(`\n▶ mercados: ${markets.length} indicadores`);
 
-  const pages = renderSite({ editions, summaries, markets, root: ROOT });
+  // predicciones y análisis (máximo una vez al día; la calificación corre siempre)
+  let analysis = null;
+  try {
+    analysis = await buildAnalysis(markets, DATA);
+  } catch (e) {
+    console.warn(`  ✗ predicciones: ${String(e.message || e).slice(0, 200)}`);
+  }
+
+  const pages = renderSite({ editions, summaries, markets, analysis, root: ROOT });
   console.log(`▶ ${pages} páginas generadas en public/ (${((Date.now() - t0) / 1000).toFixed(1)} s)\n`);
 }
 
