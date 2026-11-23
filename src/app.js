@@ -53,6 +53,15 @@
     toast.classList.add("show");
     setTimeout(function () { toast.classList.remove("show"); }, 1800);
   }
+  // botón de compartir en cada tarjeta de noticia (portada y secciones)
+  document.querySelectorAll("[data-cardshare]").forEach(function (btn) {
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      var url = location.origin + "/" + btn.dataset.path, title = btn.dataset.title || document.title;
+      if (navigator.share) navigator.share({ title: title, url: url }).catch(function () {});
+      else (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(showToast, function () { prompt("", url); });
+    });
+  });
   document.querySelectorAll("[data-share]").forEach(function (box) {
     var url = location.href.split("#")[0];
     var title = box.dataset.title || document.title;
@@ -63,11 +72,13 @@
       whatsapp: "https://wa.me/?text=" + encodeURIComponent(title + " " + url),
       telegram: "https://t.me/share/url?url=" + u + "&text=" + t,
       linkedin: "https://www.linkedin.com/sharing/share-offsite/?url=" + u,
+      reddit: "https://www.reddit.com/submit?url=" + u + "&title=" + t,
+      email: "mailto:?subject=" + t + "&body=" + encodeURIComponent(title + "\n\n" + url),
     };
     if (navigator.share) box.classList.add("can-share");
     box.querySelectorAll("[data-net]").forEach(function (el) {
       var net = el.dataset.net;
-      if (links[net]) { el.href = links[net]; el.target = "_blank"; el.rel = "noopener"; }
+      if (links[net]) { el.href = links[net]; if (net !== "email") { el.target = "_blank"; el.rel = "noopener"; } }
       if (net === "native") el.addEventListener("click", function () { navigator.share({ title: title, url: url }).catch(function () {}); });
       if (net === "copy") el.addEventListener("click", function () {
         (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(showToast, function () { prompt("", url); });

@@ -15,6 +15,9 @@ const T = {
     keyPoints: "Key points",
     related: "More stories",
     share: "Share",
+    shareEnd: "Share this story",
+    comments: "Comments",
+    commentsIntro: "What do you think? Keep it civil: comments that insult or spam are removed.",
     copy: "Copy link",
     copied: "Link copied",
     sources: "sources",
@@ -73,6 +76,9 @@ const T = {
     keyPoints: "Puntos clave",
     related: "Más noticias",
     share: "Compartir",
+    shareEnd: "Comparte esta noticia",
+    comments: "Comentarios",
+    commentsIntro: "¿Qué opinas? Con respeto: los comentarios con insultos o spam se eliminan.",
     copy: "Copiar enlace",
     copied: "Enlace copiado",
     sources: "fuentes",
@@ -134,7 +140,21 @@ const ICON = {
   crypto: "M9 4v16M13 4v16M7 8h8a3 3 0 010 6H7m0 0h9a3 3 0 010 6H7",
   politics: "M3 21h18M5 21V10M19 21V10M9 21V10M15 21V10M12 3l9 5H3z",
   world: "M12 3a9 9 0 100 18 9 9 0 000-18zM3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18",
+  freak: "M12 2c4.4 0 8 3.4 8 7.8 0 4.6-4.6 9.6-8 12.2-3.4-2.6-8-7.6-8-12.2C4 5.4 7.6 2 12 2zM8 10.5c1.2 0 2.4 1 2.6 2.2-1.3.3-2.8-.6-2.6-2.2zM16 10.5c-1.2 0-2.4 1-2.6 2.2 1.3.3 2.8-.6 2.6-2.2z",
 };
+// íconos de redes para los botones de compartir
+const NET = {
+  x: '<path fill="currentColor" stroke="none" d="M17.8 3h3.1l-6.8 7.7L22 21h-6.2l-4.8-6.3L5.5 21H2.4l7.2-8.2L2 3h6.3l4.4 5.8zm-1.1 16.2h1.7L7.4 4.7H5.6z" />',
+  facebook: '<path d="M15 3h-2.5A3.5 3.5 0 009 6.5V9H6v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h2z" />',
+  whatsapp: '<path d="M3 21l1.6-4.6A8.5 8.5 0 1112 20.5a8.4 8.4 0 01-4.3-1.2z" /><path d="M9 8.5c0 3.5 2.9 6.5 6.5 6.5l1-1.6-2-1-1 .9a5 5 0 01-2.8-2.8l.9-1-1-2z" />',
+  telegram: '<path d="M21 4L3 11l6 2 2 6 3-4 5 4z" /><path d="M9 13l9-7" />',
+  linkedin: '<path d="M4 9h4v11H4zM6 4a2 2 0 110 4 2 2 0 010-4zM10 9h4v1.6c.6-1 1.8-1.8 3.5-1.8 2.4 0 3.5 1.5 3.5 4.3V20h-4v-6c0-1.3-.5-2-1.6-2-1.2 0-1.9.8-1.9 2.2V20h-3.5z" />',
+  reddit: '<circle cx="12" cy="14" r="7" /><path d="M9 13h.01M15 13h.01M9.5 16.5c1.5 1 3.5 1 5 0M14 7l1-4 4 1M19 4h.01" />',
+  email: '<path d="M3 5h18v14H3z" /><path d="M3 6l9 7 9-7" />',
+  copy: '<path d="M9 9h11v11H9z" /><path d="M5 15H4V4h11v1" />',
+  native: '<path d="M12 3v13M7 8l5-5 5 5M5 14v6h14v-6" />',
+};
+const netIcon = (k) => `<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${NET[k]}</svg>`;
 const icon = (id, size = 18) =>
   `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${ICON[id] || ICON.world}"/></svg>`;
 
@@ -172,7 +192,12 @@ export function renderSite({ editions, summaries, markets, analysis, root }) {
     // Cuando ya hay suficientes notas propias de PixelContent, el sitio muestra solo esas
     // (completas, escritas por nosotros). Mientras tanto, muestra los avances del RSS.
     const own = editions[lang].filter((s) => sums[s.id]);
-    const stories = own.length >= config.ai.minOwnToShowOnly ? own : editions[lang];
+    // secciones nuevas o con pocas notas propias (p. ej. Freak News al arrancar) muestran también los avances del RSS
+    const ownPerCat = own.reduce((m, s) => ((m[s.cat] = (m[s.cat] || 0) + 1), m), {});
+    const stories =
+      own.length >= config.ai.minOwnToShowOnly
+        ? [...own, ...editions[lang].filter((s) => !sums[s.id] && (ownPerCat[s.cat] || 0) < 6)]
+        : editions[lang];
     const base = lang === "en" ? "" : "es/";
 
     // depth → prefijo relativo hacia la raíz del sitio
@@ -215,7 +240,8 @@ export function renderSite({ editions, summaries, markets, analysis, root }) {
         return `<article class="row"><a href="${esc(h)}"${ext(s)}>${thumb(s, "sm")}</a><div>${kicker(s, pre)}<h3><a href="${esc(h)}"${ext(s)}>${esc(headline(s))}</a></h3>${meta(s)}</div></article>`;
       if (variant === "mini")
         return `<article class="mini"><h3><a href="${esc(h)}"${ext(s)}>${esc(headline(s))}</a></h3>${meta(s)}</article>`;
-      return `<article class="${variant}"><a href="${esc(h)}"${ext(s)} class="img-link">${thumb(s)}</a><div class="body">${kicker(s, pre)}<h3><a href="${esc(h)}"${ext(s)}>${esc(
+      const shareBtn = `<button class="card-share" data-cardshare data-path="${base}story/${s.id}.html" data-title="${esc(headline(s))}" aria-label="${t.share}" title="${t.share}">${netIcon("native")}</button>`;
+      return `<article class="${variant}"><a href="${esc(h)}"${ext(s)} class="img-link">${thumb(s)}</a>${shareBtn}<div class="body">${kicker(s, pre)}<h3><a href="${esc(h)}"${ext(s)}>${esc(
         headline(s)
       )}</a></h3>${variant !== "small" && ex ? `<p>${esc(ex)}</p>` : ""}${meta(s)}</div></article>`;
     };
@@ -419,10 +445,10 @@ ${adBox("leaderboard", "wide top")}
       const chunks = [];
       for (let i = 0; i < rest.length; i += 12) chunks.push(rest.slice(i, i + 12));
       const html =
-        head({ title: `${c[lang]} — ${config.siteName}`, desc: t.catIntro(c[lang]), rel, image: lead?.image, altRel: rel }) +
+        head({ title: `${c[lang]} — ${config.siteName}`, desc: c[`intro_${lang}`] || t.catIntro(c[lang]), rel, image: lead?.image, altRel: rel }) +
         header(rel, c.id, rel) +
         `<main class="wrap">
-<div class="cat-head" style="--c:${c.color}"><span class="cat-icon">${icon(c.id, 28)}</span><div><h1>${esc(c[lang])}</h1><p>${esc(t.catIntro(c[lang]))}</p></div></div>
+<div class="cat-head" style="--c:${c.color}"><span class="cat-icon">${icon(c.id, 28)}</span><div><h1>${esc(c[lang])}</h1><p>${esc(c[`intro_${lang}`] || t.catIntro(c[lang]))}</p></div></div>
 ${adBox("leaderboard", "wide")}
 <div class="layout">
   <div class="main-col">
@@ -435,6 +461,27 @@ ${adBox("leaderboard", "wide")}
         footer(rel);
       write(base + rel, html);
     }
+
+    const shareBar = (title, label, cls = "") =>
+      `<div class="share ${cls}" data-share data-title="${esc(title)}">
+      <span>${label}</span>
+      <button data-net="native" class="sh-native" aria-label="${t.share}">${netIcon("native")}</button>
+      ${["x", "facebook", "whatsapp", "telegram", "linkedin", "reddit", "email"]
+        .map((k) => `<a data-net="${k}" class="sh-${k}" aria-label="${k === "x" ? "X" : k[0].toUpperCase() + k.slice(1)}" title="${k === "x" ? "X" : k[0].toUpperCase() + k.slice(1)}">${netIcon(k)}</a>`)
+        .join("")}
+      <button data-net="copy" class="sh-copy">${netIcon("copy")}<b>${t.copy}</b></button>
+    </div>`;
+    const cm = config.comments || {};
+    const commentsBox = (s) => {
+      const url = site ? `${site}/${base}story/${s.id}.html` : "";
+      let widget = "";
+      if (cm.provider === "disqus" && cm.disqusShortname)
+        widget = `<div id="disqus_thread"></div><script>var disqus_config=function(){this.page.url=${JSON.stringify(url)};this.page.identifier=${JSON.stringify(s.id + "-" + lang)};this.language=${JSON.stringify(lang)};};(function(){var d=document,s=d.createElement("script");s.src="https://${esc(cm.disqusShortname)}.disqus.com/embed.js";s.setAttribute("data-timestamp",+new Date());(d.head||d.body).appendChild(s);})();</script>`;
+      else if (cm.provider === "cusdis" && cm.cusdisAppId)
+        widget = `<div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="${esc(cm.cusdisAppId)}" data-page-id="${esc(s.id + "-" + lang)}" data-page-url="${esc(url)}" data-page-title="${esc(headline(s))}" data-theme="auto" data-lang="${lang}"></div><script async defer src="https://cusdis.com/js/cusdis.es.js"></script>`;
+      if (!widget) return "";
+      return `<section class="comments" id="comments"><h2 class="sec-title"><span>💬 ${t.comments}</span></h2><p class="comments-intro">${t.commentsIntro}</p>${widget}</section>`;
+    };
 
     // ── páginas de noticia: todas se leen dentro del sitio ──
     for (const s of stories) {
@@ -489,13 +536,10 @@ ${adBox("leaderboard", "wide")}
     <h1>${esc(title)}</h1>
     ${meta(s)}
     ${thumb(s, "story-img")}
-    <div class="share" data-share data-title="${esc(title)}">
-      <span>${t.share}</span>
-      <button data-net="native" class="sh-native">↗</button>
-      <a data-net="x" aria-label="X">𝕏</a><a data-net="facebook" aria-label="Facebook">f</a><a data-net="whatsapp" aria-label="WhatsApp">WA</a><a data-net="telegram" aria-label="Telegram">TG</a><a data-net="linkedin" aria-label="LinkedIn">in</a>
-      <button data-net="copy">${t.copy}</button>
-    </div>
+    ${shareBar(title, t.share)}
     ${article}
+    ${shareBar(title, t.shareEnd, "share-end")}
+    ${commentsBox(s)}
     <h2 class="sec-title"><span>${t.related}</span></h2>
     <div class="grid3">${related.map((r) => card(r, pre, "card")).join("")}</div>
   </article>

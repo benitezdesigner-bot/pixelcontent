@@ -16,6 +16,15 @@ export default {
     youtube: "https://www.youtube.com/@pixelcontentnews",
   },
 
+  // ── Comentarios en cada noticia ─────────────────────────────
+  // provider: "disqus" (shortname de tu sitio en disqus.com) o "cusdis" (appId de cusdis.com).
+  // Mientras esté vacío no se muestra la sección de comentarios.
+  comments: {
+    provider: process.env.COMMENTS_PROVIDER || "",
+    disqusShortname: process.env.DISQUS_SHORTNAME || "",
+    cusdisAppId: process.env.CUSDIS_APP_ID || "",
+  },
+
   // Correo de contacto que aparece en "About" y "Privacy" (AdSense lo pide).
   contactEmail: process.env.CONTACT_EMAIL || "contact@example.com",
 
@@ -51,6 +60,8 @@ export default {
   // Cuántas noticias guardar y por cuánto tiempo.
   keepDays: 4,
   maxStoriesPerLang: 700,
+  // Cada sección conserva al menos estas noticias recientes aunque otras secciones publiquen más.
+  minStoriesPerCat: 40,
   maxItemsPerFeed: 25,
   // Imágenes sacadas de la página de la noticia cuando el RSS no trae foto.
   maxImageLookupsPerRun: 90,
@@ -63,6 +74,12 @@ export default {
     { id: "crypto", en: "Crypto", es: "Cripto", color: "#f59e0b" },
     { id: "politics", en: "Politics", es: "Política", color: "#e8453c" },
     { id: "world", en: "Geopolitics", es: "Geopolítica", color: "#0d9488" },
+    {
+      id: "freak", en: "Freak News", es: "Noticias Freak", color: "#7c3aed",
+      keepDays: 14, // estas fuentes publican poco: la sección guarda noticias por más días
+      intro_en: "The weirdest, wildest and most surprising true stories from around the world. Yes, these really happened.",
+      intro_es: "Las historias reales más raras, locas y sorprendentes del mundo. Sí, de verdad pasaron.",
+    },
   ],
 
   // ── Fuentes RSS ─────────────────────────────────────────────
@@ -100,6 +117,10 @@ export default {
       { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml", cat: "world" },
       { name: "The New York Times", url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", cat: "world" },
       { name: "Foreign Policy", url: "https://foreignpolicy.com/feed/", cat: "world" },
+      { name: "UPI", url: "https://rss.upi.com/news/odd_news.rss", cat: "freak" },
+      { name: "New York Post", url: "https://nypost.com/weird-but-true/feed/", cat: "freak" },
+      { name: "Metro", url: "https://metro.co.uk/news/weird/feed/", cat: "freak" },
+      { name: "Sky News", url: "https://feeds.skynews.com/feeds/rss/strange.xml", cat: "freak" },
     ],
     es: [
       { name: "El País", url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada", cat: "economy" },
@@ -134,6 +155,13 @@ export default {
       { name: "DW", url: "https://rss.dw.com/xml/rss-sp-all", cat: "world" },
       { name: "France 24", url: "https://www.france24.com/es/rss", cat: "world" },
       { name: "The New York Times", url: "https://rss.nytimes.com/services/xml/rss/nyt/es.xml", cat: "world" },
+      { name: "Infobae", url: "https://www.infobae.com/arc/outboundfeeds/rss/category/virales/", cat: "freak" },
+      { name: "Xataka", url: "https://www.xataka.com/tag/curiosidades/rss2.xml", cat: "freak" },
+      // Noticias Freak en español: también con las fuentes en inglés (la IA escribe la nota en español)
+      { name: "UPI", url: "https://rss.upi.com/news/odd_news.rss", cat: "freak" },
+      { name: "Metro", url: "https://metro.co.uk/news/weird/feed/", cat: "freak" },
+      { name: "New York Post", url: "https://nypost.com/weird-but-true/feed/", cat: "freak" },
+      { name: "Sky News", url: "https://feeds.skynews.com/feeds/rss/strange.xml", cat: "freak" },
     ],
   },
 

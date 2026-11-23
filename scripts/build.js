@@ -320,18 +320,23 @@ async function main() {
           : { ...s, firstSeen: new Date().toISOString() }
       );
     }
-    const cutoff = Date.now() - config.keepDays * 86400e3;
+    const keepMs = (cat) => (config.categories.find((c) => c.id === cat)?.keepDays || config.keepDays) * 86400e3;
     const seenTitles = new Set();
-    let stories = [...byId.values()]
-      .filter((s) => Date.parse(s.date) > cutoff)
+    const recent = [...byId.values()]
+      .filter((s) => Date.parse(s.date) > Date.now() - keepMs(s.cat))
       .sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
       .filter((s) => {
         const k = s.title.toLowerCase().replace(/[^a-z0-9áéíóúñü]/g, "").slice(0, 70);
         if (seenTitles.has(k)) return false;
         seenTitles.add(k);
         return true;
-      })
-      .slice(0, config.maxStoriesPerLang);
+      });
+    // cupo mínimo por sección: las secciones con pocas fuentes (p. ej. Freak News) no quedan fuera
+    const keep = new Set();
+    const perCat = {};
+    for (const s of recent) if ((perCat[s.cat] = (perCat[s.cat] || 0) + 1) <= (config.minStoriesPerCat || 0)) keep.add(s);
+    for (const s of recent) if (keep.size < config.maxStoriesPerLang) keep.add(s);
+    let stories = recent.filter((s) => keep.has(s));
 
     // imágenes faltantes
     const missing = stories.filter((s) => !s.image && !(s.link in ogCache)).slice(0, config.maxImageLookupsPerRun);

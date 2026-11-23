@@ -200,8 +200,15 @@ a:hover .thumb img, .img-link:hover img { transform: scale(1.04); }
 .tags span { background: var(--paper); border: 1px solid var(--line); border-radius: 999px; padding: 4px 11px; font-size: 13px; color: var(--ink-2); }
 .share { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 16px 0 0; font-size: 13px; color: var(--muted); }
 .share > span { font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 11px; margin-right: 4px; }
-.share a, .share button { cursor: pointer; border: 1px solid var(--line); background: var(--paper); color: var(--ink); border-radius: 999px; height: 36px; min-width: 36px; padding: 0 12px; display: inline-grid; place-items: center; font: 700 13px/1 var(--body); }
-.share a:hover, .share button:hover { border-color: var(--accent); color: var(--accent); }
+.share a, .share button { cursor: pointer; border: 1px solid var(--line); background: var(--paper); color: var(--ink); border-radius: 999px; height: 38px; min-width: 38px; padding: 0 11px; display: inline-flex; align-items: center; justify-content: center; gap: 6px; font: 700 13px/1 var(--body); text-decoration: none; transition: background .15s, color .15s, border-color .15s; }
+.share a:hover, .share button:hover { color: #fff; border-color: transparent; background: var(--accent); }
+.share .sh-x:hover { background: #000; } .share .sh-facebook:hover { background: #1877f2; } .share .sh-whatsapp:hover { background: #25d366; }
+.share .sh-telegram:hover { background: #229ed9; } .share .sh-linkedin:hover { background: #0a66c2; } .share .sh-reddit:hover { background: #ff4500; }
+.share-end { margin: 28px 0 8px; padding: 16px 18px; border: 1px solid var(--line); border-radius: 14px; background: var(--paper); }
+.share-end > span { font-size: 12px; color: var(--ink); }
+.comments { margin: 32px 0 8px; }
+.comments-intro { color: var(--muted); font-size: 14px; margin: 0 0 14px; }
+@media (max-width: 520px) { .share .sh-copy b { display: none; } }
 .sh-native { display: none !important; }
 .can-share .sh-native { display: inline-grid !important; }
 
@@ -331,3 +338,8 @@ a:hover .thumb img, .img-link:hover img { transform: scale(1.04); }
   .pred-sec { padding: 16px; }
   .track-table { font-size: 12px; } .track-table th:nth-child(4), .track-table td:nth-child(4) { display: none; }
 }
+
+/* compartir desde cada tarjeta */
+article.card, article.lead, article.big, article.small { position: relative; }
+.card-share { position: absolute; top: 10px; right: 10px; z-index: 2; width: 36px; height: 36px; border-radius: 999px; border: 0; cursor: pointer; display: grid; place-items: center; background: rgba(11, 16, 32, .72); color: #fff; backdrop-filter: blur(4px); opacity: .9; transition: background .15s, transform .15s; }
+.card-share:hover { background: var(--accent); transform: scale(1.06); opacity: 1; }
